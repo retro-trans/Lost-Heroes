@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "manifest_sha256": "7057be0fe0f6f2d7a9f38fe65d70ba65120ebeceb16efd2c9d263eed98d14ee3",
+  "patches": [
+    {
+      "patch": "LostHeroes-English-0.1.9.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "22f0393ccc7583771710f0b51d15e43903890f8c2646a80bce9f36573a3ec52e"
+    }
+  ]
+}

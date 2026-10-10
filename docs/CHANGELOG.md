@@ -1,5 +1,8 @@
 # Changelog
 
+## Release 0.1.9 (2026-10-10)
+- First public release: build 0.1.9 as `LostHeroes-English-0.1.9.xdelta` (full patch from the original NPJH50647 v1.01 ISO), packaged with the Retro Trans release builder (game ID `lost-heroes`, platform PSP, edition `NPJH50647`). Notes and canonical metadata in `docs/releases/`.
+
 ## Repository (2026-10-10)
 - Public repository at https://github.com/retro-trans/Lost-Heroes (MIT). `tools/eboot_decrypt.py` is a port of PPSSPP code and is relicensed GPL-2.0-or-later (header + `docs/licenses/GPL-2.0.txt`).
 

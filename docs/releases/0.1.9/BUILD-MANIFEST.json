@@ -1,0 +1,24 @@
+{
+  "game_id": "lost-heroes",
+  "game_name": "Lost Heroes",
+  "platform": "PSP",
+  "version": "0.1.9",
+  "source_commit": "c5016b107e01ed1f1fda5defd1bc524ee6d3b0f6",
+  "schema_version": 1,
+  "patches": [
+    {
+      "patch": "LostHeroes-English-0.1.9.xdelta",
+      "edition": "NPJH50647",
+      "language": "en",
+      "source_version": "original",
+      "source_format": "iso",
+      "target_format": "iso",
+      "source_sha256": "8c4b3f19aedc5d04b7df31ee1ecfa3257515af7dd958bca3f72fe469b5defbc9",
+      "source_bytes": 1145667584,
+      "target_sha256": "22f0393ccc7583771710f0b51d15e43903890f8c2646a80bce9f36573a3ec52e",
+      "target_bytes": 1598521344,
+      "patch_sha256": "853aaffee8aebaa6b5fdd5d9fada23aef35d235d7b17fc54ef2327dd4f53391f",
+      "patch_bytes": 250143193
+    }
+  ]
+}
