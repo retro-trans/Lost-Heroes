@@ -56,6 +56,7 @@ Latin glyphs use GenEi Latin by o_tamon ([SIL OFL 1.1](docs/licenses/GenEiLatin-
 
 ## License
 
-Translation text and tools: [MIT](LICENSE). The game and its assets belong to Bandai Namco Games / Banpresto and
+Translation text and tools: [MIT](LICENSE), except `tools/eboot_decrypt.py`, a port of PPSSPP code
+licensed [GPL-2.0-or-later](docs/licenses/GPL-2.0.txt). The game and its assets belong to Bandai Namco Games / Banpresto and
 the respective rights holders of Kamen Rider, Ultraman and Gundam. Bring your own disc image; this license does not
 cover the game or its assets.

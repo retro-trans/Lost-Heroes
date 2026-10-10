@@ -1,3 +1,8 @@
+# SPDX-License-Identifier: GPL-2.0-or-later
+# This file is a port of PPSSPP code (Core/ELF/PrxDecrypter.cpp, ext/libkirk) and is
+# licensed under the GNU General Public License, version 2.0 or (at your option) any
+# later version, like PPSSPP itself. See docs/licenses/GPL-2.0.txt. The rest of this
+# repository is MIT licensed (LICENSE).
 """Decrypt the game's EBOOT.BIN (~PSP, tag 0xD91613F0, PRX type 2) to a plain ELF.
 
 Port of the type-2 path of PPSSPP's Core/ELF/PrxDecrypter.cpp (pspDecryptType2,

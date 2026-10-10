@@ -1,5 +1,8 @@
 # Changelog
 
+## Repository (2026-10-10)
+- Public repository at https://github.com/retro-trans/Lost-Heroes (MIT). `tools/eboot_decrypt.py` is a port of PPSSPP code and is relicensed GPL-2.0-or-later (header + `docs/licenses/GPL-2.0.txt`).
+
 ## 0.1.9 (local test build, 2026-10-09, not released)
 - Camp menu "Equip Force": the separator dot (sprite 51) is blanked, and both words share one size (the descender in "Equip" had made it render smaller). The whole-"Force" sprite 52 (Database > Force Data) moved to its own spot in the enlarged page, so the Camp row no longer needs extra spacing. Composites accept `line_h` and a fixed `style.size`.
 
