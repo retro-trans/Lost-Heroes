@@ -1,0 +1,36 @@
+{
+ "tpc": "Graph/Common/UI/common_ui_tex.tpc",
+ "page": "UI_MENU_CMN00_5551.tga",
+ "note": "Item count bar label. The label sits on an opaque bar; clearing leaves the box transparent (tex_edit has no fill colour).",
+ "defaults": {
+  "size": 9,
+  "bold": false,
+  "color": [
+   255,
+   255,
+   255
+  ]
+ },
+ "boxes": [
+  {
+   "x": 42,
+   "y": 36,
+   "w": 28,
+   "h": 9,
+   "text": "Owned",
+   "bg": [
+    33,
+    33,
+    33
+   ]
+  }
+ ],
+ "clear": [
+  [
+   42,
+   36,
+   29,
+   9
+  ]
+ ]
+}

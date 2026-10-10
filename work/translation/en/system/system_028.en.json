@@ -1,0 +1,346 @@
+{
+ "slice": "system_028",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.203",
+   "en": "{806D} struck back with a counter!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.204",
+   "en": "{806D} covered for {806E}!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.211",
+   "en": "{806E} absorbed the ranged attack!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.212",
+   "en": "None"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.219",
+   "en": "{8074} got the first move!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.1",
+   "en": "Physical ATK"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.2",
+   "en": "Ranged ATK"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.3",
+   "en": "Physical DEF"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.4",
+   "en": "Ranged DEF"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.5",
+   "en": "Speed"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.6",
+   "en": "Accuracy"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.7",
+   "en": "Evasion"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.8",
+   "en": "Physical Null"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.9",
+   "en": "Ranged Null"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.10",
+   "en": "Slash Null"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.11",
+   "en": "Physical Reflect"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.12",
+   "en": "Ranged Reflect"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.13",
+   "en": "Fire Attack"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.14",
+   "en": "Ice Attack"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.15",
+   "en": "Thunder Attack"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.16",
+   "en": "Wind Attack"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.17",
+   "en": "Light Attack"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.18",
+   "en": "Attack Target"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.19",
+   "en": "Trans-Am"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.20",
+   "en": "Zero System"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.21",
+   "en": "Fire Resist"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.22",
+   "en": "Ice Resist"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.23",
+   "en": "Thunder Resist"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.24",
+   "en": "Wind Resist"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.25",
+   "en": "Light Resist"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.26",
+   "en": "All Attacks Null"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.27",
+   "en": "Lock-On"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.28",
+   "en": "Multi-Hit"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.29",
+   "en": "Status Resist"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.30",
+   "en": "King of Hearts"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.31",
+   "en": "Main Cannon"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.32",
+   "en": "Gun Turret"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.33",
+   "en": "Bridge"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.34",
+   "en": "Reinforce"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.35",
+   "en": "Charge"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.36",
+   "en": "Fire"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.37",
+   "en": "Strafe"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.38",
+   "en": "Barrage"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.39",
+   "en": "Drill"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.40",
+   "en": "F.SKILL"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.41",
+   "en": "Armor Repair"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.42",
+   "en": "Part Repair"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.43",
+   "en": "Support Unit"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.44",
+   "en": "Main Cannon"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.45",
+   "en": "Gun Turret"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.46",
+   "en": "Shield"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.47",
+   "en": "Support Unit"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.48",
+   "en": "Capacitor"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.49",
+   "en": "――――"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.50",
+   "en": "――――――――――"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.51",
+   "en": "P.ATK"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.52",
+   "en": "R.ATK"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.53",
+   "en": "P.DEF"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.54",
+   "en": "R.DEF"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.55",
+   "en": "SPD"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.56",
+   "en": "ACC"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.57",
+   "en": "EVA"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.58",
+   "en": "P.Null"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.59",
+   "en": "R.Null"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.60",
+   "en": "Sl.Null"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.61",
+   "en": "P.Refl"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.62",
+   "en": "R.Refl"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.63",
+   "en": "Fire"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.64",
+   "en": "Ice"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.65",
+   "en": "Thndr"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.66",
+   "en": "Wind"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.67",
+   "en": "Light"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.68",
+   "en": "Target"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.69",
+   "en": "Trans-Am"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.70",
+   "en": "Zero Sys"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.71",
+   "en": "Fire Res"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.72",
+   "en": "Ice Res"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.73",
+   "en": "Thndr Res"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.74",
+   "en": "Wind Res"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.75",
+   "en": "Light Res"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.204",
+   "note": "Verb for covering/protecting an ally; first tag is the protector, second the protected."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.2",
+   "note": "Indirect attack rendered as Ranged (Physical/Ranged pair); same for DEF, Null, Reflect."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.10",
+   "note": "Slash-type attack nullify; abbreviated Sl.Null in the short list."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.49",
+   "note": "Symbol-only rows copied unchanged."
+  }
+ ],
+ "report": "80/80 rows. Labels 1.1-1.48 are long forms, 1.51-1.75 are short forms of the same; 1.31-1.48 are ship part and command names. Uncertain: Ranged vs other wording for indirect attacks; neighbouring slices may choose differently. No new glossary terms."
+}

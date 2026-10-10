@@ -1,0 +1,354 @@
+{
+ "slice": "system_035",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.255",
+   "en": "Empuras"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.256",
+   "en": "King Joe"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.257",
+   "en": "Agrissa"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.258",
+   "en": "Super Crisis Fortress"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.259",
+   "en": "Gigantes Hades"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.260",
+   "en": "Imperizer"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.261",
+   "en": "Fake Ultraseven"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.262",
+   "en": "Bilgamo"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.263",
+   "en": "Psycho Gundam Mk-II"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.264",
+   "en": "Alpha Azieru"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.265",
+   "en": "King Joe Black"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.266",
+   "en": "King Dark"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.267",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.268",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.269",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.270",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.271",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.272",
+   "en": "Kamen Rider Accel"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.273",
+   "en": "Kamen Rider Accel Trial"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.274",
+   "en": "Methuss"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.275",
+   "en": "Ultraman Hikari"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.276",
+   "en": "Ankh"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.277",
+   "en": "Kamen Rider 2"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.278",
+   "en": "Cherudim Gundam"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.279",
+   "en": "Arios Gundam"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.280",
+   "en": "Seravee Gundam"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.281",
+   "en": "Gundam Deathscythe Hell"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.282",
+   "en": "Gundam Heavyarms Custom"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.283",
+   "en": "Gundam Sandrock Custom"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.284",
+   "en": "Altron Gundam"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.285",
+   "en": "Kamen Rider Birth"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.286",
+   "en": "Ultraman Ace"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.287",
+   "en": "Ultraman Jack"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.288",
+   "en": "Zoffy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.289",
+   "en": "Momotaros"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.290",
+   "en": "Urataros"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.291",
+   "en": "Kintaros"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.292",
+   "en": "Ryutaros"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.293",
+   "en": "Kamen Rider 1"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.294",
+   "en": "Kamen Rider Black RX"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.295",
+   "en": "Kamen Rider Den-O"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.296",
+   "en": "Kamen Rider W"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.297",
+   "en": "Kamen Rider OOO"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.298",
+   "en": "Nu Gundam"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.299",
+   "en": "Zeta Gundam"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.300",
+   "en": "God Gundam"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.301",
+   "en": "Wing Gundam Zero"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.302",
+   "en": "00 Gundam"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.303",
+   "en": "Ultraman"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.304",
+   "en": "Ultraseven"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.305",
+   "en": "Ultraman Taro"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.306",
+   "en": "Ultraman Mebius"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.1",
+   "en": "Unused"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.2",
+   "en": "A kaiju that does little but sleep. Tough, but weak on offense. Its thunderous snoring is said to have caused a noise nuisance."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.3",
+   "en": "Armed with many weapons, including the Zaku Machine Gun Custom and Heat Hawk, but has the drawback of being unable to use multiple beam weapons at once."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.4",
+   "en": "A fly-featured kaijin. Controls opponents with drugs and can also burn them to death with white foam spat from its mouth."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.5",
+   "en": "A Dopant holding the memory of the Masquerade. Weak individually, but attacks enemies as a group."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.6",
+   "en": "A \"space hunter\" skilled at luring prey with its evaporation ray. Insect-like in shape. Highly intelligent, but weak in combat."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.7",
+   "en": "Successor to the Hi-Zack. Armed with a beam rifle and beam saber, and can now use multiple beam weapons at once."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.8",
+   "en": "Light on its feet and highly agile. Armed with a beam rifle, a beam saber, and a shield with built-in missiles."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.9",
+   "en": "Called the \"devil-like kaiju\". Its main ability is a blue heat ray spat from its mouth. Not very good at close combat."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.10",
+   "en": "A cyborg with spider abilities. Fires tough thread to snare enemies. The dart-shaped poison arrows it spits from its mouth dissolve whatever they hit without a trace."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.11",
+   "en": "A Dopant holding the memory of Sweets. Sprays a cream-like liquid to restrain foes, and can also fire the cream itself as bullets to damage a target."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.12",
+   "en": "Also known as the \"Hallucination Alien\". Not very strong in combat, it tried to achieve its goals through scheming rather than force."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.13",
+   "en": "A jellyfish-like kaiju that floats in the air. Spreads its tentacles and spins to create a huge typhoon. Its whip-like arms and the high-voltage electricity it discharges from its feet are powerful."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.14",
+   "en": "A failed Yummy made from chipped Cell Medals. Overwhelms foes with numbers and is often used to stall or keep enemies in check."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.15",
+   "en": "The form a Yummy takes just after being born when a Greeed inserts a Cell Medal. It can fight like this, but it has no special abilities and isn't very strong."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.16",
+   "en": "A bat-type cyborg. Besides its signature biting attack, it can also control targets at will."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.17",
+   "en": "A Dopant holding the memory of Magma. Gives off enough heat to melt steel buildings and fires fireballs from its body."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.18",
+   "en": "The rapidly grown form of the \"Tigris Flower\", which blooms only once every 100 years. Its weapons are a whip in the right hand and a sickle in the left. It also sprays a powerful misty corrosive fluid from its belly."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.19",
+   "en": "An insect-type Yummy created by Uva. Excels at aerial combat, attacking foes by scattering scales from the wings on its back."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.20",
+   "en": "A Choju fused from a swallowtail butterfly larva and a space kaiju. Its whole body is a weapon: it can use a flamethrower, launch the sword-like horn on its head, and even fire a flash-like \"Shock Ray\"."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.21",
+   "en": "Besides common weapons like beam sabers, it uses special attacks such as \"Sea Snake\" and \"Spider Web\", giving it high capability in localized combat."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.22",
+   "en": "A female kaiju, Seagorath's wife. Normally gentle, but turns fierce during spawning season. Teams up with her husband Seagorath, making both of their horns glow to generate powerful electric discharges."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.23",
+   "en": "A male kaiju, Seamons's husband. Rushes to her side when she calls for help. Teams up with his wife Seamons, making both of their horns glow to generate powerful electric discharges."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.24",
+   "en": "As its nickname \"Higher-Dimensional Predator\" suggests, an extremely voracious kaiju. It preys on other kaiju, and even if the target is bigger than itself, it wraps it in its wing-like \"mouth\" and swallows it whole."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.25",
+   "en": "A rogue Imagin who schemes to form an evil organization, the \"Negataros Army (Working Title)\". Not only strong, but also cunningly sly."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.26",
+   "en": "The form Negataros takes by using a stolen pass. It closely resembles Den-O's Sword Form. Nega Form masters every mode of the Nega DenGasher."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.27",
+   "en": "A Dopant holding the memory of Weather. Controls the weather at will, wielding rain, wind, lightning and cold. Physically strong too, it presses foes with swift, efficient movements."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.28",
+   "en": "An Imagin materialized from the image of the Hare in the tale \"The Tortoise and the Hare\". Dazzles foes with its astonishing leaping power."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.255",
+   "note": "Empuras, Agrissa, Birugamo, Gigantes Hades: not in glossary; romanized (appear to be Regis original bosses; same names in CharacterName table). Gigantes Hades matches Heaven/Hell siblings."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.282",
+   "note": "Kai suffix rendered as Custom (official EW names Heavyarms/Sandrock Custom)."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.1",
+   "note": "Missing-number placeholder row; rendered 'Unused'."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.6",
+   "note": "One word in the description (evaporation ray 'luring' term) looks odd or mis-written in source; 'luring' is a guess."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.18",
+   "note": "Source has no punctuation between the flower sentence and the weapons sentence; split in English."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.26",
+   "note": "Kept 'Nega DenGasher' (Nega Densword/Gasher weapon); romanization of the weapon name."
+  }
+ ],
+ "report": "80/80 rows. New terms not in glossary: Empuras, Agrissa, Birugamo, Gigantes Hades, Super Crisis Fortress, King Dark, Imperializer, Alpha Azieru, Psycho Gundam Mk-II, Tigris Flower, Higher-Dimensional Predator, Nega DenGasher, rogue Imagin. Uncertain: 1.6 'luring', Regis boss romanizations."
+}

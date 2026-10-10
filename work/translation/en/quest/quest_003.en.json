@@ -1,0 +1,374 @@
+{
+ "slice": "quest_003",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.184",
+   "en": "Using this wind for something like that!! I won't forgive you!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.185",
+   "en": "I won't let you do that!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.186",
+   "en": "That distortion of yours... I will destroy it!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.187",
+   "en": "I won't let you do that!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.188",
+   "en": "I won't let you do that!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.189",
+   "en": "I won't let you do that!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.190",
+   "en": "Like hell I'll let you do that!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.191",
+   "en": "I'll smash that wicked scheme of yours myself!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.192",
+   "en": "Something like that... I will never forgive!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.193",
+   "en": "Like I'd ever let you get away with that, huh!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.194",
+   "en": "I'll never let you do that!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.195",
+   "en": "As if I'd let you do that!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.196",
+   "en": "Like I'd ever let you do that...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.197",
+   "en": "You won't get away with that!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.198",
+   "en": "I won't let that happen!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.200",
+   "en": "Obtained \"Smooth Hide\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.202",
+   "en": "Completed the quest \"The Targeted Town\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST002_pk#0.1",
+   "en": "Help Birth collect Cell Medals: defeat White Yummies in Begins Cube and gather 100."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST002_pk#0.3",
+   "en": "Collected 10 Cell Medals."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST002_pk#0.4",
+   "en": "Collected 20 Cell Medals."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST002_pk#0.5",
+   "en": "Collected 30 Cell Medals."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST002_pk#0.6",
+   "en": "Collected 40 Cell Medals."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST002_pk#0.7",
+   "en": "Collected 50 Cell Medals."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST002_pk#0.8",
+   "en": "Collected 60 Cell Medals."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST002_pk#0.9",
+   "en": "Collected 70 Cell Medals."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST002_pk#0.10",
+   "en": "Collected 80 Cell Medals."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST002_pk#0.11",
+   "en": "Collected 90 Cell Medals."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST002_pk#0.12",
+   "en": "Collected 100 Cell Medals."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST002_pk#0.15",
+   "en": "Obtained 10 Cell Medals."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST002_pk#0.18",
+   "en": "Oh, you brought me 10 Cell Medals? Now I can push on with my research into medal tech."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST002_pk#0.19",
+   "en": "First off, go file your completion report over there."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST002_pk#0.20",
+   "en": "It's not much of a thank-you, but I left some items I repaired for you. Go pick them up."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST002_pk#0.23",
+   "en": "Completed the quest \"Cell Medal Collection\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.0",
+   "en": "{F000}"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.1",
+   "en": "Word is a mystery kaiju is in Begins Cube's Central District. Investigate with the Ultra Warriors now."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.5",
+   "en": "Gaaaaah~~~~~!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.6",
+   "en": "That's... the Legendary Monster Woo...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.7",
+   "en": "Woo should be hiding in the snowy mountains... So why is it in a town like this!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.8",
+   "en": "I see!! It was drawn here by this snow!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.10",
+   "en": "That's... the Legendary Monster Woo...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.11",
+   "en": "Woo should be hiding in the snowy mountains... So why is it in a town like this!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.12",
+   "en": "I see!! It was drawn here by this snow!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.14",
+   "en": "That's... the Legendary Monster Woo...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.15",
+   "en": "Woo should be hiding in the snowy mountains... So why is it in a town like this!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.16",
+   "en": "I see!! It was drawn here by this snow!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.18",
+   "en": "That's... the Legendary Monster Woo...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.19",
+   "en": "Woo should be hiding in the snowy mountains... So why is it in a town like this!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.20",
+   "en": "I see!! It was drawn here by this snow!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.22",
+   "en": "That's... the Legendary Monster Woo...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.23",
+   "en": "Woo should be hiding in the snowy mountains... So why is it in a town like this!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.24",
+   "en": "I get it!! So this snow's what led it here!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.27",
+   "en": "Gwaaaaaargh!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.28",
+   "en": "It's riled up!! Then there's no other choice!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.29",
+   "en": "It's riled up!! Then there's no other choice!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.30",
+   "en": "It's riled up!! Then there's no other choice!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.31",
+   "en": "So it's riled up!! It can't be helped!! Let's go!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.32",
+   "en": "It's riled up!! Guess we got no choice!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.36",
+   "en": "Woo! This is not the place where you belong."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.37",
+   "en": "Woo! This is not the place where you belong."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.38",
+   "en": "Woo! This is not the place where you belong."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.39",
+   "en": "Woo! This isn't where you belong!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.40",
+   "en": "Woo! This ain't where you belong!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.41",
+   "en": "Grrrgh..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.42",
+   "en": "At those words, Woo nodded quietly and vanished like a phantom."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.43",
+   "en": "...Woo is said to embody a mother guarding her child. If so, its fury is the flip side of maternal love."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.44",
+   "en": "...Hm? Something's lying here."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.45",
+   "en": "...Woo is said to embody a mother guarding her child. If so, its fury is the flip side of maternal love."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.46",
+   "en": "...Hm? Something's lying here."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.47",
+   "en": "...Woo is said to embody a mother guarding her child. If so, its fury is the flip side of maternal love."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.48",
+   "en": "...Hm? Something's lying here."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.49",
+   "en": "...Woo is said to embody a mother shielding her child, so its fury must be maternal love's flip side."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.50",
+   "en": "...Hm? Something's lying here."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.51",
+   "en": "...They say that thing's a mom guarding her kid. So all that rage is just mother's love flipped, see?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.52",
+   "en": "...Hm? Something's lyin' around here."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.53",
+   "en": "Obtained \"Silver Whisker\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.55",
+   "en": "Completed the quest \"The Phantom Kaiju\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.56",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.0",
+   "en": "{F000}"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.1",
+   "en": "Maganac has a request. Hear the details in person at the designated spot. You're asked to come alone."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.5",
+   "en": "Thank you for coming!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.184",
+   "note": "Speaker verified in Quest001 script: W (Shotaro), shown if W is in the party (TextIdOffset+183); otherwise the leader variant 185-198 plays. 'This wind' = Metron's plan to spread the red-crystal smoke on the Cube's wind; Shotaro is from Fuuto, the windy city."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.185",
+   "note": "Leader-variant order from the script's branch chain (k = 0..13): Seven, 00, Ultraman, Taro, Mebius, Zero, Rider 1, Black RX, Den-O (Momotaros), OOO, Nu, Zeta, God, Wing Zero -> rows 185-198. Not the usual 11-15,1-10 order. 186 is Setsuna's distortion line; 193 Momotaros; 190 Zero."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.200",
+   "note": "System message; matches QuestMess wording 'Obtained \"Smooth Hide\".'"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST002_pk#0.18",
+   "note": "Not referenced by Quest002 event script (only progress rows 3-12 and OkWin rows are); speaker inferred as Birth, the quest client (repairs items, researches medals). Japanese says 10 Cell Medals although the quest asks for 100; translated as written."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST002_pk#0.20",
+   "note": "Item handover location not stated (literally 'left in deposit'); rendered 'left ... for you'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.5",
+   "note": "Speaker '???' (CHARA_NAME 30) - Woo before it is identified."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.6",
+   "note": "Quest003 variants keyed by which Ultra is in the party: Ultraman 6-8/28/36/43-44, Seven 10-12/29/37/45-46, Taro 14-16/30/38/47-48, Mebius 18-20/31/39/49-50, Zero 22-24/32/40/51-52 (verified from branch offsets 0/4/8/12/16, txt2 0-4, 0/2/4/6/8). 'Legendary Monster Woo' follows the official epithet style (cf. 'Ancient Monster Gomora'); name Woo from CharacterName."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.41",
+   "note": "The script's second Woo line points at the same text as row 27 (the roar); this groan row appears unused by the event. Translated anyway."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.51",
+   "note": "Zero's 'aitsu' for Woo rendered 'that thing' (Woo is a creature; no gender assumed)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.0",
+   "note": "Source is the {F000} tag plus one full-width space; English keeps the tag only."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.5",
+   "note": "Speaker verified in Quest004 script: Maganac (CHARA_NAME 79)."
+  }
+ ],
+ "report": "All 80 rows translated. Speakers verified against Quest001/003/004 event scripts (slice had no speaker labels). Quest001 185-198 leader order differs from the usual order (see note). Quest002 rows 15/18-20 not referenced by the event script; Birth inferred, and row 18 says 10 medals vs 100 in the quest text. Quest003 row 41 appears unused. No new names."
+}

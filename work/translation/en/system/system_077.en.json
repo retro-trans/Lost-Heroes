@@ -1,0 +1,342 @@
+{
+ "slice": "system_077",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.30",
+   "en": "{806D} fired {8072}!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.31",
+   "en": "{806D} attacked with {8072}!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.32",
+   "en": "{806D} used {8072}!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.33",
+   "en": "{806D} stepped in front of {806E}!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.34",
+   "en": "{806D} braced for attacks on {806E}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.35",
+   "en": "{806D} readied {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.36",
+   "en": "{806D} stepped in to back up {806E}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.37",
+   "en": "{806D} focused and shared power with {806E}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.38",
+   "en": "{806D} began charging up power!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.39",
+   "en": "{806D} turned into {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.40",
+   "en": "Stat boosts on the enemy hit were removed!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.41",
+   "en": "{806D} fired the gun wildly!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.42",
+   "en": "{806D} started dancing!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.43",
+   "en": "{806E} can now attack twice in a row!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.44",
+   "en": "The Evasion of {806D} and allies went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.45",
+   "en": "{806E} will recover from status ailments more slowly!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.46",
+   "en": "{806D} split into copies!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.47",
+   "en": "{806D} ran away!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.48",
+   "en": "But couldn't escape!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.49",
+   "en": "Escaped successfully!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.50",
+   "en": "But couldn't escape!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.51",
+   "en": "{806D} sprayed {8072} everywhere!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.52",
+   "en": "{806D} hurled {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.53",
+   "en": "{806D} charged in with its huge body!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.54",
+   "en": "{806D} spat out {8072}!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.55",
+   "en": "{806D} launched {8072} at you!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.56",
+   "en": "{806D} raised {8072} high and slammed it down!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.57",
+   "en": "{806D} spewed out {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.58",
+   "en": "{806D} scattered {8072} around!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.59",
+   "en": "A barrier of light enveloped {806E}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.60",
+   "en": "Canceled {806E}'s stat boosts for {806F} damage!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.61",
+   "en": "{806D} used {8072}!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.62",
+   "en": "A physical-resistance barrier enveloped {806E}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.63",
+   "en": "A ranged-resistance barrier enveloped {806E}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.64",
+   "en": "A slash-resistance barrier enveloped {806E}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.65",
+   "en": "The King of Hearts crest appeared on {806D}'s chest!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.66",
+   "en": "{806D} used {8072}!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.67",
+   "en": "{806E}'s Physical ATK went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.68",
+   "en": "{806E}'s Ranged ATK went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.69",
+   "en": "{806E}'s ATK went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.70",
+   "en": "{806E}'s Physical ATK went down!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.71",
+   "en": "{806E}'s Ranged ATK went down!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.72",
+   "en": "{806E}'s ATK went down!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.73",
+   "en": "{806E}'s Physical DEF went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.74",
+   "en": "{806E}'s Ranged DEF went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.75",
+   "en": "{806E}'s DEF went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.76",
+   "en": "{806E}'s Physical DEF went down!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.77",
+   "en": "{806E}'s Ranged DEF went down!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.78",
+   "en": "{806E}'s DEF went down!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.79",
+   "en": "{806E}'s Speed went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.80",
+   "en": "{806E}'s Speed went down!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.81",
+   "en": "{806E}'s Evasion went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.82",
+   "en": "{806E}'s Evasion went down!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.83",
+   "en": "{806E}'s Accuracy went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.84",
+   "en": "{806E}'s Accuracy went down!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.85",
+   "en": "Fire power of {806E} and allies went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.86",
+   "en": "Ice power of {806E} and allies went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.87",
+   "en": "Lightning power of {806E} and allies went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.88",
+   "en": "Wind power of {806E} and allies went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.89",
+   "en": "Light power of {806E} and allies went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.90",
+   "en": "{806E}'s body felt heavy!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.91",
+   "en": "The Accuracy of ＜ａｃｔ＿ｃｈｒ＞ and allies went up!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.92",
+   "en": "{806E}'s DEF went up!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.93",
+   "en": "The I-Field enveloped {806E} and allies!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.94",
+   "en": "A barrier of light enveloped {806E} and allies!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.95",
+   "en": "{806E}'s Fire Res went down!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.96",
+   "en": "{806E}'s Ice Res went down!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.97",
+   "en": "{806E}'s Lightning Res went down!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.98",
+   "en": "{806E}'s Wind Res went down!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.99",
+   "en": "{806E}'s Light Res went down!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.100",
+   "en": "Power surged through {806E}!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.101",
+   "en": "{806D} bit down with {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.102",
+   "en": "{806E}'s infection was cured!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.103",
+   "en": "{806E} is no longer stunned!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.104",
+   "en": "{806E} snapped out of the panic!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.105",
+   "en": "{806E}'s vision returned!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.106",
+   "en": "Debuffs on {806E} were cured!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.107",
+   "en": "{806E} was freed from the pressure!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.108",
+   "en": "{806E} recovered from Negative!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.109",
+   "en": "{806E}'s status ailments were cured!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.91",
+   "note": "Source holds a literal full-width placeholder string for the actor; written in ASCII as <act_chr>. Probably a dev leftover; check how the build handles it."
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.66",
+   "note": "Skill-name variable followed by a suru-verb ending; rendered as 'used'. Could be a different verb depending on the skill."
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.106",
+   "note": "The Japanese names a reduction effect; read as stat debuffs."
+  }
+ ],
+ "report": "All 80 rows translated. Uncertain: 0.66 verb, 0.91 placeholder, 0.106 debuff reading. No new glossary terms."
+}

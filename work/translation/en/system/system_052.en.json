@@ -1,0 +1,346 @@
+{
+ "slice": "system_052",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.28",
+   "en": "Rider Screw Kick"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.29",
+   "en": "Rider Drop Kick"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.30",
+   "en": "Rider Chop"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.31",
+   "en": "Defiant Stance"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.32",
+   "en": "Vulcan"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.33",
+   "en": "Beam Rifle"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.34",
+   "en": "Shield"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.35",
+   "en": "Beam Saber"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.36",
+   "en": "Fin Funnel I-Field"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.37",
+   "en": "Dummy Balloon"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.38",
+   "en": "Lock-On"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.39",
+   "en": "Fin Funnels x6"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.40",
+   "en": "Defense Follow"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.41",
+   "en": "Ultra Punch"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.42",
+   "en": "Ultra Kick"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.43",
+   "en": "Catch Ring"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.44",
+   "en": "Rebound Ray"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.45",
+   "en": "Ultra Water Flow"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.46",
+   "en": "Ultra Attack Ray"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.47",
+   "en": "Ultra Eye Spot"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.48",
+   "en": "Slash Ray"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.49",
+   "en": "Energy Infusion"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.50",
+   "en": "Defiant Stance"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.51",
+   "en": "Maximum Drive Combo"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.52",
+   "en": "GN Cannon"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.53",
+   "en": "GN Cannon"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.54",
+   "en": "Magma Riser Drill"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.55",
+   "en": "Gatling Detonator"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.56",
+   "en": "Magma Riser Drill"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.57",
+   "en": "Gatling Detonator"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.58",
+   "en": "Gatling Detonator"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.59",
+   "en": "Minovsky Particle Dispersal Unit"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.60",
+   "en": "Nanomachine Repair Unit"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.62",
+   "en": "Capture Cube"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.63",
+   "en": "Triple Gatling Gun"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.64",
+   "en": "All-Direction Barrage"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.65",
+   "en": "Imperial Sword"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.66",
+   "en": "Trillion-Degree Fireball"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.67",
+   "en": "Zetton Final Beam"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.68",
+   "en": "Light Bullet"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.69",
+   "en": "Sharp Claws"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.70",
+   "en": "Sharp Fangs"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.71",
+   "en": "Club-Type Beam Rifle"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.72",
+   "en": "Heat Hawk"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.73",
+   "en": "Heat Rod"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.74",
+   "en": "Tackle"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.75",
+   "en": "Scorching Flame"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.76",
+   "en": "Blue Heat Ray"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.77",
+   "en": "Scorching Punch"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.78",
+   "en": "Dummy Skill 1"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.79",
+   "en": "Dummy Skill 2"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.80",
+   "en": "Dummy Skill 3"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.81",
+   "en": "Dummy Skill 4"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.82",
+   "en": "Dummy Skill 5"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.83",
+   "en": "Dummy Skill 6"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.84",
+   "en": "Dummy Skill 7"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.85",
+   "en": "Dummy Skill 8"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.86",
+   "en": "Dummy Skill 9"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.1",
+   "en": "Normal Attack (Physical"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.2",
+   "en": "Normal Attack (Ranged"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.3",
+   "en": "Normal Attack (Slash"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.4",
+   "en": "Normal Attack (Gundam-Type"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.5",
+   "en": "Critical Normal (Physical"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.6",
+   "en": "Critical Normal (Ranged"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.7",
+   "en": "Critical Normal (Slash"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.8",
+   "en": "Critical Normal (Gundam-Type"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.9",
+   "en": "Enemy Normal Attack (Physical"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.10",
+   "en": "Enemy Normal Attack (Ranged"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.11",
+   "en": "Enemy Normal Attack (Slash"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.12",
+   "en": "Enemy Critical Normal (Physical"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.13",
+   "en": "Enemy Critical Normal (Ranged"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.14",
+   "en": "Enemy Critical Normal (Slash"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.15",
+   "en": "Defend"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.16",
+   "en": "Item"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.17",
+   "en": "Cyclone Kick"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.18",
+   "en": "Cyclone Blow"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.19",
+   "en": "Metal Branding"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.20",
+   "en": "Trigger Full Burst"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.21",
+   "en": "Double Extreme"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.22",
+   "en": "Prism Break"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.39",
+   "note": "Source ends in a stray katakana char and a digit; read as 'x6' (six funnels). Guess."
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.36",
+   "note": "F-Funnel read as Fin Funnel (Nu Gundam) plus I-Field."
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.54",
+   "note": "Magma Riser: guess at the weapon name (Magma Dopant related)."
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.1",
+   "note": "Source parentheses are unclosed in these debug rows; kept unclosed."
+  }
+ ],
+ "report": "Enemy skill-name table, 80/80 rows. Uncertain: #0.39 (x6), #0.54/56 Magma Riser Drill, #0.31 Stand Firm (nioudachi). Source parentheses unclosed in debug rows 1.1-1.14, kept. No new glossary terms."
+}

@@ -1,0 +1,342 @@
+{
+ "slice": "system_056",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0003.mbb#0.1",
+   "en": "Starting the Checkpoint tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0003.mbb#0.2",
+   "en": "Examining a checkpoint fully heals the party and lets you save."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0003.mbb#0.3",
+   "en": "Once you examine a checkpoint, you can warp to it from base."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0003.mbb#0.4",
+   "en": "Choosing \"Return\" in the Camp Menu takes you back to base anytime, with a full heal."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0004.mbb#0.1",
+   "en": "Starting the Ride Dungeon tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0004.mbb#0.2",
+   "en": "A Ride Dungeon is a special dungeon you explore aboard a Ride Machine."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0004.mbb#0.3",
+   "en": "Giant enemies called \"Guardians\" roam here. Touching one starts a Ride Battle."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0004.mbb#0.4",
+   "en": "Some Guardians will chase you once they spot your Ride Machine."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0004.mbb#0.5",
+   "en": "A warning appears on screen when an enemy spots you. Move with caution when it does."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0004.mbb#0.6",
+   "en": "Some walls in Ride Dungeons can be smashed by your Ride Machine's drill, but"
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0004.mbb#0.7",
+   "en": "each has a level, and it can't be broken without a drill of that level or higher."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0004.mbb#0.8",
+   "en": "Breaking a wall releases dense energy that restores HP and EN."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0005.mbb#0.1",
+   "en": "Starting the Ride Battle tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0005.mbb#0.2",
+   "en": "In Ride Battles, the Heroes pilot Ride Machines to fight Guardians."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0005.mbb#0.3",
+   "en": "Attacks: Main Cannon (Ranged) and Drill (Physical). The cannon must be charged first, so"
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0005.mbb#0.4",
+   "en": "after choosing Charge in the Main Cannon commands, you need to choose Fire."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0005.mbb#0.5",
+   "en": "You can charge the Main Cannon up to 4 times. The more charges, the stronger the shot."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0005.mbb#0.6",
+   "en": "The Drill is used with the Gun Turret command."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0005.mbb#0.7",
+   "en": "Once equipped, the Drill works while moving and in battle, where it damages enemies."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0005.mbb#0.8",
+   "en": "Unlike the Main Cannon, though, it uses a lot of EN (energy), so be careful."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0005.mbb#0.9",
+   "en": "EN powers every action except Fire and Strafe. It's like SP in normal battles."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0005.mbb#0.10",
+   "en": "EN is restored by landing attacks such as Strafe during a Ride Battle."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0005.mbb#0.11",
+   "en": "Ride Machines carry a device that restores armor (HP)."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0005.mbb#0.12",
+   "en": "Using it restores armor, but it costs EN in exchange."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0005.mbb#0.13",
+   "en": "Sorry for the long explanation. But I'll keep going."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0005.mbb#0.14",
+   "en": "Barrage, a Gun Turret command, uses a lot of EN but can cancel an enemy's action."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0005.mbb#0.15",
+   "en": "If an enemy looks like it's about to use a powerful attack, don't hesitate to try Barrage."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0005.mbb#0.16",
+   "en": "Lastly, Support Units. A Ride Machine can equip up to 3 Support Units."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0005.mbb#0.17",
+   "en": "They use EN and give you an edge in Ride Battles."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0006.mbb#0.1",
+   "en": "Starting the Equipment Upgrade tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0006.mbb#0.2",
+   "en": "At the Item Lab, you can upgrade equipment by fusing it with other equipment or materials."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0006.mbb#0.3",
+   "en": "To fuse, first choose the equipment you want to upgrade,"
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0006.mbb#0.4",
+   "en": "then choose the equipment or materials to fuse into it."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0006.mbb#0.5",
+   "en": "The upgraded stats are shown on the right side of the screen."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0006.mbb#0.6",
+   "en": "Each piece of equipment can be fused up to 5 times, so choose carefully."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0007.mbb#0.1",
+   "en": "Starting the Idle Action tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0007.mbb#0.2",
+   "en": "You can give orders to Heroes you didn't pick for the party while they stand by."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0007.mbb#0.3",
+   "en": "To set Idle Actions, use the Idle Action command in the Briefing Room."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0007.mbb#0.4",
+   "en": "Each time the party fights a battle, the other Heroes carry out their Idle Actions and gain EXP."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0007.mbb#0.5",
+   "en": "Now let's go over what each Idle Action does."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0007.mbb#0.6",
+   "en": "\"Training Facility Boost\": leveling it up increases the EXP gained while idle."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0007.mbb#0.7",
+   "en": "Idle members will receive a bigger share."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0007.mbb#0.8",
+   "en": "\"Security Duty\": leveling it up increases the Material you earn."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0007.mbb#0.9",
+   "en": "Leveling up increases the amount of Material you obtain."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0007.mbb#0.10",
+   "en": "\"Material Gathering\": leveling it up lets you gather better materials."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0007.mbb#0.11",
+   "en": "Leveling up lets you obtain better materials."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0007.mbb#0.12",
+   "en": "That's all for the Idle Action tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0007.mbb#0.13",
+   "en": "Gathered materials are sent to storage automatically. Any that don't fit are sold."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0008.mbb#0.1",
+   "en": "Starting the Random Cube tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0008.mbb#0.2",
+   "en": "A Random Cube is a special dungeon whose layout changes every time you enter."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0008.mbb#0.3",
+   "en": "Defeat the boss in the deepest part to clear it and claim the chest behind it as your reward."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0008.mbb#0.4",
+   "en": "Generally, the more you clear, the harder it gets, and harder Cubes drop better items."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0008.mbb#0.5",
+   "en": "You can check the current Random Cube's details in the Dungeon Parameters."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0009.mbb#0.1",
+   "en": "Starting the Item Search tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0009.mbb#0.2",
+   "en": "Item Search is now available in Ride Dungeons."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0009.mbb#0.3",
+   "en": "Item Search is always shown on the Ride Dungeon screen and reacts as you near hidden treasure."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0009.mbb#0.4",
+   "en": "It changes as shown in the diagram the closer you get, so examine any spot that feels right!"
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0009.mbb#0.5",
+   "en": "If treasure is hidden where you examined, you'll get the item."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0009.mbb#0.6",
+   "en": "Valuable items are hidden away, so search actively!"
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0010.mbb#0.1",
+   "en": "Starting the Casino tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0010.mbb#0.2",
+   "en": "At the Casino, you can buy casino-only coins and use them to play minigames."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0010.mbb#0.3",
+   "en": "Winning minigames earns more coins, which you can trade for prizes."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0010.mbb#0.4",
+   "en": "Raise the Casino upgrade level in Idle Actions to unlock more minigames and prizes."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0011.mbb#0.1",
+   "en": "Starting the Status tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0011.mbb#0.2",
+   "en": "Let's go over what each Hero stat means."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0011.mbb#0.3",
+   "en": "Physical ATK affects the power of physical attacks like punches and kicks."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0011.mbb#0.4",
+   "en": "Physical DEF affects defense against enemy physical attacks."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0011.mbb#0.5",
+   "en": "Ranged ATK affects the power of ranged attacks like rifles and beams."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0011.mbb#0.6",
+   "en": "Ranged DEF affects defense against enemy ranged attacks."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0011.mbb#0.7",
+   "en": "Slash attack power and defense depend on the average of Physical and Ranged."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0011.mbb#0.8",
+   "en": "Strength affects the power of Physical and Slash attacks."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0011.mbb#0.9",
+   "en": "Spirit affects the power and defense of Physical and Slash attacks."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0011.mbb#0.10",
+   "en": "Speed affects how fast you act in battle."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0011.mbb#0.11",
+   "en": "Luck affects critical rate and escape chance."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0011.mbb#0.12",
+   "en": "Technique affects the power of Ranged and Slash attacks."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0011.mbb#0.13",
+   "en": "Focus affects critical rate, plus the power and defense of Ranged and Slash attacks."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0011.mbb#0.14",
+   "en": "Mind affects resistance to status ailments."
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#0.1",
+   "en": "Skills are whatever."
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.1",
+   "en": "General"
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.2",
+   "en": "Barabas targets Heroes with high HP."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#0.1",
+   "note": "Dev placeholder text, rendered literally and short."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0007.mbb#0.8",
+   "note": "Idle Action names (training facility boost, security duty, material gathering) are not in the glossary; chosen here. 'Material' (the currency-like resource) vs 'materials' (crafting items) kept distinct."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0011.mbb#0.8",
+   "note": "Stat names (Strength, Spirit, Speed, Luck, Technique, Focus, Mind) chosen here; not in the glossary."
+  }
+ ],
+ "report": "80/80 rows. New terms: Briefing Room, Idle Action names, Guardian, stat names Strength/Spirit/Technique/Focus/Mind, Slash (attack type)."
+}

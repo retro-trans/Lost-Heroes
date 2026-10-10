@@ -1,0 +1,53 @@
+{
+ "tpc": "Graph/Dg/Start/Area/AREASTART_C05_tex.tpc",
+ "page": "UI_common_AREA_c5_4444.tga",
+ "note": "Area-start card name pieces (rects from AREASTART_C05.gtx GFUV; the GTSH shapes place them side by side: Cube name, then area pieces). Cube names are right-aligned so they sit next to the area pieces. Shapes: Shocker Cube + Ruins B1/B2, Museum 1F/2F (B, 1, 2, F pieces are Latin, kept).",
+ "boxes": [
+  {
+   "x": 1,
+   "y": 1,
+   "w": 109,
+   "h": 11,
+   "text": "Shocker Cube",
+   "align": "right"
+  },
+  {
+   "x": 38,
+   "y": 13,
+   "w": 63,
+   "h": 11,
+   "text": "Museum",
+   "align": "right"
+  },
+  {
+   "x": 102,
+   "y": 13,
+   "w": 21,
+   "h": 11,
+   "text": "Ruins"
+  }
+ ],
+ "defaults": {
+  "size": 9,
+  "bold": false,
+  "color": [
+   255,
+   255,
+   255
+  ]
+ },
+ "clear": [
+  [
+   0,
+   0,
+   128,
+   12
+  ],
+  [
+   38,
+   12,
+   90,
+   13
+  ]
+ ]
+}

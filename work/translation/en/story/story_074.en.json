@@ -1,0 +1,386 @@
+{
+ "slice": "story_074",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0425.mbb#0.37",
+   "en": "That makes four wins... We absolutely can't afford to lose."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.38",
+   "en": "Alright! Let's keep this momentum going!!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.39",
+   "en": "All right! Let's keep it up."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.40",
+   "en": "All right! Let's keep it up."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.41",
+   "en": "Yeah. I just hope things keep going this smoothly..."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.42",
+   "en": "All right! Let's keep it up."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.43",
+   "en": "Naturally. There's no way we'd lose to something on that level."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.44",
+   "en": "Naturally. There's no way we'd lose to something on that level."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.51",
+   "en": "All right! We did it!!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.52",
+   "en": "Yeah, we did it!!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.53",
+   "en": "All right!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.54",
+   "en": "All right! Let's win the next one too."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.55",
+   "en": "We did it...!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.56",
+   "en": "All right. Well, that was a given."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.57",
+   "en": "We did it!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.58",
+   "en": "That makes four wins..."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.59",
+   "en": "All right!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.60",
+   "en": "All right, we did it!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.61",
+   "en": "Mission complete."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.62",
+   "en": "Target silenced. Confirmed."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.64",
+   "en": "The details of the next match appeared on the monitor."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.65",
+   "en": "Opponent: Mururoa\nVenue: Floor 2 East - Warehouse"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.67",
+   "en": "Mururoa...!!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.68",
+   "en": "Mururoa...!!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.69",
+   "en": "Mururoa...!!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.70",
+   "en": "Mururoa...!!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.71",
+   "en": "You know it?"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.72",
+   "en": "Yeah. It's a kaiju that hates light, but put another way, that makes it extremely strong in the dark."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.73",
+   "en": "Yeah. It's a kaiju that hates light, but put another way, that makes it extremely strong in the dark."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.74",
+   "en": "Yes, it's a kaiju that hates light. But that also means it's very much at home in the dark."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.75",
+   "en": "Yeah, it's a kaiju that hates light and loves the dark."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.76",
+   "en": "So the venue's the warehouse... That's where Zamsha fought his match."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.77",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.79",
+   "en": "So the venue's the warehouse... That's where Zamsha fought his match."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.80",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.86",
+   "en": "So it's them... The ones who defeated the Over Flags..."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.87",
+   "en": "I see. They fight well... Heh heh heh. I like them. They're more than merely interesting...!"
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.1",
+   "en": "...Hey! How's it going?"
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.2",
+   "en": "Smoothly. What about you lot?"
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.3",
+   "en": "We're having a harder time of it than we expected."
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.4",
+   "en": "As you'd expect, there are plenty of tough opponents. Next we're up against the Alien Alliance."
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.5",
+   "en": "The Alien Alliance...!! Alien Nackle and Alien Guts..."
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.6",
+   "en": "The Alien Alliance...!! Alien Nackle and Alien Guts..."
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.7",
+   "en": "The Alien Alliance...!! Alien Nackle and Alien Guts..."
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.8",
+   "en": "The Alien Alliance...!! Alien Nackle and Alien Guts..."
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.9",
+   "en": "Plus Alien Tempera and Alien Zarab. Every one of them is a formidable foe."
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.13",
+   "en": "The Alien Alliance?"
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.14",
+   "en": "Yes. Aliens more cunning than any kaiju have joined forces. Alien Nackle is especially tough."
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.18",
+   "en": "Jeez... One fight after another where we can't let our guard down."
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.19",
+   "en": "Jack, Ace, we don't have much time. We should head out soon..."
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.20",
+   "en": "You're right... Birth, you're coming too."
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.21",
+   "en": "Sure thing! Oh, right, here's something I happened to overhear..."
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.22",
+   "en": "Word is there's a gang of robbers prowling around, stealing people's items."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.1",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.2",
+   "en": "...Alien Valky!? Why? I thought our opponent was supposed to be Mururoa..."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.3",
+   "en": "...Alien Valky!? Why are you here? Our opponent is Mururoa."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.4",
+   "en": "...Alien Valky!? Why are you here? Our opponent is Mururoa."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.5",
+   "en": "...Alien Valky!? Why are you here? Our opponent is Mururoa."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.6",
+   "en": "You're Alien Valky, if I remember right... ...But our opponent was supposed to be Mururoa."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.7",
+   "en": "You're Alien Valky, if I remember right... But our opponent is Mururoa."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.8",
+   "en": "You're that Alien Valky guy, ain'tcha... Huh? Ain't our opponent Mururoa?"
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.9",
+   "en": "You're Alien Valky, if I remember right... But our opponent is Mururoa."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.10",
+   "en": "You're Alien Valky, if I remember right... But our opponent is Mururoa."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.11",
+   "en": "You're Alien Valky, if I remember right... But our opponent is Mururoa."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.12",
+   "en": "You're Alien Valky, if I remember right... But our opponent is Mururoa."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.13",
+   "en": "You're Alien Valky, if I remember right... But our opponent is Mururoa."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.14",
+   "en": "You're Alien Valky, if I remember right... But our opponent is Mururoa."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.15",
+   "en": "...I... want... power."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.16",
+   "en": "Alien Valky staggered off, wandering away to who knows where."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.17",
+   "en": "...I wonder if losing to Zamsha frustrated him that much."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.18",
+   "en": "...Losing to Zamsha seems to have hit him hard."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.19",
+   "en": "...Losing to Zamsha seems to have hit him hard."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.20",
+   "en": "...Losing to Zamsha must have really gotten to him."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.21",
+   "en": "...Losing to Zamsha must have really gotten to him."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.22",
+   "en": "...Losing to Zamsha must have really gotten to him."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.23",
+   "en": "...Guess losin' to Zamsha really ticked him off big-time!"
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.24",
+   "en": "...Losing to Zamsha must have really gotten to him."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.25",
+   "en": "...Losing to Zamsha clearly galled him to the core!!"
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.26",
+   "en": "...Losing to Zamsha must have been a bitter blow for him."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.27",
+   "en": "...Losing to Zamsha must have been a bitter blow for him."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0425.mbb#0.37",
+   "note": "#0.34-#0.44 are the partner's reply to Rider 1 after the win. 0425.bla checks Den-O, RX, W, OOO, Mebius, Zero, Seven, Ultraman, Nu, Zeta, Wing Zero, 00 with offsets 0,1,2,5,3,4,5,6,7,8,9,10: #0.37 Mebius, #0.38 Zero, #0.39 OOO and Seven (shared), #0.40 Ultraman, #0.41 Nu, #0.42 Zeta, #0.43 Wing Zero, #0.44 00. Identical Japanese gets identical English."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.51",
+   "note": "#0.51-#0.62: win line when Rider 1 is absent; first speaker = 0.51+k, second speaker = 0.51+k2. Order: Mebius 0, Zero 1, Seven 2, Ultraman 3, OOO 4, W 5, RX 6, Nu 8, Zeta 9, Wing Zero 10, 00 11; Den-O (Momotaros) also uses k=1 (#0.52, 'Yeah, we did it!!' suits both)."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.58",
+   "note": "Offset 7 is never assigned in 0425.bla, so this row looks unused. Translated anyway."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.65",
+   "note": "Deliberate two-line layout kept with a line break. 'Floor 2 East - Warehouse' is my rendering of the venue; sibling slices (Floor 1 Central, Floor 1 North, etc.) should use the same format."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.67",
+   "note": "#0.67-#0.70 and #0.72-#0.75 follow the chain Ultraman, Seven, Mebius, Zero. #0.74 is Mebius (polite form)."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.79",
+   "note": "#0.79/#0.80 duplicate #0.76/#0.77 for another branch; same English."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.86",
+   "note": "Label ??? (CHARA_NAME 30); the event loads the Masurao portrait, so this is Mr. Bushido watching unseen. Label kept as ???. 'Over Flags' = the Overflag squad, plural of the glossary's Over Flag. #0.87 echoes Graham's famous line about feeling 'more than interest'. Here it is phrased in English as 'more than merely interesting'."
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.2",
+   "note": "Ankh replying to Jack: 'you lot' carries his rudeness."
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.5",
+   "note": "#0.5-#0.8 are the Ultra party members (Mebius, Seven, Ultraman, Zero) recognising the Alliance; all identical."
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.9",
+   "note": "Alien Tempera is not in the glossary; I used the established English name 'Alien Tempera'."
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.20",
+   "note": "Jack telling Birth to come along (Birth is on Jack/Ace/Accel's team)."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.2",
+   "note": "#0.2-#0.14 and #0.17-#0.29 follow the 0428.bla chain: Mebius, Ultraman, Seven, Zero, OOO, W, Den-O, RX, Rider 1, Nu, Zeta, Wing Zero, 00. Voices checked: #0.2 boku (Mebius), #0.8 omee (Momotaros), #0.23 yoppodo (Momotaros). #0.17-#0.27 cover Mebius to Zeta; #0.28-#0.29 are in story_075."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.6",
+   "note": "The OOO variant keeps the source's second ellipsis (a hesitation)."
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.16",
+   "note": "Valky referred to as 'him' (glossary g=m)."
+  }
+ ],
+ "report": "80/80 rows. Leader-variant order traced from 0425/0427/0428.bla Pt_Chara_Check chains and confirmed by wording. 0425 #0.58 appears unused. #0.86-#0.87 speaker ??? (Mr. Bushido by portrait), label kept. New name not in glossary: Alien Tempera. Venue label format 'Floor 2 East - Warehouse' should be checked against sibling slices."
+}

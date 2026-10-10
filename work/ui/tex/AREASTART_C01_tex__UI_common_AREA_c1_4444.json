@@ -1,0 +1,56 @@
+{
+ "tpc": "Graph/Dg/Start/Area/AREASTART_C01_tex.tpc",
+ "page": "UI_common_AREA_c1_4444.tga",
+ "note": "Area-start card name pieces (rects from AREASTART_C01.gtx GFUV; the GTSH shapes place them side by side: Cube name, then area pieces). Cube names are right-aligned so they sit next to the area pieces. Shapes: Begins Cube + East/Central/West District (abbreviated Dist. to fit).",
+ "boxes": [
+  {
+   "x": 2,
+   "y": 1,
+   "w": 97,
+   "h": 11,
+   "text": "Begins Cube",
+   "align": "right"
+  },
+  {
+   "x": 1,
+   "y": 13,
+   "w": 32,
+   "h": 12,
+   "text": "East Dist.",
+   "size": 8
+  },
+  {
+   "x": 35,
+   "y": 13,
+   "w": 44,
+   "h": 12,
+   "text": "Central Dist.",
+   "size": 8
+  },
+  {
+   "x": 79,
+   "y": 13,
+   "w": 32,
+   "h": 11,
+   "text": "West Dist.",
+   "size": 8
+  }
+ ],
+ "defaults": {
+  "size": 9,
+  "bold": false,
+  "color": [
+   255,
+   255,
+   255
+  ]
+ },
+ "clear": [
+  [
+   0,
+   0,
+   128,
+   32
+  ]
+ ]
+}

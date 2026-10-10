@@ -1,0 +1,410 @@
+{
+ "slice": "story_116",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0625.mbb#0.8",
+   "en": "So that's it...!! That's what they call the Psycho Gundam Mk-II!!"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.9",
+   "en": "That big lug, huh...!! Psycho-whatsit!!"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.10",
+   "en": "That Gundam...!! It's huge... Look at the size of it!!"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.11",
+   "en": "That enemy...!!"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.12",
+   "en": "That enemy...!!"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.13",
+   "en": "That enemy...!!"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.14",
+   "en": "That enemy...!!"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.15",
+   "en": "That enemy...!!"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.19",
+   "en": "Ugh... The explosion..."
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.20",
+   "en": "And at that very moment!!"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.22",
+   "en": "That's... the particle cannon!! The base...!?"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.25",
+   "en": "What!? A high-energy reading!? The particle cannon!!"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.26",
+   "en": "Gwaah...!!!"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.29",
+   "en": "...!!"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.30",
+   "en": "A direct hit!?"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.34",
+   "en": "Kyaah!!"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.39",
+   "en": "Base!! Respond!! What's your situation!?"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.40",
+   "en": "\"...\""
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.41",
+   "en": "No good..."
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.42",
+   "en": "Please! Somebody answer!!"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.43",
+   "en": "\"...\""
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.44",
+   "en": "Zoffy!! Zoffy!! Can't you hear me!?"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.45",
+   "en": "\"I-I'm all right.\""
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.46",
+   "en": "...Zoffy!!"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.47",
+   "en": "\"We're safe, somehow. It seems... we just barely avoided a direct hit.\""
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.48",
+   "en": "Just barely...?"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.49",
+   "en": "I see! The Psycho Gundam Mk-II's explosion knocked its line of fire slightly off."
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.50",
+   "en": "\"But if it fires again, we won't be able to hold out.\""
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.51",
+   "en": "\"Cherudim here. Nice work! A lucky break in a bad spot, but it buys us a little time.\""
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.52",
+   "en": "\"Hurry to the Terminal Unit while you've got the chance.\""
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.53",
+   "en": "Are you sure you're all right over there?"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.54",
+   "en": "\"We've managed to regroup. And our enemy friends look pretty rattled.\""
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.55",
+   "en": "\"At this rate, we can take down the particle cannon!\""
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.56",
+   "en": "Understood."
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.57",
+   "en": "...But how are we supposed to get there? The way down to the Middle Layer is blocked, remember?"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.58",
+   "en": "Let's see... ...Hm!?"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.59",
+   "en": "What is it?"
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.60",
+   "en": "Look at that crack. It's right where the Psycho Gundam Mk-II exploded."
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.61",
+   "en": "...Looks like we can get inside the Cube through there."
+  },
+  {
+   "key": "MainEventMess0626.mbb#0.1",
+   "en": "Our mission is the Terminal Unit. Let's leave stopping the particle cannon to Cherudim's team."
+  },
+  {
+   "key": "MainEventMess0627.mbb#0.1",
+   "en": "This must be... the Middle Layer... The Terminal Unit is close!"
+  },
+  {
+   "key": "MainEventMess0628.mbb#0.1",
+   "en": "...Meanwhile"
+  },
+  {
+   "key": "MainEventMess0628.mbb#0.2",
+   "en": "Hm...? The enemy has entered the Middle Layer...!?"
+  },
+  {
+   "key": "MainEventMess0628.mbb#0.3",
+   "en": "Yes, I sensed it too. But how could such lowly heroes...!"
+  },
+  {
+   "key": "MainEventMess0628.mbb#0.4",
+   "en": "There's no need to let it bother you."
+  },
+  {
+   "key": "MainEventMess0628.mbb#0.5",
+   "en": "Reborns Gundam... But the fact is, they overwhelmed us..."
+  },
+  {
+   "key": "MainEventMess0628.mbb#0.6",
+   "en": "You did rather well, considering you had no backup from Veda."
+  },
+  {
+   "key": "MainEventMess0628.mbb#0.7",
+   "en": "The Upper Layer is too far from Veda, after all."
+  },
+  {
+   "key": "MainEventMess0628.mbb#0.8",
+   "en": "Then are we just going to sit back and do nothing!?"
+  },
+  {
+   "key": "MainEventMess0628.mbb#0.9",
+   "en": "No... I intend to send out Regnant."
+  },
+  {
+   "key": "MainEventMess0628.mbb#0.10",
+   "en": "Regnant...!! Is it already fit for actual combat!?"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.1",
+   "en": "This room... It looks a lot like the control room on the Upper Layer."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.2",
+   "en": "Are those surveillance monitors lining the walls? They're showing footage from inside the Cube..."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.3",
+   "en": "Hey, there's something at the back there."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.4",
+   "en": "That's it!! That's the Terminal Unit."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.5",
+   "en": "That thing!?"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.6",
+   "en": "If I get inside it, I can access Veda."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.7",
+   "en": "Huh, so that's how it is. Then hurry it up!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.10",
+   "en": "\"BEEP, BEEP, BEEP, BEEP...\""
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.11",
+   "en": "...It's a transmission."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.12",
+   "en": "\"This is Cherudim! Mission complete! We've taken the particle cannon's control room.\""
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.13",
+   "en": "Well done!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.14",
+   "en": "\"Yeah, now all that's left is to take back Veda. Seravee, I'm counting on you!\""
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.15",
+   "en": "I'm just about to enter the Terminal Unit now."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.16",
+   "en": "\"Oh, yeah? Looks like our luck's finally turning!\""
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.18",
+   "en": "What the!?"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.19",
+   "en": "It's coming from the door!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.22",
+   "en": "I won't let youuuuuu!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.24",
+   "en": "...You're...!! Regnant!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.25",
+   "en": "Hah, hah... So you knooow me!! You know who I am!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.26",
+   "en": "I see... So you're the Lost Heroes!?"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.27",
+   "en": "You... are the evil that throws the world into chaos!! If only you were all gooone!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.28",
+   "en": "Ngh...!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.29",
+   "en": "Seravee! You go to the Terminal Unit! We'll take this one on!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.30",
+   "en": "Seravee! You go to the Terminal Unit! We'll take this one on!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.31",
+   "en": "Seravee! You go to the Terminal Unit! We'll take this one on!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.32",
+   "en": "Seravee! You go to the Terminal Unit! Leave this one to us!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.33",
+   "en": "Seravee! Hurry to the Terminal Unit! We'll take this one on!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.34",
+   "en": "Seravee! You go to the Terminal Unit! We will take this one on!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.35",
+   "en": "Seravee! You go to the Terminal Unit! We'll take this one on!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0625.mbb#0.8",
+   "note": "#0.1-15 leader block (TextIdOffset+0+k), Pt_Chara_Check chain in 0625.bla: Zeta, 00, Wing Zero, Nu, Zero, Mebius, OOO, W, Den-O (Momotaros), God, Taro, Seven, Ultraman, RX, Rider 1. So #0.8 = W (Shotaro), #0.9 = Momotaros ('Psycho-whatsit', as story_114 #0.67), #0.10 = God Gundam, #0.11-15 = Taro/Seven/Ultraman/RX/Rider 1 (identical text, identical English)."
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.19",
+   "note": "Seravee caught near the Psycho Gundam Mk-II's explosion after the boss fight (inferred from #0.49/#0.60)."
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.20",
+   "note": "Narration; 'to, sono toki' rendered 'And at that very moment!!'."
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.25",
+   "note": "Zoffy at the base: 'kou-enerugii-tai' = high-energy object/reading detected."
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.26",
+   "note": "Unlabelled grunt; not traced to a named speaker (someone at the base during the impact)."
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.30",
+   "note": "Unlabelled; speaker not recovered (likely Zoffy or a base member reacting to the hit). 'A direct hit!?' needs no subject."
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.40",
+   "note": "Radio lines in source corner brackets rendered in double quotes, matching earlier comm/announcer lines. #0.40/#0.43 = dead air."
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.42",
+   "note": "'Tanomu' here is Seravee pleading into the radio, so 'Please!'."
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.47",
+   "note": "Zoffy speaks for the base: 'we'. 'Wazuka ni' -> 'just barely', echoed by Seravee in #0.48."
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.49",
+   "note": "'Shajiku' (firing axis) -> 'line of fire'; 'its' = the particle cannon's."
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.54",
+   "note": "'Teki-san' (Lockon's casual, mocking 'Mr. Enemy') -> 'our enemy friends'."
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.57",
+   "note": "Ankh; subject 'we' restored. 'Middle Layer' / 'Upper Layer' follow DungeonName (system slices) and story_113."
+  },
+  {
+   "key": "MainEventMess0628.mbb#0.1",
+   "note": "Narration; '...Meanwhile' (source has no trailing ellipsis)."
+  },
+  {
+   "key": "MainEventMess0628.mbb#0.4",
+   "note": "'???' = Reborns Gundam (named by Gadessa in #0.5)."
+  },
+  {
+   "key": "MainEventMess0628.mbb#0.10",
+   "note": "Regnant glossary g=n -> 'it'."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.6",
+   "note": "Subject 'I' restored: Seravee is the one who accesses Veda (cf. story_117 #0.45)."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.15",
+   "note": "Subject 'I' restored (Seravee entering the unit); could be 'we', but story_117 #0.45 has Seravee going in alone."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.22",
+   "note": "'???' = Regnant bursting in (named in #0.24)."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.27",
+   "note": "Unlabelled; Regnant continuing #0.26 (same line labelled Regnant in story_117 #0.46). Elongated ending kept as 'gooone'."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.29",
+   "note": "#0.29-43 leader block (TextIdOffset+28+k), chain in 0629.bla: 00, Nu, Wing Zero, God, Zeta, Rider 1, RX, W, OOO, Ultraman, Seven, Taro, Zero, Mebius, Den-O. So #0.29 00, #0.30 Nu, #0.31 Wing Zero, #0.32 God Gundam ('hikiuketa!!' -> 'Leave this one to us!!'), #0.33 Zeta ('hurry'), #0.34 Rider 1 ('watashi-tachi' -> slightly formal 'We will'), #0.35 RX. 'Koitsu' = Regnant, g=n -> 'this one'."
+  }
+ ],
+ "report": "80/80 rows. Leader blocks mapped via Pt_Chara_Check chains (0625: Zeta..Rider 1; 0629: 00..Den-O). Uncertain: 0625 #0.26 and #0.30 speakers not recovered; 0629 #0.15 'I' vs 'we'. Radio lines in double quotes. Not in glossary: Psycho Gundam Mk-II, Terminal Unit, particle cannon, Middle/Upper Layer (match earlier slices)."
+}

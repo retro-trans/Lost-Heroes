@@ -1,0 +1,22 @@
+{
+ "tpc": "Graph/Adv/eff/550/ADV_EFF.tpc",
+ "exact": true,
+ "page": "ADV_EFF_CAP01_5551.tga",
+ "note": "",
+ "boxes": [
+  {
+   "x": 40,
+   "y": 121,
+   "w": 32,
+   "h": 10,
+   "text": "W",
+   "bg": [
+    2,
+    6,
+    7
+   ],
+   "align": "left",
+   "size": 8
+  }
+ ]
+}

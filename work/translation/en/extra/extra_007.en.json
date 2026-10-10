@@ -1,0 +1,2092 @@
+{
+ "slice": "extra_007",
+ "rows_in_slice": 521,
+ "rows_examined": 521,
+ "notes": "filled from translation memory (exact Japanese repeats)",
+ "rows": [
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.1",
+   "en": "Damn it!! Where'd that bastard go!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.2",
+   "en": "Hmm, it's weirdly quiet around here. Kinda creepy."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.3",
+   "en": "Quit hidin' and come on out!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.4",
+   "en": "Hide-and-seek?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.5",
+   "en": "Whoa!!! What the!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.6",
+   "en": "Ow ow ow ow!? Gimme a break!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.7",
+   "en": "Heh heh heh heh heh..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.8",
+   "en": "Weather Dopant!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.9",
+   "en": "Weather Dopant!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.10",
+   "en": "Weather Dopant!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.11",
+   "en": "Weather Dopant!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.12",
+   "en": "Weather Dopant!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.13",
+   "en": "Weather Dopant!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.14",
+   "en": "This place will be your grave, you know?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.15",
+   "en": "Haaah!!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.16",
+   "en": "Waaaaah!!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.17",
+   "en": "Waaaaah!!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.18",
+   "en": "Waaaaah!!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.19",
+   "en": "Waaaaah!!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.20",
+   "en": "Waaaaah!!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.21",
+   "en": "Waaaaah!!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.22",
+   "en": "Fufuhahahahaha!!! You walked right into our trap!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.24",
+   "en": "Just how much meddling will it take before you're satisfied? I'd like to put an end to this soon."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.28",
+   "en": "\"INVISIBLE!!\""
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.29",
+   "en": "What!? I can't see him anywhere!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.30",
+   "en": "Whoaaa--whoa, whoa..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.32",
+   "en": "Hahahahahaha...!!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.33",
+   "en": "You think a kiddie trick like that's gonna work on me!? Henshin!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.34",
+   "en": "\"SWORD FORM\""
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.37",
+   "en": "Whoa!! That's dirty!! You bastard!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.39",
+   "en": "Fufuhahahahaha!!! Looks like you can't even get close to us!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.40",
+   "en": "Damn it!!! This lightning's too fierce, I can't do a thing!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.43",
+   "en": "This is bad... We've got to do something about the Weather Dopant."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.44",
+   "en": "This is bad... We've got to do something about the Weather Dopant first."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.45",
+   "en": "This is bad... We've got to do something about the Weather Dopant first."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.46",
+   "en": "This is bad... We've got to do something about the Weather Dopant first."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.47",
+   "en": "This is bad... We've got to do something about the Weather Dopant first."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.48",
+   "en": "This is bad... We've got to do something about the Weather Dopant first."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.50",
+   "en": "...That's it!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.51",
+   "en": "The Denden Sensor! With that, we might be able to see him!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.52",
+   "en": "...That's it!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.53",
+   "en": "The Denden Sensor! With that, we might be able to see him!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.54",
+   "en": "...That's it!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.55",
+   "en": "The Denden Sensor! With that, we might be able to see him!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.56",
+   "en": "...That's it!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.57",
+   "en": "The Denden Sensor! With that, we might be able to see him!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.58",
+   "en": "...That's it!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.59",
+   "en": "The Denden Sensor! With that, we might be able to see him!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.60",
+   "en": "...That's it!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.61",
+   "en": "The Denden Sensor! With that, we might be able to see him!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.63",
+   "en": "Hikari's repairing it for us! Let's hurry back to base!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.65",
+   "en": "Hikari's repairing it for us! Let's hurry back to base!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.66",
+   "en": "Hikari's repairing it for us! Let's hurry back to base!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.67",
+   "en": "Hikari's repairing it for us! Let's hurry back to base!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.68",
+   "en": "Hikari is repairing it for us! Let's hurry back to the base!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.79",
+   "en": "Just how much meddling will it take before you're satisfied, you Lost Heroes!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.80",
+   "en": "Lost Heroes?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.81",
+   "en": "Indeed. You are heroes who have \"lost\" your power."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.82",
+   "en": "With no real power in this world, you are mere beings who just squawk \"Justice! Justice!\""
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.83",
+   "en": "Now, let's bring this to an end."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.84",
+   "en": "With the special Memory bestowed upon me by the one I serve!!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.1",
+   "en": "What...?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.2",
+   "en": "Three stakes...?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.3",
+   "en": "...!? There's someone inside!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.4",
+   "en": "Three stakes...?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.5",
+   "en": "...!? There's someone inside!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.6",
+   "en": "Three stakes...?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.7",
+   "en": "Hey!? There's somebody in there, dammit!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.8",
+   "en": "Three stakes...?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.9",
+   "en": "...!? There's someone inside!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.10",
+   "en": "Three stakes...?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.11",
+   "en": "...!? There's someone inside!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.12",
+   "en": "Three stakes...?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.13",
+   "en": "...!? There's someone inside!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.16",
+   "en": "Three stakes...?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.17",
+   "en": "...!? There's someone inside!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.18",
+   "en": "Three stakes...?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.19",
+   "en": "...!? There's someone inside!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.20",
+   "en": "A strained voice came from inside the three stakes."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.21",
+   "en": "I am... RX..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.28",
+   "en": "Waaagh!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.30",
+   "en": "All right, I'll save you now!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.31",
+   "en": "Whoa!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.34",
+   "en": "Nwaaagh!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.35",
+   "en": "You're a Kamen Rider too...!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.36",
+   "en": "That's a Kamen Rider. Kamen Rider Black RX, if I remember right."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.38",
+   "en": "Ugh..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.40",
+   "en": "That's a Kamen Rider. Kamen Rider Black RX, if I remember right."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.42",
+   "en": "Ugh..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.44",
+   "en": "That's a Kamen Rider. Kamen Rider Black RX, if I remember right."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.45",
+   "en": "00, commencing rescue operation!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.46",
+   "en": "Ugh..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.47",
+   "en": "A Kamen Rider...? I see. So you're one of our comrades too."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.48",
+   "en": "That's a Kamen Rider. Kamen Rider Black RX, if I remember right."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.49",
+   "en": "Target confirmed. Commencing rescue!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.50",
+   "en": "Ugh..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.52",
+   "en": "That's a Kamen Rider. Kamen Rider Black RX, if I remember right."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.54",
+   "en": "Aaah!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.56",
+   "en": "That's a Kamen Rider. Kamen Rider Black RX, if I remember right."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.57",
+   "en": "All right, hang on! I'll get you out of there in no time!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.58",
+   "en": "Aaah!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.59",
+   "en": "What? A barrier!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.60",
+   "en": "Don't... come near so carelessly... A powerful energy field has been put up here..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.62",
+   "en": "Damn! Isn't there anything we can do...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.63",
+   "en": "Dammit! Can't we do somethin' about this...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.64",
+   "en": "A barrier, huh!? Pullin' some annoying crap like that!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.65",
+   "en": "...Isn't there anything we can do?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.66",
+   "en": "...Isn't there anything we can do?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.67",
+   "en": "...Is there no way to break it?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.68",
+   "en": "...Is there no way to break it?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.69",
+   "en": "...We have to break through this barrier somehow."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.70",
+   "en": "Damn! A barrier! Ain't there some way to bust through it?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.75",
+   "en": "But at this rate..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.76",
+   "en": "But if this keeps up..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.79",
+   "en": "But if this keeps up..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.80",
+   "en": "But we can't just leave you here!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.82",
+   "en": "To my shame, I lost consciousness, and the enemy captured me. And now look at me..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.83",
+   "en": "That's right."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.85",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.86",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.87",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.88",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.89",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.90",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.91",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.92",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.93",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.94",
+   "en": "But they carried them off."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.99",
+   "en": "RX, do you have any idea where Rider 1 and Rider 2 were taken?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.101",
+   "en": "Rider 1 and Rider 2, frozen in ice... Where could they have taken them...?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.102",
+   "en": "Rider 1 and Rider 2, frozen in ice... Where could they have taken them...?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.103",
+   "en": "Rider 1 and Rider 2, frozen in ice... Where could they have taken them...?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.104",
+   "en": "Rider 1 and Rider 2, frozen in ice... Where could they have taken them...?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.105",
+   "en": "From what the enemy was saying... I believe they mentioned the \"Hideout Cube.\""
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.109",
+   "en": "The King Stone!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.110",
+   "en": "The King Stone!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.111",
+   "en": "The King Stone!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.112",
+   "en": "The King Stone!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.113",
+   "en": "The King Stone!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.114",
+   "en": "The King Stone!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.115",
+   "en": "The King Stone!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.116",
+   "en": "The King Stone!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.117",
+   "en": "The King Stone!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.119",
+   "en": "Crush his... Crush The O's ambitions for me."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.120",
+   "en": "Of course!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.122",
+   "en": "Of course."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.123",
+   "en": "Never mind that, I'm worried about you. Is your body gonna hold out?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.124",
+   "en": "Damn right!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.126",
+   "en": "Of course."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.127",
+   "en": "More importantly, RX, it's your body I'm worried about."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.128",
+   "en": "Of course!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.129",
+   "en": "But RX, what about your body...?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.130",
+   "en": "Of course."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.131",
+   "en": "More importantly, will that body of yours hold out?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.132",
+   "en": "Of course."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.133",
+   "en": "More importantly, will that body of yours hold out?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.134",
+   "en": "Of course!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.135",
+   "en": "But your body, it's..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.136",
+   "en": "Of course."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.137",
+   "en": "Never mind that, is your body gonna hold out? You look like you're hurting."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.138",
+   "en": "Don't worry about me... I'm not so weak that something like this will bring me down..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.139",
+   "en": "Ugh..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.140",
+   "en": "Are you all right!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.141",
+   "en": "Are you okay!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.143",
+   "en": "RX!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.144",
+   "en": "RX!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.145",
+   "en": "Are you okay!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.146",
+   "en": "Are you okay!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.147",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.148",
+   "en": "Are you okay!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.151",
+   "en": "All right..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.153",
+   "en": "I see. Got it. We'll come back and save you later, count on it!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.154",
+   "en": "Leave The O to us!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.157",
+   "en": "I see. All right."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.159",
+   "en": "I see. All right."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.161",
+   "en": "I see. All right."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.163",
+   "en": "I see. All right."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.165",
+   "en": "I see. Understood!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.167",
+   "en": "I see. All right."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.1",
+   "en": "It's almost time... At last, the King Stone will be mine..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.2",
+   "en": "...Do this if you like, but my comrades will defeat you, I swear it!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.3",
+   "en": "Comrades...? Ah, you mean them."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.4",
+   "en": "Unfortunately, my enhanced soldiers should have finished them off by now."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.5",
+   "en": "What...!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.7",
+   "en": "That's as far as you go!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.8",
+   "en": "That's as far as you go!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.9",
+   "en": "That's as far as you go!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.10",
+   "en": "That's as far as you go!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.11",
+   "en": "That's as far as you go!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.12",
+   "en": "That's as far as you go!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.13",
+   "en": "That's as far as you go!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.14",
+   "en": "That's as far as you go!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.15",
+   "en": "That's as far as you go!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.16",
+   "en": "I knew you'd be here!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.17",
+   "en": "What...!? You mean you defeated those two..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.18",
+   "en": "But can those weakened bodies of yours withstand this!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.19",
+   "en": "Wh... What is this!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.20",
+   "en": "Wh... What is this!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.21",
+   "en": "Wh... What is this!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.22",
+   "en": "Wh... What is this!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.23",
+   "en": "Wh... What!? What is this...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.24",
+   "en": "Wh... What is this!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.25",
+   "en": "Wh... What the heck is this..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.26",
+   "en": "Wh... What is this!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.27",
+   "en": "Wh... What is this!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.29",
+   "en": "Well? How do you like the taste of my \"Shutdown Beam\"?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.30",
+   "en": "Damn it!! I can't move!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.31",
+   "en": "Damn it!! I can't move!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.32",
+   "en": "Damn it!! I can't move!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.33",
+   "en": "Damn it!! I can't move!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.34",
+   "en": "Damn it!! I can't move!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.35",
+   "en": "Damn it!! I can't move!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.36",
+   "en": "Dammit!! I can't freakin' move!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.37",
+   "en": "Ugh!! I... I can't move!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.38",
+   "en": "Dammit!! I can't budge!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.39",
+   "en": "Tch!! ...Pulling a cheap stunt like this, you bastard!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.40",
+   "en": "Heh heh heh, hahahaha...!! The Crisis Empire's technology isn't half bad after all!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.41",
+   "en": "The \"Shutdown Beam\"... the very thing that once left Black RX unable to transform,"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.42",
+   "en": "a fearsome technology of the Crisis Empire."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.43",
+   "en": "And now, I shall extract the King Stone from RX's body."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.44",
+   "en": "You should feel honored to witness the moment of the century, heroes!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.45",
+   "en": "Stop iiit!! I said stop iiiiit!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.46",
+   "en": "I think not. The King Stone will bring great benefits to our future."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.47",
+   "en": "The preparations for it are already underway. Look, these are the fruits of my research."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.49",
+   "en": "A semi-perpetual engine that far surpasses even the GN Drive..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.50",
+   "en": "Used as the medium for a Colony Laser, it would have the power to destroy a planet."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.51",
+   "en": "...Th... The Earth is in danger!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.52",
+   "en": "...Th... The Earth is in danger!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.53",
+   "en": "...Th... The Earth is in danger!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.54",
+   "en": "...Th... The Earth is in danger!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.55",
+   "en": "...Th... The Earth is in danger!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.56",
+   "en": "...The Earth... is in danger!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.57",
+   "en": "...Th... The Earth's in big trouble!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.58",
+   "en": "...Th... The Earth is in danger!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.59",
+   "en": "...Th... The Earth's in trouble!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.60",
+   "en": "Heh heh heh, hahahaha...!! Perhaps I'll test-fire it on your Earth, then?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.61",
+   "en": "Is this guy... out of his mind!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.62",
+   "en": "The King Stone doesn't exist for something like that!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.63",
+   "en": "Silence!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.64",
+   "en": "The King Stone shows its true worth only when used by a select few geniuses like us!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.65",
+   "en": "You're wrong!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.66",
+   "en": "I, The O, shall show the world the path it must take!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.67",
+   "en": "I won't forgive you... Even if it costs me my life, even if it costs me my body, you at least...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.68",
+   "en": "I'll never forgive you... even if it costs me my life!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.69",
+   "en": "I won't forgive you!! I'll eradicate all that breeds conflict!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.70",
+   "en": "I'll never forgive you! ...I'll act on my emotions!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.71",
+   "en": "Unforgivable! I won't forgive you!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.72",
+   "en": "Don't screw with us! I won't forgive you!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.73",
+   "en": "You bastard... I've heard enough of your mouth!! I can't stand guys like you!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.74",
+   "en": "Unforgivable! I won't forgive you!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.75",
+   "en": "Unforgivable!! I'll never, ever forgive you!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.76",
+   "en": "Laying your raw emotions bare like that...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.77",
+   "en": "Waah!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.78",
+   "en": "Tch!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.79",
+   "en": "Ugh!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.80",
+   "en": "Ngh!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.81",
+   "en": "Waaah!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.82",
+   "en": "Whoa...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.83",
+   "en": "Whoooa there!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.84",
+   "en": "Gwaaah!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.85",
+   "en": "Waagh!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.87",
+   "en": "Heh heh heh... Hahahaha...!! It's too late now!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.88",
+   "en": "...Damn it!! Is this really the end...?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.89",
+   "en": "I... I can't fall... not in a place like this...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.90",
+   "en": "......"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.91",
+   "en": "At that moment, something mysterious happened."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.92",
+   "en": "A blinding light burst from RX's body and neutralized the Shutdown Beam!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.93",
+   "en": "Yes, RX had unleashed the King Stone Flash with every ounce of his strength!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.94",
+   "en": "...My body!! I can move! I can move!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.95",
+   "en": "...My body!! I can move... I can still fight!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.96",
+   "en": "...My body!! It moves... Now I can fight!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.97",
+   "en": "...My body!! ...I can move!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.98",
+   "en": "...My body!! It's moving... All right!! We can do this!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.99",
+   "en": "...My body!! Oh... Now that we can move, this fight is ours!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.100",
+   "en": "...Hell yeah! I can move again!! Now this fight's in the bag!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.101",
+   "en": "...My body's free!! All right! Now I can do this!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.102",
+   "en": "...All right!! Once my body's moving, this fight is mine!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.105",
+   "en": "What!!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.106",
+   "en": "Now's your chance... Strike down The O..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.107",
+   "en": "Right!! Let's do this!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.108",
+   "en": "The O!!! Get out of heeere!!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.109",
+   "en": "I can see it!! There!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.110",
+   "en": "The O!! I will sever that distortion myself!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.111",
+   "en": "The O!! I'll kill you!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.112",
+   "en": "The O!!! Someone like you...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.113",
+   "en": "The O!! Now, count up your sins!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.114",
+   "en": "You've been mocking us long enough!! Here I go, at my climax right from the staaart!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.115",
+   "en": "The O...!! I can't let you live!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.116",
+   "en": "The O!! I couldn't move before, so now I'm gonna cut loose all I want!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.118",
+   "en": "What..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.119",
+   "en": "Ngh... You people... You possess a \"power\" unknown to me!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.120",
+   "en": "But don't think you can beat me!! You brat!!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.122",
+   "en": "Ngh... You people... You possess a \"power\" unknown to me!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.123",
+   "en": "But even that power... will soon be ours as well..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.124",
+   "en": "When that time comes, it will be your end..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.126",
+   "en": "Where The O had vanished, something lay on the ground."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.127",
+   "en": "Obtained the \"Pelucidar Drill\"."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.128",
+   "en": "...Well done."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.129",
+   "en": "RX!! Are you all right!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.130",
+   "en": "RX...!! You okay!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.131",
+   "en": "Are you all right?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.132",
+   "en": "Are you all right?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.133",
+   "en": "RX!! Are you all right!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.134",
+   "en": "RX...!! You okay!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.135",
+   "en": "Hey! RX!! ...You in one piece!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.136",
+   "en": "RX!! Are you all right!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.137",
+   "en": "RX...!! You okay!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.138",
+   "en": "...Yes. But I've used up all my energy."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.139",
+   "en": "Please, take it easy. Let's get you to our base right away!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.140",
+   "en": "Take it easy. I'll get you to our base right away!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.141",
+   "en": "Take it easy. I'll take you to our base at once."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.142",
+   "en": "Take it easy. I'll take you to our base at once."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.143",
+   "en": "Please, take it easy. Let's get you to our base right away."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.144",
+   "en": "Take it easy. We'll get you to our base right away."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.145",
+   "en": "Just take it easy. I'm gettin' ya to our base right now!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.146",
+   "en": "Please, take it easy. Let's get you to our base right away!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.147",
+   "en": "Take it easy. I'll get you to our base right away!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.148",
+   "en": "Aw, hell...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.149",
+   "en": "...Who's there!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.150",
+   "en": "...Geez. If the boss here goes and croaks, what happens to my bonus!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.151",
+   "en": "Arche Gundam!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.152",
+   "en": "Arche Gundam!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.153",
+   "en": "Arche Gundam!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.154",
+   "en": "Arche Gundam!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.155",
+   "en": "Arche Gundam!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.156",
+   "en": "Arche Gundam!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.157",
+   "en": "Arche Gundam!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.158",
+   "en": "Arche Gundam!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.159",
+   "en": "Arche Gundam!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.160",
+   "en": "Whoa there. Nobody's ordered me to fight you lot just yet."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.161",
+   "en": "But I'll be sure to tell the bigwigs all about how you fought just now."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.162",
+   "en": "See ya!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.163",
+   "en": "Hey, wait...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.164",
+   "en": "...Wasn't The O the one pulling his strings?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.165",
+   "en": "...Bigwigs? Wasn't The O the one pulling his strings?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.166",
+   "en": "...Bigwigs? Wasn't The O the one pulling his strings?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.167",
+   "en": "...Wasn't The O the one pulling his strings?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.168",
+   "en": "...Bigwigs, he said? Wasn't Arche working for The O...?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.169",
+   "en": "...\"Higher-ups\"? Wasn't Arche working for The O?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.170",
+   "en": "...\"Higher-ups\"? What on earth does that mean?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.171",
+   "en": "So that means Arche wasn't working for The O after all."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.172",
+   "en": "...\"Higher-ups\"? What does that mean?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.173",
+   "en": "Tch... That guy sure is quick to run away."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.174",
+   "en": "...Looks like someone's still pulling the strings behind this."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.175",
+   "en": "...Looks like someone's still pulling the strings behind this."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.176",
+   "en": "...Looks like someone's still pulling the strings behind this."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.177",
+   "en": "...Looks like someone's still pulling the strings behind this."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.178",
+   "en": "...Looks like someone's still behind all this, Ankh."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.179",
+   "en": "...Looks like someone's still behind all this."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.180",
+   "en": "...Looks like someone's still pulling the strings behind this."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.181",
+   "en": "...It seems someone is still behind all this, Ankh."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.182",
+   "en": "...Looks like someone's still pulling the strings behind this."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.183",
+   "en": "Hey, forget about that. We're heading back to base, now."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.184",
+   "en": "Yeah, you're right."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.185",
+   "en": "Yeah, you're right."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.186",
+   "en": "Yeah, you're right."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.187",
+   "en": "Yeah, you're right."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.188",
+   "en": "Oh, right. We should."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.189",
+   "en": "Yeah, let's."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.190",
+   "en": "Yeah! You got it!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.191",
+   "en": "...You're right!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.192",
+   "en": "You're right!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.195",
+   "en": "{8074} and the others rescued RX and headed for the base."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.196",
+   "en": "Apart from 00, Wing Zero and Seravee, the members of Celestial Being"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.197",
+   "en": "stayed inside the Cube to continue the operation to take its unsecured areas."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.198",
+   "en": "......"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.200",
+   "en": "So this is your base..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.201",
+   "en": "This place seems to exist independently of the other Cubes."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.202",
+   "en": "That's about the size of it."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.203",
+   "en": "And every facility that got absorbed into it is something useful to us..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.204",
+   "en": "Why on earth would that be...?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.205",
+   "en": "Alongside exploring the Cubes, I've also been investigating the base itself."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.206",
+   "en": "We should get to the bottom of the mystery sooner or later."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.207",
+   "en": "By the way, did you learn anything from striking their headquarters?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.208",
+   "en": "......"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.209",
+   "en": "......"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.210",
+   "en": "...I see. That's certainly worrying. Arche Gundam's last words..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.211",
+   "en": "Whoever he meant by \"higher-ups,\" it apparently isn't The O..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.212",
+   "en": "So there's a mastermind in another Cube, after all?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.213",
+   "en": "That's the natural conclusion."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.214",
+   "en": "Everyone...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.215",
+   "en": "RX!! Are you all right now!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.216",
+   "en": "Yeah, I can move well enough now."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.217",
+   "en": "Besides, I can't just lie around in bed when Rider 1 and Rider 2 need saving."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.218",
+   "en": "Right. Our top priority now is rescuing those two."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.219",
+   "en": "If I remember right, it was the \"Hideout Cube,\" wasn't it?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.220",
+   "en": "That must be the Cube where they concentrate on experiments and modification..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.221",
+   "en": "Yeah. The enemy said something like they'd \"re-modify\" them..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.222",
+   "en": "...That settles it."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.223",
+   "en": "But hey, how do we even get to that Cube?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.224",
+   "en": "We should be able to find it by exploring the Ride Dungeon."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.226",
+   "en": "Heh..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.227",
+   "en": "What?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.228",
+   "en": "I had a feeling something like this might come up..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.229",
+   "en": "So I fitted the Ride Machine with the \"Pelucidar Drill\" you guys brought back."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.230",
+   "en": "With it, you should be able to break through the Ride Dungeon's walls."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.231",
+   "en": "Hikari...!! That's awesome!!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.232",
+   "en": "We can always count on you!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.233",
+   "en": "I can't guarantee there's a Cube beyond those walls, but it may open up a path."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.234",
+   "en": "All right! Next stop, the Hideout Cube!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0261.mbb#0.14",
+   "en": "There's something here!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0261.mbb#0.20",
+   "en": "So you're the one who's been looking for me!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0261.mbb#0.25",
+   "en": "You've even got underlings like these...!! I won't let you do as you please!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0261.mbb#0.29",
+   "en": "Obtained Spider Silk."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.1",
+   "en": "Maganac has a request. Hear the details in person at the designated spot. You're asked to come alone."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.6",
+   "en": "So you're the one who'll hear out my request."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.7",
+   "en": "The thing is, the other day I accidentally let a certain weapon get sucked into Antlar's nest."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.8",
+   "en": "Thanks to you all beating Antlar, the magnetic ray is gone, but the nest got buried too."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.9",
+   "en": "I want you to search where the nest was and dig that weapon up."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.10",
+   "en": "I'm counting on you."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.21",
+   "en": "There's a nice weapon buried here, y'know?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.38",
+   "en": "We sniffed this place out first, y'know?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.39",
+   "en": "If you get in our way, we'll take you out, 'kay!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.43",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.44",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.45",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.46",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.47",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.48",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.49",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.50",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.51",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.52",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.53",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.54",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.55",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.56",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.57",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.61",
+   "en": "This is the \"Hyper Mega Launcher,\" isn't it!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.62",
+   "en": "Yeah. You sure know your stuff... Oh, was it originally yours, by any chance?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.63",
+   "en": "Yes, it is."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.64",
+   "en": "I see. Then it's better off with you. Go ahead and use it."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.65",
+   "en": "Obtained \"Hyper Mega Launcher\"."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.66",
+   "en": "Well, I'll report it that way. Thanks!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.71",
+   "en": "This is the \"Hyper Mega Launcher.\""
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.72",
+   "en": "If I remember right, this is... the \"Hyper Mega Launcher.\""
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.73",
+   "en": "If I remember right, this is... the \"Hyper Mega Launcher.\""
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.74",
+   "en": "If I remember right, this is... the \"Hyper Mega Launcher.\""
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.75",
+   "en": "Hey, I think Zeta was goin' on about this... The \"Hyper Mega Launcher,\" was it?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.76",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.77",
+   "en": "If I'm not mistaken, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.78",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.79",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.80",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.81",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.82",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.83",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.85",
+   "en": "Yeah. You sure know your stuff... Oh, did it originally belong to one of your comrades?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.86",
+   "en": "Yeah, it's Zeta Gundam's weapon."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.87",
+   "en": "Yeah, it's Zeta Gundam's weapon."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.88",
+   "en": "Yeah, it's Zeta Gundam's weapon."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.89",
+   "en": "Yeah, it's Zeta Gundam's weapon."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.90",
+   "en": "Yeah, that's gotta be the thing Zeta Gundam was lookin' for."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.91",
+   "en": "Yeah, that's gotta be the thing Zeta Gundam was lookin' for."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.92",
+   "en": "Yes. I think it's the weapon Zeta was looking for."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.93",
+   "en": "Yes, it's most likely the weapon Zeta Gundam was looking for."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.94",
+   "en": "Yes, it's most likely the weapon Zeta Gundam was looking for."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.95",
+   "en": "Yes, it's most likely the weapon Zeta Gundam was looking for."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.96",
+   "en": "Yeah, it's probably the weapon Zeta Gundam was looking for."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.97",
+   "en": "Yes, it's most likely the weapon Zeta Gundam was looking for."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.98",
+   "en": "Yes, it's most likely the weapon Zeta Gundam was looking for."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.100",
+   "en": "I see. Then I'll leave it with you all. Put it to good use in the battles ahead."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.101",
+   "en": "Obtained \"Hyper Mega Launcher\"."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.0",
+   "en": "{F000}"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.1",
+   "en": "Possible Psycommu weapon found in Desert Cube's Military Base. Check it with Nu & Zeta Gundam."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.8",
+   "en": "...There's nothing in it."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.11",
+   "en": "I felt it too..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.12",
+   "en": "Let's go and see..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.13",
+   "en": "Right."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.23",
+   "en": "This way."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.26",
+   "en": "It's not this way."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.29",
+   "en": "It's up ahead."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.30",
+   "en": "It's getting stronger, isn't it?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.35",
+   "en": "It's in here...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.36",
+   "en": "I'm opening it...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.39",
+   "en": "Ngh... Funnels!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.40",
+   "en": "Where are they...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.44",
+   "en": "A Jagd Doga...!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.54",
+   "en": "All of you, just go dooown!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.57",
+   "en": "We did it. With these, the fighting will get a lot easier."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0611.mbb#0.1",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0611.mbb#0.4",
+   "en": "All right, let's catch up with Cherudim and the others!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0673.mbb#0.1",
+   "en": "What're you doing!! Get to the Libra Cannon control room and stop it from firing already!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0673.mbb#0.2",
+   "en": "...These bastards!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0673.mbb#0.3",
+   "en": "Epyon has gone after you!! Please be careful!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0673.mbb#0.5",
+   "en": "Whoa, I don't think so!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0673.mbb#0.6",
+   "en": "Go, now! While you have the chance!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0723.mbb#0.1",
+   "en": "This is the place. The door's open..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.1",
+   "en": "\"You've entered the Ride Dungeon...!! This is it... We're counting on you, understood!? Good luck!!\""
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.25",
+   "en": "Yeah, we'll come back, without fail!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.26",
+   "en": "Yes! We'll come back, without fail!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.27",
+   "en": "Yeah, we'll come back, without fail!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.28",
+   "en": "Yeah, we'll come back, without fail!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.29",
+   "en": "I will live. I'll live, and I'll come back!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.30",
+   "en": "Don't worry... I... I won't die!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.31",
+   "en": "Yeah, we'll come back, without fail!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.32",
+   "en": "Yeah, we'll come back, without fail!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.33",
+   "en": "Yeah, we'll come back, without fail!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.34",
+   "en": "Yeah, you just wait! We're comin' back, count on it!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.35",
+   "en": "Yeah, we'll come back, without fail!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.36",
+   "en": "Yeah, we'll come back, without fail!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.41",
+   "en": "\"If only this body could move, I'd be rushin' over there too... Pathetic, man...\""
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.43",
+   "en": "\"Follow your emotions... That's the right path. Isn't it...?\""
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.49",
+   "en": "You guys... Leave it to me!! I'm gonna crush Regis myself!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.51",
+   "en": "Everyone... Mission accepted!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.52",
+   "en": "Everyone... please leave it to me!! I'll put a stop to Regis's ambitions!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.67",
+   "en": "So this is it..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.68",
+   "en": "So this is it..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.69",
+   "en": "So this is it..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.70",
+   "en": "So this is it..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.71",
+   "en": "So this is it..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.72",
+   "en": "So this is it..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.73",
+   "en": "So this is it..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.74",
+   "en": "So this is it..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.75",
+   "en": "So this is it..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.76",
+   "en": "So this is it..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.77",
+   "en": "So this is it..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.78",
+   "en": "So this is it..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.79",
+   "en": "So this is it..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.80",
+   "en": "So this is it..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.81",
+   "en": "So this is it..."
+  }
+ ]
+}

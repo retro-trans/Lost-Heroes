@@ -1,0 +1,354 @@
+{
+ "slice": "extrasys_001",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Graph/CutScene/Caption_pcG03_FIN_01.mbb#0.6",
+   "en": "Joker Extreme!!"
+  },
+  {
+   "key": "Graph/CutScene/Caption_pcR03_FIN_01.mbb#0.6",
+   "en": "Joker Extreme!!"
+  },
+  {
+   "key": "Graph/CutScene/Caption_pcR04_FIN_01.mbb#0.6",
+   "en": "Joker Extreme!!"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC01/A01/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC01/A02/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC01/A03/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC01/Chip/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC02/A01/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC02/A02/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC02/A03/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC02/A04/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC03/A01/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC03/A02/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC03/A03/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC03/A04/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A03/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A04/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC05/A01/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC05/A02/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC05/A03/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC05/A04/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC06/A01/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC06/A02/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC06/A03/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC06/A04/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC07/A01/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC07/A02/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC07/A03/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC07/A04/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC08/A01/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC08/A02/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC08/A03/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/RC01/Chip/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/RC02/Chip/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/RC03/Chip/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/RC04/Chip/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/RC05/Chip/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/RC06/Chip/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/RC07/Chip/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.22",
+   "en": "Twin Kings"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#1.5",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.160",
+   "en": "Random Cube unlocked."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.60",
+   "en": "Dummy 5"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.25",
+   "en": "Special Attack Cancel"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.220",
+   "en": "{806D} fled!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.78",
+   "en": "Multi"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#2.15",
+   "en": "Capacitor"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.155",
+   "en": "Required: Sub-Quest"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#1.16",
+   "en": "Failed to write to the recording media"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.63",
+   "en": "Game Over"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.307",
+   "en": "Ultraman Zero"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.310",
+   "en": "Transforms by touching the Rider Pass to the Den-O Belt. The possessing Imagin's power fills the Plat Form, forming the Den-Mask and Aura Armor. Ryutaros's Gun Form excels at gunfire and tricky moves."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.30",
+   "en": "New Mobile Report Gundam Wing"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.391",
+   "en": "Gundam Head"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.17",
+   "en": "Psycho Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.277",
+   "en": "Alien Kool"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.35",
+   "en": "Zero"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#1.3",
+   "en": "Your inventory is full.\nSelect an item to discard."
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#0.11",
+   "en": "Base"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.40",
+   "en": "Briefing Room"
+  },
+  {
+   "key": "Table/CutScene/Caption_pcG03_FIN_01.mbb#0.6",
+   "en": "Joker Extreme!!"
+  },
+  {
+   "key": "Table/CutScene/Caption_pcR03_FIN_01.mbb#0.6",
+   "en": "Joker Extreme!!"
+  },
+  {
+   "key": "Table/CutScene/Caption_pcR04_FIN_01.mbb#0.6",
+   "en": "Joker Extreme!!"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.48",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.174",
+   "en": "Shadow Moon"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.54",
+   "en": "<act_ch> breathed<br><use_skill>!!"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.87",
+   "en": "Dummy Skill 10"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#1.87",
+   "en": "Dummy Skill 10"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.87",
+   "en": "Extra Effect s attached"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.62",
+   "en": "Obtained <get_gold> RUG."
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#0.2",
+   "en": "Be careful."
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.17",
+   "en": "Start by thinning out their numbers. It's the basis of every fight."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.40",
+   "en": "Giga Spirit Tab"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.61",
+   "en": "Emerium Ore"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.85",
+   "en": "+5"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.151",
+   "en": "Suzaku Feather"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.54",
+   "en": "Item Searcher"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.40",
+   "en": "Restores 200 SP to one ally.\nTuned for Heroes."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.54",
+   "note": "Source has mis-decoded template tags; rendered as <act_ch>/<br>/<use_skill> like neighbouring rows. Verb means spat/breathed out; chose breathed."
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.62",
+   "note": "Mis-decoded tag decodes (by letter cipher of neighbouring tags) to <get_gold>; followed by the literal currency word RUG, kept as in source (likely dev leftover; game currency elsewhere is M)."
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.22",
+   "note": "Arena match title meaning twin/paired kings; guessed from neighbours (Queen and King, Twin Swords)."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.78",
+   "note": "Short label for Multi-Hit (earlier full label), in the abbreviated-label block."
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#0.11",
+   "note": "Base per glossary ui term; used by return-to-base prompts."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.30",
+   "note": "Series title; official English is New Mobile Report Gundam Wing."
+  }
+ ],
+ "report": "80/80 rows. Uncertain: Twin Kings (arena), Multi (label), Be careful. (dev text), RUG kept literal. No new glossary terms."
+}

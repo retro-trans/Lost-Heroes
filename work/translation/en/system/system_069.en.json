@@ -1,0 +1,342 @@
+{
+ "slice": "system_069",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.391",
+   "en": "To the Decisive Battle!!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.392",
+   "en": "Final Battle! The Dark Ultra Warrior"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.393",
+   "en": "Lost Heroes"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.394",
+   "en": "To an Unknown Cube"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.395",
+   "en": "Main Quest 095"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.396",
+   "en": "Main Quest 096"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.397",
+   "en": "Main Quest 097"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.398",
+   "en": "Main Quest 098"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.399",
+   "en": "Main Quest 099"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.400",
+   "en": "Main Quest 100"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.401",
+   "en": "Explore the dungeon and find a way back to your original world"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.402",
+   "en": "Zeta Gundam seems to be in this world too. Hurry and find and rescue Zeta Gundam"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.403",
+   "en": "Chase the fleeing Spider Man and rescue Methuss"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.404",
+   "en": "Wind has returned to Fuuto and the city's functions are restored. Explore beyond the doors that wouldn't open"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.405",
+   "en": "The weaknesses of Seamons & Seagorath have been revealed! Defeat Seamons & Seagorath together with Mebius and Hikari!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.406",
+   "en": "Find Hikari, who went after Bogal"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.407",
+   "en": "Find and protect Mebius, who was wounded shielding Hikari"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.408",
+   "en": "A powerful enemy presence lurks deep in the area. Proceed with caution"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.409",
+   "en": "Chase the fleeing Negataros!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.410",
+   "en": "Get the Denden Sensor, expose Weather Dopant's true form, and settle things!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.411",
+   "en": "Go check on Rider 1 and Rider 2, who were frozen in ice"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.412",
+   "en": "The frozen Rider 1 and Rider 2 have vanished, and a teleporter has appeared. Are they beyond it? The teleporter may need investigating"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.413",
+   "en": "A devastated world stretches out beyond the teleporter. Continue the search for Rider 1 and Rider 2"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.414",
+   "en": "You will team up with Celestial Being and head for the enemy's base. Explore the Cube until the plan is set"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.415",
+   "en": "Antlar, the magnetic kaiju, is blocking the Ride Gate. To defeat it, you must get the Blue Stone in the legendary town of Baraj"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.416",
+   "en": "You got the Blue Stone in Baraj. Return to Antlar's nest and use the Blue Stone to head for the Ride Gate"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.417",
+   "en": "To break into the Ride Dungeon, a Ride Machine will be built. Collect 3 materials and hand them to Hikari"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.418",
+   "en": "Head out with Cherudim and Arios to retrieve Emerium ore!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.419",
+   "en": "Head out with Deathscythe and Birth to retrieve Gundanium alloy!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.420",
+   "en": "Raid the weapons depot with Sandrock and Heavyarms!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.421",
+   "en": "The Ride Machine is finally complete! Break through the Ride Dungeon and head for the enemy's base!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.422",
+   "en": "You sense a strange presence. Advance through the Cube with caution"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.423",
+   "en": "Kamen Rider Black RX has been captured. Defeat The O and rescue Black RX!!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.424",
+   "en": "The O is going after the King Stone and has headed for Black RX! Save Black RX!!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.425",
+   "en": "You defeated The O and saved Black RX. With your new ally, head for the Hideout Cube!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.426",
+   "en": "The Ride Machine has been fitted with a drill. It should now be able to break through the Ride Dungeon's walls"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.427",
+   "en": "Past the Ride Dungeon lies an eerie research facility. Explore it with caution"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.428",
+   "en": "What tricks does this facility hold? Press on regardless"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.429",
+   "en": "The grasp of modification surgery is closing in on Rider 1! Go rescue Rider 1"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.430",
+   "en": "The Ultra Warriors are about to be executed! Go rescue the Ultra Warriors"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.431",
+   "en": "To plug the modified Bemstar's belly mouth, you need a Polymer Plaster Bomb. Somewhere in the Cube there was a place with sticky ground..."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.432",
+   "en": "You got the Polymer Plaster Bomb! Now you should be able to plug Bemstar's belly mouth!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.433",
+   "en": "With the modified Bemstar defeated, the heroes push deeper into the lab. Watch out for enemies and press on"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.434",
+   "en": "Red King has blocked the passage with rocks. Look for another way"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.435",
+   "en": "The heroes rescued Rider 1 and Rider 2. To smash the rocks blocking the passage, get a high-powered bomb from the armory"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.436",
+   "en": "With Birth's help, you defeated the Giant Greeed (Berserk)! You got a Core Medal and rescued Kanegon. Head to the armory and find the high-powered bomb"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.437",
+   "en": "You got the Spiner from the armory. Return to Red King and blast the rocks with the Spiner!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.438",
+   "en": "The rocks are destroyed and the crucifixion site is near. Are the Ultra Warriors safe? Rescue the Ultra Warriors"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.439",
+   "en": "The heroes have rescued the Ultra Warriors. Giant Yapool awaits at the far end. Fight Giant Yapool and settle this!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.440",
+   "en": "The heroes saw an SOS Ultra Sign. Use the newly acquired drill and head for the next Cube in the Ride Machine!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.441",
+   "en": "The Ultras' home, the \"Land of Light\", is completely covered in ice. Explore the Cube to find the cause"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.442",
+   "en": "The one who sent the Ultra Sign was Ultraman Belial, the strongest and worst ever produced by the Land of Light. Head for the Colosseum to join the game"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.443",
+   "en": "The \"game\" was a martial arts tournament to decide the master of this Cube. Granzairas is defeated. Head to the venue for round 2"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.444",
+   "en": "You beat the elite Over Flag squadron. Next up is Jashrine. Head to the venue for round 3"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.445",
+   "en": "You beat the arch-villain Jashrine. Next up is the aquatic kaijin team led by Shiomaneking. Head to the venue for round 4"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.446",
+   "en": "You beat the aquatic kaijin team. Next up is Mururoa. Head to the venue for round 5"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.447",
+   "en": "You beat Mururoa. But Jack and the others lost. Head to the venue for round 6"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.448",
+   "en": "You head to the match venue but no opponent shows up, and the venue is changed to Ultra Tower. 2 hours left. Hurry to the venue"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.449",
+   "en": "The venue change was a trap set by the Alien Alliance. Somehow you defeat them in your wounded state. Hurry to Plasma Spark Tower!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.450",
+   "en": "Slipping past many traps, you reach the venue. God Gundam, a reliable ally, has joined you. Head to the venue for the finals, round 1"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.451",
+   "en": "With the Core Medals taken from Uva, OOO has grown even stronger! Head to the venue for the finals, round 2"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.452",
+   "en": "With Walter Gundam defeated, you finally hold a ticket to the finals. Head to the final venue and become the winner of the Fight!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.453",
+   "en": "The heroes have beaten Zamsha and Zetton, a subordinate of Master Gundam. Taro is right ahead. Rescue Taro!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.454",
+   "en": "Taro is safe and a new ally has joined. Take the Ride Gate at the back of Ultra Tower's top floor to a new Cube!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.455",
+   "en": "The new Cube was a museum displaying the items Gaoh's gang collected. Advance through the Cube with caution"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.456",
+   "en": "Super Shocker has turned the Cube into a monster zoo that breeds kaiju and kaijin. Enemies are everywhere. Advance carefully"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.457",
+   "en": "From talking with Taboo Dopant, you learn that W's Xtreme Memory is in this Cube. Press on to find the memory"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.458",
+   "en": "You've reached a room with a mechanism. To proceed, you must solve the door's code. What is \"GAIA's Memory\"...?"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.459",
+   "en": "You solved the puzzle and opened the door to a room displaying O Medals. Examine the display stands and search for Core Medals"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.460",
+   "en": "Kazari stole the medals! Chase Kazari!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.461",
+   "en": "You got new Core Medals. But the Xtreme Memory is nowhere to be found. Keep exploring the Cube"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.462",
+   "en": "You got a Key Ring from where Bogal Monst exploded. It might open the door to the special exhibition room. Check the doors that wouldn't open"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.463",
+   "en": "You reached the special exhibition room, where the valuable items are kept. Search for the Xtreme Memory"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.464",
+   "en": "Reach Taboo Dopant, who is at the back of the room!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.465",
+   "en": "The heroes learn the enemy's terrifying plan. To stop it, find the Gaia Gate. This Cube seems to have a hidden basement floor..."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.466",
+   "en": "You defeated Tyrant and destroyed the device attached to the Gaia Gate. Find and destroy the remaining two"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.467",
+   "en": "You defeated Shocker Greeed and destroyed the second device. Only one remains. Hurry"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.468",
+   "en": "You defeated Terror Dopant and the others and stopped the Gaia Impact! Advance to a new Cube and carry out the next operation"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.469",
+   "en": "To retake Veda, the heroes have reached a new Cube. Advance through the dungeon"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.470",
+   "en": "Thanks to Cherudim and the others, you somehow got past the Virgo squad. Trust your allies and press on"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.431",
+   "note": "Source uses a different term for the plaster bomb than the glossary entry; rendered as the glossary Polymer Plaster Bomb."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.458",
+   "note": "The quoted Gaia-memory phrase rendered as GAIA's Memory."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.436",
+   "note": "Source has a trailing line break; dropped."
+  }
+ ],
+ "report": "All 80 rows examined. Uncertain: 0.458 GAIA's Memory wording; 0.438 crucifixion site; 0.442 Colosseum (glossary has Ultra Colosseum). Not in glossary: Ultra Tower, Deathscythe (short form)."
+}

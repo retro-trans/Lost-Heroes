@@ -1,0 +1,2672 @@
+{
+ "_about": "Speaker/character glossary. en = spelling to use everywhere (dialogue + name labels). g = gender for pronouns (m/f/n=unknown or not a person: use 'they'/'it' per note). Gundams are characters named by machine; they speak with their pilots' personalities (voice actor = pilot's). Sources: ja.wikipedia.org/wiki/ロストヒーローズ (cast, original terms), gematsu.com 2014-11 (Regis), Kamen Rider Wiki (kamenrider.fandom.com), Ultraman Wiki (ultra.fandom.com), Gundam Wiki (gundam.fandom.com).",
+ "heroes": [
+  {
+   "jp": "1号",
+   "en": "Rider 1",
+   "full": "Kamen Rider 1",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Takeshi Hongo. Veteran, dignified leader of the Riders."
+  },
+  {
+   "jp": "2号",
+   "en": "Rider 2",
+   "full": "Kamen Rider 2",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Hayato Ichimonji. Easygoing, tough."
+  },
+  {
+   "jp": "BLACK　RX",
+   "en": "Black RX",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Kotaro Minami. Passionate, righteous; foe of the Crisis Empire. Battle cry style."
+  },
+  {
+   "jp": "電王",
+   "en": "Den-O",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Ryotaro possessed by an Imagin; form decides who speaks."
+  },
+  {
+   "jp": "電王　ソードフォーム",
+   "en": "Den-O Sword Form",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Momotaros speaking: brash, rude, hot-headed ('Ore sanjou!' = 'Here I come!')."
+  },
+  {
+   "jp": "電王　ロッドフォーム",
+   "en": "Den-O Rod Form",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Urataros: smooth-talking liar, flirt."
+  },
+  {
+   "jp": "電王　アックスフォーム",
+   "en": "Den-O Ax Form",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Kintaros: gruff, sleepy strongman ('Nakete-de!' = 'You'll cry!')."
+  },
+  {
+   "jp": "電王　ガンフォーム",
+   "en": "Den-O Gun Form",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Ryutaros: childish, bratty ('Kotae wa kiite nai!' = 'I don't care about your answer!')."
+  },
+  {
+   "jp": "モモタロス",
+   "en": "Momotaros",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "ウラタロス",
+   "en": "Urataros",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "キンタロス",
+   "en": "Kintaros",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "リュウタロス",
+   "en": "Ryutaros",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "モモ・ウラ・キン・リュウ",
+   "en": "Momo, Ura, Kin & Ryu",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "ダブル",
+   "en": "W",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Two-in-one Rider; refer to as 'W' (pronounced Double)."
+  },
+  {
+   "jp": "W（翔太郎）",
+   "en": "W (Shotaro)",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Shotaro Hidari: wannabe hard-boiled detective from Fuuto; tries to be cool, actually soft-hearted."
+  },
+  {
+   "jp": "W（フィリップ）",
+   "en": "W (Philip)",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Philip: calm genius, curious, analytical ('Let's look it up')."
+  },
+  {
+   "jp": "W（翔太郎＆フィリップ）",
+   "en": "W (Shotaro & Philip)",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Catchphrase: 'Now, count up your sins!'"
+  },
+  {
+   "jp": "オーズ",
+   "en": "OOO",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Eiji Hino. Kind, selfless wanderer, polite."
+  },
+  {
+   "jp": "アンク",
+   "en": "Ankh",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Greeed (bird), Eiji's prickly partner; rude, sarcastic, obsessed with Core Medals and ice pops."
+  },
+  {
+   "jp": "バース",
+   "en": "Birth",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Kamen Rider Birth (Akira Date): cheerful, money-minded ex-doctor."
+  },
+  {
+   "jp": "アクセル",
+   "en": "Accel",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Ryu Terui: stern policeman. Catchphrase 'Don't ask me.' / 'Shake it off' (振り切るぜ = 'Let's shake it off!')."
+  },
+  {
+   "jp": "アクセルトライアル",
+   "en": "Accel Trial",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "スカル",
+   "en": "Skull",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Sokichi Narumi: Shotaro's late mentor, the real hard-boiled detective."
+  },
+  {
+   "jp": "仮面ライダーコア",
+   "en": "Kamen Rider Core",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Villain (Movie War Core)."
+  },
+  {
+   "jp": "Zガンダム",
+   "en": "Zeta Gundam",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Pilot Kamille Bidan: idealistic, hot-tempered, sensitive (Newtype)."
+  },
+  {
+   "jp": "Ｚガンダム",
+   "en": "Zeta Gundam",
+   "g": "m",
+   "f": "Gundam"
+  },
+  {
+   "jp": "νガンダム",
+   "en": "Nu Gundam",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Pilot Amuro Ray: calm veteran ace, mature."
+  },
+  {
+   "jp": "ゴッドガンダム",
+   "en": "God Gundam",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Pilot Domon Kasshu: hot-blooded martial artist, shouts attacks."
+  },
+  {
+   "jp": "ウイングゼロ",
+   "en": "Wing Zero",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Pilot Heero Yuy: terse, cold, 'Mission accepted.' 'I'll kill you.'"
+  },
+  {
+   "jp": "ダブルオー",
+   "en": "00",
+   "g": "m",
+   "f": "Gundam",
+   "note": "00 Gundam (00 Raiser), read 'Double-O'. Pilot Setsuna F. Seiei: terse, 'I am Gundam.' / 'Target in sight.' Write '00' in dialogue."
+  },
+  {
+   "jp": "ダブルオーの声",
+   "en": "00's Voice",
+   "g": "m",
+   "f": "Gundam"
+  },
+  {
+   "jp": "セラヴィー",
+   "en": "Seravee",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Pilot Tieria Erde: cool, strict, analytical strategist."
+  },
+  {
+   "jp": "セラヴィーの声",
+   "en": "Seravee's Voice",
+   "g": "m",
+   "f": "Gundam"
+  },
+  {
+   "jp": "ケルディム",
+   "en": "Cherudim",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Pilot Lockon Stratos (Lyle): laid-back sniper, joking."
+  },
+  {
+   "jp": "アリオス",
+   "en": "Arios",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Pilot Allelujah Haptism: gentle; alter ego Hallelujah is violent."
+  },
+  {
+   "jp": "デスサイズヘル",
+   "en": "Deathscythe Hell",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Pilot Duo Maxwell: cheerful, wisecracking 'God of Death'."
+  },
+  {
+   "jp": "サンドロック",
+   "en": "Sandrock",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Pilot Quatre: gentle, polite."
+  },
+  {
+   "jp": "ヘビーアームズ",
+   "en": "Heavyarms",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Pilot Trowa: quiet, few words."
+  },
+  {
+   "jp": "アルトロン",
+   "en": "Altron",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Pilot Wufei: proud, obsessed with justice ('Nataku')."
+  },
+  {
+   "jp": "マグアナック",
+   "en": "Maganac",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Maganac Corps (Rashid and Quatre's loyal troops); plural OK."
+  },
+  {
+   "jp": "メタス",
+   "en": "Methuss",
+   "g": "f",
+   "f": "Gundam",
+   "note": "Portrayed as female (Fa Yuiry)."
+  },
+  {
+   "jp": "ハロ",
+   "en": "Haro",
+   "g": "n",
+   "f": "Gundam",
+   "note": "Robot ball; speaks in chirpy repeats."
+  },
+  {
+   "jp": "ウルトラマン",
+   "en": "Ultraman",
+   "g": "m",
+   "f": "Ultra"
+  },
+  {
+   "jp": "セブン",
+   "en": "Seven",
+   "full": "Ultraseven",
+   "g": "m",
+   "f": "Ultra",
+   "note": "Zero's father."
+  },
+  {
+   "jp": "タロウ",
+   "en": "Taro",
+   "full": "Ultraman Taro",
+   "g": "m",
+   "f": "Ultra",
+   "note": "Instructor of Mebius."
+  },
+  {
+   "jp": "メビウス",
+   "en": "Mebius",
+   "full": "Ultraman Mebius",
+   "g": "m",
+   "f": "Ultra",
+   "note": "Mirai: earnest, polite youngest brother."
+  },
+  {
+   "jp": "ゼロ",
+   "en": "Zero",
+   "full": "Ultraman Zero",
+   "g": "m",
+   "f": "Ultra",
+   "note": "Cocky, brash, 'Two thousand years too early!' (2万年早いぜ = 'You're 20,000 years too early!')."
+  },
+  {
+   "jp": "ヒカリ",
+   "en": "Hikari",
+   "full": "Ultraman Hikari",
+   "g": "m",
+   "f": "Ultra",
+   "note": "Scientist of the Land of Light, calm."
+  },
+  {
+   "jp": "ゾフィー",
+   "en": "Zoffy",
+   "g": "m",
+   "f": "Ultra",
+   "note": "Eldest Ultra Brother, commander."
+  },
+  {
+   "jp": "ジャック",
+   "en": "Jack",
+   "full": "Ultraman Jack",
+   "g": "m",
+   "f": "Ultra"
+  },
+  {
+   "jp": "エース",
+   "en": "Ace",
+   "full": "Ultraman Ace",
+   "g": "m",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ウルトラマン?",
+   "en": "Ultraman?",
+   "g": "m",
+   "f": "Ultra"
+  },
+  {
+   "jp": "にせウルトラマン",
+   "en": "Fake Ultraman",
+   "g": "m",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ピグモン",
+   "en": "Pigmon",
+   "g": "n",
+   "f": "Ultra",
+   "note": "Small friendly kaiju; childlike speech."
+  },
+  {
+   "jp": "カネゴン",
+   "en": "Kanegon",
+   "g": "n",
+   "f": "Ultra",
+   "note": "Money-eating kaiju; greedy, comic."
+  },
+  {
+   "jp": "ザムシャー",
+   "en": "Zamsha",
+   "g": "m",
+   "f": "Ultra",
+   "note": "Proud alien swordsman (Mebius); archaic warrior speech."
+  }
+ ],
+ "villains": [
+  {
+   "jp": "リジェス",
+   "en": "Regis",
+   "g": "n",
+   "f": "original",
+   "note": "The final enemy and the name of the alliance of all three worlds' villains. Speaks grandly ('Wa ga na wa...')."
+  },
+  {
+   "jp": "???",
+   "en": "???",
+   "g": "n"
+  },
+  {
+   "jp": "ウルトラマンベリアル",
+   "en": "Ultraman Belial",
+   "g": "m",
+   "f": "Ultra",
+   "note": "Arrogant, sneering dark Ultra."
+  },
+  {
+   "jp": "巨大ヤプール",
+   "en": "Giant Yapool",
+   "g": "m",
+   "f": "Ultra",
+   "note": "Spiteful otherworld tyrant."
+  },
+  {
+   "jp": "ボガール",
+   "en": "Bogal",
+   "g": "n",
+   "f": "Ultra",
+   "note": "Ravenous glutton monster."
+  },
+  {
+   "jp": "ボガールモンス",
+   "en": "Bogal Monst",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ガッツ星人",
+   "en": "Alien Guts",
+   "g": "m",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ナックル星人",
+   "en": "Alien Nackle",
+   "g": "m",
+   "f": "Ultra"
+  },
+  {
+   "jp": "バルタン星人",
+   "en": "Alien Baltan",
+   "g": "m",
+   "f": "Ultra",
+   "note": "'Fofofofo' laugh."
+  },
+  {
+   "jp": "バルキー星人",
+   "en": "Alien Valky",
+   "g": "m",
+   "f": "Ultra"
+  },
+  {
+   "jp": "メトロン星人",
+   "en": "Alien Metron",
+   "g": "m",
+   "f": "Ultra"
+  },
+  {
+   "jp": "アイロス星人",
+   "en": "Alien Iros",
+   "g": "m",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ザラブ星人",
+   "en": "Alien Zarab",
+   "g": "m",
+   "f": "Ultra"
+  },
+  {
+   "jp": "リフレクト星人",
+   "en": "Alien Reflect",
+   "g": "m",
+   "f": "Ultra"
+  },
+  {
+   "jp": "エースキラー",
+   "en": "Ace Killer",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "メビウスキラー",
+   "en": "Mebius Killer",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ジャシュライン",
+   "en": "Jashrine",
+   "g": "m",
+   "f": "Ultra",
+   "note": "Trio of space street-fighter aliens speaking as one; verbal tics ~ジャジャ / ~シュラ / ~イ～ン: render as '-jaja', '-shura', '-een!' suffixes."
+  },
+  {
+   "jp": "レッドキング",
+   "en": "Red King",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ゴモラ",
+   "en": "Gomora",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "エレキング",
+   "en": "Eleking",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ゼットン",
+   "en": "Zetton",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ダダ",
+   "en": "Dada",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "バラバ",
+   "en": "Barabas",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "シーゴラス",
+   "en": "Seagorath",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "シーモンス",
+   "en": "Seamons",
+   "g": "f",
+   "f": "Ultra",
+   "note": "Seagorath's mate."
+  },
+  {
+   "jp": "ベリュドラ",
+   "en": "Beryudora",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "パンドン",
+   "en": "Pandon",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "キングパンドン",
+   "en": "King Pandon",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ケムジラ",
+   "en": "Kemjila",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "タイラント",
+   "en": "Tyrant",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ツインテール",
+   "en": "Twin Tail",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ムルロア",
+   "en": "Mururoa",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ロードラ",
+   "en": "Lodora",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "クレージーゴン",
+   "en": "Crazygon",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "アントラー",
+   "en": "Antlar",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ベムスター",
+   "en": "Bemstar",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ベムスター（改造）",
+   "en": "Bemstar (Modified)",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "バキシム",
+   "en": "Vakishim",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "バードン",
+   "en": "Birdon",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ジェロニモン",
+   "en": "Geronimon",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ルナチクス",
+   "en": "Lunaticks",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "スノーゴン",
+   "en": "Snowgon",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ガンダムヘッド",
+   "en": "Gundam Head",
+   "g": "n",
+   "f": "Gundam"
+  },
+  {
+   "jp": "マスターガンダム",
+   "en": "Master Gundam",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Master Asia (Tohofuhai): Domon's master, grandiose, 'Stupid pupil!' (この馬鹿弟子が = 'You fool of a pupil!')."
+  },
+  {
+   "jp": "ジ・O",
+   "en": "The O",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Paptimus Scirocco: manipulative, aloof genius."
+  },
+  {
+   "jp": "アルケーガンダム",
+   "en": "Arche Gundam",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Ali al-Saachez: sadistic, jeering mercenary."
+  },
+  {
+   "jp": "リボーンズガンダム",
+   "en": "Reborns Gundam",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Ribbons Almark: arrogant Innovade."
+  },
+  {
+   "jp": "ガデッサ",
+   "en": "Gadessa",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Revive Revival (Innovade)."
+  },
+  {
+   "jp": "ガッデス",
+   "en": "Gaddess",
+   "g": "f",
+   "f": "Gundam",
+   "note": "Hiling Care (Innovade); uses GN Fangs."
+  },
+  {
+   "jp": "ガラッゾ",
+   "en": "Garazzo",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Bring Stabity."
+  },
+  {
+   "jp": "ガガ",
+   "en": "Gaga",
+   "g": "n",
+   "f": "Gundam"
+  },
+  {
+   "jp": "マスラオ",
+   "en": "Masurao",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Mr. Bushido: archaic samurai speech, obsessed with 00 ('my beloved Gundam')."
+  },
+  {
+   "jp": "スサノオ",
+   "en": "Susanowo",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Mr. Bushido again."
+  },
+  {
+   "jp": "オーバーフラッグ",
+   "en": "Over Flag",
+   "g": "m",
+   "f": "Gundam"
+  },
+  {
+   "jp": "ガンダムスローネアイン",
+   "en": "Gundam Throne Eins",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Johann Trinity, eldest brother."
+  },
+  {
+   "jp": "ガンダムスローネツヴァイ",
+   "en": "Gundam Throne Zwei",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Michael Trinity, violent younger brother."
+  },
+  {
+   "jp": "ガンダムスローネドライ",
+   "en": "Gundam Throne Drei",
+   "g": "f",
+   "f": "Gundam",
+   "note": "Nena Trinity, bratty sister."
+  },
+  {
+   "jp": "ガンダムエピオン",
+   "en": "Gundam Epyon",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Zechs Merquise."
+  },
+  {
+   "jp": "ハンブラビ",
+   "en": "Hambrabi",
+   "g": "m",
+   "f": "Gundam",
+   "note": "Yazan Gable: thuggish."
+  },
+  {
+   "jp": "ウォルターガンダム",
+   "en": "Walter Gundam",
+   "g": "n",
+   "f": "Gundam"
+  },
+  {
+   "jp": "ガンダムヘブンズソード",
+   "en": "Gundam Heaven's Sword",
+   "g": "m",
+   "f": "Gundam"
+  },
+  {
+   "jp": "グランドガンダム",
+   "en": "Grand Gundam",
+   "g": "m",
+   "f": "Gundam"
+  },
+  {
+   "jp": "グランドマスターガンダム",
+   "en": "Grand Master Gundam",
+   "g": "m",
+   "f": "Gundam"
+  },
+  {
+   "jp": "デビルガンダム",
+   "en": "Devil Gundam",
+   "g": "n",
+   "f": "Gundam"
+  },
+  {
+   "jp": "ビルゴ",
+   "en": "Virgo",
+   "g": "n",
+   "f": "Gundam",
+   "note": "Mobile doll (unmanned)."
+  },
+  {
+   "jp": "トーラス",
+   "en": "Taurus",
+   "g": "n",
+   "f": "Gundam"
+  },
+  {
+   "jp": "レグナント",
+   "en": "Regnant",
+   "g": "n",
+   "f": "Gundam"
+  },
+  {
+   "jp": "ティエレン",
+   "en": "Tieren",
+   "g": "n",
+   "f": "Gundam"
+  },
+  {
+   "jp": "ティエレンタオツー",
+   "en": "Tieren Taozi",
+   "g": "f",
+   "f": "Gundam",
+   "note": "Soma Peries."
+  },
+  {
+   "jp": "ハイザック",
+   "en": "Hi-Zack",
+   "g": "n",
+   "f": "Gundam"
+  },
+  {
+   "jp": "ジムⅡ",
+   "en": "GM II",
+   "g": "n",
+   "f": "Gundam"
+  },
+  {
+   "jp": "ネモA",
+   "en": "Nemo A",
+   "g": "n",
+   "f": "Gundam"
+  },
+  {
+   "jp": "ネモB",
+   "en": "Nemo B",
+   "g": "n",
+   "f": "Gundam"
+  },
+  {
+   "jp": "GN―X",
+   "en": "GN-X",
+   "g": "n",
+   "f": "Gundam"
+  },
+  {
+   "jp": "ヤクト・ドーガ",
+   "en": "Jagd Doga",
+   "g": "n",
+   "f": "Gundam"
+  },
+  {
+   "jp": "バウンド・ドック",
+   "en": "Bound Doc",
+   "g": "n",
+   "f": "Gundam"
+  },
+  {
+   "jp": "デスアーミー",
+   "en": "Death Army",
+   "g": "n",
+   "f": "Gundam"
+  },
+  {
+   "jp": "アヘッド",
+   "en": "Ahead",
+   "g": "n",
+   "f": "Gundam"
+  },
+  {
+   "jp": "アヘッドスマルトロン",
+   "en": "Ahead Smultron",
+   "g": "n",
+   "f": "Gundam"
+  },
+  {
+   "jp": "イカデビル",
+   "en": "Ikadevil",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Shocker monster (Ambassador Shocker's squid)."
+  },
+  {
+   "jp": "ガラガランダ",
+   "en": "Garagaranda",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Ambassador Hell's true form."
+  },
+  {
+   "jp": "シャドームーン",
+   "en": "Shadow Moon",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Nobuhiko, RX's rival 'Century King'."
+  },
+  {
+   "jp": "仮面ライダーガオウ",
+   "en": "Kamen Rider Gaoh",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Gluttonous, 'I'll eat everything.'"
+  },
+  {
+   "jp": "ネガ電王",
+   "en": "Nega Den-O",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "ネガタロス",
+   "en": "Negataros",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Wants an evil organization."
+  },
+  {
+   "jp": "カザリ",
+   "en": "Kazari",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Cat Greeed: sly schemer."
+  },
+  {
+   "jp": "ウヴァ",
+   "en": "Uva",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Insect Greeed: hot-headed."
+  },
+  {
+   "jp": "メズール",
+   "en": "Mezool",
+   "g": "f",
+   "f": "Kamen Rider",
+   "note": "Aquatic Greeed: motherly."
+  },
+  {
+   "jp": "ガメル",
+   "en": "Gamel",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Heavy Greeed: childlike, loves Mezool."
+  },
+  {
+   "jp": "恐竜グリード",
+   "en": "Dinosaur Greeed",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Dr. Kiyoto Maki: nihilist who wants to 'finish' everything beautifully."
+  },
+  {
+   "jp": "ショッカーグリード",
+   "en": "Shocker Greeed",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "巨大グリード暴走態",
+   "en": "Giant Greeed (Berserk)",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "屑ヤミー",
+   "en": "Waste Yummy",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "シャムネコヤミー",
+   "en": "Siamese Cat Yummy",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "カブトヤミー",
+   "en": "Kabuto Yummy",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "ライオンクラゲヤミー",
+   "en": "Lion-Jellyfish Yummy",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "プテラノドンヤミー（雄）",
+   "en": "Pteranodon Yummy (Male)",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "プテラノドンヤミー（雌）",
+   "en": "Pteranodon Yummy (Female)",
+   "g": "f",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "タカカンドロイド",
+   "en": "Taka Candroid",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "ウェザー・D",
+   "en": "Weather Dopant",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Isaka: cold sadist."
+  },
+  {
+   "jp": "テラー・D",
+   "en": "Terror Dopant",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Ryubee Sonozaki: patriarch of the Sonozaki family."
+  },
+  {
+   "jp": "タブー・D",
+   "en": "Taboo Dopant",
+   "g": "f",
+   "f": "Kamen Rider",
+   "note": "Saeko Sonozaki."
+  },
+  {
+   "jp": "マスカレイド・D",
+   "en": "Masquerade Dopant",
+   "g": "n",
+   "f": "Kamen Rider",
+   "note": "Grunts."
+  },
+  {
+   "jp": "マスカレイド・D　A",
+   "en": "Masquerade Dopant A",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "マスカレイド・D　B",
+   "en": "Masquerade Dopant B",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "バイオレンス・D",
+   "en": "Violence Dopant",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "マネー・D",
+   "en": "Money Dopant",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "アームズ・D",
+   "en": "Arms Dopant",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "アイスエイジ・D",
+   "en": "Ice Age Dopant",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "ティーレックス・D",
+   "en": "T-Rex Dopant",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "マグマ・D",
+   "en": "Magma Dopant",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "スイーツ・D",
+   "en": "Sweets Dopant",
+   "g": "f",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "ジュエル・D",
+   "en": "Jewel Dopant",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "ゾーン・D",
+   "en": "Zone Dopant",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "アルティメット・D",
+   "en": "Ultimate Dopant",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "ダミー・D",
+   "en": "Dummy Dopant",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "スカル（ダミー・D）",
+   "en": "Skull (Dummy Dopant)",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "スノーマンイマジン",
+   "en": "Snowman Imagin",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "ライノイマジン",
+   "en": "Rhino Imagin",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "ピンクラビットイマジン",
+   "en": "Pink Rabbit Imagin",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "蜘蛛男",
+   "en": "Spider Man",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Shocker kaijin (Kumo Otoko)."
+  },
+  {
+   "jp": "再生蜘蛛男",
+   "en": "Revived Spider Man",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "蝙蝠男",
+   "en": "Bat Man",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "再生蝙蝠男",
+   "en": "Revived Bat Man",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "かまきり男",
+   "en": "Mantis Man",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "蜂女",
+   "en": "Bee Woman",
+   "g": "f",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "ザンジオー",
+   "en": "Zanjioh",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "シオマネキング",
+   "en": "Shiomaneking",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "ヒルカメレオン",
+   "en": "Hiru-Chameleon",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "トドギラー",
+   "en": "Todogiller",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "再生トドギラー",
+   "en": "Revived Todogiller",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "ゲバコンドル",
+   "en": "Gebacondor",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "鎧武者怪人",
+   "en": "Armored Samurai Kaijin",
+   "g": "m",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "ジャークミドラ",
+   "en": "Jark Midora",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "General Jark's revived form (Crisis Empire)."
+  },
+  {
+   "jp": "メタヘビー",
+   "en": "Metaheavy",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Crisis Empire Kaima Robot."
+  },
+  {
+   "jp": "ガイナニンポー",
+   "en": "Gaina Ninpo",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Crisis Empire Kaima beast-man ninja chief; monkey screech 'Ukikii!'"
+  },
+  {
+   "jp": "グランザイラス",
+   "en": "Granzairas",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Old foe of Black RX; arrogant brawler."
+  },
+  {
+   "jp": "スカル魔",
+   "en": "Skullma",
+   "g": "m",
+   "f": "Kamen Rider",
+   "note": "Crisis Empire."
+  },
+  {
+   "jp": "リジェス兵",
+   "en": "Regis Soldier",
+   "g": "n",
+   "f": "original"
+  },
+  {
+   "jp": "ダミー",
+   "en": "Dummy",
+   "g": "n"
+  },
+  {
+   "jp": "ガディバ",
+   "en": "Gadiva",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "クール星人",
+   "en": "Alien Kool",
+   "g": "m",
+   "f": "Ultra",
+   "note": "speaker id #276 (no CharacterName entry)"
+  },
+  {
+   "jp": "ブラックキング",
+   "en": "Black King",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ガヴァドン",
+   "en": "Gavadon",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "マラサイ",
+   "en": "Marasai",
+   "g": "n",
+   "f": "Gundam"
+  },
+  {
+   "jp": "ガルバルディβ",
+   "en": "Galbaldy Beta",
+   "g": "n",
+   "f": "Gundam"
+  },
+  {
+   "jp": "ベムラー",
+   "en": "Bemular",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "バリケーン",
+   "en": "Baricane",
+   "g": "n",
+   "f": "Ultra"
+  },
+  {
+   "jp": "ハエ男",
+   "en": "Fly Man",
+   "g": "n",
+   "f": "Kamen Rider"
+  },
+  {
+   "jp": "サメクジラ",
+   "en": "Samekujira",
+   "g": "n",
+   "f": "Ultra"
+  }
+ ],
+ "terms": [
+  {
+   "jp": "リジェス",
+   "en": "Regis"
+  },
+  {
+   "jp": "ロストヒーロー",
+   "en": "Lost Hero"
+  },
+  {
+   "jp": "ガイアキューブ",
+   "en": "Gaia Cube"
+  },
+  {
+   "jp": "キューブ",
+   "en": "Cube"
+  },
+  {
+   "jp": "ビギンズキューブ",
+   "en": "Begins Cube"
+  },
+  {
+   "jp": "アジトキューブ",
+   "en": "Hideout Cube"
+  },
+  {
+   "jp": "デザートキューブ",
+   "en": "Desert Cube"
+  },
+  {
+   "jp": "ウルトラキューブ",
+   "en": "Ultra Cube"
+  },
+  {
+   "jp": "ランダム・キューブ",
+   "en": "Random Cube"
+  },
+  {
+   "jp": "ガイアゲート",
+   "en": "Gaia Gate"
+  },
+  {
+   "jp": "ガイアメモリ",
+   "en": "Gaia Memory"
+  },
+  {
+   "jp": "ライドダンジョン",
+   "en": "Ride Dungeon"
+  },
+  {
+   "jp": "ライドマシン",
+   "en": "Ride Machine"
+  },
+  {
+   "jp": "ライドゲート",
+   "en": "Ride Gate"
+  },
+  {
+   "jp": "マイナスエネルギー",
+   "en": "Minus Energy"
+  },
+  {
+   "jp": "HEROスキル",
+   "en": "HERO Skill"
+  },
+  {
+   "jp": "クロスオーバースキル",
+   "en": "Crossover Skill"
+  },
+  {
+   "jp": "ヒーローチーム",
+   "en": "Hero Team"
+  },
+  {
+   "jp": "風都",
+   "en": "Fuuto"
+  },
+  {
+   "jp": "風都タワー",
+   "en": "Fuuto Tower"
+  },
+  {
+   "jp": "ソレスタルビーイング",
+   "en": "Celestial Being"
+  },
+  {
+   "jp": "プトレマイオス",
+   "en": "Ptolemaios"
+  },
+  {
+   "jp": "GN粒子",
+   "en": "GN particles"
+  },
+  {
+   "jp": "コアメダル",
+   "en": "Core Medal"
+  },
+  {
+   "jp": "セルメダル",
+   "en": "Cell Medal"
+  },
+  {
+   "jp": "グリード",
+   "en": "Greeed"
+  },
+  {
+   "jp": "ヤミー",
+   "en": "Yummy"
+  },
+  {
+   "jp": "ドーパント",
+   "en": "Dopant"
+  },
+  {
+   "jp": "イマジン",
+   "en": "Imagin"
+  },
+  {
+   "jp": "ショッカー",
+   "en": "Shocker"
+  },
+  {
+   "jp": "クライシス帝国",
+   "en": "Crisis Empire"
+  },
+  {
+   "jp": "怪魔",
+   "en": "Kaima"
+  },
+  {
+   "jp": "光の国",
+   "en": "Land of Light"
+  },
+  {
+   "jp": "宇宙警備隊",
+   "en": "Space Garrison"
+  },
+  {
+   "jp": "ウルトラ兄弟",
+   "en": "Ultra Brothers"
+  },
+  {
+   "jp": "ウルトラ戦士",
+   "en": "Ultra Warriors"
+  },
+  {
+   "jp": "モビルスーツ",
+   "en": "mobile suit"
+  },
+  {
+   "jp": "モビルドール",
+   "en": "mobile doll"
+  },
+  {
+   "jp": "ニュータイプ",
+   "en": "Newtype"
+  },
+  {
+   "jp": "エメラル鉱石",
+   "en": "Emerium ore"
+  },
+  {
+   "jp": "ガンダニュウム合金",
+   "en": "Gundanium alloy"
+  },
+  {
+   "jp": "ガイアキャノン",
+   "en": "Gaia Cannon"
+  },
+  {
+   "jp": "ナイトブレス",
+   "en": "Knight Brace"
+  },
+  {
+   "jp": "チーム・トリニティ",
+   "en": "Team Trinity"
+  },
+  {
+   "jp": "バラージの青い石",
+   "en": "Blue Stone of Baraj"
+  },
+  {
+   "jp": "ガンダムファイト",
+   "en": "Gundam Fight"
+  },
+  {
+   "jp": "ネガタロス軍団",
+   "en": "Negataros Army",
+   "note": "Full title in 0124: 'The Ever-Victorious Evil Organization: Negataros Army (Working Title)'"
+  },
+  {
+   "jp": "ライドベンダー",
+   "en": "Ride Vendor"
+  },
+  {
+   "jp": "カンドロイド",
+   "en": "Candroid"
+  },
+  {
+   "jp": "タカカン",
+   "en": "Taka Can",
+   "note": "vending-machine voice line: 'TAKA CAN!!'"
+  },
+  {
+   "jp": "ライダーパス",
+   "en": "Rider Pass"
+  },
+  {
+   "jp": "ゼロノス",
+   "en": "Zeronos"
+  },
+  {
+   "jp": "デネブ",
+   "en": "Deneb"
+  },
+  {
+   "jp": "先輩",
+   "en": "Sempai",
+   "note": "ONLY how the Imagin address Momotaros. Other senpai (e.g. OOO about Rider 1/2) -> natural English ('our seniors', or drop it)."
+  },
+  {
+   "jp": "GUYS",
+   "en": "GUYS"
+  },
+  {
+   "jp": "MAT",
+   "en": "MAT"
+  },
+  {
+   "jp": "メビュームシュート",
+   "en": "Mebium Shoot"
+  },
+  {
+   "jp": "ナイトシュート",
+   "en": "Knight Shoot"
+  },
+  {
+   "jp": "エメリウムスラッシュ",
+   "en": "Emerium Slash"
+  },
+  {
+   "jp": "メタルブランディング",
+   "en": "Metal Branding"
+  },
+  {
+   "jp": "超獣",
+   "en": "Choju",
+   "note": "Ultraman Ace 'super beasts'; e.g. 殺し屋超獣 = Assassin Choju"
+  },
+  {
+   "jp": "光学迷彩",
+   "en": "optical camouflage"
+  },
+  {
+   "jp": "インビジブルメモリ",
+   "en": "Invisible Memory"
+  },
+  {
+   "jp": "再生カプセル",
+   "en": "regeneration capsule"
+  },
+  {
+   "jp": "ホンコンシティ",
+   "en": "Hong Kong City"
+  },
+  {
+   "jp": "ダカール",
+   "en": "Dakar"
+  },
+  {
+   "jp": "ロンド・ベル",
+   "en": "Londo Bell"
+  },
+  {
+   "jp": "ジオン",
+   "en": "Zeon"
+  },
+  {
+   "jp": "中央地区",
+   "en": "Central District"
+  },
+  {
+   "jp": "リーオー",
+   "en": "Leo",
+   "note": "Gundam Wing mobile doll; plural Leos"
+  },
+  {
+   "jp": "デンデンセンサー",
+   "en": "Denden Sensor"
+  },
+  {
+   "jp": "デンデンメモリ",
+   "en": "Denden Memory"
+  },
+  {
+   "jp": "メモリガジェット",
+   "en": "Memory Gadget"
+  },
+  {
+   "jp": "宇宙科学技術局",
+   "en": "Space Science Technology Bureau",
+   "note": "Hikari's workplace"
+  },
+  {
+   "jp": "トライアルメモリ",
+   "en": "Trial Memory"
+  },
+  {
+   "jp": "チップ",
+   "en": "chip",
+   "note": "character chip items: 'Obtained X's chip.'"
+  },
+  {
+   "jp": "中継地点",
+   "en": "checkpoint",
+   "note": "dungeon save/heal/warp points"
+  },
+  {
+   "jp": "キャンプメニュー",
+   "en": "Camp Menu"
+  },
+  {
+   "jp": "変身",
+   "en": "Henshin",
+   "note": "transformation cry; narration uses 'transformed'"
+  },
+  {
+   "jp": "俺の必殺技 パート1",
+   "en": "My Special Attack, Part 1",
+   "note": "Momotaros finisher (Part 2 likewise)"
+  },
+  {
+   "jp": "ダイナミックチョップ",
+   "en": "Dynamic Chop"
+  },
+  {
+   "jp": "流砂地帯",
+   "en": "Quicksand Zone"
+  },
+  {
+   "jp": "バラージ",
+   "en": "Baraj",
+   "note": "city"
+  },
+  {
+   "jp": "プトレマイオスⅡ",
+   "en": "Ptolemaios II"
+  },
+  {
+   "jp": "時の砂漠",
+   "en": "Desert of Time",
+   "note": "Den-O"
+  },
+  {
+   "jp": "時間の狭間",
+   "en": "Gap in Time",
+   "note": "Den-O"
+  },
+  {
+   "jp": "アンコ",
+   "en": "Anko",
+   "note": "Birth's nickname for Ankh"
+  },
+  {
+   "jp": "マグアナック隊",
+   "en": "Maganac Corps"
+  },
+  {
+   "jp": "太陽炉",
+   "en": "GN Drive",
+   "note": "never \"Solar Furnace\""
+  },
+  {
+   "jp": "擬似太陽炉",
+   "en": "GN Drive Tau"
+  },
+  {
+   "jp": "キングストーン",
+   "en": "King Stone"
+  },
+  {
+   "jp": "コロニーレーザー",
+   "en": "Colony Laser"
+  },
+  {
+   "jp": "超兵",
+   "en": "Super Soldier",
+   "note": "00 term"
+  },
+  {
+   "jp": "強化人間",
+   "en": "Cyber-Newtype",
+   "note": "UC term for enhanced humans"
+  },
+  {
+   "jp": "量子脳波",
+   "en": "quantum brainwaves"
+  },
+  {
+   "jp": "奇跡の力",
+   "en": "power of miracles"
+  },
+  {
+   "jp": "機能停止ビーム",
+   "en": "Shutdown Beam"
+  },
+  {
+   "jp": "キングストーンフラッシュ",
+   "en": "King Stone Flash"
+  },
+  {
+   "jp": "リボルケイン",
+   "en": "Revolcane"
+  },
+  {
+   "jp": "おやっさん",
+   "en": "Boss",
+   "note": "how Shotaro addresses Skull (Sokichi Narumi)"
+  },
+  {
+   "jp": "異次元人",
+   "en": "the being from another dimension",
+   "note": "Yapool title"
+  },
+  {
+   "jp": "ダミーメモリ",
+   "en": "Dummy Memory"
+  },
+  {
+   "jp": "ペルシダー",
+   "en": "Pelucidar",
+   "note": "Science Patrol drill tank"
+  },
+  {
+   "jp": "DG細胞",
+   "en": "DG Cells"
+  },
+  {
+   "jp": "自己再生・自己増殖・自己進化",
+   "en": "Self-Regeneration, Self-Multiplication, Self-Evolution"
+  },
+  {
+   "jp": "再生怪人",
+   "en": "revived kaijin"
+  },
+  {
+   "jp": "ポリマー粘着弾",
+   "en": "Polymer Plaster Bomb"
+  },
+  {
+   "jp": "サボテンダー",
+   "en": "Sabotendar"
+  },
+  {
+   "jp": "ベロクロン",
+   "en": "Verokron"
+  },
+  {
+   "jp": "四天王",
+   "en": "Four Heavenly Kings"
+  },
+  {
+   "jp": "ショッカー万歳",
+   "en": "Long live Shocker!"
+  },
+  {
+   "jp": "キング・オブ・ハート",
+   "en": "King of Hearts"
+  },
+  {
+   "jp": "爆熱ゴッドフィンガー",
+   "en": "Erupting God Finger",
+   "note": "chant: My hand is burnin' red! Its loud roar tells me to grasp victory! Erupting... God Finger!!"
+  },
+  {
+   "jp": "ネオ生命体",
+   "en": "Neo-Organism"
+  },
+  {
+   "jp": "スパイナー",
+   "en": "Spiner"
+  },
+  {
+   "jp": "ドラス",
+   "en": "Doras"
+  },
+  {
+   "jp": "顔写しの術",
+   "en": "Face-Copying Technique"
+  },
+  {
+   "jp": "怪魔獣人",
+   "en": "Kaima Beastman"
+  },
+  {
+   "jp": "怪魔ロボット",
+   "en": "Kaima Robot"
+  },
+  {
+   "jp": "ゼロスラッガー",
+   "en": "Zero Sluggers"
+  },
+  {
+   "jp": "オーメダル",
+   "en": "O Medals"
+  },
+  {
+   "jp": "ツインドライヴシステム",
+   "en": "Twin Drive System"
+  },
+  {
+   "jp": "親父",
+   "en": "Dad",
+   "note": "Zero addressing Seven"
+  },
+  {
+   "jp": "宇宙人連合",
+   "en": "Alien Alliance"
+  },
+  {
+   "jp": "セルバースト",
+   "en": "CELL BURST"
+  },
+  {
+   "jp": "カラータイマー",
+   "en": "Color Timer"
+  },
+  {
+   "jp": "処刑場の鍵",
+   "en": "Execution Ground Key",
+   "note": "(Left)/(Right) variants"
+  },
+  {
+   "jp": "地球防衛軍",
+   "en": "Terrestrial Defense Force"
+  },
+  {
+   "jp": "ゼロライナー",
+   "en": "Zeroliner"
+  },
+  {
+   "jp": "デンメタル",
+   "en": "Den-Metal"
+  },
+  {
+   "jp": "異次元超人",
+   "en": "superhuman from another dimension"
+  },
+  {
+   "jp": "プラズマスパーク",
+   "en": "Plasma Spark"
+  },
+  {
+   "jp": "プラズマスパークタワー",
+   "en": "Plasma Spark Tower"
+  },
+  {
+   "jp": "怪獣墓場",
+   "en": "Monster Graveyard"
+  },
+  {
+   "jp": "ベリアル軍",
+   "en": "Belial Army"
+  },
+  {
+   "jp": "ギガバトルナイザー",
+   "en": "Giga Battlenizer"
+  },
+  {
+   "jp": "マグネリウムメディカライザー",
+   "en": "Magnerium Medicalizer"
+  },
+  {
+   "jp": "ウルトラサイン",
+   "en": "Ultra Sign"
+  },
+  {
+   "jp": "ウルトラコロセウム",
+   "en": "Ultra Colosseum"
+  },
+  {
+   "jp": "メテオールカートリッジ",
+   "en": "Meteor cartridge"
+  },
+  {
+   "jp": "リジェスファイト",
+   "en": "Regis Fight"
+  },
+  {
+   "jp": "サバイバルイレブン",
+   "en": "Survival Eleven"
+  },
+  {
+   "jp": "テンペラー星人",
+   "en": "Alien Tempera"
+  },
+  {
+   "jp": "エクストリームメモリ",
+   "en": "Xtreme Memory"
+  },
+  {
+   "jp": "宇宙剣豪",
+   "en": "Space Swordsman",
+   "note": "Zamsha title"
+  },
+  {
+   "jp": "流派東方不敗",
+   "en": "School of the Undefeated of the East"
+  },
+  {
+   "jp": "石破天驚拳",
+   "en": "Sekiha Tenkyoken"
+  },
+  {
+   "jp": "覇王獅子",
+   "en": "Lion King of Conquest",
+   "note": "Grand Gundam title; uncertain"
+  },
+  {
+   "jp": "生体ユニット",
+   "en": "Life Core",
+   "note": "Devil Gundam human host (G Gundam English)"
+  },
+  {
+   "jp": "ミュージアム",
+   "en": "Museum",
+   "note": "Sonozaki organization"
+  },
+  {
+   "jp": "タカ・クジャク・コンドル",
+   "en": "Taka, Kujaku, Condor",
+   "note": "Core Medal names, romanized"
+  },
+  {
+   "jp": "最高幹部",
+   "en": "Supreme Executive"
+  },
+  {
+   "jp": "スーパーショッカー",
+   "en": "Super Shocker"
+  },
+  {
+   "jp": "怪物園",
+   "en": "Monster Zoo"
+  },
+  {
+   "jp": "大ショッカー",
+   "en": "Dai-Shocker"
+  },
+  {
+   "jp": "ガイアインパクト",
+   "en": "Gaia Impact"
+  },
+  {
+   "jp": "地球の記憶",
+   "en": "Earth's memories"
+  },
+  {
+   "jp": "ヴェーダキューブ",
+   "en": "Veda Cube"
+  },
+  {
+   "jp": "ジェノサイドキューブ",
+   "en": "Genocide Cube"
+  },
+  {
+   "jp": "カオスキューブ",
+   "en": "Chaos Cube"
+  },
+  {
+   "jp": "ショッカーキューブ",
+   "en": "Shocker Cube"
+  },
+  {
+   "jp": "テラーフィールド",
+   "en": "Terror Field"
+  },
+  {
+   "jp": "イカルス星人",
+   "en": "Alien Icarus"
+  },
+  {
+   "jp": "メフィラス星人",
+   "en": "Alien Mephilas"
+  },
+  {
+   "jp": "",
+   "en": "Innovator",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Innovators",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Terminal Unit",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Reborns",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "リボーンズガンダム",
+   "en": "Reborns Gundam"
+  },
+  {
+   "jp": "",
+   "en": "Veda",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "マグマライザードリル",
+   "en": "Magma Riser Drill"
+  },
+  {
+   "jp": "ペルミダードリル",
+   "en": "Permidar Drill"
+  },
+  {
+   "jp": "",
+   "en": "GUYS Tough Book",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Tector Gear Zero",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Ultra Guard",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Science Patrol",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Beta Capsule",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Specium Ray",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Shiranui",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Unryu",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Maquette Kaiju",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "ソーラジルコン",
+   "en": "Solar Zircon"
+  },
+  {
+   "jp": "GNシールドビット",
+   "en": "GN Shield Bit"
+  },
+  {
+   "jp": "",
+   "en": "Memento Mori",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Barge Cannon",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Libra Cannon",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Gundam Team",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Psycho Gundam Mk-II",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Death Army",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "O Raiser",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Gunner A",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Grand Bandit Gang",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "White Yummy",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Speed Down",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Road Sector",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Battle Hopper",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Psycommu",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Mega Particle Cannon",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "GN Cannon",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Beam Emerald",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Vulcan Cannon",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Beam Vulcan",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Pointer Ray Gun",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Tri-Gar Shot",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Regis Breaker",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "I-Field",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Defense Dome",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Beam Shield",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Ultra Barrier",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Defense Mirror Zero",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "GN Field",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Recovery Unit Alpha",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Recovery Unit Gamma",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Recovery Unit Omega",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Pelucidar Drill",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Ultra Tower",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Mobile Doll",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Reactor Core",
+   "note": "Ride Machine equipment / established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Monsload",
+   "note": "Belial monster summon (モンスロード); not Monster Road"
+  },
+  {
+   "jp": "",
+   "en": "Gaga Squad",
+   "note": "ガガ部隊"
+  },
+  {
+   "jp": "",
+   "en": "Hyper Jammer",
+   "note": "Deathscythe jamming system"
+  },
+  {
+   "jp": "",
+   "en": "Gundam Spiegel",
+   "note": "established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Force Capacity",
+   "note": "established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Volcano Monster Bird",
+   "note": "Birdon title"
+  },
+  {
+   "jp": "",
+   "en": "Monster Chief",
+   "note": "Geronimon title"
+  },
+  {
+   "jp": "",
+   "en": "Ultimate Being",
+   "note": "quoted term (story_146+)"
+  },
+  {
+   "jp": "",
+   "en": "Memory Memory",
+   "note": "Dinosaur Greeed Gaia Memory (Movie War Core); written in double quotes"
+  },
+  {
+   "jp": "",
+   "en": "Hundred Monster",
+   "note": "Beryudora title"
+  },
+  {
+   "jp": "",
+   "en": "Planet Defensor",
+   "note": "official Gundam Wing English (not Planate/Planet Defenser)"
+  },
+  {
+   "jp": "",
+   "en": "Coin Monster",
+   "note": "Kanegon title"
+  },
+  {
+   "jp": "",
+   "en": "Broken O Raiser",
+   "note": "quest item"
+  },
+  {
+   "jp": "",
+   "en": "K-Taros",
+   "note": "official spelling"
+  },
+  {
+   "jp": "",
+   "en": "Climax Form",
+   "note": "established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Neo Japan",
+   "note": "established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Gundam Fighter",
+   "note": "established in translated slices"
+  },
+  {
+   "jp": "",
+   "en": "Pan-Space Interpreter",
+   "note": "Hikari's translator device"
+  },
+  {
+   "jp": "アイス",
+   "en": "ice pop",
+   "note": "Ankh's ice candy; never ice cream (quest title: The Ultimate Ice Pop)"
+  }
+ ],
+ "style": {
+  "sound_effects": "Sound effects and Gaia Memory/Driver voice lines in double quotes: \"SLASH!!!\", \"INVISIBLE\".",
+  "roars": "Keep kaiju/creature roars consistent: check earlier slices' English for the same Japanese roar before inventing one. Established: Bemstar \"Kwaaah-kiiiiiii!!\"; Antlar \"Kiiaaaah~~~!!\"; Bat Man \"Kikikikiki!!\"; Mantis Man \"Gyeeeeeh!!\"; T-Rex Dopant \"Gwaaaargh!!\". Gomora \"Gyaaaaaaaaah!!\" / \"Gwaaaaaaaaah!!\". Shocker kaijin cry \"Igiiiiiiih!!\"; Gomora growl \"Grrruuu...\". Red King \"Kiiigwaaaah!!!\". Shiomaneking \"Abiiih!! Abi-abi!!\". Mururoa \"Gyaaaooooooh!!\". Pandon \"Kiiiiiih!!\" / \"Kih!?\". Mr. Bushido kirisute gomen: \"Cut you dooown!!! Pardon meeeee!!!\". Bogal \"Kweeeeeeeh!!\". King Pandon \"Kih!! Kih!! Kiiiiiiih!!\"; Snowgon \"Gwaaa-gwooo~~~!!\". Tyrant \"Gyiaaaaaaaaah!!\"; Bogal Monst \"Gwaaaaaaaaaaaaaaargh!!!!\". Birdon \"Kiiiiiiiiiih!!\" / \"Kih!! Kih!! Kiiii...ih!!!\". Gundam Head \"Gyurururururu...!!!\". Geronimon \"Grrrr...\". Vakishim \"Fuhaaaah!!\". Alien Metron \"Gwaaaaaagh!!\". Eleking \"Kiiiiiiiiiiih!!\". Seagorath \"Groooooooh!!\"; Seamons \"Kiiiiigwah!!\".",
+  "catchphrases": "Zero: 'You're 20,000 years too early!'; Kintaros: 'You'll cry!'; Ryutaros: 'I don't care about your answer!'; Momotaros: 'Here I come!'; W: 'Now, count up your sins!'; God Gundam: 'My hand is burnin' red!'; Arche Gundam (Ali): 'Not so fast!!' (tokoro ga gicchon)",
+  "honorifics": "Drop -san/-chan/-kun; carry politeness through tone. Exceptions: 'Sempai' (Imagin->Momotaros), 'Master X' for the Maganac addressing their leader. Villain -sama to a superior -> \"Lord X\" (Lord Weather, Lord Ikadevil, Lord Terror Dopant). Ultras to elder brothers -> \"Brother X\".",
+  "den_o_belt": "Den-O belt calls in caps and quotes: \"SWORD FORM\", \"ROD FORM\", \"AX FORM\", \"GUN FORM\".",
+  "fixed_lines": "Momotaros: 'I'm at my climax right from the start!!'; Urataros: 'How about you let me reel you in?'; Kintaros: 'My strength made ya cry. Wipe yer tears with this.'; Lockon: 'Aiming and firing!'",
+  "party_order": "Leader-variant blocks follow the Pt_Chara_Check order in the event script; voice each variant accordingly.",
+  "venues": "Regis Fight match cards: \"Opponent: X\nVenue: Floor 2 Center, City District B\" (Floor N + area, City District X).",
+  "prompts": "Cage/sign prompts: \"Read the sign?\" / \"Unlock the cage?\"",
+  "pigmon": "Pigmon ends sentences with \"ppi\": write it as a \"-pi\" suffix (\"Thank you for saving me-pi!\"), like Jashrine's \"-jaja\". Speech through the Pan-Space Interpreter (katakana/kanji in the source) is ALL CAPS with no contractions: \"YOU ALL. WHAT HAPPENED WITH ALIEN BALTAN?\""
+ },
+ "ui": [
+  {
+   "jp": "物理",
+   "en": "Physical"
+  },
+  {
+   "jp": "間接",
+   "en": "Ranged"
+  },
+  {
+   "jp": "攻撃力",
+   "en": "ATK"
+  },
+  {
+   "jp": "防御力",
+   "en": "DEF"
+  },
+  {
+   "jp": "無効",
+   "en": "Null"
+  },
+  {
+   "jp": "反射",
+   "en": "Reflect"
+  },
+  {
+   "jp": "耐性",
+   "en": "Res"
+  },
+  {
+   "jp": "補助装置",
+   "en": "Support Unit"
+  },
+  {
+   "jp": "回復装置",
+   "en": "Recovery Unit"
+  },
+  {
+   "jp": "拠点",
+   "en": "base"
+  },
+  {
+   "jp": "トランザム",
+   "en": "Trans-Am"
+  },
+  {
+   "jp": "ゼロシステム",
+   "en": "Zero System"
+  },
+  {
+   "jp": "M",
+   "en": "M",
+   "note": "money unit after {806A}"
+  },
+  {
+   "jp": "すれちがい通信",
+   "en": "Passing Link"
+  },
+  {
+   "jp": "神経衰弱",
+   "en": "Concentration"
+  },
+  {
+   "jp": "待機行動",
+   "en": "Idle Actions"
+  },
+  {
+   "jp": "カネゴンカジノ",
+   "en": "Kanegon Casino"
+  },
+  {
+   "jp": "クエストルーム",
+   "en": "Quest Room"
+  },
+  {
+   "jp": "クエストカフェ",
+   "en": "Quest Cafe"
+  },
+  {
+   "jp": "アイテムラボ",
+   "en": "Item Lab"
+  },
+  {
+   "jp": "ゲートポート",
+   "en": "Gate Port"
+  },
+  {
+   "jp": "整備ドック",
+   "en": "Maintenance Bay"
+  },
+  {
+   "jp": "アリーナ",
+   "en": "Arena"
+  },
+  {
+   "jp": "主砲",
+   "en": "Main Cannon"
+  },
+  {
+   "jp": "砲塔",
+   "en": "Gun Turret"
+  },
+  {
+   "jp": "感染",
+   "en": "Infected"
+  },
+  {
+   "jp": "スタン",
+   "en": "Stunned"
+  },
+  {
+   "jp": "パニック",
+   "en": "Panic"
+  },
+  {
+   "jp": "プレッシャー",
+   "en": "Pressure"
+  },
+  {
+   "jp": "ネガティブ",
+   "en": "Negative"
+  },
+  {
+   "jp": "怯み",
+   "en": "Flinch"
+  },
+  {
+   "jp": "アシッド",
+   "en": "Acid"
+  },
+  {
+   "jp": "バーサーク",
+   "en": "Berserk"
+  },
+  {
+   "jp": "気絶",
+   "en": "Unconscious"
+  },
+  {
+   "jp": "ヒーローゲージ",
+   "en": "Hero Gauge"
+  },
+  {
+   "jp": "サイコフィールド",
+   "en": "Psycho Field"
+  },
+  {
+   "jp": "フォース",
+   "en": "Force"
+  },
+  {
+   "jp": "腕力",
+   "en": "Strength"
+  },
+  {
+   "jp": "気力",
+   "en": "Spirit"
+  },
+  {
+   "jp": "技術",
+   "en": "Technique"
+  },
+  {
+   "jp": "集中",
+   "en": "Focus"
+  },
+  {
+   "jp": "精神",
+   "en": "Mind"
+  },
+  {
+   "jp": "マテリアル",
+   "en": "Material"
+  },
+  {
+   "jp": "素材",
+   "en": "materials"
+  },
+  {
+   "jp": "ガーディアン",
+   "en": "Guardian"
+  },
+  {
+   "jp": "作戦会議室",
+   "en": "Briefing Room"
+  },
+  {
+   "jp": "斬撃",
+   "en": "Slash"
+  },
+  {
+   "jp": "バッドステータス耐性アップ",
+   "en": "Status Res Up"
+  },
+  {
+   "jp": "属性耐性アップ",
+   "en": "Element Res Up"
+  },
+  {
+   "jp": "パラメータアップ",
+   "en": "Stat Up"
+  },
+  {
+   "jp": "",
+   "en": "Blind",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Shutdown",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "KO'd",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "鍵束",
+   "en": "Key Ring"
+  },
+  {
+   "jp": "",
+   "en": "Upgrade Material",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Fang",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Horn",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Scale",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Hide",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Carapace",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Shard",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "",
+   "en": "Cilia",
+   "note": "established in translated slices; jp not isolated"
+  },
+  {
+   "jp": "トリモチ",
+   "en": "Birdlime"
+  },
+  {
+   "jp": "信号弾",
+   "en": "Signal Flare"
+  },
+  {
+   "jp": "大復活キット",
+   "en": "Grand Revive Kit"
+  },
+  {
+   "jp": "技能の書",
+   "en": "Skill Book"
+  }
+ ]
+}

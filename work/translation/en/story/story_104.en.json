@@ -1,0 +1,382 @@
+{
+ "slice": "story_104",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0581.mbb#0.79",
+   "en": "All right, then!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.80",
+   "en": "All right, then!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.81",
+   "en": "Right! I'll take you on!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.82",
+   "en": "Understood. I'll take you on."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.83",
+   "en": "Understood. I'll take you on."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.84",
+   "en": "I'm jumping in too!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.85",
+   "en": "Hahahahaha!! That's enough. Fall back, Garagaranda."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.86",
+   "en": "Wh-What... wh-what is this fear...!! ...I can't explain it, but this is bad news!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.87",
+   "en": "What... is this fear...? Damn it!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.88",
+   "en": "What... is this fear...? How unlike me, to be shaken by so little...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.89",
+   "en": "What... is this fear...? How unlike me, to be shaken by so little...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.90",
+   "en": "What... is this fear...? How unlike me, to be shaken by so little...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.91",
+   "en": "Ugh... I'm suddenly trembling... What is this fear...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.92",
+   "en": "Ngh... what is this fear...!! Me, of all people... what the hell's happening to me...!?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.93",
+   "en": "Uuh... I'm suddenly trembling... What is this fear...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.94",
+   "en": "Wh-What the!? I can't stop shakin'...!! I-I ain't scared, got it!! I ain't scared..."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.95",
+   "en": "What... is this fear...? I-I can't stop trembling...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.96",
+   "en": "What is this sensation... fear...? But why...?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.97",
+   "en": "This sensation again... fear...? But why...?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.98",
+   "en": "Ngh... what is this fear...!! To think I'd be shaken by so little...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.99",
+   "en": "Ngh... what is this fear...!! To think I'd be shaken by so little...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.100",
+   "en": "Ngh... what is this fear...!! To think I'd be shaken by so little...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.101",
+   "en": "...Wh-What is this? I've never felt fear like this before...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.102",
+   "en": "Terror Dopant! But the plan isn't finished yet...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.103",
+   "en": "Garagaranda, there is no need to rush."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.104",
+   "en": "...Terror Dopant! I see... so you were the mastermind all along...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.105",
+   "en": "...Terror Dopant!? So you're the mastermind...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.106",
+   "en": "...Terror Dopant!? So you're the mastermind...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.107",
+   "en": "...Terror Dopant!? So you're the mastermind...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.108",
+   "en": "...Terror Dopant!? So you're the mastermind...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.109",
+   "en": "...Terror Dopant!? So you're the mastermind...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.110",
+   "en": "...Terror Dopant!? So you're the mastermind...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.111",
+   "en": "...Terror Dopant!? So you're the mastermind...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.112",
+   "en": "...Terror Dopant!? So yer the one pullin' the strings...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.113",
+   "en": "...Terror Dopant!? So you're the mastermind...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.114",
+   "en": "...Terror Dopant!? So you're the mastermind...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.115",
+   "en": "...Terror Dopant!? So you're the mastermind...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.116",
+   "en": "...Terror Dopant!? So you're the mastermind...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.117",
+   "en": "...Terror Dopant!? So you're the mastermind...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.118",
+   "en": "...Terror Dopant!? So you're the mastermind...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.119",
+   "en": "Indeed. I am the master of this Cube. But how unfortunate for you..."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.120",
+   "en": "Draining the memories here is nearly complete. Besides, losing just one makes little difference."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.121",
+   "en": "What do you mean!? Are there other Gaia Gates!?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.122",
+   "en": "Hahahahaha!! Did you think there was only one Gaia Gate?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.123",
+   "en": "Countless Gaia Gates from all sorts of worlds have been drawn into this place. In other words..."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.124",
+   "en": "I can access the \"Earth's memories\" of every one of those worlds."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.125",
+   "en": "Among them, I'm draining memories from the three Gaia Gates that remain nearly intact..."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.126",
+   "en": "...and installing them into \"Veda.\""
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.127",
+   "en": "Veda!?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.128",
+   "en": "Veda!?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.129",
+   "en": "Veda!?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.131",
+   "en": "All so that, of every world, only what has value to Regis remains..."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.132",
+   "en": "...and everything unnecessary is erased, you see?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.133",
+   "en": "...So that's the \"Gaia Impact\" you spoke of!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.134",
+   "en": "Like hell... I'll let you do that!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.135",
+   "en": "Something like that... I can't allow it!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.136",
+   "en": "I won't... let you do that...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.137",
+   "en": "I won't... let you do that...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.138",
+   "en": "I won't... let you do that...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.139",
+   "en": "I won't... let that happen!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.140",
+   "en": "Like I'd... let you do that!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.141",
+   "en": "I won't... let that happen!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.142",
+   "en": "Y-You're just spoutin' whatever suits you!! I-I ain't lettin' you get away with it!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.143",
+   "en": "I won't... let you do that...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.144",
+   "en": "I-I won't let you!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.145",
+   "en": "I won't let you... do whatever you please!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.146",
+   "en": "Like hell... I'll let you do that!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.147",
+   "en": "Like hell... I'll let you do that!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.148",
+   "en": "Like hell... I'll let you do that!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.149",
+   "en": "Impressive, that you could even stand before me, heroes! Now I'll show you what true terror is!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.150",
+   "en": "Gwah...!! No good... I can't put any strength into my body!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.151",
+   "en": "Uwoh...!! Why...? I can't muster any strength!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.152",
+   "en": "Gwah...!! My strength... I can't muster my strength..."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.153",
+   "en": "Gwah...!! My strength... I can't muster my strength..."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.154",
+   "en": "Gwah...!! My strength... I can't muster my strength..."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.155",
+   "en": "Gwah...!! My strength... I can't muster my strength..."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.156",
+   "en": "Gwah...!! Damn it... my strength's just gone!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.157",
+   "en": "Waaah...!! What!? ...I can't muster any strength!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.158",
+   "en": "Nuooh!? ...M-My strength's gone!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.159",
+   "en": "Uwoh...!! Why...? I can't muster any strength!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0581.mbb#0.79",
+   "note": "Leader blocks in this table follow the post-battle Pt_Chara_Check chain 4,1,13,11,12,14,15,5,3,2,6,7,8,9,10 = W, Rider 1, Taro, Ultraman, Seven, Mebius, Zero, OOO, Den-O, RX, Nu, Zeta, God Gundam, Wing Zero, 00 (key = TextIdOffset+n+1+k). #0.79-83 close the block begun at #0.69: Nu, Zeta, God Gundam, Wing Zero, 00. Wording checks out (Zero/Den-O/God Gundam slots are the rough/hot ones)."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.85",
+   "note": "??? (CHARA_NAME 30) is Terror Dopant, unseen; Garagaranda names him in #0.102."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.86",
+   "note": "Block #0.86-100 per chain: W (Shotaro), Rider 1, Taro, Ultraman, Seven, Mebius, Zero, OOO, Den-O (Momotaros), RX, Nu, Zeta, God Gundam, Wing Zero, 00. 'Rikutsu ja naku' = gut feeling, rendered 'I can't explain it'."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.88",
+   "note": "'Watashi to shita koto ga, kono teido de' = self-reproach at being shaken; rendered 'How unlike me...'. Same wording in Taro/Ultraman/Seven slots."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.97",
+   "note": "Zeta (Kamille) says 'this feeling again', distinct from Nu's line; kept 'again'."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.104",
+   "note": "Block #0.104-118: W's slot (#0.104) has its own wording (no '!?', 'so it was you'), rendered 'all along'; #0.112 is Momotaros ('omee'), roughened."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.120",
+   "note": "'Hitotsu ushinatta tokoro de' = losing one (Gaia Gate); kept 'one' since Accel's next line draws the inference."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.125",
+   "note": "On the traced script path #0.125 is followed directly by #0.131-132; #0.126-130 are not called by this script (possibly cut or used by the NC06 copy of the table). #0.125 phrased to lead into either #0.126 or #0.131."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.126",
+   "note": "'Veda' = the Gundam 00 quantum computer; not in glossary. Speaker inferred as Terror Dopant continuing #0.125; #0.127-129 'Veda!?' unlabelled reactions (likely the Gundam 00 cast). Off script path."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.133",
+   "note": "Accel: 'kisama no iu Gaia Impact' rendered 'the \"Gaia Impact\" you spoke of'. Term is from story_102 (Taboo / Terror); not in glossary."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.134",
+   "note": "Block #0.134-148 per chain. 'Saseru ka' rendered with 'I' as subject (the leader speaking for themself). #0.142 Momotaros: 'tsugou no ii koto bakari' = saying only what's convenient for you; 'yurusanee' rendered 'I ain't lettin' you get away with it'."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.149",
+   "note": "'Yoku, watashi no mae ni tateta na' = mock praise that they could even stand before him (they are paralysed by fear)."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.150",
+   "note": "Block #0.150-164 (continues into story_105): 'chikara ga hairanai' rendered 'can't muster (any) strength'; rough 'hairanee' variants (Zero, Den-O) use 'my strength's gone'."
+  }
+ ],
+ "report": "80/80 rows translated. Leader variants voiced by the script's post-battle Pt_Chara_Check chain (W, Rider 1, Taro, Ultraman, Seven, Mebius, Zero, OOO, Den-O, RX, Nu, Zeta, God Gundam, Wing Zero, 00). Uncertain: #0.85 ??? = Terror Dopant; #0.126-129 off script path, speaker of #0.126 inferred as Terror, 'Veda!?' reactors unknown. Not in glossary: 'Veda', 'Gaia Impact', 'Earth's memories' (follows earlier English)."
+}

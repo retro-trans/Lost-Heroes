@@ -1,0 +1,21 @@
+{
+ "tpc": "Graph/Adv/eff/556/ADV_EFF.tpc",
+ "exact": true,
+ "page": "ADV_EFF_CAP00_5551.tga",
+ "note": "",
+ "boxes": [
+  {
+   "x": 26,
+   "y": 180,
+   "w": 110,
+   "h": 14,
+   "text": "Novice Emerald Cube",
+   "bg": [
+    5,
+    9,
+    13
+   ],
+   "size": 11
+  }
+ ]
+}

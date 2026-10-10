@@ -1,0 +1,386 @@
+{
+ "slice": "story_103",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0576.mbb#0.100",
+   "en": "Most likely, that's the Gaia Gate."
+  },
+  {
+   "key": "MainEventMess0576.mbb#0.101",
+   "en": "Underground, huh... So there's even more below those ruins?"
+  },
+  {
+   "key": "MainEventMess0576.mbb#0.102",
+   "en": "That's what I believe, yes."
+  },
+  {
+   "key": "MainEventMess0576.mbb#0.103",
+   "en": "Then why don't we just hurry up and go check it out?"
+  },
+  {
+   "key": "MainEventMess0576.mbb#0.104",
+   "en": "Exactly. All right, Accel and Birth, you two go with them and start the investigation."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.1",
+   "en": "That's...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.2",
+   "en": "The Gaia Gate... But what's that device?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.3",
+   "en": "That device is draining the Earth's memories out of it. By force..."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.4",
+   "en": "Garagaranda!! So it's you again!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.5",
+   "en": "Garagaranda!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.6",
+   "en": "Garagaranda!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.7",
+   "en": "So you crawled out again! You damn snake bastard!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.8",
+   "en": "Garagaranda!! So it was you after all!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.9",
+   "en": "Garagaranda!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.10",
+   "en": "Garagaranda!! You again!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.11",
+   "en": "Garagaranda!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.12",
+   "en": "Garagaranda!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.13",
+   "en": "Garagaranda!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.14",
+   "en": "Garagaranda!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.15",
+   "en": "Garagaranda!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.16",
+   "en": "Garagaranda!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.17",
+   "en": "Garagaranda!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.18",
+   "en": "Garagaranda!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.19",
+   "en": "Heh heh heh... But it seems you're too late!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.20",
+   "en": "What on earth are you guys up to!?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.21",
+   "en": "You have no need to know. After all, you will all die here..."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.22",
+   "en": "As prey for Tyrant!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.23",
+   "en": "Gyiaaaaaaaaah!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.24",
+   "en": "Tyrant...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.25",
+   "en": "Tyrant...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.26",
+   "en": "Tyrant...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.27",
+   "en": "Tyrant...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.28",
+   "en": "Tyrant...!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.29",
+   "en": "Tyrant...!?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.30",
+   "en": "Tyrant...!?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.31",
+   "en": "Tyrant...!?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.32",
+   "en": "Tyrant...!?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.33",
+   "en": "Tyrant...!?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.34",
+   "en": "Tyrant...!?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.35",
+   "en": "Tyrant...!?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.36",
+   "en": "Tyrant...!?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.37",
+   "en": "Tyrant...!?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.38",
+   "en": "Tyrant...!?"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.39",
+   "en": "You should know it well, no? This is the very Tyrant that once defeated the five Ultra Brothers."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.40",
+   "en": "The best parts of the kaiju you've beaten, fused into one and reborn as the mightiest tyrant kaiju!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.41",
+   "en": "Behold! Behold this body! You should recognize every part of it!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.42",
+   "en": "Barabas's arms, Seagorath's face, Bemstar's torso, Red King's legs, Alien Icarus's ears..."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.43",
+   "en": "So it was Tyrant in that cage!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.44",
+   "en": "So it was Tyrant in that cage!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.45",
+   "en": "So it was Tyrant in that cage!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.46",
+   "en": "So it was Tyrant in that cage!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.47",
+   "en": "So it was Tyrant in that cage!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.48",
+   "en": "So it was Tyrant in that cage!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.49",
+   "en": "So it was Tyrant in that cage!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.50",
+   "en": "So it was Tyrant in that cage!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.51",
+   "en": "So it was Tyrant in that cage!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.52",
+   "en": "So it was Tyrant in that cage!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.53",
+   "en": "So it was Tyrant in that cage!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.54",
+   "en": "So it was Tyrant in that cage!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.55",
+   "en": "So it was Tyrant in that cage!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.56",
+   "en": "So it was Tyrant in that cage!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.57",
+   "en": "So it was Tyrant in that cage!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.59",
+   "en": "Precisely. But taming this thing was no easy task. After all, it breaks out of any cage with ease."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.60",
+   "en": "I see! So that's why we couldn't get near the cage!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.61",
+   "en": "Yes, the \"Terror Field\"... It was held in check by the power of \"fear.\""
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.62",
+   "en": "Gyiah!! Gyiah!! Gyiaaaaaaaaah!!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.63",
+   "en": "Yes, yes, I understand. I'll let you run wild soon enough."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.64",
+   "en": "Fuhahahahahaha!! Its pent-up fighting instinct is about to explode!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.65",
+   "en": "Heroes, are you prepared!? Tyrant!! Now's the time to avenge your years of hatred!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.67",
+   "en": "Th-this can't be...!! My Tyrant!! Curse you... Then I'll finish you with my own hands!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.69",
+   "en": "Bring it on, Garagaranda!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.70",
+   "en": "Bring it on!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.71",
+   "en": "Very well, I'll take you on!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.72",
+   "en": "I'll take you on, then!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.73",
+   "en": "I'll take you on!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.74",
+   "en": "Bring it on, Garagaranda!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.75",
+   "en": "Oh yeah! You wanna fight!? I'll take you on anytime!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.76",
+   "en": "Bring it on, Garagaranda!!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.77",
+   "en": "Oh yeah! You're on, pal!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.78",
+   "en": "Bring it on!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0576.mbb#0.100",
+   "note": "Rows #0.93-104 of table 0576 are not called by 0576.bla (base debrief, speakers unrecovered). Inferred: #0.98/#0.100/#0.102 an investigator who heard the enemy talk (likely Accel, first person 'ore'); #0.101 rough voice; #0.103 casual; #0.104 a leader assigning Accel and Birth. Lines kept neutral enough for any of these speakers."
+  },
+  {
+   "key": "MainEventMess0576.mbb#0.104",
+   "note": "'Accel and Birth too' = they accompany the team; rendered as an instruction from the leader to the two of them."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.3",
+   "note": "Earth's memories (hoshi no kioku) rendered as in earlier slices; 'out of it' = out of the Gaia Gate."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.4",
+   "note": "#0.4-18 leader block (TextIdOffset+3+k). Pt_Chara_Check order 1,4,5,3,2,6,15,7,14,9,10,12,11,8,13 gives Rider 1, W, OOO, Den-O, RX, Nu, Zero, Zeta, Mebius, Wing Zero, 00, Seven, Ultraman, God Gundam, Taro; wording fits (#0.7 'snake bastard' = Momotaros, #0.8 RX). Rider 1's harsher 'kisama' version and #0.10 plain version both kept as 'you again' lines."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.7",
+   "note": "'Hebi yarou' kept at full strength: 'snake bastard'."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.23",
+   "note": "Tyrant's roar has no precedent in the corpus; coined 'Gyiaaaaaaaaah!!' and reused in #0.62."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.24",
+   "note": "#0.24-28 ('...!!', 5 rows) are presumably the Ultra leaders who know Tyrant; #0.29-38 ('...!?', 10 rows) the others. Identical Japanese kept identical."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.40",
+   "note": "Bōkun kaijū rendered 'tyrant kaiju' (Tyrant's official classification, echoing its name)."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.42",
+   "note": "Ikarusu seijin not in glossary: used established English 'Alien Icarus'. Source list layout flattened to one line."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.43",
+   "note": "#0.43 is Taro's line; #0.44-57 are unused identical copies; all rendered identically. #0.58 is empty in the table."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.61",
+   "note": "The Terror Field belongs to Terror Dopant, not Garagaranda, so the dropped subject of 'was holding it down' is rendered passively."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.65",
+   "note": "'Sekinen no urami' = Tyrant's (the defeated kaiju's) long-held grudge against the heroes."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.67",
+   "note": "Spoken after the Tyrant battle (GoToBattle between #0.65 and #0.67)."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.69",
+   "note": "#0.69-83 leader block (TextIdOffset+68+k), order 4,1,13,11,12,14,15,5,3,2,6,7,8,9,10 = W, Rider 1, Taro, Ultraman, Seven, Mebius, Zero, OOO, Den-O, RX, Nu, Zeta, God Gundam, Wing Zero, 00. Matches wording (#0.75 Zero, #0.77 Momotaros). The '00' speaker label on #0.69/#0.70 is the portrait slot, not the actual speaker."
+  }
+ ],
+ "report": "80/80 rows translated. Uncertain: 0576 #0.100-104 speakers unrecovered (base debrief, not called by the dungeon script); leader blocks #0.4-18 and #0.69-83 voiced by Pt_Chara_Check order + wording; Tyrant roar coined; #0.61 Terror Field subject made passive. Not in glossary: Alien Icarus, 'Terror Field', 'tyrant kaiju', 'Gaia Impact' (prior slice)."
+}

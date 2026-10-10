@@ -1,0 +1,134 @@
+{
+ "slice": "extrasys_002",
+ "rows_in_slice": 29,
+ "rows_examined": 29,
+ "rows": [
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.61",
+   "en": "Emerium Ore description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.76",
+   "en": "A weapon that focuses massive destructive power into an extremely small radius. Normal attacks become Light element."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.151",
+   "en": "{8004}3[Rank{8090}] Stat & Res Up{8005}\nSuzaku's blazing red feather"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.54",
+   "en": "Item Searcher"
+  },
+  {
+   "key": "Table/Minigame/MinigameMess.mbb#0.11",
+   "en": "Start the next game?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.204",
+   "en": "No storage media is inserted.\nCreating the custom soundtrack folder needs\n512 KB or more of free space."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.223",
+   "en": "Allies except self"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.125",
+   "en": "Status ailments wear off in fewer turns."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#3.2",
+   "en": "Unused"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.245",
+   "en": "{806D} launched an unblockable attack!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.120",
+   "en": "{806D} attacked with {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.215",
+   "en": "Hero Gauge Up II"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.215",
+   "en": "Hero Gauge Up II"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.125",
+   "en": "Antibody Spirit"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.383",
+   "en": "GN Short Beam Saber"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.49",
+   "en": "Trans-Am System"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.69",
+   "en": "Fist Pump"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#0.5",
+   "en": "Do Nothing"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#1.8",
+   "en": "Cube EX"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#2.11",
+   "en": "Material Gathering EX"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#3.5",
+   "en": "Perform no idle action"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#0.9",
+   "en": "The Casino is fully upgraded!!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#1.9",
+   "en": "The Training Facility is fully upgraded!!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#2.9",
+   "en": "Security Duty is at max level!!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#3.9",
+   "en": "Material Gathering is at max level!!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#4.9",
+   "en": "New prizes were added to the Casino!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#5.9",
+   "en": "Idle members now earn more EXP."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#6.9",
+   "en": "Money earned per person has increased."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#7.9",
+   "en": "Rarer materials can now be found."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.61",
+   "note": "Placeholder description row (source says 'Emerium Ore description'); mirrors neighbouring placeholder rows."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.125",
+   "note": "Antibody Spirit: guess at rendering; matches help text about faster ailment recovery."
+  }
+ ],
+ "report": "29/29 rows. New terms: Antibody Spirit, Item Searcher, GN Short Beam Saber, Suzaku (kept romanized like Genbu)."
+}

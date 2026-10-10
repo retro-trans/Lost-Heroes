@@ -1,0 +1,90 @@
+{
+ "tpc": "Graph/Adv/eff/999/ADV_EFF.tpc",
+ "page": "OP_moji00_4444.tga",
+ "note": "Opening narration, part 2 (in-engine OP, Graph/Adv/eff/999). Lines are separate sprites shown in sequence.",
+ "defaults": {
+  "color": [
+   255,
+   255,
+   255
+  ],
+  "glow": [
+   150,
+   60,
+   180
+  ],
+  "glow_radius": 2,
+  "weight": 0.5,
+  "align": "left",
+  "condense": 0.9
+ },
+ "clear": [
+  [
+   326,
+   44,
+   186,
+   40
+  ],
+  [
+   505,
+   0,
+   7,
+   40
+  ]
+ ],
+ "boxes": [
+  {
+   "x": 0,
+   "y": 0,
+   "w": 237,
+   "h": 39,
+   "text": "Where is this place...?"
+  },
+  {
+   "x": 238,
+   "y": 0,
+   "w": 267,
+   "h": 40,
+   "text": "Why are our powers gone...?"
+  },
+  {
+   "x": 0,
+   "y": 44,
+   "w": 326,
+   "h": 39,
+   "text": "Can we ever return to our world...?"
+  },
+  {
+   "x": 2,
+   "y": 84,
+   "w": 289,
+   "h": 41,
+   "text": "Knowing nothing at all,"
+  },
+  {
+   "x": 2,
+   "y": 127,
+   "w": 335,
+   "h": 37,
+   "text": "justice without power, like a lost child,"
+  },
+  {
+   "x": 64,
+   "y": 212,
+   "w": 372,
+   "h": 44,
+   "text": "set foot in an unknown world.",
+   "color": [
+    0,
+    0,
+    0
+   ],
+   "glow": [
+    120,
+    120,
+    150
+   ]
+  }
+ ],
+ "exact": true
+}

@@ -1,0 +1,390 @@
+{
+ "slice": "story_026",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0215.mbb#0.25",
+   "en": "But the Blue Stone of Baraj is guarded by a stone statue, and we weren't strong enough to take it."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.26",
+   "en": "Huh? Hold on a sec."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.27",
+   "en": "How are we supposed to get something you lot couldn't? This isn't a trap, is it?"
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.28",
+   "en": "...For some reason, that statue looks exactly like an Ultra Warrior."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.29",
+   "en": "It looks exactly like an Ultra Warrior."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.30",
+   "en": "What...!?"
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.31",
+   "en": "Long ago in Baraj, it seems an Ultra Warrior was called \"the God of Noah\"..."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.32",
+   "en": "...and worshipped as their guardian deity."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.34",
+   "en": "So we figured that if an Ultra Warrior went there, they might be able to get it..."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.35",
+   "en": "Though that's nothing more than a guess..."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.36",
+   "en": "Tch, how stupid. Don't come leaning on us over some half-baked hunch!"
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.39",
+   "en": "It's worth a shot."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.40",
+   "en": "We'll take it on."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.41",
+   "en": "I think it's worth a try."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.42",
+   "en": "We'll take it on."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.43",
+   "en": "It's worth a try!"
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.44",
+   "en": "We'll take it on!"
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.45",
+   "en": "It's worth trying."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.46",
+   "en": "We'll take on that request."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.47",
+   "en": "It's worth a try, I guess."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.48",
+   "en": "Let's give it a shot."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.49",
+   "en": "Now this sounds like fun!!"
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.50",
+   "en": "Count me in!"
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.51",
+   "en": "It's worth a shot."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.52",
+   "en": "Fine, let's damn well do it!"
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.53",
+   "en": "Tch... Do whatever you want."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.54",
+   "en": "All right, we're counting on you. Now, as for who'll guide you to Baraj..."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.55",
+   "en": "Now, as for who'll guide you to Baraj..."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.56",
+   "en": "Wing Zero is going to go with you."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.57",
+   "en": "...I'm counting on you."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.58",
+   "en": "That okay with you?"
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.59",
+   "en": "Mission accepted."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.60",
+   "en": "Hey, are we really gonna be fine with a guy like this?"
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.61",
+   "en": "Baraj lies to the west."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.62",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.63",
+   "en": "This is the target point."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.64",
+   "en": "Also, this mission requires an Ultra Warrior in the party."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.65",
+   "en": "Tch, it's a pain, but there's no helping it."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.66",
+   "en": "I'll leave the timing of the mission up to you."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.67",
+   "en": "Wing Zero joined the party!"
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.68",
+   "en": "Got it. Let's head for Baraj."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.69",
+   "en": "Got it. Let's head for Baraj."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.70",
+   "en": "Understood. Let's head for Baraj."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.71",
+   "en": "Got it. Let's head for Baraj."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.72",
+   "en": "Understood. Let's head for Baraj."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.73",
+   "en": "Right, I'm headin' to this Baraj place!"
+  },
+  {
+   "key": "MainEventMess0216.mbb#0.1",
+   "en": "Before you lies a giant antlion pit: \"Antlar's Nest.\""
+  },
+  {
+   "key": "MainEventMess0217.mbb#0.1",
+   "en": "A powerful magnetic force is pulling you in!"
+  },
+  {
+   "key": "MainEventMess0217.mbb#0.2",
+   "en": "It's too dangerous to get any closer!"
+  },
+  {
+   "key": "MainEventMess0217.mbb#0.4",
+   "en": "Looks like you got the Blue Stone of Baraj."
+  },
+  {
+   "key": "MainEventMess0217.mbb#0.5",
+   "en": "Now, quick, throw it into the nest!"
+  },
+  {
+   "key": "MainEventMess0217.mbb#0.6",
+   "en": "Throw the Blue Stone of Baraj in?"
+  },
+  {
+   "key": "MainEventMess0217.mbb#0.8",
+   "en": "{8074} threw the Blue Stone of Baraj into Antlar's Nest!"
+  },
+  {
+   "key": "MainEventMess0217.mbb#0.10",
+   "en": "Kiiaaaah~~~!!"
+  },
+  {
+   "key": "MainEventMess0217.mbb#0.12",
+   "en": "{8074} stared at Antlar's Nest, still clutching the Blue Stone of Baraj."
+  },
+  {
+   "key": "MainEventMess0217.mbb#0.14",
+   "en": "Antlar's Nest vanished!"
+  },
+  {
+   "key": "MainEventMess0217.mbb#0.15",
+   "en": "Did we get it!?"
+  },
+  {
+   "key": "MainEventMess0217.mbb#0.16",
+   "en": "Shall we go check on the \"Ride Gate\"?"
+  },
+  {
+   "key": "MainEventMess0217.mbb#0.17",
+   "en": "What's wrong? Hurry up and throw it in."
+  },
+  {
+   "key": "MainEventMess0218.mbb#0.1",
+   "en": "We've already heard about you from Master Deathscythe Hell."
+  },
+  {
+   "key": "MainEventMess0219.mbb#0.1",
+   "en": "We've been instructed that no one is to go past this point until the operation begins."
+  },
+  {
+   "key": "MainEventMess0219.mbb#0.3",
+   "en": "The infiltration route into the Wasteland Zone is up ahead."
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.1",
+   "en": "There's a stone statue that looks a lot like an Ultra Warrior."
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.2",
+   "en": "It holds the \"Blue Stone of Baraj\" in its hand."
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.4",
+   "en": "Huh? Is that the thing they call the Blue Stone of Baraj?"
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.5",
+   "en": "Ankh tried to snatch the Blue Stone of Baraj."
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.6",
+   "en": "But a mysterious power held it fast to the statue, and it wouldn't come loose."
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.7",
+   "en": "Damn it!! No good, it won't budge an inch."
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.8",
+   "en": "Just as I thought. We need an Ultra Warrior's power."
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.9",
+   "en": "Just as I thought. We need an Ultra Warrior's power."
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.10",
+   "en": "Just as I thought. We need an Ultra Warrior's power."
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.11",
+   "en": "So we really do need an Ultra Warrior's power..."
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.12",
+   "en": "Guess we really do need an Ultra Warrior's power, huh?"
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.13",
+   "en": "Just as I thought. We need an Ultra Warrior's power..."
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.17",
+   "en": "Huh? Is that the thing they call the Blue Stone of Baraj?"
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.18",
+   "en": "Then I'll get it!"
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.19",
+   "en": "Mebius reached out to the statue and grabbed the Blue Stone of Baraj!"
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.20",
+   "en": "All right! Leave it to me!!"
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.21",
+   "en": "Zero reached out to the statue and grabbed the Blue Stone of Baraj!"
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.22",
+   "en": "Obtained the Blue Stone of Baraj."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0215.mbb#0.25",
+   "note": "Continues Arios's explanation from story_025 (#0.24). 'With our strength we couldn't take it' rendered 'we weren't strong enough to take it'."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.28",
+   "note": "#0.29 is a shorter variant of #0.28; #0.30 (no speaker) is a party reaction, kept neutral."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.31",
+   "note": "'Noa no kami' rendered 'the God of Noah' (Ultraman ep. 7 Baraj legend; not in glossary). Singular 'an Ultra Warrior' chosen as the statue is one figure."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.34",
+   "note": "Subject restored as 'we figured' (Heavyarms and Arios's reasoning); source trails off, kept."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.36",
+   "note": "No speaker recovered; voiced as Ankh (rude 'Tch', continues his trap objection in #0.27)."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.39",
+   "note": "#0.39-0.52 are 7 leader-variant pairs in the usual order (Zero, Gundam, Mebius, W, OOO, Momotaros, other Gundam); voiced by register. 'Hikiukeyou' rendered 'We'll take it on' (leader speaking for the team). #0.53 is Ankh's grudging reply."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.57",
+   "note": "No speaker. Read as Heavyarms (opens with '...', as in #0.28) entrusting the job to Wing Zero; #0.58 (Arios?) asks if that's okay, and Wing Zero answers 'Mission accepted.' (#0.59). If #0.57 is Wing Zero addressing the party, 'I'm counting on you' still fits. #0.60 is Ankh."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.68",
+   "note": "#0.68-0.73 are leader variants (only #0.68 labelled Zero); #0.70/#0.72 polite (Mebius/OOO), #0.73 rough (Momotaros)."
+  },
+  {
+   "key": "MainEventMess0216.mbb#0.1",
+   "note": "Quoted 'Antlar no Su' capitalised 'Antlar's Nest' as a named spot in system text; Arios's dialogue keeps lowercase 'nest' (as in story_025)."
+  },
+  {
+   "key": "MainEventMess0217.mbb#0.10",
+   "note": "Antlar's roar romanised; no earlier English precedent for this exact roar (story_027 0225.7 repeats it)."
+  },
+  {
+   "key": "MainEventMess0217.mbb#0.15",
+   "note": "Precedent 0206 #0.15 'Did we get them?'; here singular 'it' (Antlar)."
+  },
+  {
+   "key": "MainEventMess0218.mbb#0.1",
+   "note": "Legacy, badly mis-decoded; speaker label 'Waste Yummy' is wrong. Same shape as 0212 #0.3 (Maganac), so translated identically. Guess."
+  },
+  {
+   "key": "MainEventMess0219.mbb#0.3",
+   "note": "'Kouya Chitai' rendered 'Wasteland Zone' (not in glossary; parallels 'Quicksand Zone')."
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.8",
+   "note": "#0.8-0.13 are leader variants (story_027 0223 labels the parallel set Nu, Zeta, W, OOO, Den-O); #0.8 label 'Wing Zero' likely shifted. Subject restored as 'we'."
+  },
+  {
+   "key": "MainEventMess0222.mbb#0.18",
+   "note": "Labelled Wing Zero, but the polite 'boku' line and the next row (Mebius grabs the stone) show it is Mebius. #0.20 is Zero's variant."
+  }
+ ],
+ "report": "All rows translated. Uncertain: 0218.1 (legacy garble, matched to 0212.3), 0215 #0.57-0.58 speakers inferred, 0222.18 label wrong (Mebius). New terms: 'God of Noah', 'Wasteland Zone', 'Antlar's Nest', Antlar roar."
+}

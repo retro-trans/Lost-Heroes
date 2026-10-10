@@ -1,0 +1,418 @@
+{
+ "slice": "story_010",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0124.mbb#0.162",
+   "en": "Ankh!! Are you one of OOO's comrades?"
+  },
+  {
+   "key": "MainEventMess0124.mbb#0.163",
+   "en": "What!? You know OOO?"
+  },
+  {
+   "key": "MainEventMess0124.mbb#0.164",
+   "en": "Then when you see OOO, hand him this Medal!"
+  },
+  {
+   "key": "MainEventMess0124.mbb#0.165",
+   "en": "Ankh went off somewhere in pursuit of the Siamese Cat Yummy."
+  },
+  {
+   "key": "MainEventMess0124.mbb#0.166",
+   "en": "Obtained a new Core Medal! OOO can now use a new skill."
+  },
+  {
+   "key": "MainEventMess0124.mbb#0.167",
+   "en": "Tch! Hey, you lot, lend me a hand!!"
+  },
+  {
+   "key": "MainEventMess0124.mbb#0.168",
+   "en": "Yeah, like we're just gonna sit here and take it!"
+  },
+  {
+   "key": "MainEventMess0124.mbb#0.169",
+   "en": "I'll show 'em!"
+  },
+  {
+   "key": "MainEventMess0124.mbb#0.170",
+   "en": "All right, let's do this!"
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.1",
+   "en": "Yo!! We meet again!!"
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.2",
+   "en": "So? Did you find Negataros?"
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.4",
+   "en": "{8074} handed the Rider Pass to Momotaros."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.6",
+   "en": "Whoa!! You guys are freakin' amazing!! Never thought you'd actually go and get it back!!"
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.7",
+   "en": "Never thought you'd actually go and get it back!!"
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.8",
+   "en": "Wow! Wowww!"
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.9",
+   "en": "Your strength... has made ME cry!"
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.10",
+   "en": "I don't suppose you got the spare Pass back for us too?"
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.11",
+   "en": "Well, actually... we let Negataros get away from us..."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.12",
+   "en": "So the spare Pass is still..."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.13",
+   "en": "Nah, truth is... we let Negataros slip away..."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.14",
+   "en": "So the spare Pass is still..."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.15",
+   "en": "No... actually, we let Negataros escape..."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.16",
+   "en": "So the spare Pass is still..."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.17",
+   "en": "Well, actually... we let Negataros get away from us..."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.18",
+   "en": "So the spare Pass is still..."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.19",
+   "en": "Nah, actually... we let Negataros give us the slip..."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.20",
+   "en": "So the spare Pass is still..."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.21",
+   "en": "Don't sweat it!"
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.22",
+   "en": "That Negataros is MY prey."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.23",
+   "en": "So, which way'd the bastard run?"
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.24",
+   "en": "...Gotcha. That way, huh?"
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.25",
+   "en": "Aaalright!! Here I go, here I go, here I gooo!!!"
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.26",
+   "en": "Here I go, here I go, here I gooo!!!"
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.27",
+   "en": "Ah, Sempai!!"
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.28",
+   "en": "Hold it right there!!"
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.1",
+   "en": "Y-You all..."
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.2",
+   "en": "Hikari!! You okay!?"
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.3",
+   "en": "Ultraman Hikari!! Are you all right!?"
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.4",
+   "en": "Ultraman Hikari!! Are you all right!?"
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.5",
+   "en": "Hikari!! You okay!?"
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.6",
+   "en": "Hikari!! Are you all right!?"
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.7",
+   "en": "I'm sorry... After that, I went after Bogal..."
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.8",
+   "en": "How careless of me... I ended up getting beaten back instead."
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.9",
+   "en": "If Mebius hadn't saved me back then, by now I'd be..."
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.10",
+   "en": "So that's what happened... Then where's Mebius!?"
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.11",
+   "en": "I see... Then where is this Ultraman Mebius!?"
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.12",
+   "en": "So that's what happened... Then where is Mebius!?"
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.13",
+   "en": "So that's what happened... Then where's Mebius!?"
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.14",
+   "en": "So that's what happened... Then where is Mebius!?"
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.15",
+   "en": "After Mebius let me escape, enemy reinforcements surrounded him... and they carried him off."
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.16",
+   "en": "I can't just stay here... I have to... go save him..."
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.17",
+   "en": "...!! ...Ngh..."
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.18",
+   "en": "The damage Hikari had taken from Bogal was far worse than it had seemed."
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.19",
+   "en": "You can't, not with that wound!! Let's get back to base and get you treated!!"
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.20",
+   "en": "You can't, not with that wound. Let's get back to base and treat it."
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.21",
+   "en": "You can't, not with that wound. Let's get back to base and get you treated!"
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.22",
+   "en": "With that wound, it's impossible. You'd be better off returning to base for treatment."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.1",
+   "en": "{8074} and the others returned to base."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.2",
+   "en": "Once at the base, Hikari was placed in a regeneration capsule..."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.3",
+   "en": "......"
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.4",
+   "en": "...And then..."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.5",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.6",
+   "en": "Brother Hikari...!"
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.7",
+   "en": "Are you okay to be up already!?"
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.8",
+   "en": "Yeah, well enough to move around, anyway."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.9",
+   "en": "That's Brother Hikari for you! You bounced back fast!"
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.10",
+   "en": "I owe it to the regeneration capsule."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.11",
+   "en": "Is that another piece of equipment that got pulled into the base?"
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.12",
+   "en": "Yeah, and there's all kinds of other stuff too, y'know?"
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.13",
+   "en": "Stuff like this..."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.14",
+   "en": "This..."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.15",
+   "en": "And there's this, too."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.16",
+   "en": "I see. It looks like all of these would run again if they were repaired."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.17",
+   "en": "If you go through the back room, there's a place that's like a big junk heap."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.18",
+   "en": "If we dig around there, we might turn up more useful stuff."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.19",
+   "en": "Hikari, do you have a moment?"
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.20",
+   "en": "We were just discussing how to rescue Mebius,"
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.21",
+   "en": "and we hoped you might have some kind of lead."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.22",
+   "en": "A lead..."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.23",
+   "en": "Anything at all. Please, tell us."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0124.mbb#0.162",
+   "note": "Zeta Gundam (Kamille) asks the same comrade question W/Zero/Nu asked in story_009; 'comrades' for nakama."
+  },
+  {
+   "key": "MainEventMess0124.mbb#0.164",
+   "note": "'this Medal' kept generic; row 0.166 identifies it as a Core Medal. Ankh asks the listener to deliver it, so the imperative is correct here."
+  },
+  {
+   "key": "MainEventMess0124.mbb#0.166",
+   "note": "System/notification line, no speaker."
+  },
+  {
+   "key": "MainEventMess0124.mbb#0.167",
+   "note": "Different branch from 0.163-0.166 (Ankh asks the party to fight alongside him); 0.168-0.170 are party replies."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.4",
+   "note": "'Rider Pass' is the established Den-O English term; not in glossary. {8074} = party/leader name variable."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.7",
+   "note": "No speaker; truncated alternate of Momotaros's 0.6 line."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.9",
+   "note": "Kintaros inverts his catchphrase ('my strength makes you cry' -> 'your strength made me cry'); capital ME keeps the twist."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.11",
+   "note": "0.11-0.20: identical Japanese pair for each possible party leader (OOO, W, Nu, Zeta, Zero); light voice variation only, meaning unchanged. Subject 'we' restored (the party let Negataros escape)."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.23",
+   "note": "Momotaros's rough 'yatsu' rendered 'the bastard' to keep his rudeness toward Negataros (glossary g=m)."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.25",
+   "note": "Momotaros catchphrase 'Iku ze iku ze iku ze' = 'Here I go, here I go, here I go'. 0.26 is a speakerless alternate of the same shout."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.27",
+   "note": "Urataros calls Momotaros 'senpai'; kept as 'Senpai' (standard in Den-O fan English). Not in glossary."
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.28",
+   "note": "Kintaros's Kansai 'matan-kai' -> 'Hold it right there!!'"
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.6",
+   "note": "OOO adds the honorific -san; dropped rather than inventing a title (consistent with story_002 handling of OOO's -san). Same in 0.14."
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.8",
+   "note": "'Ore to shita koto ga' = self-reproach ('How careless of me'); 'kaeriuchi' = he went on the attack and was beaten instead. Bogal (g=n) not named, so no pronoun needed."
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.15",
+   "note": "Mebius is male per glossary; 'they carried him off' restores the agent (the reinforcements) for the passive."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.1",
+   "note": "MainEventMess0128 has no recovered speakers. The Base version of this same scene (MainEventMess0902, story_180) has speakers: Zero = 0.6/0.7/0.9/0.12-0.18, Hikari = 0.8/0.10/0.11/0.16/0.22, Nu Gundam = 0.19-0.21; 0.23 unknown (likely Nu). Translated on that basis."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.6",
+   "note": "This dungeon variant has the speaker (Zero per the 0902 parallel) call Hikari 'Hikari-niisan'; the 0902 version just says 'Hikari'. Kept faithful as 'Brother Hikari' (Ultra 'Brother X' convention). Odd for Zero; reviewer may want to check which file the game actually shows."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.9",
+   "note": "Same 'niisan' as 0.6 -> 'That's my brother for you!'"
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.11",
+   "note": "Hikari is asking about the regeneration capsule (row 0.10); 'that' refers to it."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.20",
+   "note": "One sentence cut across 0.20/0.21; English cut at the matching point (comma / lowercase continuation)."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.23",
+   "note": "Speaker not recovered even in the 0902 parallel; most likely Nu Gundam continuing 0.19-0.21. 'tell us' chosen since the group was discussing the rescue."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.9",
+   "note": "proofread: 'my brother' implied literal kinship; source is the Ultra 'Brother X' address (same as 0.6)"
+  }
+ ],
+ "report": "80/80 rows examined. MainEventMess0128 speakers inferred from the Base parallel scene MainEventMess0902 (story_180); 0128.6/0.9 'niisan' kept as 'Brother Hikari' though odd for Zero; 0128.23 speaker uncertain (likely Nu Gundam). Names/terms not in glossary: Rider Pass, Senpai, regeneration capsule (from story_002)."
+}

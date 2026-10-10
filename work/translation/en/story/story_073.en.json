@@ -1,0 +1,414 @@
+{
+ "slice": "story_073",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0422.mbb#0.27",
+   "en": "Hell yeah!"
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.28",
+   "en": "Good!"
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.29",
+   "en": "We did it."
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.30",
+   "en": "We did it...!"
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.31",
+   "en": "Allll right!"
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.32",
+   "en": "All right! We did it!!"
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.33",
+   "en": "We did it!"
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.34",
+   "en": "Well done!"
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.35",
+   "en": "Good!"
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.36",
+   "en": "All right, we did it!"
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.37",
+   "en": "Mission complete."
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.38",
+   "en": "Target eliminated."
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.41",
+   "en": "The details of the next match appeared on the monitor."
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.42",
+   "en": "Opponent: Aquatic Kaijin Team\nVenue: Floor 2 North, City Outskirts"
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.43",
+   "en": "City Outskirts...? Looks like it's on Floor 2."
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.44",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.45",
+   "en": "So our next opponents are the Aquatic Kaijin Team."
+  },
+  {
+   "key": "MainEventMess0423.mbb#0.1",
+   "en": "This is Floor 2. The next venue was the City Outskirts, right?"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.1",
+   "en": "Beam ropes...? So it's someone else's match..."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.2",
+   "en": "Hmph. Guess I'll stick around and watch a bit."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.3",
+   "en": "Valky... Do you, too, seek to make a name for yourself by striking down Zamsha?"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.4",
+   "en": "What else would I be here for!!"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.5",
+   "en": "Forgive me, but I have no time to waste on small fry."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.6",
+   "en": "What did you say!? ...Dyaah!!"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.7",
+   "en": "Hmph!!"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.8",
+   "en": "Don't you make me mad!! Come ooon, bring iiit!!"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.9",
+   "en": "...Heh."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.10",
+   "en": "Nnnghhhh...!!"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.11",
+   "en": "...Hmph!"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.12",
+   "en": "You bastard...!!"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.13",
+   "en": "Hah!! Haah!! Dyaaaaah!!"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.14",
+   "en": "Gwah...!!"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.15",
+   "en": "...I-I have failed..."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.17",
+   "en": "Zamsha... What incredible skill!! He's not called the Space Swordsman for nothing...!"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.18",
+   "en": "So that's the Space Swordsman everyone's talking about."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.19",
+   "en": "He's every bit as good as the rumors say."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.20",
+   "en": "He's every bit as good as the rumors say."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.21",
+   "en": "Those moves aren't just for show...!"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.22",
+   "en": "That's incredible...!"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.23",
+   "en": "...Zamsha, the Space Swordsman. I'll remember that."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.24",
+   "en": "...So that's Zamsha, the Space Swordsman. I'll remember him."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.25",
+   "en": "S-strong doesn't even begin to cover it..."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.26",
+   "en": "...That's one guy I wouldn't want as an enemy."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.27",
+   "en": "H-he's pretty damn good!!"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.28",
+   "en": "...That's one guy I wouldn't want as an enemy."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.29",
+   "en": "...Moves like that... He's no ordinary fighter!"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.33",
+   "en": "Zamsha... So there was a guy like this out here...!!"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.34",
+   "en": "Yeah. Also known as the Space Swordsman..."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.35",
+   "en": "He's every bit as good as the rumors say."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.36",
+   "en": "He's every bit as good as the rumors say."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.37",
+   "en": "Those moves aren't just for show...!"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.38",
+   "en": "That's incredible...!"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.39",
+   "en": "...Zamsha. I'll remember that."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.40",
+   "en": "...So that's Zamsha. I'll remember him."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.41",
+   "en": "S-strong doesn't even begin to cover it..."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.42",
+   "en": "...That's one guy I wouldn't want as an enemy."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.43",
+   "en": "H-he's pretty damn good!!"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.44",
+   "en": "...That's one guy I wouldn't want as an enemy."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.45",
+   "en": "...Moves like that... He's no ordinary fighter!"
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.50",
+   "en": "Zamsha noticed {8074} and the team and came over to speak to them."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.52",
+   "en": "I seek battle with the strong."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.53",
+   "en": "If you are truly strong, we shall surely face each other in the finals."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.54",
+   "en": "I look forward to that day. Until we meet again."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.1",
+   "en": "The City Outskirts. So this is the match venue... You ready?"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.5",
+   "en": "Tch, we don't have time to spare. Hurry it up."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.8",
+   "en": "Come out!! I'll be your opponent!!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.9",
+   "en": "Looks like they're here."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.10",
+   "en": "Abiiih!! Abi-abi! Abiiih!!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.12",
+   "en": "So it's you!? Shiomaneking!!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.13",
+   "en": "We meet again!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.14",
+   "en": "This place will be your graveyard!!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.15",
+   "en": "That's my line!!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.23",
+   "en": "All right... Looks like our opponent showed up right on cue."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.24",
+   "en": "Abiiih!! Abi-abi! Abiiih!!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.26",
+   "en": "We meet again!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.27",
+   "en": "This place will be your graveyard!!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.33",
+   "en": "All right! We beat him!! Shiomaneking... He was a tough opponent."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.34",
+   "en": "That's win number four, huh? We're really startin' to hit our stride!!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.35",
+   "en": "That's our fourth win! Things are going smoothly!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.36",
+   "en": "Four wins in a row. Well, not that it's any surprise."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0422.mbb#0.27",
+   "note": "#0.27-0.38 are slots 2-13 of the victory block begun at #0.26 (story_072). 0422.bla order 14,15,12,11,5,4,3,2,1,6,7,9,10 = Mebius, Zero, Seven, Ultraman, OOO, W, Den-O (Momotaros), RX, Rider 1, Nu, Zeta, Wing Zero, 00. Voices match (Zero 'yossha', OOO trailing, Momotaros 'yatta ze', Heero 'mission complete', Setsuna 'target eliminated'). #0.33 RX = same source as #0.26 Mebius, same English."
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.34",
+   "note": "Rider 1's 'yatta na!' read as congratulating the team: 'Well done!'."
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.37",
+   "note": "'Mission complete.' follows the latest tournament precedent (story_071 0414 #0.128); older slices used 'Mission... complete.'"
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.42",
+   "note": "Match card kept as a deliberate two-line layout. 'Dai-2-sou' = 'Floor 2' following story_071/072 ('Floor 1'). Suisei kaijin team = 'Aquatic Kaijin Team' (Shiomaneking's squad; not in glossary). 'Shigaichi kougai' = 'City Outskirts'. North spelled out as in 071."
+  },
+  {
+   "key": "MainEventMess0423.mbb#0.1",
+   "note": "Ankh labelled; 'This is Floor 2' restores the subject for the bare 'Dai-2-sou da'."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.1",
+   "note": "Ankh comes across another team's match (beam ropes = the ring boundary SE in the script)."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.4",
+   "note": "'Shireta koto wo!!' (that goes without saying) rendered as a defiant rhetorical answer."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.8",
+   "note": "Alien Valky's drawn-out 'kakatte koooi' kept stretched."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.15",
+   "note": "'Munen' (defeat with regret) -> 'I have failed', matching the precedent in story_051 (0325 #0.114)."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.17",
+   "note": "'Uchuu kengou' (Zamsha's epithet) = 'Space Swordsman' (Ultraman Wiki usage); not in glossary. Zamsha is male per glossary."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.18",
+   "note": "#0.18-0.29 and #0.34-0.45: 12 leader variants each. 0424.bla order 15,12,11,6,7,9,10,5,4,3,2,1 = Zero, Seven, Ultraman, Nu, Zeta, Wing Zero, 00, OOO, W, Den-O (Momotaros), RX, Rider 1 (Mebius excluded: he speaks #0.17 in this branch). Voices match: Nu 'date ja nai' (Amuro), Heero/Setsuna 'oboete okou', OOO stammer, Momotaros 'yaru ja nee ka'. Identical source -> identical English (#0.19/20, #0.26/28 etc.)."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.24",
+   "note": "00's variant differs from Wing Zero's only by a questioning 'ka'; rendered 'So that's...' and 'him' to keep the two distinct."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.33",
+   "note": "Ankh's branch (plays when Mebius is not present, instead of #0.17). #0.34 is Zero answering him; the rest of the block repeats #0.19-0.29 without the epithet in #0.39/0.40."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.50",
+   "note": "Narration; {8074} = party leader name, padding dropped per brief. 'and the team' follows story_071 (0414 #0.89)."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.53",
+   "note": "'Kessho de aimamieru' = face each other in the finals; archaic register kept for Zamsha."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.1",
+   "note": "Yes/No prompt; 0425.bla shows Ankh's name box (CHARA_NAME 36), though the slice has no label. Same phrasing as 0422 #0.1 in story_072."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.9",
+   "note": "Ankh's 'kita you da ze?' rendered as a statement; the rising tone is just Ankh's prod to the party."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.10",
+   "note": "Shiomaneking's cry follows story_070's 'Abiiih!! Abi-abi!!', extended for the third 'Abii'. Same at #0.24."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.23",
+   "note": "Unlabelled: 0425.bla plays it after CharaNameOut in the branch without Rider 1 (Pt_Chara_Check(1) false), so no name box. Speaker unknown (probably the leader); worded neutrally. #0.24-0.27 are Shiomaneking's lines for that branch."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.33",
+   "note": "Rider 1: subject 'we' restored for 'taoshita zo'; 'him' for Shiomaneking (male per glossary)."
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.34",
+   "note": "#0.34-0.44 are 11 leader variants (script +33+k). Mapped by voice and by the 0425.bla chain minus Rider 1 (who has #0.33) and Mebius: Den-O (Momotaros, rough 'da naa', #0.34), RX (#0.35), W (#0.36, 'maa, touzen' as W says again at #0.56), then OOO, Zero, Seven, Ultraman, Nu, Zeta, Wing Zero, 00 in story_074. Mebius's slot is uncertain: the chain lists 13 ids but only 11 rows exist."
+  }
+ ],
+ "report": "80/80 rows. Leader-variant orders from 0422/0424/0425.bla Pt_Chara_Check chains, confirmed by voice; 0425 #0.34-0.44 has 11 rows for 12 non-Rider-1 ids (Mebius slot assumed absent). Uncertain: 0425 #0.23 speaker unlabelled (branch without Rider 1). Not in glossary: 'Space Swordsman' (Zamsha's epithet), 'Aquatic Kaijin Team', 'City Outskirts', 'Floor 2' (follows 071/072 'Floor 1')."
+}

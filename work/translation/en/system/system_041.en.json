@@ -1,0 +1,338 @@
+{
+ "slice": "system_041",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Common/CharacterName.mbb#1.86",
+   "en": "Barabas"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.87",
+   "en": "Seamons"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.88",
+   "en": "Seagorath"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.89",
+   "en": "Pink Rabbit Imagin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.90",
+   "en": "Siamese Cat Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.91",
+   "en": "Todogiller"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.92",
+   "en": "Alien Valky"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.93",
+   "en": "Gadiva"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.94",
+   "en": "Mebius Killer"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.95",
+   "en": "Gebacondor"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.96",
+   "en": "Todogiller"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.97",
+   "en": "Eleking"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.98",
+   "en": "Alien Icarus"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.99",
+   "en": "Gander"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.100",
+   "en": "Birdon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.101",
+   "en": "Solitula"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.102",
+   "en": "Lunaticks"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.103",
+   "en": "Hanzagiran"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.104",
+   "en": "King Crab"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.105",
+   "en": "Spider Man"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.106",
+   "en": "Bat Man"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.107",
+   "en": "Hiru-Chameleon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.108",
+   "en": "Gel-Shocker Leader"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.109",
+   "en": "Taboo Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.110",
+   "en": "Octopus Imagin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.111",
+   "en": "Skull (Dummy Dopant)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.112",
+   "en": "Swallowtail Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.113",
+   "en": "White Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.114",
+   "en": "Bison Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.115",
+   "en": "Hi-Zack"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.116",
+   "en": "Marasai"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.117",
+   "en": "Leo"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.118",
+   "en": "Gundam Throne Eins"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.119",
+   "en": "Gundam Throne Zwei"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.120",
+   "en": "Gundam Throne Drei"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.121",
+   "en": "Aries"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.122",
+   "en": "Tieren"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.123",
+   "en": "Tieren Taozi"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.124",
+   "en": "GN-X"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.125",
+   "en": "GN-X III"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.126",
+   "en": "Cubrican"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.127",
+   "en": "Piranha Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.128",
+   "en": "Metaheavy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.129",
+   "en": "Mezool"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.130",
+   "en": "Tortoise Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.131",
+   "en": "Isoginjaguar"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.132",
+   "en": "Kroizel"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.133",
+   "en": "The O"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.134",
+   "en": "Modified Bemstar"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.135",
+   "en": "Sabotendar (Modified)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.136",
+   "en": "Verokron (Modified)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.137",
+   "en": "Zanjioh"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.138",
+   "en": "Gundam Heaven's Sword"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.139",
+   "en": "Vakishim"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.140",
+   "en": "Armored Samurai Kaijin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.141",
+   "en": "Gaina Ninpo"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.142",
+   "en": "Fake Ultraman"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.143",
+   "en": "Dummy Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.144",
+   "en": "Giant Greeed (Berserk)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.145",
+   "en": "Ultimate Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.146",
+   "en": "AEU Hellion"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.147",
+   "en": "AEU Enact"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.148",
+   "en": "Asshimar"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.149",
+   "en": "Byarlant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.150",
+   "en": "Lodora"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.151",
+   "en": "Cockroach Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.152",
+   "en": "Anomalocaris Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.153",
+   "en": "Virus Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.154",
+   "en": "Cat Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.155",
+   "en": "Gyango"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.156",
+   "en": "Ultraman Belial"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.157",
+   "en": "Granzairas"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.158",
+   "en": "Jashrine"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.159",
+   "en": "Zamsha"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.160",
+   "en": "Ahead Smultron"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.161",
+   "en": "Mururoa"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.162",
+   "en": "Alien Tempera"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.163",
+   "en": "Alien Nackle"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.164",
+   "en": "Grand Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.165",
+   "en": "Uva"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Common/CharacterName.mbb#1.91",
+   "note": "Shares an English name with the earlier Todogiller row; same Japanese, same English."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.96",
+   "note": "Same as row 91."
+  }
+ ],
+ "report": "80/80 names, all CharacterName entries. Glossary names used verbatim; others follow system_032-038 (Aries, AEU Hellion, AEU Enact, Octopus Imagin, Solitula, Kroizel, Alien Icarus, Gel-Shocker Leader). New terms not in glossary: Gander, Gyango, Hanzagiran, King Crab, Cubrican, Isoginjaguar, Asshimar, Byarlant, Aries, Tortoise/Swallowtail/Bison/Piranha/White/Cat Yummy, Cockroach/Anomalocaris/Virus Dopant. Uncertain: Solitula, Kroizel, Cubrican."
+}

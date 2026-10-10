@@ -1,0 +1,350 @@
+{
+ "slice": "system_023",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Graph/Dg/Fld/RC07/Chip/DungeonMess.mbb#0.45",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/RC07/Chip/DungeonMess.mbb#0.46",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/RC07/Chip/DungeonMess.mbb#0.47",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.1",
+   "en": "Lightning Flash"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.2",
+   "en": "Towering Giant"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.3",
+   "en": "Wind-Thunder Pair"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.4",
+   "en": "Besieged Thrice"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.5",
+   "en": "Evil vs. Strongest"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.6",
+   "en": "The Wickedest Devil"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.7",
+   "en": "Scapegoat"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.8",
+   "en": "Three Arrows"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.9",
+   "en": "Flying Lightning"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.10",
+   "en": "Ultra Killer"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.11",
+   "en": "Cat-and-Dog Mix"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.12",
+   "en": "Queen and King"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.13",
+   "en": "Greed Fusion"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.14",
+   "en": "Three Terrors"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.15",
+   "en": "Chivalry"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.16",
+   "en": "Desire"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.17",
+   "en": "Variable Mechanism"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.18",
+   "en": "Close Quarters"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.19",
+   "en": "Twin Swords"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.20",
+   "en": "Ultimate"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.21",
+   "en": "The Root Cause"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#1.1",
+   "en": "Start the battle?"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#1.2",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#1.3",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#1.4",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.1",
+   "en": "Form your party and save."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.2",
+   "en": "Buy and sell items."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.3",
+   "en": "Accept sub-quests."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.4",
+   "en": "Play various mini-games."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.5",
+   "en": "Head to a dungeon."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.6",
+   "en": "Get bonus data.\nYou need 14 free item slots.\nGet the bonus data?"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.7",
+   "en": "Can't get it. Your inventory is full."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.8",
+   "en": "Your Ride Machine's drill has been upgraded again!{8002}Stronger enemies seem to lurk beyond the walls you couldn't pass before."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.21",
+   "en": "Form your party."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.22",
+   "en": "Give orders to the characters on standby."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.23",
+   "en": "Report newly found chips."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.24",
+   "en": "Save your game."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.25",
+   "en": "Talk with your allies."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.26",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.27",
+   "en": "Is this party OK?"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.28",
+   "en": "There are no chips to report."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.29",
+   "en": "Save the game. Is that OK?"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.30",
+   "en": "Disband the party and re-form it. Is that OK?"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.31",
+   "en": "Obtained"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.32",
+   "en": "Cancel and revert to the original party. Is that OK?"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.41",
+   "en": "Buy items."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.42",
+   "en": "Sell items."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.43",
+   "en": "Upgrade equipment."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.44",
+   "en": "Store items."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.45",
+   "en": "Talk with your allies."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.46",
+   "en": "Store items."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.47",
+   "en": "Withdraw items."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.48",
+   "en": "You can't store any more of this item."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.49",
+   "en": "Combine items.\nIs that OK?"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.50",
+   "en": "Items combined."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.51",
+   "en": "Can't buy it. Your inventory is full."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.52",
+   "en": "Can't withdraw it. Your inventory is full."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.61",
+   "en": "Accept sub-quests."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.62",
+   "en": "Report sub-quests."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.63",
+   "en": "Talk with your allies."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.64",
+   "en": "Dummy description"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.65",
+   "en": "Dummy description"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.66",
+   "en": "Accept sub-quests."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.67",
+   "en": "Report sub-quests."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.68",
+   "en": "Accept this sub-quest?"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.69",
+   "en": "You can't take on any more sub-quests."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.70",
+   "en": "Conditions met! Report to the client?"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.71",
+   "en": "Conditions not met."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.72",
+   "en": "You haven't accepted any sub-quests."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.73",
+   "en": "Cancel this sub-quest?"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.74",
+   "en": "Conditions are already met.\nPlease report the sub-quest."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.75",
+   "en": "View your play record and achievements."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.76",
+   "en": "No sub-quests available to accept."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.77",
+   "en": "Obtained {8069}"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.78",
+   "en": "Obtained {806A}M"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.81",
+   "en": "Rematch strong enemies."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.82",
+   "en": "Play the slots."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.11",
+   "note": "Pun on the idiom for 'cat and dog' enemies (dog + monkey) plus 'miscellaneous'; rendered loosely."
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.3",
+   "note": "Arena battle title for a wind/thunder pair; fits a husband-and-wife enemy duo; kept literal."
+  },
+  {
+   "key": "Table/Arena/ArenaMess.mbb#0.10",
+   "note": "Matches Ultra-killing enemy theme; 'Ultra Killer' guessed from the U-prefixed title."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.31",
+   "note": "Fragment: item name is prepended by the game; 'Obtained' placed after it is not possible, so translated as bare 'Obtained'. Check in game; may need '(item) obtained' ordering."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.78",
+   "note": "Trailing M is the Material unit, as in other slices."
+  }
+ ],
+ "report": "80/80 translated. Arena titles are guesses at enemy-group themes. BaseMess#0.31 is a suffix fragment (Japanese 'wo shutoku shimashita')."
+}

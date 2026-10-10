@@ -1,0 +1,386 @@
+{
+ "slice": "quest_021",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.226",
+   "en": "This must be it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.227",
+   "en": "This must be it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.228",
+   "en": "This must be it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.229",
+   "en": "This must be it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.230",
+   "en": "This must be it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.231",
+   "en": "This must be it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.232",
+   "en": "All right, we found the key. Come to think of it, we never asked which room it opens..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.233",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.234",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.235",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.236",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.237",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.238",
+   "en": "I'm pretty sure it was somewhere around the Gaia Memory exhibit room!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.239",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.240",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.241",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room does seem suspicious."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.242",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.243",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.244",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.245",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.246",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.247",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.248",
+   "en": "Right, let's search that area for a locked room."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.252",
+   "en": "\"Ba-dump... ba-dump...\""
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.253",
+   "en": "What is this thing!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.254",
+   "en": "This is...! Bullton, the Fourth-Dimension Kaiju!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.255",
+   "en": "This is...! Bullton, the Fourth-Dimension Kaiju!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.256",
+   "en": "This is...! Bullton, the Fourth-Dimension Kaiju!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.257",
+   "en": "This is...! Bullton, the Fourth-Dimension Kaiju!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.258",
+   "en": "This is...! Bullton, the Fourth-Dimension Kaiju!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.259",
+   "en": "Be careful!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.260",
+   "en": "Be careful!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.261",
+   "en": "This thing is freakin' creepy!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.262",
+   "en": "Be careful!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.263",
+   "en": "Be careful!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.264",
+   "en": "Be careful!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.265",
+   "en": "Be careful!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.266",
+   "en": "Be careful!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.267",
+   "en": "Be careful!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.268",
+   "en": "Be careful!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.269",
+   "en": "\"Ba-dump... ba-dump...\""
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.270",
+   "en": "Here it comes!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.273",
+   "en": "Okay, let's examine the display case."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.275",
+   "en": "Obtained \"Rusty Sword\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.276",
+   "en": "This is..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.277",
+   "en": "Ask this sword just how great your own skill truly is."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.278",
+   "en": "This sword's all rusted! How the hell are you supposed to use it?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.279",
+   "en": "No. It's good precisely because it's rusted."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.280",
+   "en": "Huh? What kind of idiotic crap are you spouting?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.281",
+   "en": "A dull blade like that couldn't even cut through a tree!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.282",
+   "en": "What I cut isn't objects. It's evil thoughts."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.284",
+   "en": "Obtained \"Rusty Sword\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.286",
+   "en": "Completed the quest \"Treasure Vault Investigation\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.1",
+   "en": "God Gundam asks to be taken to the reservoir in Desert Cube to train. Take God Gundam there."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.4",
+   "en": "God Gundam and the others made it to the reservoir."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.5",
+   "en": "We're here, God Gundam. This is the reservoir."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.6",
+   "en": "Good. I should be able to train in a place like this."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.7",
+   "en": "Training in a place like this? What the hell are you planning to do?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.8",
+   "en": "What training needs is a quiet place."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.9",
+   "en": "Here, I should be able to focus my mind."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.11",
+   "en": "From here on, the enemy will only grow stronger."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.12",
+   "en": "If I'm going to stand up to them, I have to grow stronger too..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.13",
+   "en": "Sorry, Ankh, but could you leave me alone for a little while?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.14",
+   "en": "...Geez. Fine, whatever. But I'm not waiting long."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.18",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.19",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.20",
+   "en": "Haaaah... Taaah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.22",
+   "en": "It's no use... I can't calm my mind..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.23",
+   "en": "Why!? Why can't I remember the feeling I had back then!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.24",
+   "en": "Fuhahahahahahaha! You fool!! What's the matter, God Gundam!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.25",
+   "en": "Are you telling me a mere reservoir like this is no place to train!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.26",
+   "en": "Why!? Why are you here!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.27",
+   "en": "What drivel are you spouting? I am a phantom born of your own heart!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.28",
+   "en": "Rugged mountains, forests, waterfalls... Must the stage be set for you!? You imbecile!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.29",
+   "en": "And thaaat is why you are such an utter fool!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.30",
+   "en": "Shut up... Shut up, shut uuuuuup!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.31",
+   "en": "Yes!! Rage!! Fill your heart with anger!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.32",
+   "en": "Damn you... Master Gundam!! Get out of my waaaaaay!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.34",
+   "en": "Calm yourself, God Gundam!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.35",
+   "en": "What? Who's there!?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.226",
+   "note": "Rows 226-286 continue the unreferenced second quest in the DG_QUEST018 table (exhibit-room key / rusty sword, Shocker Cube): Quest018.bla only plays the Money Dopant quest and no other script loads QuestEventMess018, so every speaker here is inferred from wording. 226-231 end the 15-row leader block 217-231 begun in quest_020 (same English)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.232",
+   "note": "232 and 248 single lines, speaker unknown (likely the leader); voiced neutral. 'Which room it opens' restores the object of the dropped verb."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.233",
+   "note": "233-247: 15-row leader block, order unknown. Pattern matches 217-231 (rough at index 5, polite at index 8): 238 is the rough variant and talks about the Gaia Memory room from memory (reads like Shotaro/W), 241 the polite 'desu ne' variant; all others identical."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.252",
+   "note": "Heartbeat/pulse sound (Bullton), no speaker; quoted as an SFX per glossary style. Same English at 269."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.254",
+   "note": "254-258 (5 rows, likely the Ultra leaders who recognise the kaiju) and 259-268 (10 rows, the others) look like one split leader choice. 'Bullton' and 'Fourth-Dimension Kaiju' per CharacterName/ChipLib translations. 261 is the rough variant; 'this thing' avoids gendering the kaiju (g=n)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.270",
+   "note": "Speaker unknown; singular 'it' because only Bullton appears."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.277",
+   "note": "Speaker unclear: an archaic imperative, probably God Gundam (Domon) recalling a teaching or reading an inscription on the case; rendered as a plain line without a name. 276/279/282 God Gundam (the sword was his request in quest_020)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.278",
+   "note": "278/280/281: the rough companion (leader or Ankh-type voice; 181 in quest_020 was the same rough voice). Insult kept at full strength. 'Rusty Sword' per ItemNameFormal 4.17."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.282",
+   "note": "'Janen' rendered 'evil thoughts' (the mental impurity a martial artist cuts away), not 'impure thoughts', to avoid an unwanted connotation."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.286",
+   "note": "Quest title has no QuestMess entry (cut quest); 'treasure vault' follows QuestMess 0.64's rendering."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.1",
+   "note": "Quest-board description. Source says 'G Gundam' (series name) for God Gundam; written as God Gundam to match QuestMess 0.70 and the event."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.4",
+   "note": "Quest019.bla plays row TextIdOffset+N+1 (calibrated: +3 narration = 4, +5 God Gundam = 6, +6 Ankh = 7, +7/+8 = 8/9, +10/+11 = 11/12, row 10 empty; +23 '???' = 24, +24 Master Gundam = 25, +33 '???' = 34, +34 God = 35). Rows 5, 13, 14, 29 are not referenced by the script; speakers from content (5/14 Ankh, 13 God Gundam, 29 Master Gundam)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.24",
+   "note": "Name box shows '???' (Master Gundam before it appears, CHARA_NAME 30); 'baka mono' rendered 'You fool' (not the glossary's 'stupid pupil' line, which is a different phrase). 27 'I am a phantom born of your own heart': the vision is Domon's own illusion."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.34",
+   "note": "34 '???': an unidentified warm voice calming God Gundam (continues in quest_022); kept neutral."
+  }
+ ],
+ "report": "80/80 rows examined. DG_QUEST018 rows 226-286 belong to the unreferenced exhibit-room/rusty-sword quest (no script, speakers inferred: leader blocks voiced from wording, 277 speaker unclear). DG_QUEST019 speakers from Quest019.bla, row = TextIdOffset+N+1; rows 5/13/14/29 unreferenced, speakers from content. Bullton/'Fourth-Dimension Kaiju' from existing CharacterName/ChipLib English; quest title 'Treasure Vault Investigation' is new (cut quest)."
+}

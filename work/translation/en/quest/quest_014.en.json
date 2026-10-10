@@ -1,0 +1,358 @@
+{
+ "slice": "quest_014",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.66",
+   "en": "Damn it... Next time, I'll devour every last one of you, for sure..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.68",
+   "en": "Heh! Serves you right!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.71",
+   "en": "Completed the quest \"The Infamous Grand Bandit Gang\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.73",
+   "en": "Den-O must be in the party to progress this quest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.1",
+   "en": "Word is there's a giant ice pop in the Ultra Cube. Please head there and look for it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.4",
+   "en": "Hey, what the hell is this? Was this thing here before?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.5",
+   "en": "There sat a giant, mysterious white object on a stick, placed as if to block the path."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.6",
+   "en": "What's this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.7",
+   "en": "What is this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.8",
+   "en": "What's this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.9",
+   "en": "What is this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.10",
+   "en": "What is this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.11",
+   "en": "What's this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.12",
+   "en": "What's this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.13",
+   "en": "What is this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.14",
+   "en": "What is this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.15",
+   "en": "What is this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.16",
+   "en": "What is this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.17",
+   "en": "What is this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.18",
+   "en": "What is this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.19",
+   "en": "What is this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.20",
+   "en": "What is this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.22",
+   "en": "Ankh went up to the mysterious white object."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.23",
+   "en": "This is... It can't be!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.24",
+   "en": "No doubt about it. This is the giant ice pop from the rumors!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.25",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.26",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.27",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.28",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.29",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.30",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.31",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.32",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.33",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.34",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.35",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.36",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.37",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.38",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.39",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.40",
+   "en": "A giant ice pop... So it really did exist."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.41",
+   "en": "Hahaha! This is the best!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.42",
+   "en": "I'm gonna devour every last bit of it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.44",
+   "en": "Whoa!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.45",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.46",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.47",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.48",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.49",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.50",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.51",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.52",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.53",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.54",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.55",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.56",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.57",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.58",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.59",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.60",
+   "en": "So it was you lot who tried to defile my supreme sweets."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.62",
+   "en": "You...! Sweets Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.63",
+   "en": "You...! Sweets Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.64",
+   "en": "Why, you...! Sweets Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.65",
+   "en": "You...! Sweets Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.66",
+   "en": "You...! Sweets Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.67",
+   "en": "You...! Sweets Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.68",
+   "en": "You...! Sweets Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.69",
+   "en": "You...! Sweets Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.70",
+   "en": "You...! Sweets Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.71",
+   "en": "You...! Sweets Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.72",
+   "en": "You...! Sweets Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.73",
+   "en": "You...! Sweets Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.74",
+   "en": "You...! Sweets Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.75",
+   "en": "You...! Sweets Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.76",
+   "en": "You...! Sweets Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.77",
+   "en": "Did filthy creatures like you truly think you were permitted to touch my work?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.79",
+   "en": "Kh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.80",
+   "en": "Kh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.81",
+   "en": "Kh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.82",
+   "en": "Kh!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.66",
+   "note": "Quest013.bla: TextIdOffset+65 -> row 66 (N+1), speaker Kamen Rider Gaoh (id 161); 'kutte yaru' kept as Gaoh's devouring threat. Row 68 = Den-O Sword Form (Momotaros), +67."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.73",
+   "note": "Party-requirement prompt; wording follows earlier quest slices. Quest title from QuestMess#0.14."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.1",
+   "note": "Event-table copy of the quest description; 'giant ice cream' / 'Ultra Cube' follow QuestMess#0.65 and title 'The Ultimate Ice Cream' (QuestMess#0.15), though the object is an ice pop on a stick."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.4",
+   "note": "Quest014.bla maps TextIdOffset+N -> row N+1. Speakers: Ankh (id 36) 4, 23, 24, 40-42, 44; narration 5, 22 (22 is not called by the script but is narration by wording)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.6",
+   "note": "Leader blocks 6-20, 25-39, 45-59, 62-76, 79-93 are the 15 party-leader variants in Pt_Chara_Check order: OOO, W (Shotaro), Den-O, Black RX, Rider 1, Mebius, Zero, Taro, Ultraman, Seven, Nu, Zeta, God, Wing Zero, 00. Identical Japanese kept identical in English."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.60",
+   "note": "Speaker shown as ??? (id 30): the Sweets Dopant, still offscreen; 77 is the Sweets Dopant (id 270) by name. Refined, condescending voice. Glossary gender f, but no pronouns needed."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.64",
+   "note": "Den-O (Momotaros) variant uses the rough 'temee' form, rendered 'Why, you...!' instead of 'You...!'."
+  }
+ ],
+ "report": "80/80 rows examined. Speakers from Quest013.bla/Quest014.bla (row = TextIdOffset+N+1). Row 014#0.22 narration not referenced by the script. 014#0.60 speaker '???' = Sweets Dopant offscreen. Quest titles from QuestMess#0.14/0.15. No new names."
+}

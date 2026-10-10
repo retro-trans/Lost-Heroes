@@ -1,0 +1,398 @@
+{
+ "slice": "story_028",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0227.mbb#0.63",
+   "en": "This is our operation plan."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.64",
+   "en": "Understood."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.65",
+   "en": "So we infiltrate the designated points and recover the specified materials, correct?"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.66",
+   "en": "That's right."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.67",
+   "en": "I've assigned the Celestial Being members to each operation area."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.68",
+   "en": "Operation A: \"Recover the Emerium ore.\"\nThat one's on me and Arios."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.69",
+   "en": "Operation B: \"Recover the Gundanium alloy.\"\nThat's Deathscythe Hell and Birth."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.70",
+   "en": "Operation C: \"Raid the arms depot.\"\nThat's Sandrock and Heavyarms."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.71",
+   "en": "By the way, all of these operation areas are concentrated in the \"Wasteland Zone.\""
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.72",
+   "en": "Each team will be waiting on-site, so talk to them when you're ready to start the operation."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.73",
+   "en": "You can start with whichever operation you like."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.74",
+   "en": "Next, about Wing Gundam Zero and 00 Gundam..."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.75",
+   "en": "The two of them both specialize in infiltration missions."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.76",
+   "en": "Wing Zero, keep working with the Hero Team. 00, you're joining it as of now."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.77",
+   "en": "Mission accepted."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.78",
+   "en": "Understood. Commencing infiltration."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.79",
+   "en": "The entrance to the \"Wasteland Zone\" is in the southwest part of the \"Quicksand Zone.\""
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.80",
+   "en": "Don't screw it up out there!"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.81",
+   "en": "Still, the enemy's strong in every area. The Mobile Doll System, GN Drive Taus, psycommu..."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.82",
+   "en": "The Mobile Doll System, GN Drive Taus, psycommu..."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.83",
+   "en": "The enemy's seized all the cutting-edge tech from our home worlds and turned it into firepower."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.84",
+   "en": "So they're all guys who won't go down easy, huh? This is shaping up to be one tough fight."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.85",
+   "en": "Man, this is shaping up to be one tough fight."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.86",
+   "en": "If we all work together, I'm sure it'll turn out fine. This time we've even got the Hero Team with us."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.87",
+   "en": "Yeah... You know, I kinda get the feeling you might be right."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.88",
+   "en": "All right! The operation starts now! Everyone, head to your assigned operation area!"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.89",
+   "en": "Everyone, head to your assigned operation area!"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.90",
+   "en": "Hikari and I will stay at camp and take command. If you have any questions, come talk to us."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.91",
+   "en": "00 Gundam joined the party!"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.92",
+   "en": "The heroes hurriedly began preparing for their operations..."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.93",
+   "en": "...Mebius."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.94",
+   "en": "I'm entrusting this to you."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.95",
+   "en": "This is... the \"Knight Brace\"!"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.96",
+   "en": "It's sure to prove useful in the battles to come."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.97",
+   "en": "But Hikari, what about you...!?"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.98",
+   "en": "I've decided to dedicate myself to rear support as an engineer, so all of you can fight without worry."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.99",
+   "en": "Hikari..."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.1",
+   "en": "{8074} and the team moved to camp."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.2",
+   "en": "...So, our final objective is to strike the enemy's home base, but..."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.3",
+   "en": "To do that, we've gotta head out into the Ride Dungeon and take down Psycho Gundam."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.5",
+   "en": "Psycho Gundam..."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.6",
+   "en": "The enemy even has something like that..."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.7",
+   "en": "You know it?"
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.8",
+   "en": "That thing is a devil's machine."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.9",
+   "en": "...But it's a Gundam, right?"
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.10",
+   "en": "It looks like a Gundam, but it's far bigger and more powerful than any of us."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.11",
+   "en": "Sounds like that one's gonna give us trouble..."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.12",
+   "en": "...Now, as for how we beat this Psycho Gundam..."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.13",
+   "en": "We absolutely need to build a new \"Ride Machine.\""
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.14",
+   "en": "A Ride Machine?"
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.15",
+   "en": "It's a ship for traveling the Ride Dungeon and fighting the enemy."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.16",
+   "en": "We've been building it from the Ptolemaios II, which got wrecked in our last operation, but..."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.17",
+   "en": "If we finish it with just our own tech, odds are we'll repeat what happened last time."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.18",
+   "en": "But thanks to the help of Ultraman Hikari and you guys on the Hero Team..."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.19",
+   "en": "...it looks like we can finish a Ride Machine that can handle anything they throw at us."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.20",
+   "en": "I see. So, what's this operation plan?"
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.21",
+   "en": "I'll explain that."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.22",
+   "en": "Put simply, this operation plan is: \"recover the materials needed to complete the Ride Machine.\""
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.23",
+   "en": "We've been scouting enemy territory for some time now..."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.24",
+   "en": "As a result, we were able to pin down where many of the materials in this Cube are located."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.25",
+   "en": "However, many of them were unidentified, with their properties and uses unknown."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.26",
+   "en": "But thanks to sharing information with all of you this time..."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.27",
+   "en": "...we found out that several of them are materials useful for completing the Ride Machine."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.28",
+   "en": "And those are?"
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.29",
+   "en": "Hikari, would you take it from here?"
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.30",
+   "en": "Very well."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.31",
+   "en": "First, the \"Emerium ore.\""
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.32",
+   "en": "Emerium ore!?"
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.33",
+   "en": "You know it well, don't you, Zero?"
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.34",
+   "en": "Of course."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.35",
+   "en": "The very substance that makes up Planet Esmeralda is itself a source of super-energy... right?"
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.36",
+   "en": "Exactly."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.37",
+   "en": "We'll use it as the Ride Machine's main power source."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.38",
+   "en": "Whoa, that's amazing... The output must be insane."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.39",
+   "en": "Next, the \"Gundanium alloy.\""
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.40",
+   "en": "This can be used to reinforce the armor."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.41",
+   "en": "Our investigation shows the enemy is refining Gundanium alloy at a facility inside the Cube..."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.42",
+   "en": "...and we've learned they hold a stock of it at an abnormally high grade."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.43",
+   "en": "Last, armaments..."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.44",
+   "en": "For those, we'll storm the enemy's storehouse and take anything that looks usable."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0227.mbb#0.65",
+   "note": "No speaker recovered; Nu Gundam continuing from 0.64 (legacy 0228.57 labels this Nu Gundam)."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.66",
+   "note": "No speaker recovered; taken as Seravee, the plan's presenter (legacy variant gives it to the presenter, Rider 1)."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.68",
+   "note": "Op A-C rows (0.68-0.70) keep a deliberate two-line layout (title / assignees) with \\n."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.71",
+   "note": "'Wasteland Zone' coined for this area name, patterned on Quicksand Zone; not in glossary."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.81",
+   "note": "Tech list: Mobile Doll System (Wing), pseudo solar furnace = pseudo-GN Drive / GN Drive Tau (00), psycommu (UC). Same list in variant 0.82."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.87",
+   "note": "No speaker recovered; casual reply to Sandrock, taken as Deathscythe Hell (legacy variant 0228.79 gives it to W (Shotaro))."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.90",
+   "note": "'come talk to us': Seravee invites the listeners to talk to him or Hikari."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.1",
+   "note": "Name variable plus padding reduced to the tag, per brief."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.2",
+   "note": "Legacy 0228 rows are an older draft of the 0227 briefing with different speakers (Black RX / Rider 1 present instead of Cherudim / Seravee). Translated as written; 0227 lines used to resolve mis-decoded kanji."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.10",
+   "note": "Legacy: mis-decoded compound read as 'huge' (matches 0227.18)."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.16",
+   "note": "Legacy: mis-decoded kanji read as 'heavily damaged' and 'proceeding' (matches 0227.24). Ptolemaios II per glossary."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.17",
+   "note": "Legacy: mis-decoded kanji read as 'high' (possibility), matching 0227.25."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.19",
+   "note": "Legacy text reads roughly 'all of those guys' where 0227.27 has 'all situations'; possibly mis-decoded. Rendered 'anything they throw at us' to cover both."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.23",
+   "note": "Legacy: mis-decoded compound read as 'enemy territory' (matches 0227.31)."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.24",
+   "note": "Legacy: mis-decoded compound read as 'located in' this Cube; guess (0227.32 is worded differently)."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.25",
+   "note": "Legacy: two mis-decoded compounds read as 'properties' and 'uses' (matches 0227.33)."
+  },
+  {
+   "key": "MainEventMess0228.mbb#0.42",
+   "note": "Legacy: mis-decoded compound read as 'high concentration'; 0227.50 says 'high purity', so rendered 'high grade'."
+  }
+ ],
+ "report": "80/80 rows. 0228 legacy rows are an older draft of the 0227 briefing (different speakers); mis-decoded kanji inferred from 0227 equivalents (0228.10,16,17,19,23,24,25,42). Speakerless 0227.65 (Nu Gundam), .66 (Seravee), .87 (Deathscythe Hell) inferred. Not in glossary: Wasteland Zone (area), Psycho Gundam, Planet Esmeralda, Mobile Doll System, pseudo-GN Drive, psycommu."
+}

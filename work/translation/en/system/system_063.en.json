@@ -1,0 +1,342 @@
+{
+ "slice": "system_063",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.42",
+   "en": "A punch protector that also guards the manipulators"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.43",
+   "en": "Cloth-like beam weapon. Extends and retracts at will to slash or ensnare foes. Normal attacks have a chance to inflict Pressure"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.44",
+   "en": "Giant solid sword. GN particles give it great power"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.45",
+   "en": "High-power charged particle cannon"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.46",
+   "en": "A mask covering only the right half of the face"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.47",
+   "en": "Large shotel with a superheated blade that cuts enemies down. Normal attacks have a chance to inflict Ranged DEF Down"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.48",
+   "en": "Large scythe with a beam blade. The Grim Reaper's trademark. Normal attacks have a chance to inflict Physical DEF Down"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.49",
+   "en": "Large gatling gun that rapid-fires beam bullets"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.50",
+   "en": "Sturdy round shield worn on the shoulder"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.51",
+   "en": "Goggles that protect the eyes from sand and wind. Perfect for the desert"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.52",
+   "en": "A couple's engagement ring. It hasn't been given to its rightful owner yet"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.53",
+   "en": "Mass-produced GN Drive. Emits red GN particles"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.54",
+   "en": "Susanowo's enhanced saber. A solid blade that also has beam saber properties"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.55",
+   "en": "Susanowo's enhanced saber. Slightly shorter and thicker than Shiranui"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.56",
+   "en": "Double-bladed naginata made by combining Shiranui and Unryu"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.57",
+   "en": "Remote-controlled mobile beam cannon. Can also form beam sabers to pierce foes. Normal attacks have a chance to inflict Panic"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.58",
+   "en": "Capsule with a tiny Plasma Spark fusion device built in"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.59",
+   "en": "Tiny transceiver marked with the Science Patrol emblem"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.60",
+   "en": "Bomb that creates zero gravity inside the target's body and bursts it. Normal attacks have a chance to inflict Ranged DEF Down"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.61",
+   "en": "The spoon used for eating curry. Easily mistaken for a Beta Capsule"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.62",
+   "en": "A bell with infinite energy inside. Can work all kinds of miracles"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.63",
+   "en": "Ultra Steel badge fitted with a light-wave energy absorber"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.64",
+   "en": "Excellent heat and pressure resistance. Has a built-in communicator"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.65",
+   "en": "Special device that detects life signs"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.66",
+   "en": "High-performance flamethrower. Normal attacks become Fire element"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.67",
+   "en": "Heat-resistant, waterproof wristwatch communicator. Standard Ultra Guard gear"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.68",
+   "en": "Standard GUYS crew gear. An excellent suit with various resistances"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.69",
+   "en": "Slices foes apart with high-frequency vibration"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.70",
+   "en": "Data terminal for transferring Maquette Kaiju data. Potential is a bit lacking"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.71",
+   "en": "Terminal for customizing Meteor data"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.72",
+   "en": "Training armor Zero wore during his practice. Also a restraint that seals his powers"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.73",
+   "en": "Disc-shaped field generator. Creates a powerful electromagnetic field that deflects beams"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.74",
+   "en": "Compact laser gun. Can use many kinds of special rounds via attachments"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.75",
+   "en": "Compact, powerful ray gun with a scope. As strong as the Specium Ray"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.1",
+   "en": "Dummy description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.2",
+   "en": "{8004}3[Rank {8090}] Status Res Up{8005}\nFragment of a broken bone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.3",
+   "en": "{8004}3[Rank {8090}] Status Res Up{8005}\nSharp bone like a rib"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.4",
+   "en": "{8004}3[Rank {8090}] Status Res Up{8005}\nThick, large bone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.5",
+   "en": "{8004}3[Rank {8090}] Status Res Up{8005}\nFang broken into a fragment"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.6",
+   "en": "{8004}3[Rank {8090}] Status Res Up{8005}\nHuge, long, pointed fang"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.7",
+   "en": "{8004}3[Rank {8090}] Status Res Up{8005}\nFang as sharp as a sword"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.8",
+   "en": "{8004}3[Rank {8090}] Status Res Up{8005}\nFaintly glowing horn"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.9",
+   "en": "{8004}3[Rank {8090}] Status Res Up{8005}\nHorn grown over many long years"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.10",
+   "en": "{8004}3[Rank {8090}] Status Res Up{8005}\nHorn shattered into fragments"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.11",
+   "en": "{8004}3[Rank {8090}] Status Res Up{8005}\nSmall claw that hasn't lost its sharpness"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.12",
+   "en": "{8004}3[Rank {8090}] Status Res Up{8005}\nSinister black claw of a beast"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.13",
+   "en": "{8004}3[Rank {8090}] Status Res Up{8005}\nLong, large claw with real presence"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.14",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nHard, smooth scale"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.15",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nDry scale that looks ready to snap"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.16",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nThin, pretty scale with a faint crimson tint"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.17",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nTouch this scale and a kaiju gets angry"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.18",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nMysterious scale that never stops glowing"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.19",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nLong whisker that shines silver"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.20",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nFine, pretty thread of even thickness"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.21",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nThin, sticky thread that looks spider-spun"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.22",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nStretchy white thread that hardly ever snaps"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.23",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nLiquid like bright red burning magma"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.24",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nSilky black fur that looks expensive"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.25",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nCoarse white fur"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.26",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nDignified hide with glossy fur"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.27",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nStrange feeler that's still wriggling"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.28",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nA tuft of cool crimson mane"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.29",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nClear membrane that keeps germs away"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.30",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nVery flexible, pretty feather"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.31",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nVery sturdy plumage"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.32",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nIron bristles that could pass for a scrubbing brush"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.33",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nMysterious wing forever wrapped in wind"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.34",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nFeather that changes color depending on the angle"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.35",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nPretty, sparkling cilia"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.36",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nFeather that radiates the power of space"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.37",
+   "en": "{8004}3[Rank {8090}] Status Res Up{8005}\nCracked shell that has lost its value"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.38",
+   "en": "{8004}3[Rank {8090}] Status Res Up{8005}\nThick shell with a reliable air"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.39",
+   "en": "{8004}3[Rank {8090}] Status Res Up{8005}\nSpiky carapace that looks painful to touch"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.40",
+   "en": "{8004}3[Rank {8090}] Status Res Up{8005}\nOutrageously hard shell"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.41",
+   "en": "{8004}3[Rank {8090}] Status Res Up{8005}\nHard pincer of a very powerful monster"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.42",
+   "en": "{8004}3[Rank {8090}] Status Res Up{8005}\nTentacle that's still twitching"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.43",
+   "en": "{8004}3[Rank {8090}] Status Res Up{8005}\nSmooth powder with a golden shine"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.44",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nHide of some creature that reflects light strongly"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.45",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nSmooth hide with no scales"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.46",
+   "en": "{8004}3[Rank {8090}] Element Res Up{8005}\nCreepy hide that gets stringy when touched"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.46",
+   "note": "Source reads as a mask of only the right half; unclear which character, kept generic"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.72",
+   "note": "Training armor of Zero; no official name, kept descriptive"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.46",
+   "note": "Hide that leaves strings when touched; rendered as stringy"
+  }
+ ],
+ "report": "80 of 80 translated (items 7.42-7.75, 8.1 dummy, 8.2-8.46 material headers with Rank tag). Uncertain: Maquette Kaiju (Mini-Kaiju fan term), Physical/Ranged DEF Down wording, Status/Elemental Resist Up labels, right-half mask. New terms not in glossary: Shiranui, Unryu (Susanowo sabers), Ultra Guard, Science Patrol, Beta Capsule, Specium Ray, Ultra Steel, Maquette Kaiju."
+}

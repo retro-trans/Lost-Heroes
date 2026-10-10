@@ -1,0 +1,240 @@
+{
+ "tpc": "Graph/Dg/UI/UI_map_defaultdown_tex.tpc",
+ "page": "UI_map_defaultdown01_4444.tga",
+ "note": "Map screen area-name pieces (floor/layer parts, Monster Graveyard parts, Final-area names, Random Cube, 'Path' for Path to Regis Core). Names follow DungeonName.mbb English; compass pieces abbreviated to fit.",
+ "defaults": {
+  "size": 10,
+  "color": [
+   255,
+   255,
+   255
+  ]
+ },
+ "clear": [
+  [
+   140,
+   92,
+   2,
+   12
+  ],
+  [
+   57,
+   80,
+   55,
+   11
+  ],
+  [
+   114,
+   80,
+   56,
+   12
+  ],
+  [
+   172,
+   80,
+   55,
+   12
+  ],
+  [
+   3,
+   92,
+   11,
+   12
+  ],
+  [
+   16,
+   93,
+   10,
+   11
+  ],
+  [
+   27,
+   93,
+   12,
+   10
+  ],
+  [
+   39,
+   92,
+   10,
+   11
+  ],
+  [
+   49,
+   93,
+   11,
+   10
+  ],
+  [
+   60,
+   92,
+   33,
+   12
+  ],
+  [
+   96,
+   92,
+   44,
+   12
+  ],
+  [
+   142,
+   93,
+   11,
+   11
+  ],
+  [
+   157,
+   92,
+   22,
+   12
+  ],
+  [
+   181,
+   93,
+   11,
+   11
+  ],
+  [
+   81,
+   112,
+   43,
+   11
+  ],
+  [
+   130,
+   116,
+   4,
+   3
+  ],
+  [
+   138,
+   112,
+   44,
+   11
+  ],
+  [
+   193,
+   112,
+   33,
+   11
+  ]
+ ],
+ "boxes": [
+  {
+   "x": 57,
+   "y": 80,
+   "w": 54,
+   "h": 11,
+   "text": "Gaze of Hatred",
+   "size": 9
+  },
+  {
+   "x": 114,
+   "y": 80,
+   "w": 56,
+   "h": 12,
+   "text": "Resigned Breath",
+   "size": 9
+  },
+  {
+   "x": 172,
+   "y": 82,
+   "w": 54,
+   "h": 10,
+   "text": "Pillars of Despair",
+   "size": 8
+  },
+  {
+   "x": 3,
+   "y": 93,
+   "w": 10,
+   "h": 11,
+   "text": "Lyr",
+   "size": 9
+  },
+  {
+   "x": 27,
+   "y": 93,
+   "w": 12,
+   "h": 10,
+   "text": "Up",
+   "size": 8
+  },
+  {
+   "x": 39,
+   "y": 94,
+   "w": 9,
+   "h": 9,
+   "text": "Mid",
+   "size": 8
+  },
+  {
+   "x": 49,
+   "y": 93,
+   "w": 10,
+   "h": 10,
+   "text": "Low",
+   "size": 8
+  },
+  {
+   "x": 60,
+   "y": 93,
+   "w": 33,
+   "h": 11,
+   "text": "Depths"
+  },
+  {
+   "x": 96,
+   "y": 93,
+   "w": 43,
+   "h": 11,
+   "text": "Graveyard"
+  },
+  {
+   "x": 142,
+   "y": 93,
+   "w": 11,
+   "h": 9,
+   "text": "W",
+   "align": "center"
+  },
+  {
+   "x": 157,
+   "y": 93,
+   "w": 21,
+   "h": 11,
+   "text": "Central",
+   "size": 8
+  },
+  {
+   "x": 181,
+   "y": 93,
+   "w": 11,
+   "h": 10,
+   "text": "N",
+   "align": "center"
+  },
+  {
+   "x": 81,
+   "y": 114,
+   "w": 43,
+   "h": 9,
+   "text": "Random"
+  },
+  {
+   "x": 138,
+   "y": 113,
+   "w": 44,
+   "h": 10,
+   "text": "Cube"
+  },
+  {
+   "x": 193,
+   "y": 114,
+   "w": 33,
+   "h": 9,
+   "text": "Path"
+  }
+ ]
+}

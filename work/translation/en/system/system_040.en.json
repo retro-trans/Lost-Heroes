@@ -1,0 +1,358 @@
+{
+ "slice": "system_040",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Common/CharacterName.mbb#1.6",
+   "en": "Geara Doga"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.7",
+   "en": "Jagd Doga"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.8",
+   "en": "Spider Man"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.9",
+   "en": "Mantis Man"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.10",
+   "en": "Bat Man"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.11",
+   "en": "Fly Man"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.12",
+   "en": "Bee Woman"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.13",
+   "en": "Shocker Combatman"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.14",
+   "en": "Magma Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.15",
+   "en": "T-Rex Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.16",
+   "en": "Gomora"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.17",
+   "en": "Jamila"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.18",
+   "en": "Dada"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.19",
+   "en": "Dada"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.20",
+   "en": "Dada"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.21",
+   "en": "Bemular"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.22",
+   "en": "Red King"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.23",
+   "en": "Zetton"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.24",
+   "en": "Woo"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.25",
+   "en": "Hambrabi"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.26",
+   "en": "Bound Doc"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.27",
+   "en": "Taurus"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.28",
+   "en": "Ahead"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.29",
+   "en": "Over Flag"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.30",
+   "en": "Bogal"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.31",
+   "en": "Ace Killer"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.32",
+   "en": "Giant Yapool"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.33",
+   "en": "Gavadon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.34",
+   "en": "Alien Baltan"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.35",
+   "en": "Antlar"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.36",
+   "en": "Alien Zarab"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.37",
+   "en": "Bullton"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.38",
+   "en": "Kemular"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.39",
+   "en": "Alien Kool"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.40",
+   "en": "Alien Metron"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.41",
+   "en": "Alien Iros"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.42",
+   "en": "Alien Shapley"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.43",
+   "en": "Giradoras"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.44",
+   "en": "Astromons"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.45",
+   "en": "Alien Guts"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.46",
+   "en": "Bemstar"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.47",
+   "en": "Mochiron"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.48",
+   "en": "Samekujira"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.49",
+   "en": "Gudon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.50",
+   "en": "Twin Tail"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.51",
+   "en": "Salamandra"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.52",
+   "en": "Noba"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.53",
+   "en": "Alien Reflect"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.54",
+   "en": "Black King"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.55",
+   "en": "Baricane"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.56",
+   "en": "Weather Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.57",
+   "en": "Ikadevil"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.58",
+   "en": "Negataros"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.59",
+   "en": "Nega Den-O"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.60",
+   "en": "Shiomaneking"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.61",
+   "en": "Kamebazooka"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.62",
+   "en": "Skullma"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.63",
+   "en": "Skullmaster"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.64",
+   "en": "Chap"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.65",
+   "en": "Bat Imagin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.66",
+   "en": "Rhino Imagin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.67",
+   "en": "Jellyfish Imagin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.68",
+   "en": "Scorpion Imagin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.69",
+   "en": "Mole Imagin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.70",
+   "en": "Leo Imagin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.71",
+   "en": "Snowman Imagin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.72",
+   "en": "Masquerade Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.73",
+   "en": "Money Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.74",
+   "en": "Sweets Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.75",
+   "en": "Violence Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.76",
+   "en": "Ice Age Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.77",
+   "en": "Zone Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.78",
+   "en": "Jewel Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.79",
+   "en": "Waste Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.80",
+   "en": "Shark Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.81",
+   "en": "Kabuto Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.82",
+   "en": "Stag Beetle Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.83",
+   "en": "Pteranodon Yummy (M)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.84",
+   "en": "Pteranodon Yummy (F)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.85",
+   "en": "Kemjila"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Common/CharacterName.mbb#1.6",
+   "note": "Official English spelling Geara Doga (glossary has Jagd Doga for the sibling unit)."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.13",
+   "note": "Shocker Combatman: established English name for the foot soldiers; shortened from plural."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.17",
+   "note": "Jamila: Ultra Wiki spelling."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.38",
+   "note": "Kemular: romanized to match Bemular; official may be Chemler. Uncertain."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.43",
+   "note": "Giradoras: uncertain spelling of the Ultraman Taro monster."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.48",
+   "note": "Samekujira: romanized (shark-whale); no confirmed English name."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.63",
+   "note": "Skullmaster: guessed from Skullma + a star/master suffix reading; uncertain."
+  }
+ ],
+ "report": "80/80 names. New terms not in glossary: Geara Doga, Shocker Combatman, Jamila, Woo, Bullton, Kemular, Alien Shapley, Giradoras, Astromons, Mochiron, Samekujira, Salamandra, Noba, Kamebazooka, Skullmaster, Chap, Bat/Jellyfish/Scorpion/Mole/Leo Imagin, Sweets Dopant etc. (glossary has Dopants), Shark/Stag Beetle Yummy. Uncertain: Kemular, Giradoras, Samekujira, Skullmaster."
+}

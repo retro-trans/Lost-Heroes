@@ -1,0 +1,334 @@
+{
+ "slice": "system_064",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.47",
+   "en": "{8004}3[Rank{8090}] Element Res Up{8005}\nA shell that can withstand exposure to lava"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.48",
+   "en": "{8004}3[Rank{8090}] Element Res Up{8005}\nA tail so huge it is bulky and hard to carry"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.49",
+   "en": "{8004}3[Rank{8090}] Element Res Up{8005}\nA tail that whips like a lash"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.50",
+   "en": "{8004}3[Rank{8090}] Element Res Up{8005}\nA tail with spikes at the tip"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.51",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nAn oddly shaped antenna that looks like a letter"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.52",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA strange machine with no clear use"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.53",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA crumpled lump of iron"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.54",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nBulky scrap iron that is a pain to carry"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.55",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nSplit clean in two"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.56",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA shard of some kind of armor"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.57",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA broken piece of armor"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.58",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA sturdy-looking honeycomb armor piece"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.59",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nThe tip is still sharp, so be careful"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.60",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nSharply curved and looks strong"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.61",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA burnt-black CPU"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.62",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nTorn into jagged edges and useless"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.63",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA little rusty"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.64",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nLeft abandoned for a long time"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.65",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nWas this used at some base...?"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.66",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA good old-fashioned part"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.67",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nStretched out too far to ever go back"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.68",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nWhat it was made for is a mystery"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.69",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA wing that seems to be state-of-the-art"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.70",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nShiny and looks high-class"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.71",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nVery heavy and badly bent"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.72",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nThe frame of a vehicle"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.73",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nIt has jagged teeth"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.74",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nAn engine part"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.75",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nAn empty tank"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.76",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA piece of some part"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.77",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA tiny storage medium"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.78",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nIt comes in a case, but you could still lose it"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.79",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nIt has a powerful magnetic force"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.80",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA heavily rusted iron pipe"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.81",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nHigh-performance, but broken and unusable"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.82",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA cylindrical electrical part"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.83",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA glittering cable, extremely long and thin"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.84",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nAn X-shaped motor, very powerful"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.85",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA green board with electronic chips"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.86",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA board covered in large components"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.87",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nAn incredible computer"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.88",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA half-wrecked large engine"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.89",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA part used in clocks and the like"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.90",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA bowl-shaped device that sprays propellant"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.91",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA blade broken into tiny fragments"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.92",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA titanium bolt"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.93",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA large, long nail"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.94",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA lump of gold too big to hold in your arms"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.95",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA type of volcanic rock"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.96",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nAn ore that is not particularly rare"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.97",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nAn ore that yields copper"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.98",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nAn important ore that iron comes from"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.99",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nAn ore that contains silver"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.100",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA lump of ice that never melts, for some reason"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.101",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA stone formed from hardened lava"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.102",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA stone said to have come from the Moon"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.103",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA mysterious stone that is always wet"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.104",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA rare stone that carries an electric charge"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.105",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nWhen processed, it becomes a valuable iron"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.106",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA glossy, heavy ore"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.107",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA clear stone that is also used for optical lenses"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.108",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA beautiful hexagonal crystal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.109",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nHard black gravel"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.110",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nSmooth, round, pretty gravel"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.111",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nStrange, fluffy sand"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.112",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nMysterious sand that sounds off when rubbed together"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.113",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nAn absurdly heavy stone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.114",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA stone with nicely grown moss"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.115",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA big, flat stone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.116",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA long, rod-shaped stone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.117",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nSticky clay that is easy to work with"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.118",
+   "en": "{8004}3[Rank{8090}] Element Res Up{8005}\nAn oil with a foul smell"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.119",
+   "en": "{8004}3[Rank{8090}] Element Res Up{8005}\nAn oil derived from minerals"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.120",
+   "en": "{8004}3[Rank{8090}] Element Res Up{8005}\nStained black"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.121",
+   "en": "{8004}3[Rank{8090}] Element Res Up{8005}\nOil that circulates through an engine"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.122",
+   "en": "{8004}3[Rank{8090}] Element Res Up{8005}\nHigh-performance, cutting-edge oil"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.123",
+   "en": "{8004}3[Rank{8090}] Element Res Up{8005}\nFresh nectar"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.124",
+   "en": "{8004}3[Rank{8090}] Status Res Up{8005}\nA fluid some creature secretes to kill germs"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.125",
+   "en": "{8004}3[Rank{8090}] Status Res Up{8005}\nA slightly smelly extract secreted by a plant"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.126",
+   "en": "{8004}3[Rank{8090}] Status Res Up{8005}\nAn extract with a powerful stench, secreted by a monster"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.47",
+   "note": "Header: Rank tag kept with its padding dropped; the full-width brackets become square brackets. Header wording: Element Res Up / Stat Up / Status Res Up (Res per glossary ui)."
+  }
+ ],
+ "report": "80/80 translated. Rows 8.47-8.50 finish the monster-drop run (shell/tails). Materials in descriptions use plain wording."
+}

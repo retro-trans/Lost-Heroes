@@ -1,0 +1,14 @@
+{
+ "tpc": "Graph/Logo/Logo.tpc",
+ "page": "LOGO_psp_copy_8888.tga",
+ "note": "Boot-time anti-piracy notice (full-screen 480x272, opaque white). Red heading + black body, centred. 'bg' is the intended box fill (white); tex_edit.py currently clears boxes to transparent.",
+ "defaults": {"x": 40, "w": 400, "h": 14, "size": 12, "color": [0, 0, 0], "align": "center", "bg": [255, 255, 255]},
+ "boxes": [
+  {"y": 59, "h": 18, "size": 16, "bold": true, "color": [255, 1, 1], "text": "Notice"},
+  {"y": 91, "text": "Distributing or circulating this game software over the Internet"},
+  {"y": 116, "text": "without the permission of the rights holder, and knowingly"},
+  {"y": 140, "text": "downloading illegally distributed copies from the Internet,"},
+  {"y": 165, "text": "are strictly prohibited by law."},
+  {"y": 199, "text": "We ask for your understanding and cooperation."}
+ ]
+}

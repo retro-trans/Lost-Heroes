@@ -1,0 +1,329 @@
+{
+ "slice": "system_092",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillName.mbb#3.355",
+   "en": "Darkness Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.356",
+   "en": "Giant Sword"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.357",
+   "en": "Snake Whip"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.358",
+   "en": "Beam Rod"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.359",
+   "en": "Shark Nose"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.360",
+   "en": "Sharp Fangs"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.361",
+   "en": "Tail"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.362",
+   "en": "Grenade Launcher"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.363",
+   "en": "Mega Particle Spread Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.364",
+   "en": "Devil's Hook Claws"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.365",
+   "en": "Belial Claw"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.366",
+   "en": "Long Smoothbore Gun"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.367",
+   "en": "Machine Gun"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.368",
+   "en": "Movable Shield"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.369",
+   "en": "Claw Arm"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.370",
+   "en": "Swirling Gust"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.371",
+   "en": "Cool Blow"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.372",
+   "en": "Frozen Jet Smoke"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.373",
+   "en": "Frozen White"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.374",
+   "en": "Poison Pollen"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.375",
+   "en": "Magma Flame"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.376",
+   "en": "White Tar"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.377",
+   "en": "Mouth Pincers"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.378",
+   "en": "Head Beam"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.379",
+   "en": "Paralyze Shock Wave"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.380",
+   "en": "Frozen Snow Freezer"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.381",
+   "en": "Lightning Beam"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.382",
+   "en": "GN Long Beam Saber"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.1",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.2",
+   "en": "Gaia Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.3",
+   "en": "Mega Particle Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.4",
+   "en": "GN Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.5",
+   "en": "Beam Emerald"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.9",
+   "en": "Vulcan Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.10",
+   "en": "Pointer Ray Gun"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.11",
+   "en": "Beam Vulcan"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.12",
+   "en": "Tri-Gar Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.16",
+   "en": "Pelucidar Drill"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.17",
+   "en": "Permidar Drill"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.18",
+   "en": "Magma Riser Drill"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.19",
+   "en": "Regis Breaker"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.23",
+   "en": "Beam Shield"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.24",
+   "en": "I-Field"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.25",
+   "en": "Defense Dome"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.26",
+   "en": "Ultra Barrier"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.27",
+   "en": "Defense Mirror Zero"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.28",
+   "en": "GN Field"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.32",
+   "en": "Recovery Unit"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.33",
+   "en": "Recovery Unit Alpha"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.34",
+   "en": "Recovery Unit Gamma"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.35",
+   "en": "Recovery Unit Omega"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.38",
+   "en": "Birdlime"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.39",
+   "en": "Weapon-Dulling Round"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.40",
+   "en": "Armor-Melting Round"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.41",
+   "en": "Missile Pod"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.42",
+   "en": "Berserk Round"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.43",
+   "en": "Strong Acid Round"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.44",
+   "en": "High-Precision Gun Camera"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.45",
+   "en": "GN Shield Bit"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.46",
+   "en": "Reinforced Bulkhead"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.47",
+   "en": "GN Condenser"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#4.48",
+   "en": "Apogee Motor"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.1",
+   "en": "Normal Attack (Physical"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.2",
+   "en": "Normal Attack (Ranged"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.3",
+   "en": "Normal Attack (Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.4",
+   "en": "Normal Attack (Gundam-Type"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.5",
+   "en": "Critical Normal (Physical"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.6",
+   "en": "Critical Normal (Ranged"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.7",
+   "en": "Critical Normal (Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.8",
+   "en": "Critical Normal (Gundam-Type"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.9",
+   "en": "Enemy Normal Attack (Physical"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.10",
+   "en": "Enemy Normal Attack (Ranged"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.11",
+   "en": "Enemy Normal Attack (Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.12",
+   "en": "Enemy Crit Normal (Physical"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.13",
+   "en": "Enemy Crit Normal (Ranged"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.14",
+   "en": "Enemy Crit Normal (Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.15",
+   "en": "Defend"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.16",
+   "en": "Item"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.17",
+   "en": "Triple Gatling Gun"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.18",
+   "en": "All-Direction Barrage"
+  }
+ ],
+ "notes": [],
+ "report": "54 rows reused verbatim from translation memory; 26 new skill names. Uncertain: Snake Whip, Frozen Jet Smoke, Devil's Hook Claws, Long Smoothbore Gun."
+}

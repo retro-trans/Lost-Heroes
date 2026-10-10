@@ -1,0 +1,329 @@
+{
+ "slice": "quest_050",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.286",
+   "en": "Completed the quest \"Treasure Vault Investigation\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.1",
+   "en": "God Gundam asks to be taken to the reservoir in Desert Cube to train. Take God Gundam there."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.4",
+   "en": "God Gundam and the others made it to the reservoir."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.5",
+   "en": "We're here, God Gundam. This is the reservoir."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.6",
+   "en": "Good. I should be able to train in a place like this."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.7",
+   "en": "Training in a place like this? What the hell are you planning to do?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.8",
+   "en": "What training needs is a quiet place."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.9",
+   "en": "Here, I should be able to focus my mind."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.11",
+   "en": "From here on, the enemy will only grow stronger."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.12",
+   "en": "If I'm going to stand up to them, I have to grow stronger too..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.13",
+   "en": "Sorry, Ankh, but could you leave me alone for a little while?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.14",
+   "en": "...Geez. Fine, whatever. But I'm not waiting long."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.18",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.19",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.20",
+   "en": "Haaaah... Taaah!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.22",
+   "en": "It's no use... I can't calm my mind..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.23",
+   "en": "Why!? Why can't I remember the feeling I had back then!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.24",
+   "en": "Fuhahahahahahaha! You fool!! What's the matter, God Gundam!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.25",
+   "en": "Are you telling me a mere reservoir like this is no place to train!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.26",
+   "en": "Why!? Why are you here!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.27",
+   "en": "What drivel are you spouting? I am a phantom born of your own heart!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.28",
+   "en": "Rugged mountains, forests, waterfalls... Must the stage be set for you!? You imbecile!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.29",
+   "en": "And thaaat is why you are such an utter fool!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.30",
+   "en": "Shut up... Shut up, shut uuuuuup!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.31",
+   "en": "Yes!! Rage!! Fill your heart with anger!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.32",
+   "en": "Damn you... Master Gundam!! Get out of my waaaaaay!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.34",
+   "en": "Calm yourself, God Gundam!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.35",
+   "en": "What? Who's there!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.36",
+   "en": "What are you doing? Never let your guard down before an enemyyyy!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.37",
+   "en": "Keep a cool head!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.38",
+   "en": "Who's there? Whose voice is that?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.39",
+   "en": "Don't fall for his provocation!! Remember! That instant of Meikyo Shisui!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.40",
+   "en": "What is this voice... Whose voice is this, so full of warmth...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.41",
+   "en": "What's the matter, God Gundam! If you think you can defeat me, then try it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.42",
+   "en": "...That's right... I mustn't be misled... I have to calm my heart..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.43",
+   "en": "Haaaaaaaah..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.44",
+   "en": "Yes, that's it. Like a mirror without a single cloud..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.45",
+   "en": "...A heart like water, filled to the brim and perfectly still..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.46",
+   "en": "Yes... I remember now... This is the feeling..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.47",
+   "en": "Haaah..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.48",
+   "en": "...I see it! I can see it!! A single drop of water!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.49",
+   "en": "Nuoh! Wh-what is this fighting spirit!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.50",
+   "en": "This is nothing like what he showed before! Blast it! Insolent whelp!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.52",
+   "en": "Wh-what!? This is absurd!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.53",
+   "en": "Elbow strike, backfist, straight punch... Toryaaaaaaah!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.54",
+   "en": "No... Not me! How could I, Master Gundam, be rendered so helpless!? I won't stand for it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.56",
+   "en": "Oryaaaaaaah!! Teyaaaaaaaah!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.57",
+   "en": "Vanish!! Master Gundaaaaaaaaaam!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.59",
+   "en": "I remember now... the heart of Meikyo Shisui..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.60",
+   "en": "I heard it... That voice helped me remember. That voice... could it be...!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.61",
+   "en": "Hey! Aren't you done yet? How long are you gonna keep me waiting!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.62",
+   "en": "Sorry to keep you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.63",
+   "en": "So, is your training over?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.64",
+   "en": "...Yeah. My training is done, and it went well. Let's head back."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.68",
+   "en": "Obtained \"Hyper Mode\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.70",
+   "en": "Completed the quest \"State of Meikyo Shisui\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.74",
+   "en": "God Gundam must be in the party to progress this quest."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.1",
+   "en": "Masurao has sent word to 00. Take 00 with you to Veda Cube."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.4",
+   "en": "So you have come...!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.6",
+   "en": "First, allow me to thank you for accepting my challenge letter once again."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.7",
+   "en": "You're... Masurao!? Your form has changed!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.8",
+   "en": "I made you a promise. A promise that I would cut you down without fail!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.9",
+   "en": "And to fulfill that promise, I have been reborn..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.10",
+   "en": "Yes... as Susanowo!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.11",
+   "en": "I have waited... I have waited for this! For this time! For the moment I face the Gundam!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.12",
+   "en": "Now, Gundam!! This time, let us settle this once and for all!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.13",
+   "en": "...You desire battle that much..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.14",
+   "en": "Of course!! It is destiny! That you and I must do battle!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.15",
+   "en": "...Understood. I accept your duel."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.16",
+   "en": "Well said!! Truly, you are my prima donna!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.17",
+   "en": "That distortion... I will correct it with my own hands!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.18",
+   "en": "Then... have at you!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.20",
+   "en": "00! Eliminating the target!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.21",
+   "en": "Susanowo! Fairly and squarely... we duel!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.23",
+   "en": "Heh... It seems this is as far as I go..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.24",
+   "en": "I concede defeat... Gundam... Now! Deliver the finishing blow!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.25",
+   "en": "I will not... finish you..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.26",
+   "en": "Wh... What are you saying!! You would show me mercy!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.27",
+   "en": "Letting you live... That is my own kind of mercy stroke."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.28",
+   "en": "What... Absurd...!"
+  }
+ ],
+ "notes": [],
+ "report": "filled from the DG_QUEST twin rows / translation memory"
+}

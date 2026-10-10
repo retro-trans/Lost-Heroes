@@ -1,0 +1,374 @@
+{
+ "slice": "story_131",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0650.mbb#0.12",
+   "en": "Look! It's over 80%!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.13",
+   "en": "Look! It's over 80%!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.14",
+   "en": "Hey, look! This is bad! The damn thing's gone past 80%!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.15",
+   "en": "Look! It's over 80%!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.16",
+   "en": "Please look! It's over 80%!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.17",
+   "en": "The monitor showed the energy charge steadily building up."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.18",
+   "en": "The heroes hurried to work the control panel."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.19",
+   "en": "...Hm!? ...What's going on? The controls aren't responding!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.20",
+   "en": "...Hm!? ...What's going on? The controls aren't responding!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.21",
+   "en": "...Hm!? ...What's going on? The controls aren't responding!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.22",
+   "en": "...Hm!? ...What's going on? The controls aren't responding!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.23",
+   "en": "...Hm!? ...What's going on? The controls aren't responding!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.24",
+   "en": "...Hm!? ...What's going on? The controls aren't responding!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.25",
+   "en": "...Hm!? ...What's going on? The controls aren't responding!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.26",
+   "en": "...Hm!? ...What's going on? The controls aren't responding!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.27",
+   "en": "...Hm!? ...What's going on? The controls aren't responding!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.28",
+   "en": "...Hm!? ...What's going on? The controls aren't responding!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.29",
+   "en": "...Hm!? ...What's going on? The controls aren't responding!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.30",
+   "en": "...Hm!? ...What's going on? The controls aren't responding!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.31",
+   "en": "...Huh!? ...What the hell's goin' on!? The controls won't work, dammit!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.32",
+   "en": "...Hm!? ...What's going on!? The controls aren't responding!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.33",
+   "en": "...Hm!? ...What's going on? The controls aren't responding!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.34",
+   "en": "Then we just destroy it! The charge'll be done while we're standing here talking!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.35",
+   "en": "At that moment... someone appeared on one of the monitors."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.36",
+   "en": "It's no use."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.37",
+   "en": "Who the hell are you!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.38",
+   "en": "I am Reborns Gundam. This Cube is under my charge."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.39",
+   "en": "Reborns Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.40",
+   "en": "Reborns Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.41",
+   "en": "Reborns Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.42",
+   "en": "Reborns Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.43",
+   "en": "Reborns Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.44",
+   "en": "Reborns Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.45",
+   "en": "Reborns Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.46",
+   "en": "Reborns Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.47",
+   "en": "Reborns Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.48",
+   "en": "Reborns Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.49",
+   "en": "Reborns Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.50",
+   "en": "Reborns Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.51",
+   "en": "Reborns Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.52",
+   "en": "Reborns Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.53",
+   "en": "Reborns Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.54",
+   "en": "Too bad for you. I've moved all control of the Libra Cannon over here."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.55",
+   "en": "You can't operate it from that room."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.56",
+   "en": "Tch! Then I'll smash the reactor core directly! Let's go!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.57",
+   "en": "Hahahaha!! The Libra Cannon has already gone critical..."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.58",
+   "en": "If you try to stop it by force, it'll cause a massive explosion and take you all down with it."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.59",
+   "en": "...But that would be fine, too. Go on, then."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.60",
+   "en": "...What did you say?"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.61",
+   "en": "Even if I know I'll die, I'm going! I can't turn a blind eye to this!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.62",
+   "en": "Yeah... I'm going. I can't stand idly by here!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.63",
+   "en": "...Even so, I have no choice but to go. I can't just stand by and do nothing!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.64",
+   "en": "...Yeah, I'm going, all right!! There's no way I can just let this slide!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.65",
+   "en": "...Even if it's a trap, I will go! I cannot simply let this pass."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.66",
+   "en": "...Even if that's so, I'm going!! I can't let this go unchecked!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.67",
+   "en": "...Even so, I'm going! I can't just stand by and do nothing!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.68",
+   "en": "...Yeah, I'm going!! I can't just stand around here doing nothing!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.69",
+   "en": "...Even so, I will go! I cannot simply let this pass."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.70",
+   "en": "...Even so, I'm going!! I can't let this go unchecked!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.71",
+   "en": "...Even if it's a trap, I will go! I cannot simply let this pass."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.72",
+   "en": "...I'll go, all right!! I refuse to stand by and do nothing!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.73",
+   "en": "Yeah, you bet I'm goin'! No way in hell I'm lettin' this slide!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.74",
+   "en": "...Even if that's true, I'm going!! 'Cause I sure as hell can't sit back and do nothing!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.75",
+   "en": "...Even if that's true, I'm going!! I can't just look the other way!!"
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.76",
+   "en": "Let's go!! I've got the reactor core's location! It's on the lower level!"
+  },
+  {
+   "key": "MainEventMess0651.mbb#0.1",
+   "en": "So this is it!! The Libra's reactor core!!"
+  },
+  {
+   "key": "MainEventMess0651.mbb#0.2",
+   "en": "The heat is incredible... And the Minus Energy, too..."
+  },
+  {
+   "key": "MainEventMess0651.mbb#0.3",
+   "en": "It's really hot in here... And the Minus Energy is awful, too..."
+  },
+  {
+   "key": "MainEventMess0651.mbb#0.4",
+   "en": "It seems extremely hot in here... And the Minus Energy, too..."
+  },
+  {
+   "key": "MainEventMess0651.mbb#0.5",
+   "en": "The heat is incredible... And the Minus Energy, too..."
+  },
+  {
+   "key": "MainEventMess0651.mbb#0.6",
+   "en": "The heat is incredible... And the Minus Energy, too..."
+  },
+  {
+   "key": "MainEventMess0651.mbb#0.7",
+   "en": "This heat is intense... And the Minus Energy, too..."
+  },
+  {
+   "key": "MainEventMess0651.mbb#0.8",
+   "en": "It seems extremely hot in here... And the Minus Energy, too..."
+  },
+  {
+   "key": "MainEventMess0651.mbb#0.9",
+   "en": "It seems extremely hot in here... And the Minus Energy, too..."
+  },
+  {
+   "key": "MainEventMess0651.mbb#0.10",
+   "en": "This heat is intense... And the Minus Energy, too..."
+  },
+  {
+   "key": "MainEventMess0651.mbb#0.11",
+   "en": "It seems extremely hot in here... And the Minus Energy, too..."
+  },
+  {
+   "key": "MainEventMess0651.mbb#0.12",
+   "en": "This heat is intense... And the Minus Energy, too..."
+  },
+  {
+   "key": "MainEventMess0651.mbb#0.13",
+   "en": "Damn, this heat's insane!! And there's Minus Energy on top of it...!!"
+  },
+  {
+   "key": "MainEventMess0651.mbb#0.14",
+   "en": "What's with this room? It's way too hot. And the Minus Energy, too..."
+  },
+  {
+   "key": "MainEventMess0651.mbb#0.15",
+   "en": "It's extremely hot... And the Minus Energy, too..."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0650.mbb#0.12",
+   "note": "Leader block #0.2-16 (script n1-15) follows the first Pt_Chara_Check chain 9,6,4,11,1,7,5,12,10,2,13,8,3,15,14 (Wing Zero, Nu, W Shotaro, Ultraman, Rider 1, Zeta, OOO, Seven, 00, RX, Taro, God, Den-O Sword, Zero, Mebius). In this slice: #0.12 Taro, #0.13 God Gundam, #0.14 Momotaros (rough), #0.15 Zero, #0.16 Mebius (polite). Fits the wording."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.19",
+   "note": "#0.19-33 = second leader block (n18-32), same chain: #0.31 Momotaros (rough), #0.32 Zero, #0.33 Mebius. Identical JP -> identical EN."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.34",
+   "note": "Script names Ankh (he is with the party in this Cube). 'Nara' answers the failed controls: if the panel won't work, destroy the cannon."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.38",
+   "note": "Self-introduction: name on line 1, then 'kono Cube wo azukatte iru' = this Cube is in his charge."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.39",
+   "note": "#0.39-53: 15 identical leader copies (n38-52)."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.59",
+   "note": "Reborns taunts them: going may kill them all, which suits him fine. Ankh's reply #0.60 is 'What did you say?'."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.61",
+   "note": "#0.61-75 leader block uses the SECOND chain printed after n37: 10,9,6,4,11,1,7,5,12,2,13,8,3,15,14 = 00, Wing Zero, Nu, W Shotaro, Ultraman, Rider 1, Zeta, OOO, Seven, RX, Taro, God, Den-O Sword, Zero, Mebius. Checked against wording (watashi = Ultraman/Seven/Taro at #0.65/69/71, boku = Mebius #0.75, rough = Shotaro/Momotaros/Zero #0.64/73/74). 'Tatoe sou demo' = even if it means the explosion Reborns described; #0.65/#0.71 say 'even if it's a trap'."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.63",
+   "note": "'Iku shika nai' given the subject 'I' (the leader is answering for himself, as the other variants do)."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.56",
+   "note": "Rokushin = reactor core (of the Libra / its cannon); same word in #0.76 and 0651#0.1."
+  },
+  {
+   "key": "MainEventMess0651.mbb#0.2",
+   "note": "0651 leader block #0.2-16 (n1-15) uses a 14-entry chain without Wing Zero (Heero has his own branch): 6,4,11,1,7,5,12,10,2,13,8,3,15,14 read 0-based = Nu, Shotaro, Ultraman, Rider 1, Zeta, OOO, Seven, 00, RX, Taro, God, Momotaros, Zero, Mebius; #0.16 (story_132) would be a spare slot. The 0-based reading fits the next block (#0.18-32 in story_132) clearly; a 1-based reading would fit this block's last three rows slightly better (#0.15 'da na' is a little rough for Mebius). Rendered #0.15 neutrally so either reading works."
+  },
+  {
+   "key": "MainEventMess0651.mbb#0.2",
+   "note": "'Sore ni mainasu enerugii mo...' trails off in the source (implied: is intense too); kept as a trailing fragment."
+  }
+ ],
+ "report": "80/80 rows. Leader blocks mapped from the Pt_Chara_Check chains in 0650/0651 and checked against wording; 0650 uses two different chains (second one from n38 on). Uncertain: 0651 block 0- vs 1-based index (#0.15 voiced neutrally). No names outside the glossary; 'reactor core' used for rokushin."
+}

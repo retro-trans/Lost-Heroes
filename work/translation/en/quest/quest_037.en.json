@@ -1,0 +1,329 @@
+{
+ "slice": "quest_037",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.163",
+   "en": "We'll hold onto it for a while. We'll repair it with Celestial Being's technology."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.164",
+   "en": "Right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.165",
+   "en": "00 must be in the party to progress this quest."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.166",
+   "en": "Completed the quest \"Crazygon Hunt\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.1",
+   "en": "An Antlar nest has appeared in Desert Cube's Ruins Zone. Please exterminate it at once."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.6",
+   "en": "I'm sure you've heard already, but an Antlar nest has appeared."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.7",
+   "en": "So we just gotta crush it, right?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.8",
+   "en": "If that were all, it would be fine, but this time one of our comrades was dragged into the nest."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.9",
+   "en": "That's terrible!! We must go at once!! Leave it to us!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.10",
+   "en": "That's terrible!! We must go at once!! Leave it to us!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.11",
+   "en": "That's terrible!! We must go at once!! Leave it to us!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.12",
+   "en": "That's terrible... Let's go right away! We'll do our best to rescue them!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.13",
+   "en": "Now that's bad news! We'll take care of it for ya!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.14",
+   "en": "Mission accepted. We'll take care of it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.15",
+   "en": "Understood. We'll take care of it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.16",
+   "en": "That's terrible! We'll hurry to the rescue."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.17",
+   "en": "That's terrible! We'll hurry to the rescue."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.18",
+   "en": "What did you say!? All right, I'll take care of it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.19",
+   "en": "What!? We'll hurry to the rescue."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.20",
+   "en": "That's terrible!! Leave it to us!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.21",
+   "en": "That ain't good!! All right! Leave it to us!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.22",
+   "en": "That's bad news! This ain't the time to sit around! Let's hurry!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.23",
+   "en": "That's terrible! We've gotta hurry!! Ankh! Let's go!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.24",
+   "en": "We're counting on you. I'll mark the location on your map."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.31",
+   "en": "So that's it...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.32",
+   "en": "So that's it...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.33",
+   "en": "So that's it...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.34",
+   "en": "So that's it...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.35",
+   "en": "So that's it...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.36",
+   "en": "Target confirmed."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.37",
+   "en": "Target acquired."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.38",
+   "en": "So that's it...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.39",
+   "en": "So that's it...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.40",
+   "en": "So that's it...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.41",
+   "en": "So that's it...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.42",
+   "en": "So that's it...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.43",
+   "en": "So that's it...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.44",
+   "en": "So that's it...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.45",
+   "en": "So that's it...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.46",
+   "en": "Looks like it isn't firing its Capture Ray."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.47",
+   "en": "Kiiaaaah~~~!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.48",
+   "en": "We'll be taking our friend back now."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.49",
+   "en": "We'll be taking our friend back now."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.50",
+   "en": "We'll be taking our friend back now."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.51",
+   "en": "Antlar!! We're taking our friend back!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.52",
+   "en": "We're taking our friend back!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.53",
+   "en": "Our friend is coming back with us."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.54",
+   "en": "Our friend is coming back with us."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.55",
+   "en": "We'll be taking our friend back now."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.56",
+   "en": "We'll be taking our friend back now."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.57",
+   "en": "We'll be taking our friend back now."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.58",
+   "en": "We'll be taking our friend back now."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.59",
+   "en": "We'll be taking our friend back now."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.60",
+   "en": "Don't you play dumb with me! We came to get our friend back!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.61",
+   "en": "We're taking our friend back, got it?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.62",
+   "en": "We're taking our friend back, okay?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.63",
+   "en": "Your friend...? Oh, that thing. That's tonight's main dish."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.64",
+   "en": "As if I'd give it back!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.65",
+   "en": "Just hurry up and take it down already. Something like this is a cakewalk, right?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.66",
+   "en": "A cakewalk? You've got some nerve, haven't you?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.67",
+   "en": "Tch! So there was another one!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.68",
+   "en": "And there's still more!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.69",
+   "en": "Hahahahaha!! I'll smash you lot too and cook you up!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.70",
+   "en": "Not a chance!! Come at us, however many of you there are!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.71",
+   "en": "Not a chance!! Come at us, however many of you there are!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.72",
+   "en": "Not a chance!! Come at us, however many of you there are!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.73",
+   "en": "No way!! However many of you come, I'll win, no matter what!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.74",
+   "en": "Sorry, but maybe you lot are the ones who'll end up cooked!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.75",
+   "en": "Target confirmed: three Antlars. Commencing elimination."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.76",
+   "en": "The enemy: three Antlars... 00, commencing the operation!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.77",
+   "en": "I won't let you! No matter how many of you come out...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.78",
+   "en": "Like hell I'll let you do that!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.79",
+   "en": "Not a chance!! Come at us, however many of you there are!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.80",
+   "en": "Not a chance!! Come at us, then, as many as you please!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.81",
+   "en": "This is to save our friend!! However many of you come, I'll beat you, no matter what!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.82",
+   "en": "Sorry, but no matter how many of you gang up, the great me is gonna finish this in style!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.83",
+   "en": "Sorry, but I can't let our friends end up in tears. Here we go, huh?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.84",
+   "en": "This is to save our friend. However many of you come, I'll beat you, no matter what!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.86",
+   "en": "Right, let's hurry back!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.89",
+   "en": "{8074} and the others searched inside the Antlar nest."
+  }
+ ],
+ "notes": [],
+ "report": "filled from the DG_QUEST twin rows / translation memory"
+}

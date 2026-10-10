@@ -1,0 +1,374 @@
+{
+ "slice": "story_081",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0441.mbb#0.96",
+   "en": "The wall...!!"
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.97",
+   "en": "The wall...!!"
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.98",
+   "en": "The wall...!!"
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.99",
+   "en": "The wall...!!"
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.100",
+   "en": "The wall...!!"
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.101",
+   "en": "The wall...!!"
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.102",
+   "en": "The wall...!!"
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.103",
+   "en": "The wall...!!"
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.104",
+   "en": "He punched right through the wall with his bare hands...!!"
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.105",
+   "en": "All right!! We're getting out of here!!"
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.107",
+   "en": "The heroes broke through the ice wall."
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.108",
+   "en": "Looks like we made it out somehow..."
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.109",
+   "en": "Hey, God Gundam. That Grand Gundam guy's gonna come after us again, right?"
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.110",
+   "en": "Hm...? Yeah, most likely."
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.111",
+   "en": "He said something about the Devil Gundam's Four Heavenly Kings. So there are four of those things..."
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.112",
+   "en": "...Yes. But Heaven's Sword has already been defeated."
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.113",
+   "en": "That leaves three: Master Gundam, Grand Gundam, and Walter Gundam."
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.114",
+   "en": "Ankh, what's gotten into you all of a sudden?"
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.115",
+   "en": "Tch! What a pain."
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.116",
+   "en": "I've been acting alone until now, but to take on this many kaijin, and even kaiju,"
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.117",
+   "en": "I've started to feel the limits of fighting by myself."
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.118",
+   "en": "Why don't you come with us, God Gundam? I'll admit you're strong. But from here on..."
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.119",
+   "en": "From here on, I'll be coming along with you."
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.120",
+   "en": "I knew it! Of course you would! Then..."
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.121",
+   "en": "Yeah, gladly. I'm joining you!"
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.122",
+   "en": "Glad to have you with us."
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.123",
+   "en": "God Gundam joined the party!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.1",
+   "en": "So you showed up after all, Grand Gundam!! Did Master Gundam send you!?"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.2",
+   "en": "There you are, Grand Gundam!! Did Master Gundam send you!?"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.3",
+   "en": "There you are, Grand Gundam!! Did Master Gundam send you!?"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.4",
+   "en": "There you are, Grand Gundam!! Did Master Gundam send you!?"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.5",
+   "en": "There you are, Grand Gundam!! Did Master Gundam send you!?"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.6",
+   "en": "So you showed up after all, Grand Gundam!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.7",
+   "en": "So you showed up after all, Grand Gundam!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.8",
+   "en": "Whoa, I knew you'd show up!! Grand Gundam!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.9",
+   "en": "Knew you'd show up. I saw right through you, Grand Gundam!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.10",
+   "en": "I knew it... It's Grand Gundam!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.11",
+   "en": "So you've come after all, Grand Gundam!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.12",
+   "en": "So you've come after all, Grand Gundam!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.13",
+   "en": "So you showed up after all, Grand Gundam!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.14",
+   "en": "Figures you'd show your face! Grand Gundam!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.15",
+   "en": "Of course!! I can't let you lot get past me!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.16",
+   "en": "Go to helllll!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.20",
+   "en": "We did it...!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.21",
+   "en": "We did it...!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.22",
+   "en": "We did it...!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.23",
+   "en": "We took him down...!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.24",
+   "en": "We took him down...!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.25",
+   "en": "Good...!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.26",
+   "en": "Good...!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.27",
+   "en": "Yeaaah!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.28",
+   "en": "We did it, all right...!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.29",
+   "en": "We did it...!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.30",
+   "en": "We did it...!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.31",
+   "en": "We did it...!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.32",
+   "en": "We did it...!!"
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.33",
+   "en": "We did it...!!"
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.1",
+   "en": "Now then, time is almost up! The teams who have reached this venue so far are..."
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.2",
+   "en": "Violence Dopant\nAlien Reflect"
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.3",
+   "en": "Pandon\nMasurao"
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.4",
+   "en": "Uva\nZamsha"
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.8",
+   "en": "And Walter Gundam. Seven teams in all!"
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.9",
+   "en": "Oh ho, less than one minute remains!?"
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.13",
+   "en": "(Heh... So the heroes never showed up in the end. It seems Grand Gundam did his job well.)"
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.14",
+   "en": "The remaining time ticked steadily away..."
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.15",
+   "en": "And then came the fateful countdown!"
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.16",
+   "en": "00:00:10...\n00:00:09..."
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.17",
+   "en": "00:00:08...\n00:00:07..."
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.18",
+   "en": "00:00:06...\n00:00:05..."
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.19",
+   "en": "00:00:04...\n00:00:03..."
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.20",
+   "en": "00:00:02...\n00:00:01..."
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.21",
+   "en": "Hold it right there!!"
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.22",
+   "en": "Hold it!!"
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.23",
+   "en": "Hold it!!"
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.24",
+   "en": "We made it...!"
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.25",
+   "en": "We made it...!"
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.26",
+   "en": "Hooold it!!"
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.27",
+   "en": "Hooold it!!"
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.28",
+   "en": "Hold it right there!!"
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.29",
+   "en": "Hold it right there!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0441.mbb#0.96",
+   "note": "Slice speaker labels after the empty entry #0.86 are off by one. 0441.bla maps MessWinSet TextIdOffset+n to row n+1 throughout (checked against #0.22-0.27 and #0.70-0.90): #0.104 Ankh, #0.105 God Gundam, #0.107 narration, #0.111 Ankh, #0.112-0.113 God Gundam, #0.115 Ankh, #0.116-0.117 and #0.119 God Gundam. #0.91-0.103 are the 13 leader variants of 'The wall...!!' (identical JP, identical EN)."
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.108",
+   "note": "#0.108-0.110, #0.114, #0.118 and #0.120-0.122 are not referenced by 0441.bla (apparently an unused draft of the recruitment talk). Speakers inferred: #0.109 a rough party member (Ankh-like) to God Gundam, #0.110 God Gundam, #0.114 someone reacting to Ankh, #0.118 probably Ankh inviting God Gundam, #0.121 God Gundam accepting. The script's last Ankh line (TextIdOffset+123, i.e. #0.124) does not exist in the table."
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.116",
+   "note": "Sentence runs into #0.117; English cut at the matching comma. 'Kaijin' per glossary (revived kaijin); kaiju for kaijuu."
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.122",
+   "note": "Unreferenced row; speaker unknown. Direction taken as party -> God Gundam (a welcome). If God Gundam says it, 'I'm counting on you all.' would fit instead."
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.123",
+   "note": "Source ends with a full stop; '!' matches the established 'X joined the party!' lines."
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.1",
+   "note": "0443.bla leader order (second Pt_Chara_Check chain: 8,6,7,9,10,1,2,3,4,5,11,12,14,15) = God Gundam, Nu, Zeta, Wing Zero, 00, Rider 1, RX, Den-O (Momotaros), W (Shotaro), OOO, Ultraman, Seven, Mebius, Zero. Matches the wording (God Gundam and the Gundams ask about Master Gundam; rough forms at Momotaros/Shotaro/Zero) and the script-labelled 0444 #0.21-0.34 arrival block. Same order for #0.20-0.33."
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.10",
+   "note": "OOO's variant; source has a trailing line break, dropped."
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.16",
+   "note": "Grand Gundam. Long-dash shout rendered as a stretched 'hell'."
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.8",
+   "note": "Rows #0.5-0.7 are absent from the table; the list in #0.2-0.4 plus Walter Gundam makes seven teams."
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.13",
+   "note": "Master Gundam's thought; archaic 'arawarenanda' = did not appear. Parentheses kept as in source."
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.21",
+   "note": "#0.21-0.29 (and story_082 #0.30-0.34) are per-hero arrival shouts, labels from the script: God Gundam, Nu, Zeta, Wing Zero, 00, Rider 1, RX, Den-O, Shotaro. 'Kita zo' (Wing Zero/00) = arrived at the venue: 'We made it...!'."
+  }
+ ],
+ "report": "80/80 rows. Slice speaker labels in 0441 after #0.86 are shifted by one; corrected from 0441.bla (row = TextIdOffset+n+1). Eight 0441 rows (#0.108-0.110, #0.114, #0.118, #0.120-0.122) are unreferenced by the script; speakers inferred, #0.122 direction uncertain. 0443 leader order from Pt_Chara_Check. No names outside the glossary."
+}

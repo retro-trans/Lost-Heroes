@@ -1,0 +1,98 @@
+{
+ "tpc": "Graph/Dg/Start/Area/AREASTART_C08_tex.tpc",
+ "page": "UI_common_AREA_c8_4444.tga",
+ "note": "Area-start card name pieces (rects from AREASTART_C08.gtx GFUV; the GTSH shapes place them side by side: Cube name, then area pieces). Cube names are right-aligned so they sit next to the area pieces. Shapes: Chaos Cube + X + の (split in two rects: left 7px, right 5px) + Y. English order X of Y: Gaze of Hatred, Breath of Resign. (Resignation does not fit 24 px), 3 Pillars of Despair.",
+ "boxes": [
+  {
+   "x": 0,
+   "y": 0,
+   "w": 97,
+   "h": 12,
+   "text": "Chaos Cube",
+   "align": "right"
+  },
+  {
+   "x": 97,
+   "y": 1,
+   "w": 24,
+   "h": 11,
+   "text": "Gaze",
+   "size": 8,
+   "align": "right"
+  },
+  {
+   "x": 121,
+   "y": 13,
+   "w": 7,
+   "h": 11,
+   "text": "o",
+   "align": "right"
+  },
+  {
+   "x": 122,
+   "y": 1,
+   "w": 6,
+   "h": 11,
+   "text": "f"
+  },
+  {
+   "x": 1,
+   "y": 13,
+   "w": 23,
+   "h": 12,
+   "text": "Hatred",
+   "size": 8
+  },
+  {
+   "x": 24,
+   "y": 13,
+   "w": 24,
+   "h": 12,
+   "text": "Breath",
+   "size": 8,
+   "align": "right"
+  },
+  {
+   "x": 49,
+   "y": 13,
+   "w": 24,
+   "h": 12,
+   "text": "Resign.",
+   "size": 7
+  },
+  {
+   "x": 74,
+   "y": 13,
+   "w": 23,
+   "h": 12,
+   "text": "3 Pillars",
+   "size": 8,
+   "align": "right"
+  },
+  {
+   "x": 97,
+   "y": 13,
+   "w": 23,
+   "h": 13,
+   "text": "Despair",
+   "size": 8
+  }
+ ],
+ "defaults": {
+  "size": 9,
+  "bold": false,
+  "color": [
+   255,
+   255,
+   255
+  ]
+ },
+ "clear": [
+  [
+   0,
+   0,
+   128,
+   32
+  ]
+ ]
+}

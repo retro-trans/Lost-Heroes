@@ -1,0 +1,434 @@
+{
+ "slice": "story_006",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0114.mbb#0.36",
+   "en": "A base?"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.37",
+   "en": "You're more than welcome there!"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.38",
+   "en": "It's not a bad place, you know?"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.39",
+   "en": "Yes, that's right."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.40",
+   "en": "We'll explain the details later!"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.44",
+   "en": "...I see. So this is where all of you woke up."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.45",
+   "en": "Even so... it looks like all sorts of things have been gathered up here."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.46",
+   "en": "But most of them no longer work."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.47",
+   "en": "Is that so...? Some of it looks usable, though..."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.48",
+   "en": "What's this...?"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.49",
+   "en": "Mebius, isn't this an Archive?"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.50",
+   "en": "You're right! It's the GUYS Archive Document!"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.51",
+   "en": "What's that?"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.52",
+   "en": "It's a file of data on kaiju and aliens."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.53",
+   "en": "Then it's got data on Seamons and Seagorath too?"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.54",
+   "en": "Of course, Zero. I'm searching now..."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.55",
+   "en": "A lot of these files are corrupted... That one was... MAT, if I recall..."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.56",
+   "en": "Found it!!"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.57",
+   "en": "Document MAT, Register Code: Tsunami Monster Seamons, Tornado Monster Seagorath...!"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.58",
+   "en": "Oh!! Alright!!"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.59",
+   "en": "Is there... some kind of weakness?"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.60",
+   "en": "It says that when MAT's new weapon broke their horns, they lost their special powers!"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.61",
+   "en": "That's it!"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.62",
+   "en": "So their weak spot is the horns..."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.63",
+   "en": "Alright! Let's go!!"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.64",
+   "en": "Wait!"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.65",
+   "en": "Let's split up the roles before we go."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.66",
+   "en": "Mebius and I will go ahead and attack their horns."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.67",
+   "en": "Once the storm stops, you all use that opening to get in close and hit them hard in one go."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.68",
+   "en": "I see. Not bad."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.69",
+   "en": "Leave it to us!!"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.70",
+   "en": "Right, then we'll go on ahead."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.71",
+   "en": "Let's go, Mebius!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.1",
+   "en": "You made it. Are you ready?"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.3",
+   "en": "Understood. Mebius and I will stand by here."
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.5",
+   "en": "Alright, here we go. Ready, Mebius!?"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.6",
+   "en": "Right!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.7",
+   "en": "Seamons! Seagorath!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.8",
+   "en": "You're up against us!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.9",
+   "en": "Kiiiiigwah!!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.10",
+   "en": "Groooooooh!!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.11",
+   "en": "Ugh...! What a wind...!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.12",
+   "en": "Hold on, Mebius!! Get as close as you can, then hit them with the Mebium Shoot!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.13",
+   "en": "Roger!!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.14",
+   "en": "Raaaaaaah!!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.15",
+   "en": "Now!!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.16",
+   "en": "Mebium Shoot!!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.17",
+   "en": "Knight Shoot!!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.18",
+   "en": "Gyaaaaah!!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.19",
+   "en": "Gwaaaaah!!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.20",
+   "en": "The two beams shattered Seamons and Seagorath's horns, and the raging storm began to weaken."
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.21",
+   "en": "...The wind's stopped!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.22",
+   "en": "Now!! Go!!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.23",
+   "en": "Well done!!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.24",
+   "en": "We did it!!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.25",
+   "en": "Fufufufu... So you went and beat them, did you?"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.26",
+   "en": "Bogal!! So you were behind this!!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.27",
+   "en": "Ultraman Hikari... Always getting in my way."
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.28",
+   "en": "You devoured the planet I loved and took everything from me!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.29",
+   "en": "It's not enough. I'm still... still, still, still, still not full!!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.30",
+   "en": "Maybe I'll eat the whole lot of you, too!!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.31",
+   "en": "...Is what I'd like to say! Too bad! I can't eat heroes without Lord Weather's permission."
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.32",
+   "en": "Lucky you, saved your lives, huh? Fu, fufu, fufufufu...!!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.34",
+   "en": "Aaaaaaaaaahahahahahaha!!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.35",
+   "en": "Bogal...!! You...!!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.36",
+   "en": "Either way, the Central District ahead will be your grave! Ahahaha... aha... ahahahahaaa!!"
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.37",
+   "en": "You won't get away!!"
+  },
+  {
+   "key": "MainEventMess0116.mbb#0.1",
+   "en": "There is a Barabas corpse here."
+  },
+  {
+   "key": "MainEventMess0117.mbb#0.1",
+   "en": "Past the shutter, there were signs of battle everywhere."
+  },
+  {
+   "key": "MainEventMess0117.mbb#0.2",
+   "en": "...These have to be marks from an Ultra Warrior's fight!"
+  },
+  {
+   "key": "MainEventMess0117.mbb#0.3",
+   "en": "They've got to be up ahead!"
+  },
+  {
+   "key": "MainEventMess0117.mbb#0.4",
+   "en": "Looks like there was fighting on this side, too. ...The Ultra Warriors Zero mentioned?"
+  },
+  {
+   "key": "MainEventMess0117.mbb#0.5",
+   "en": "Seems someone was fighting in this area too. ...Could it be the Ultra Warriors Zero spoke of?"
+  },
+  {
+   "key": "MainEventMess0117.mbb#0.6",
+   "en": "Someone's been fighting on this side too... Maybe the Ultra Warriors Zero was talking about."
+  },
+  {
+   "key": "MainEventMess0121.mbb#0.1",
+   "en": "The weather's changed..."
+  },
+  {
+   "key": "MainEventMess0121.mbb#0.2",
+   "en": "The weather changed...? Looks like the Weather Dopant's handiwork."
+  },
+  {
+   "key": "MainEventMess0121.mbb#0.3",
+   "en": "Whoa, it's freezing...!! It suddenly got so cold..."
+  },
+  {
+   "key": "MainEventMess0121.mbb#0.4",
+   "en": "The weather changed...?"
+  },
+  {
+   "key": "MainEventMess0122.mbb#0.1",
+   "en": "Yo!!"
+  },
+  {
+   "key": "MainEventMess0122.mbb#0.2",
+   "en": "Hey, hey! Hold on!! It's me! Me, me!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "GENERAL",
+   "note": "0114 #0.44-0.71 and 0115 #0.1/#0.20 have no recovered speaker; speakers inferred from speech style and address. Ultra lines at the base: Mebius polite (desu/masu), Hikari plain and firm, Zero brash."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.36",
+   "note": "Mebius repeats Zero's word 'base' (same term as earlier slices). #0.37-0.40 are party-leader branches answering him."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.37",
+   "note": "Shotaro's literal line is just 'Welcome!'; rendered as welcoming them to the base."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.44",
+   "note": "Inferred speaker: Mebius (polite, addresses everyone as minasan)."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.45",
+   "note": "Uncertain speaker: Hikari or a party member (plain 'da na'). #0.46/#0.47 are an unattributed exchange (one says nothing works, another disagrees); kept neutral."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.49",
+   "note": "Inferred speaker: Hikari (addresses Mebius, later runs the search)."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.51",
+   "note": "Inferred speaker: Zero (Hikari answers 'Of course, Zero' to #0.53). #0.51 could also be a party member."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.54",
+   "note": "Inferred speaker: Hikari (plain 'mochiron da, Zero'); #0.55-0.57 continue Hikari reading the archive."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.57",
+   "note": "GUYS archive formula 'Document MAT, Register Code' kept; kaiju epithets: Seamons = Tsunami Monster, Seagorath = Tornado Monster."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.60",
+   "note": "Inferred speaker: Mebius (polite 'arimasu ne')."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.64",
+   "note": "#0.64-0.67 and #0.70-0.71 inferred as Hikari (plans with 'Mebius and I', 'Let's go, Mebius'). #0.63/#0.68/#0.69 inferred as Zero."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.69",
+   "note": "Source drops the subject; rendered 'Leave it to us' since the speaker answers for the team the plan assigned. Could be 'me' if a single hero is meant."
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.1",
+   "note": "Speaker not recovered; Hikari (he and Mebius went ahead and waited)."
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.9",
+   "note": "Kaiju roars (#0.9, #0.10, #0.18, #0.19) transliterated as sound effects."
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.12",
+   "note": "Mebium Shoot / Knight Shoot: established English attack names."
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.23",
+   "note": "Hikari and Mebius after the party beats the kaiju: 'Well done' (Hikari praising the team) and 'We did it' (Mebius). Both could be read as 'You did it'."
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.27",
+   "note": "Bogal writes 'I/me' in katakana (alien voice); echoed lightly with capitalized 'My'. Glossary g=n, no pronouns used for Bogal."
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.28",
+   "note": "Source has a kanji meaning 'overturn' where 'love' fits (likely a typo or mis-decode); read as 'the planet I loved' (Bogal devoured Hikari's adopted planet Arb)."
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.31",
+   "note": "Weather-sama rendered 'Lord Weather' (Bogal deferring to the Weather Dopant)."
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.36",
+   "note": "'Central District' = the area name ahead (chuuou chiku); not in glossary."
+  },
+  {
+   "key": "MainEventMess0116.mbb#0.1",
+   "note": "Examine message (narration)."
+  },
+  {
+   "key": "MainEventMess0117.mbb#0.2",
+   "note": "Number unspecified in source; rendered 'an Ultra Warrior's fight' (Zero suspects his fellow Ultras)."
+  },
+  {
+   "key": "MainEventMess0122.mbb#0.2",
+   "note": "Momotaros's 'ore, ore' kept as 'It's me! Me, me!!'."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.37",
+   "note": "proofread: 'You're welcome to it' means 'take it, I don't want it'; source is a plain welcome."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.55",
+   "note": "proofread: restored dropped 'if I recall' (Hikari is remembering which file it was)."
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.27",
+   "note": "proofread: capitalised 'My' dropped; later slices voice Bogal's katakana 'I' as plain 'I'/'my'."
+  }
+ ],
+ "report": "80/80 rows. Many 0114 base-scene speakers unlabelled and inferred (Mebius/Hikari/Zero by speech style). 0115 #0.28 read a likely mis-encoded kanji as 'loved'. Names not in glossary: GUYS, MAT, Mebium Shoot, Knight Shoot, Central District, Lord Weather (form of address)."
+}

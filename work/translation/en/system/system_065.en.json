@@ -1,0 +1,354 @@
+{
+ "slice": "system_065",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.127",
+   "en": "{8004}3[Rank{8090}] Status Res Up{8005}\nCloudy, sticky slime"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.128",
+   "en": "{8004}3[Rank{8090}] Status Res Up{8005}\nSlime that is very dangerous to touch"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.129",
+   "en": "{8004}3[Rank{8090}] Status Res Up{8005}\nMurky green water"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.130",
+   "en": "{8004}3[Rank{8090}] Status Res Up{8005}\nClean, tasty water"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.131",
+   "en": "{8004}3[Rank{8090}] Status Res Up{8005}\nWater that glows faintly white"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.132",
+   "en": "{8004}3[Rank{8090}] Status Res Up{8005}\nSilver liquid metal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.133",
+   "en": "{8004}3[Rank{8090}] Status Res Up{8005}\nWater rich in minerals"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.134",
+   "en": "{8004}3[Rank{8090}] Status Res Up{8005}\nWater with few impurities"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.135",
+   "en": "{8004}3[Rank{8090}] Status Res Up{8005}\nFizzy, bubbling water"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.136",
+   "en": "{8004}3[Rank{8090}] Status Res Up{8005}\nA feather giving off a black aura"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.137",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA jewel said to work miracles for its owner"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.138",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA pretty red stone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.139",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA shining blue stone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.140",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA hard, pointed black stone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.141",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA stone in a calm, earthy color"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.142",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA round, rainbow-colored stone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.143",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA very hard, shining stone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.144",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA sinister diamond"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.145",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA stone that shines light blue"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.146",
+   "en": "{8004}3[Rank{8090}] Stat Up{8005}\nA stone with an eerie purple glow"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.147",
+   "en": "{8004}3[Rank{8090}] Stat & Res Up{8005}\nA magnificent whisker of the Yellow Dragon"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.148",
+   "en": "{8004}3[Rank{8090}] Stat & Res Up{8005}\nA mountain-sized shell of Genbu"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.149",
+   "en": "{8004}3[Rank{8090}] Stat & Res Up{8005}\nThe scale that is the Blue Dragon's weak point"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.150",
+   "en": "{8004}3[Rank{8090}] Stat & Res Up{8005}\nA huge fang of the White Tiger"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.1",
+   "en": "Removes your current equipment."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.2",
+   "en": "The Denden Memory needed to run the Denden Sensor"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.3",
+   "en": "A gadget that can detect what the naked eye cannot see"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.4",
+   "en": "A stone once enshrined at Baraj. Antlar's weakness...?"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.5",
+   "en": "The barrel of Accel's support droid, Gunner A"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.6",
+   "en": "An alloy used as armor material"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.7",
+   "en": "Ore that holds immense energy"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.8",
+   "en": "Text not set"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.9",
+   "en": "Text not set"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.10",
+   "en": "The key to Mebius's prison cell"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.11",
+   "en": "A bomb that releases birdlime"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.12",
+   "en": "A type of O Medal created from a Yummy"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.13",
+   "en": "A high-powered explosive"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.14",
+   "en": "A key that fits many kinds of doors"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.15",
+   "en": "The Meteor that revived Mebius after he was frozen in ice"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.16",
+   "en": "Has a tag for the storage vault attached"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.17",
+   "en": "A rusty katana with a chipped blade"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.18",
+   "en": "Key to the Execution Ground door. Engraved with \"Right\"."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.19",
+   "en": "Key to the Execution Ground door. Engraved with \"Left\"."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.31",
+   "en": "Material for upgrading the Main Cannon. Take it to the Maintenance Bay."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.32",
+   "en": "Material for upgrading the Gun Turret. Take it to the Maintenance Bay."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.33",
+   "en": "Drill upgrade material"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.34",
+   "en": "Material for upgrading the Shield. Take it to the Maintenance Bay."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.35",
+   "en": "Material for upgrading the Recovery Unit. Take it to the Maintenance Bay."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.36",
+   "en": "Ride Machine HP upgrade material. Take it to the Maintenance Bay."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.37",
+   "en": "Ride Machine EN upgrade material. Take it to the Maintenance Bay."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.38",
+   "en": "A Support Unit to mount on a Ride Machine. Take it to the Maintenance Bay."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.39",
+   "en": "A Support Unit to mount on a Ride Machine. Take it to the Maintenance Bay."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.40",
+   "en": "A Support Unit to mount on a Ride Machine. Take it to the Maintenance Bay."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.41",
+   "en": "A Support Unit to mount on a Ride Machine. Take it to the Maintenance Bay."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.42",
+   "en": "A Support Unit to mount on a Ride Machine. Take it to the Maintenance Bay."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.43",
+   "en": "A Support Unit to mount on a Ride Machine. Take it to the Maintenance Bay."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.44",
+   "en": "A Support Unit to mount on a Ride Machine. Take it to the Maintenance Bay."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.45",
+   "en": "A Support Unit to mount on a Ride Machine. Take it to the Maintenance Bay."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.46",
+   "en": "A Support Unit to mount on a Ride Machine. Take it to the Maintenance Bay."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.47",
+   "en": "A Support Unit to mount on a Ride Machine. Take it to the Maintenance Bay."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.48",
+   "en": "A Support Unit to mount on a Ride Machine. Take it to the Maintenance Bay."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.49",
+   "en": "A Support Unit to mount on a Ride Machine. Take it to the Maintenance Bay."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.50",
+   "en": "A Support Unit to mount on a Ride Machine. Take it to the Maintenance Bay."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.51",
+   "en": "Permidar Drill"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.52",
+   "en": "Magma Riser Drill"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.53",
+   "en": "Regis Breaker"
+  },
+  {
+   "key": "Table/Minigame/MinigameMess.mbb#0.1",
+   "en": "Dummy message"
+  },
+  {
+   "key": "Table/Minigame/MinigameMess.mbb#0.2",
+   "en": "Set your BET (max 10 coins)"
+  },
+  {
+   "key": "Table/Minigame/MinigameMess.mbb#0.3",
+   "en": "Set your BET (max 5 coins)"
+  },
+  {
+   "key": "Table/Minigame/MinigameMess.mbb#0.4",
+   "en": "Try for a Double Up?"
+  },
+  {
+   "key": "Table/Minigame/MinigameMess.mbb#0.5",
+   "en": "Now {806B} coins; if you win {806A}"
+  },
+  {
+   "key": "Table/Minigame/MinigameMess.mbb#0.6",
+   "en": "HIGH or LOW?"
+  },
+  {
+   "key": "Table/Minigame/MinigameMess.mbb#0.7",
+   "en": "Congratulations!"
+  },
+  {
+   "key": "Table/Minigame/MinigameMess.mbb#0.8",
+   "en": "Continue the Double Up?"
+  },
+  {
+   "key": "Table/Minigame/MinigameMess.mbb#0.9",
+   "en": "You won {806A} coins!"
+  },
+  {
+   "key": "Table/Minigame/MinigameMess.mbb#0.10",
+   "en": "Too bad!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.1",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.2",
+   "en": "The Targeted Town"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.3",
+   "en": "Cell Medal Collection"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.4",
+   "en": "The Phantom Kaiju"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#8.127",
+   "note": "Header follows system_064: Rank tag kept, padding dropped, brackets square. Stat & Res Up used for combined stat/resistance header."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.2",
+   "note": "Gijimemory item rendered as Denden Memory per glossary."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.5",
+   "note": "Gunner A: Accel's support droid, official English name."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#9.15",
+   "note": "Meteor: GUYS Meteor tech; assumed the Meteor that revived frozen Mebius."
+  },
+  {
+   "key": "Table/Minigame/MinigameMess.mbb#0.5",
+   "note": "{806B} = current coins, {806A} = coins after a successful Double Up; padding dropped."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.2",
+   "note": "Quest title taken from the Ultraseven episode title; Targeted Town chosen."
+  }
+ ],
+ "report": "80/80 translated. Item drop run 8.127-8.150 (Four Symbols beasts match earlier slices). Key item descriptions 9.x. New terms: Gunner A, Shield (Ride Machine part), Birdlime Bomb not coined."
+}

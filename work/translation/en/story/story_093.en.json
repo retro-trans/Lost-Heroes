@@ -1,0 +1,370 @@
+{
+ "slice": "story_093",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0518.mbb#0.37",
+   "en": "Museum?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.38",
+   "en": "Museum?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.39",
+   "en": "Museum?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.40",
+   "en": "Museum?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.41",
+   "en": "Museum?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.42",
+   "en": "Museum?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.43",
+   "en": "Museum?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.44",
+   "en": "That's right. Precious items from every world are on display here."
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.45",
+   "en": "Thanks to Gaoh's gang doing the legwork, I collected every last item from each of the Cubes."
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.46",
+   "en": "Then is the \"Xtreme Memory\" here too!?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.47",
+   "en": "Oh yeah! Then lemme ask ya, you got this \"Xtreme Memory\" thing too!?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.48",
+   "en": "Then that means the \"Xtreme Memory\" is here as well!?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.49",
+   "en": "In that case, the \"Xtreme Memory\" is here too?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.50",
+   "en": "Then that means the \"Xtreme Memory\" is here as well!?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.51",
+   "en": "Then that means the \"Xtreme Memory\" is here as well!?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.52",
+   "en": "Then that means the \"Xtreme Memory\" is here as well!?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.53",
+   "en": "In that case, the \"Xtreme Memory\" is here too!?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.54",
+   "en": "Then I bet that \"Xtreme Memory\" thing is here too, huh!?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.55",
+   "en": "Then... the \"Xtreme Memory\" is here too!?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.56",
+   "en": "So... the \"Xtreme Memory\" is here too!?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.57",
+   "en": "Then the \"Xtreme Memory\" must be here too!?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.58",
+   "en": "Then that means the \"Xtreme Memory\" is here as well!?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.59",
+   "en": "Then that means the \"Xtreme Memory\" is here as well!?"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.68",
+   "en": "Fufufufufu, of course. There is nothing our Museum's collection lacks."
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.69",
+   "en": "But it will never, ever fall into your hands! Ahahahahaha!!"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.70",
+   "en": "Jewel Dopant! Arms Dopant! Come out!"
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.71",
+   "en": "I am a beautiful diamond. Nothing can ever leave a scratch on me."
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.72",
+   "en": "Yo! I used to work under Gaoh. These days I'm crashin' with this lot, though."
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.73",
+   "en": "I'm gonna take every last thing you've got!"
+  },
+  {
+   "key": "MainEventMess0519.mbb#0.1",
+   "en": "There's an information board."
+  },
+  {
+   "key": "MainEventMess0520.mbb#0.1",
+   "en": "The door is locked."
+  },
+  {
+   "key": "MainEventMess0520.mbb#0.3",
+   "en": "The door is locked."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.1",
+   "en": "This is a medal crest. There's gotta be something past here."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.2",
+   "en": "Yeah. There might be a Core Medal in there."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.3",
+   "en": "Something is written on the door..."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.4",
+   "en": "\"I desire the memory of GAIA.\""
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.5",
+   "en": "Tch, \"the memory of GAIA\"...? Some kind of code?"
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.6",
+   "en": "G-A-I-A...? For now, let's try searching this room first."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.7",
+   "en": "The keyword is G-A-I-A... All right, let's start by searching this room."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.8",
+   "en": "G-A-I-A, is it... First, let's search every corner of this room."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.9",
+   "en": "G-A-I-A... That string of letters looks suspicious. Let's start by searching this room."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.10",
+   "en": "G-A-I-A, is it... First, let's try searching every corner of this room."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.11",
+   "en": "G-A-I-A, is it... First, let's try searching every corner of this room."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.12",
+   "en": "G-A-I-A, is it... First, let's try searching every corner of this room."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.13",
+   "en": "G-A-I-A... That string of letters looks suspicious. Let's start by searching this room."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.14",
+   "en": "G-A-I-A, is it... Let's start by searching every corner of this room."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.15",
+   "en": "G-A-I-A...? Guess we'll start by searching this room for now."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.16",
+   "en": "G-A-I-A...? All right! First, we search this room!"
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.17",
+   "en": "G-A-I-A...? First, we'll search this room thoroughly."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.18",
+   "en": "G-A-I-A...? First, we'll search this room thoroughly."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.19",
+   "en": "G-A-I-A...? Guess we'll start by searching this room for now."
+  },
+  {
+   "key": "MainEventMess0522.mbb#0.1",
+   "en": "\"Gene Memory\"\nThe Gaia Memory of genes"
+  },
+  {
+   "key": "MainEventMess0522.mbb#0.2",
+   "en": "The letter \"G\" is marked in the center of the Memory."
+  },
+  {
+   "key": "MainEventMess0522.mbb#0.4",
+   "en": "There's a switch on the display stand. Press it?"
+  },
+  {
+   "key": "MainEventMess0522.mbb#0.5",
+   "en": "{8074} pressed the switch."
+  },
+  {
+   "key": "MainEventMess0522.mbb#0.6",
+   "en": "\"GENE!!\""
+  },
+  {
+   "key": "MainEventMess0522.mbb#0.7",
+   "en": "\"Click...\""
+  },
+  {
+   "key": "MainEventMess0522.mbb#0.8",
+   "en": "There was a faint sound from over by the door."
+  },
+  {
+   "key": "MainEventMess0522.mbb#0.10",
+   "en": "And then..."
+  },
+  {
+   "key": "MainEventMess0522.mbb#0.11",
+   "en": "\"CLANG!!\""
+  },
+  {
+   "key": "MainEventMess0522.mbb#0.12",
+   "en": "An especially loud metallic clang rang out, and the door bearing the medal crest quietly swung open."
+  },
+  {
+   "key": "MainEventMess0522.mbb#0.13",
+   "en": "...That did it! Let's go!"
+  },
+  {
+   "key": "MainEventMess0523.mbb#0.1",
+   "en": "\"Magma Memory\"\nThe Gaia Memory of magma"
+  },
+  {
+   "key": "MainEventMess0523.mbb#0.2",
+   "en": "The letter \"M\" is marked in the center of the Memory."
+  },
+  {
+   "key": "MainEventMess0523.mbb#0.3",
+   "en": "There's a switch. Press it?"
+  },
+  {
+   "key": "MainEventMess0523.mbb#0.4",
+   "en": "{8074} pressed the switch."
+  },
+  {
+   "key": "MainEventMess0523.mbb#0.5",
+   "en": "\"MAGMA!!\""
+  },
+  {
+   "key": "MainEventMess0523.mbb#0.7",
+   "en": "And then..."
+  },
+  {
+   "key": "MainEventMess0523.mbb#0.8",
+   "en": "\"CLANG!!\""
+  },
+  {
+   "key": "MainEventMess0523.mbb#0.9",
+   "en": "An especially loud metallic clang rang out, and the door bearing the medal crest quietly swung open."
+  },
+  {
+   "key": "MainEventMess0523.mbb#0.10",
+   "en": "...That did it! Let's go!"
+  },
+  {
+   "key": "MainEventMess0524.mbb#0.1",
+   "en": "\"T-Rex Memory\"\nThe Gaia Memory of the T-Rex"
+  },
+  {
+   "key": "MainEventMess0524.mbb#0.2",
+   "en": "The letter \"T\" is marked in the center of the Memory."
+  },
+  {
+   "key": "MainEventMess0524.mbb#0.3",
+   "en": "There's a switch. Press it?"
+  },
+  {
+   "key": "MainEventMess0524.mbb#0.4",
+   "en": "{8074} pressed the switch."
+  },
+  {
+   "key": "MainEventMess0524.mbb#0.5",
+   "en": "\"T-REX!!\""
+  },
+  {
+   "key": "MainEventMess0524.mbb#0.7",
+   "en": "And then..."
+  },
+  {
+   "key": "MainEventMess0524.mbb#0.8",
+   "en": "\"CLANG!!\""
+  },
+  {
+   "key": "MainEventMess0524.mbb#0.9",
+   "en": "An especially loud metallic clang rang out, and the door bearing the medal crest quietly swung open."
+  },
+  {
+   "key": "MainEventMess0524.mbb#0.10",
+   "en": "...That did it! Let's go!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0518.mbb#0.37",
+   "note": "#0.30-43 (block starts in story_092) and #0.46-59: 14-slot leader blocks (+29+k, +45+k). Script order: W has its own branch (#0.1-8); k = OOO, Den-O, RX, Rider 1, Seven, Taro, Ultraman, Mebius, Zero, Nu, Zeta, God, Wing Zero, 00. So #0.37-43 = Mebius..00, all identical 'Museum?'."
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.45",
+   "note": "Taboo: 'Gaoh's gang' as in story_092 #0.7. 'Kaku Cube' read as each of the Cubes; subject 'I' restored."
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.46",
+   "note": "Voiced per slot order: #0.47 Momotaros (rough 'ou! jaa kiku kedo yo'), #0.54 Zero ('daro na'), #0.48/50-52/58-59 identical formal 'naraba... to iu wake da na' (RX, Seven, Taro, Ultraman, Wing Zero, 00), #0.49 Rider 1 ends with '?' only. Quotes kept for the bracketed term (story_082/092 practice)."
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.71",
+   "note": "Jewel Dopant (g n): 'kizutsukeru koto wa dekinai' = cannot be scratched/damaged."
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.72",
+   "note": "Arms Dopant: 'yakkai ni natte iru' = being put up here as a hanger-on; rendered 'crashin' with this lot'."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.2",
+   "note": "Extractor labels Den-O Sword Form, but the script sets the speaker from the party check (CHARA_NAME.3 is only the default). OOO is checked first, so it is usually OOO answering Ankh; mild 'sou da ne' kept neutral."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.4",
+   "note": "Door inscription, archaic 'Ware, GAIA no kioku wo hossu'. GAIA kept in caps as in the source (G-A-I-A letter puzzle)."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.6",
+   "note": "14-slot leader block (+5+k). Script order: OOO, W, Rider 1, Nu, Seven, Ultraman, Taro, Zeta, Mebius, God, RX, Wing Zero, 00, Zero (Den-O falls back to slot 4). #0.14 polite '-mashou' = Mebius; #0.16 energetic = RX; identical Japanese kept identical."
+  },
+  {
+   "key": "MainEventMess0522.mbb#0.1",
+   "note": "Memory exhibits follow story_094's template (caption layout, caps voice call, 'CLANG!!', door line, Ankh line). Gene/Magma/T-Rex use official W names; 'T-Rex' per glossary T-Rex Dopant."
+  },
+  {
+   "key": "MainEventMess0522.mbb#0.13",
+   "note": "Ankh 'yatta na' rendered '...That did it!' to match story_094."
+  }
+ ],
+ "report": "80/80 rows. Leader-variant blocks voiced from the event scripts' Pt_Chara_Check order. Uncertain: 0521 #0.2 speaker (labelled Den-O, probably OOO via party register). Not in glossary: Museum (W organization, as story_092), Gene/Magma/T-Rex Memory (official W names)."
+}

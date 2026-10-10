@@ -1,0 +1,346 @@
+{
+ "slice": "system_068",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.311",
+   "en": "The Fate of Rider 1 and Rider 2"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.312",
+   "en": "What Lies Beyond the Teleporter?"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.313",
+   "en": "The Ruined World"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.314",
+   "en": "Celestial Being"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.315",
+   "en": "The Legendary Town of Baraj"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.316",
+   "en": "Antlar's Nest"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.317",
+   "en": "Wings Reborn"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.318",
+   "en": "Operation A: Emerium Ore Recovery"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.319",
+   "en": "Operation B: Gundanium Alloy Recovery"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.320",
+   "en": "Operation C: Raid on the Armory"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.321",
+   "en": "Ride Machine, Launch"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.322",
+   "en": "Into the Depths of Desert Cube"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.323",
+   "en": "Captive Black RX"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.324",
+   "en": "In Pursuit of The O"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.325",
+   "en": "For the Sake of Peace"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.326",
+   "en": "Pelucidar Drill"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.327",
+   "en": "The Eerie Research Facility"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.328",
+   "en": "Bizarre! The Dopants Rise Again"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.329",
+   "en": "Give Back Rider 1!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.330",
+   "en": "Give Back Ultraman!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.331",
+   "en": "Find the Polymer Plaster Bomb!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.332",
+   "en": "Rematch: Modified Bemstar"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.333",
+   "en": "Turnabout! The Heroes Arrive"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.334",
+   "en": "Red King Goes Berserk"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.335",
+   "en": "Rider 1's Life! Rider 2's Life!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.336",
+   "en": "To the Armory!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.337",
+   "en": "Shoot That Rock!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.338",
+   "en": "Rescue the Ultra Warriors!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.339",
+   "en": "Showdown! Giant Yapool"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.340",
+   "en": "Pouring Our Wishes into the Ultra Sign"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.341",
+   "en": "The Frozen Homeland"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.342",
+   "en": "The Dark Ultra Warrior"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.343",
+   "en": "Regis Fight"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.344",
+   "en": "Fight, Heroes! The Land of Light Is the Ring!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.345",
+   "en": "Defeat the Aquatic Kaijin Team!!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.346",
+   "en": "Break Through the Darkness!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.347",
+   "en": "Shock! Team Jack Is Defeated"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.348",
+   "en": "Finals Approach! Two Hours to the Deadline"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.349",
+   "en": "Heroes Targeted! The Alien Alliance's Trap"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.350",
+   "en": "It Begins! The Regis Fight Finals"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.351",
+   "en": "Finals! Round 2"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.352",
+   "en": "Time for the Decisive Battle!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.353",
+   "en": "Rescue Taro!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.354",
+   "en": "To a New Cube, Ready, Go!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.355",
+   "en": "Welcome to the Museum"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.356",
+   "en": "A Ticket to the Monster Zoo"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.357",
+   "en": "Find the Xtreme Memory!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.358",
+   "en": "Decipher the Door's Code"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.359",
+   "en": "O Medal Exhibit Room"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.360",
+   "en": "Chasing Kazari"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.361",
+   "en": "Search for the Xtreme Memory"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.362",
+   "en": "To the Special Exhibit Room"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.363",
+   "en": "Deeper into the Special Exhibit Room"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.364",
+   "en": "The Guest Is H / A Twisted Game"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.365",
+   "en": "Search for the Gaia Gate"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.366",
+   "en": "Destroy the Device"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.367",
+   "en": "Stop the Gaia Impact!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.368",
+   "en": "On to the Sixth Cube..."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.369",
+   "en": "Operation: Recapture Veda"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.370",
+   "en": "Prelude to the Recapture"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.371",
+   "en": "Shadow of Despair"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.372",
+   "en": "The World Ends"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.373",
+   "en": "Morning of Resolve"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.374",
+   "en": "Leaving the Destruction Boundary"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.375",
+   "en": "Where the Killing Intent Points"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.376",
+   "en": "The Advancing Blade"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.377",
+   "en": "The Devil Returns"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.378",
+   "en": "Innocent Madness"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.379",
+   "en": "At the End of the Great Cause"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.380",
+   "en": "Reborns Assault"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.381",
+   "en": "Amid the Scattering Particles"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.382",
+   "en": "To the Cube of the Final Battle"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.383",
+   "en": "Monster Graveyard"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.384",
+   "en": "Monsload of Despair"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.385",
+   "en": "Memories, Yummies, and the Ultimate Being"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.386",
+   "en": "The Devil Gundam Threat"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.387",
+   "en": "The Restless Monster Graveyard"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.388",
+   "en": "Mega Monster Battle!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.389",
+   "en": "Mega Monster Battle! VS Zetton"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.390",
+   "en": "Mega Monster Battle! VS Tyrant"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.323",
+   "note": "Source has a stray quote mark in the name BLACK RX; rendered as Black RX."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.364",
+   "note": "Quest title mixing a Gaia Memory letter H and an episode-style subtitle; rendering is a guess."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.384",
+   "note": "Monsroad: coined road name; rendered Monster Road."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.388",
+   "note": "Great Monster Battle rendered Mega Monster Battle to match earlier slices."
+  }
+ ],
+ "report": "Quest titles (QuestMess 311-390), all translated. Uncertain: 0.364, 0.384, 0.379, 0.376. No new glossary terms."
+}

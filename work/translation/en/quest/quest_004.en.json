@@ -1,0 +1,370 @@
+{
+ "slice": "quest_004",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.6",
+   "en": "The truth is, a certain weapon got sucked into Antlar's nest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.7",
+   "en": "Thanks to you all defeating Antlar, the magnetic ray has vanished, but the nest was buried as well."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.8",
+   "en": "So I'd like you to search where the nest used to be and dig up that weapon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.9",
+   "en": "I'm counting on you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.10",
+   "en": "If you called for me... don't tell me this has something to do with me?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.11",
+   "en": "That's right. The thing is, that weapon is the \"Hyper Mega Launcher.\""
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.12",
+   "en": "What!! You mean it was here in this world!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.13",
+   "en": "Yeah. We'd found it in this area and were in the middle of bringing it back."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.14",
+   "en": "Of course, if you find it, you're free to use it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.15",
+   "en": "So that's how it is... Of course I'll take the job!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.16",
+   "en": "Great. Well then, I'm counting on you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.20",
+   "en": "So you're the one who'll hear out my request."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.21",
+   "en": "The thing is, the other day I accidentally let a certain weapon get sucked into Antlar's nest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.22",
+   "en": "Thanks to you all beating Antlar, the magnetic ray is gone, but the nest got buried too."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.23",
+   "en": "I want you to search where the nest was and dig that weapon up."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.24",
+   "en": "I'm counting on you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.26",
+   "en": "Have you come to hear my request?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.27",
+   "en": "But I believe I asked you to bring Zeta Gundam along..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.33",
+   "en": "Hyahhahhahhah!! It's around here, right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.34",
+   "en": "There's a nice weapon buried here, y'know?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.35",
+   "en": "Hm...? What's with you guys?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.36",
+   "en": "...You mole bastards!! That's our weapon buried there!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.37",
+   "en": "That's our weapon buried there."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.38",
+   "en": "That's our weapon buried there."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.39",
+   "en": "Move. That's our weapon buried there."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.40",
+   "en": "That's our weapon buried there."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.41",
+   "en": "Step aside. That's our weapon buried there."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.42",
+   "en": "Outta the way! That's our weapon buried there."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.43",
+   "en": "Get out of the way! That's our weapon buried there."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.44",
+   "en": "Step aside. That's our weapon buried there."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.45",
+   "en": "Step aside. That's our weapon buried there."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.46",
+   "en": "Step aside. That's our weapon buried there."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.47",
+   "en": "Could you move aside? That's our weapon buried down there."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.48",
+   "en": "Move it, would ya? That's our weapon buried there."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.49",
+   "en": "Step aside. That's our weapon buried there."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.50",
+   "en": "Step aside. That's our weapon buried there."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.51",
+   "en": "We sniffed this place out first, y'know?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.52",
+   "en": "If you get in our way, we'll take you out, 'kay!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.55",
+   "en": "Obtained \"Hyper Mega Launcher\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.56",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.57",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.58",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.59",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.60",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.61",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.62",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.63",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.64",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.65",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.66",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.67",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.68",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.69",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.70",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.71",
+   "en": "Hey... I got worried and came to check after all. Whoa!! You found it!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.72",
+   "en": "Yeah. I'll be using it, just like we agreed."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.73",
+   "en": "Of course!! I'll report it that way, then. Thank you!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.74",
+   "en": "This is the \"Hyper Mega Launcher,\" isn't it!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.75",
+   "en": "Yeah. You sure know your stuff... Oh, was it originally yours, by any chance?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.76",
+   "en": "Yes, it is."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.77",
+   "en": "I see. Then it's better off with you. Go ahead and use it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.78",
+   "en": "Obtained \"Hyper Mega Launcher\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.79",
+   "en": "Well, I'll report it that way. Thanks!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.84",
+   "en": "This is the \"Hyper Mega Launcher.\""
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.85",
+   "en": "If I remember right, this is... the \"Hyper Mega Launcher.\""
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.86",
+   "en": "If I remember right, this is... the \"Hyper Mega Launcher.\""
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.87",
+   "en": "If I remember right, this is... the \"Hyper Mega Launcher.\""
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.88",
+   "en": "Hey, I think Zeta was goin' on about this... The \"Hyper Mega Launcher,\" was it?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.89",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.90",
+   "en": "If I'm not mistaken, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.91",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.92",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.93",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.94",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.95",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about, huh..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.96",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.98",
+   "en": "Yeah. You sure know your stuff... Oh, did it originally belong to one of your comrades?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.99",
+   "en": "Yeah, it's Zeta Gundam's weapon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.100",
+   "en": "Yeah, it's Zeta Gundam's weapon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.101",
+   "en": "Yeah, it's Zeta Gundam's weapon."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.6",
+   "note": "Speaker verified in Quest004.bla Event001: Maganac (CHARA_NAME 79), polite, addressing the whole party. In this script MessWinSet TextIdOffset+N plays row N-2 (rows 2-4 are empty): Zeta-in-party path plays 7-11 -> rows 5-9 (or 10-11 -> rows 8-9 on a repeat visit); no-Zeta path plays 28-29 -> rows 26-27."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.7",
+   "note": "Magnetic lines of force rendered 'magnetic ray', matching story_025 (Antlar's Capture Ray / magnetic ray)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.10",
+   "note": "Rows 10-16 and 20-24 are not referenced by Quest004.bla (unused draft of the briefing). 10/12/15 = Zeta Gundam (asked to come, the weapon is his); 11/13/14/16 and 20-24 = an unnamed casual client (first person 'boku'), not the polite Maganac. No pronouns used for the client."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.27",
+   "note": "Maganac, no-Zeta path. The -sama on Zeta Gundam is dropped per the honorifics rule; politeness carried by tone ('I believe I asked...')."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.33",
+   "note": "Rows 33-35 and 51-52: Mole Imagin (CHARA_NAME 171 = CharacterName 3.172), three of them on screen. Name not in the glossary 'villains' list but CharacterName already gives 'Mole Imagin'. Trailing full-width space in the source of row 33 dropped."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.36",
+   "note": "Rows 36-50 are the leader block (TextIdOffset+38+pt_01_txt). Order from the Event002 Pt_Chara_Check chain: Den-O (Momotaros), 00, Wing Zero, God Gundam, Zeta, Nu, Zero, Mebius, Taro, Seven, Ultraman, OOO, W (Shotaro), Black RX, Rider 1. Wording confirms: 36 rough/'mole bastard' = Momotaros, 47 gentle request = OOO, 48 'yo' = Shotaro. Identical Japanese kept identical (37/38/40 differ only by a comma). 'Mogura yarou' made plural since three Mole Imagin are present."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.55",
+   "note": "OkWin system message (TextIdOffset+57). Format matches quest_003 'Obtained \"...\".'"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.56",
+   "note": "Rows 56-79 and 84-101 are not referenced by Quest004.bla (unused alternative finale where the client shows up at the dig site). 56-70 = 15 identical leader variants. 71/73/75/77/79/98 = the same unnamed casual client; 72 = Zeta Gundam (he took the job). 74/76 inferred as Zeta Gundam (client asks if the weapon was originally his; he says yes), polite wording kept as polite tone."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.84",
+   "note": "84-96 (13 rows) and 99-111 (13 rows, ends in quest_005) look like a 13-slot no-Zeta leader block, but no script fixes the order. Voiced from wording: 88 rough ('Zeta no yatsu', 'dakke ka'), 90 polite (Zeta-san), 95 soft 'da ne'. 84 is a terser stand-alone version."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.88",
+   "note": "'Zeta' (the nickname form used in the source) kept as 'Zeta'; the full 'Z Gundam' form is written 'Zeta Gundam'."
+  }
+ ],
+ "report": "80/80 rows examined. Speakers from Quest004.bla (row = TextIdOffset+N-2 in this table). Played: Maganac 5-9/26-27, Mole Imagin 33-35/51-52, leader block 36-50 (Pt_Chara_Check order), system 55. Unused: 10-16, 20-24, 56-79, 84-101 (unnamed casual client + Zeta; party variants voiced from wording, order unverified). Mole Imagin taken from CharacterName (not in glossary villains)."
+}

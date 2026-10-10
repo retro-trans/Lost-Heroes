@@ -1,0 +1,350 @@
+{
+ "slice": "system_062",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.39",
+   "en": "Restores 100 SP to one ally.\nTuned for Heroes."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.1",
+   "en": "Removes the currently equipped item."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.2",
+   "en": "Armament used by Accel."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.3",
+   "en": "Large weapon mainly used on battleships."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.4",
+   "en": "GN Cannon description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.5",
+   "en": "Beam Emerald description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.9",
+   "en": "Vulcan Cannon description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.10",
+   "en": "Pointer Ray Gun description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.11",
+   "en": "Beam Vulcan description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.12",
+   "en": "Tri-Gar Shot description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.16",
+   "en": "Pelucidar Drill description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.17",
+   "en": "Permidar Drill description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.18",
+   "en": "Magma Riser Drill description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.19",
+   "en": "Regis Breaker description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.23",
+   "en": "Beam Shield description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.24",
+   "en": "Defense Dome description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.25",
+   "en": "Ultra Barrier description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.26",
+   "en": "GN Field description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.27",
+   "en": "0 description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.28",
+   "en": "0 description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.32",
+   "en": "Recovery Unit α description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.33",
+   "en": "Recovery Unit β description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.34",
+   "en": "Recovery Unit γ description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.35",
+   "en": "Recovery Unit Ω description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.38",
+   "en": "A unit that fires birdlime\nto lower an enemy's speed."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.39",
+   "en": "A Support Unit that fires special rounds\nto lower enemy ATK."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.40",
+   "en": "A Support Unit that fires special rounds\nto lower enemy DEF."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.41",
+   "en": "A Support Unit that attacks with moderate power."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.42",
+   "en": "A Support Unit that fires special rounds\nto put enemies in Berserk."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.43",
+   "en": "A Support Unit that fires special rounds\nto put enemies in Acid."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.44",
+   "en": "Raises accuracy."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.45",
+   "en": "Raises DEF."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.46",
+   "en": "Makes each unit harder to break."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.47",
+   "en": "Charges the Main Cannon all at once."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.48",
+   "en": "Raises evasion."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.49",
+   "en": "Raises Ranged and Physical ATK,\nbut it goes down after a set time."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.56",
+   "en": "Gundanium Alloy description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.57",
+   "en": "Solar Zircon description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.58",
+   "en": "Den-Metal description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.1",
+   "en": "Removes the currently equipped item."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.2",
+   "en": "A windmill commonly seen in Fuuto.\nSpins well even in a light breeze."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.3",
+   "en": "W's beloved frog-type Memory Gadget.\nNo combat ability, but it can record audio."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.4",
+   "en": "Accel's beloved beetle-type Memory Gadget.\nHas scouting functions."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.5",
+   "en": "Animal costumes the Imagin often wear\nwhen they go out."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.6",
+   "en": "A telescope filled with memories.\nRaises Blind resistance."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.7",
+   "en": "A card used by Kamen Rider Zeronos.\nOne is consumed per transformation."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.8",
+   "en": "Candy carried by Deneb, Kamen Rider Zeronos's\ncontract Imagin."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.9",
+   "en": "A slipper for delivering retorts, marked \"Nande ya nen!\"\nMakes a great sound when it hits.\nNormal attacks may inflict Panic."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.10",
+   "en": "A hard-boiled hat with a slightly torn brim.\nA great detective's favorite."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.11",
+   "en": "W's beloved bat-type Memory Gadget.\nTracks targets and shoots photos and video.\nNormal attacks may inflict Blind."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.12",
+   "en": "W's beloved stag-beetle-type Memory Gadget.\nA phone that can also transform and attack."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.13",
+   "en": "W's beloved spider-type Memory Gadget.\nIts launched wire helps with climbing up and down.\nNormal attacks may inflict Speed Down."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.14",
+   "en": "Flashy underwear that lets you live without a bed."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.15",
+   "en": "A case for storing O Medals.\nHolds up to 24."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.16",
+   "en": "A Candroid that becomes Gorilla Mecha Mode.\nCollects medals and senses Yummy appearances."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.17",
+   "en": "A Candroid that becomes Kujaku Mecha Mode.\nAttacks from the air with tail-feather cutters.\nNormal attacks become Fire element."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.18",
+   "en": "A Candroid that becomes Tora Mecha Mode.\nCombines with the Ride Vendor into the Tri-Ride Vendor."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.19",
+   "en": "A Candroid that becomes Batta Mecha Mode.\nCan take photos and relay messages; good for scouting."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.20",
+   "en": "A Candroid that becomes Tako Mecha Mode.\nLinks up to form roads and nets.\nNormal attacks become Ice element."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.21",
+   "en": "A Candroid that becomes Electric Eel Mecha Mode.\nDischarges to pin enemies down.\nNormal attacks become Lightning element."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.22",
+   "en": "A Candroid that becomes Ptera Mecha Mode.\nIts ultrasound can shatter matter.\nNormal attacks become Wind element."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.23",
+   "en": "A Candroid that becomes Tricera Mecha Mode.\nIts horn can knock Candroids to a target spot."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.24",
+   "en": "An old pocket watch.\nEngraved on the back: \"The past gives hope.\""
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.25",
+   "en": "The Road Sector's control unit.\nA high-performance computer for autonomous driving."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.26",
+   "en": "The Battle Hopper's power source."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.27",
+   "en": "A sturdy red-rimmed shield with a viewing window."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.28",
+   "en": "Magnetism smooths the movement of the drive parts\nand raises mobility."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.29",
+   "en": "A sub-flight system that carries an MS through the air."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.30",
+   "en": "A weapon for all-range attacks,\ncontrolled by a psycommu."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.31",
+   "en": "A structural material with computer chips\ncast in at the metal-particle level."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.32",
+   "en": "Armor set with extra weapons and thrusters.\nBoosts defense and firepower without losing speed."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.33",
+   "en": "A pod for use in emergencies."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.34",
+   "en": "Large sunglasses.\nPerfect for hiding your identity."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.35",
+   "en": "An optional part with built-in weapons\nand propellant tanks."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.36",
+   "en": "A simple psycommu device that draws out\nperformance beyond the machine's specs."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.37",
+   "en": "A sturdy shield made of E-Carbon."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.38",
+   "en": "A heat-resistant air cushion\nused when entering the atmosphere."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.39",
+   "en": "A versatile weapon that extends freely\nand can deploy spear- or flag-shaped beams."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.40",
+   "en": "A rose-shaped bit weapon."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.41",
+   "en": "A giant iron ball on a beam chain, swung around\nand slammed into the enemy.\nNormal attacks may inflict Stunned."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.4",
+   "note": "Dev placeholder row (the Japanese is just the item name plus the word for description); translated literally. Same for 6.5-6.35 and 6.56-6.58; 6.27/6.28 are a bare zero plus description."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#6.49",
+   "note": "The Japanese says the stats go down after a set time; the exact effect of the drop is unclear, so rendered as 'goes down'."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.9",
+   "note": "The slipper is marked with a Kansai retort; romanized as Nande ya nen."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.18",
+   "note": "Tri-Ride Vendor is a guess at the combined vehicle name."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#7.24",
+   "note": "Engraved quote: the Japanese has a 'gives (me/us)' nuance; left neutral."
+  }
+ ],
+ "report": "80/80 rows. Uncertain: 6.49 (what 'down' means), 7.18 Tri-Ride Vendor, 7.24 engraving. New terms not in glossary: Speed Down, Blind (status, reused from system_061), Memory Gadget, Mecha Mode, Road Sector, Battle Hopper, Psycommu, Tri-Ride Vendor."
+}

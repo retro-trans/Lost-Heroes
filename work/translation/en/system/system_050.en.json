@@ -1,0 +1,350 @@
+{
+ "slice": "system_050",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.8",
+   "en": "Spider Man"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.9",
+   "en": "Mantis Man"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.10",
+   "en": "Bat Man"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.11",
+   "en": "Fly Man"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.12",
+   "en": "Bee Woman"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.13",
+   "en": "Shocker Combatman"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.14",
+   "en": "Magma Dopant"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.15",
+   "en": "T-Rex Dopant"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.16",
+   "en": "Gomora"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.17",
+   "en": "Jamila"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.18",
+   "en": "Dada"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.19",
+   "en": "Dada"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.20",
+   "en": "Dada"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.21",
+   "en": "Bemular"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.22",
+   "en": "Red King"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.23",
+   "en": "Zetton"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.24",
+   "en": "Imperizer"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.31",
+   "en": "???"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.32",
+   "en": "Skull"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.33",
+   "en": "Skull"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.34",
+   "en": "Momotaros"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.35",
+   "en": "Urataros"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.36",
+   "en": "Decade T"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.37",
+   "en": "Decade T"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.38",
+   "en": "Zetton"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.39",
+   "en": "Zaku"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.40",
+   "en": "Gouf"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.102",
+   "en": "Rider 1"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.103",
+   "en": "Black RX"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.104",
+   "en": "Den-O"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.105",
+   "en": "W"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.106",
+   "en": "OOO"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.107",
+   "en": "Nu Gundam"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.108",
+   "en": "Zeta Gundam"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.109",
+   "en": "God Gundam"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.110",
+   "en": "Wing Zero Custom"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.111",
+   "en": "00"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.112",
+   "en": "Ultraman"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.113",
+   "en": "Seven"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.114",
+   "en": "Taro"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.115",
+   "en": "Mebius"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.116",
+   "en": "Zero"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.117",
+   "en": "Nemo A"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.118",
+   "en": "Nemo B"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.119",
+   "en": "Accel"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.120",
+   "en": "Methuss"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.121",
+   "en": "Hikari"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.122",
+   "en": "Momotaros"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.123",
+   "en": "Urataros"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.124",
+   "en": "Kintaros"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.125",
+   "en": "Ryutaros"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.126",
+   "en": "Ankh"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.127",
+   "en": "???"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.152",
+   "en": "Kamen Rider 2"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.153",
+   "en": "Killer Choju Barabas"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.154",
+   "en": "Masquerade Dopant"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.155",
+   "en": "Weather Dopant"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.156",
+   "en": "Spider Man"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.157",
+   "en": "Hambrabi"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.158",
+   "en": "Bogal"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.159",
+   "en": "Seagorath"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.160",
+   "en": "Seamons"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.161",
+   "en": "Kazari"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.162",
+   "en": "Uva"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.163",
+   "en": "Waste Yummy"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.164",
+   "en": "Negataros"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.165",
+   "en": "Pink Rabbit Imagin"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.166",
+   "en": "Siamese Cat Yummy"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.167",
+   "en": "Skullma"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.168",
+   "en": "Todogiller"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.169",
+   "en": "Jin"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.170",
+   "en": "Snowman Imagin"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.171",
+   "en": "Ice Age Dopant"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.172",
+   "en": "Twin Tail"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.173",
+   "en": "Nega Den-O"
+  },
+  {
+   "key": "Table/Enemy/PlayerName.mbb#0.1",
+   "en": "Rider 1"
+  },
+  {
+   "key": "Table/Enemy/PlayerName.mbb#0.2",
+   "en": "Black RX"
+  },
+  {
+   "key": "Table/Enemy/PlayerName.mbb#0.3",
+   "en": "Den-O"
+  },
+  {
+   "key": "Table/Enemy/PlayerName.mbb#0.4",
+   "en": "W"
+  },
+  {
+   "key": "Table/Enemy/PlayerName.mbb#0.5",
+   "en": "OOO"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.107",
+   "note": "Legacy font mis-decode; inferred Nu Gundam (roster order Nu, Zeta, G, Wing Zero Custom, 00)."
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.108",
+   "note": "Legacy font mis-decode; inferred Zeta Gundam."
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.109",
+   "note": "Short G Gundam read as God Gundam (glossary)."
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.169",
+   "note": "Jin: unidentified, romanized."
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.36",
+   "note": "Decade T: unidentified, romanized."
+  }
+ ],
+ "report": "Uncertain: 107/108 (legacy mis-decode, read as Nu/Zeta Gundam), 109 (God Gundam), Decade T, Jin. New terms: Shocker Combatman, Jamila, Imperializer, Gouf, Zaku, Decade T, Jin, Wing Zero Custom, Kamen Rider 2."
+}

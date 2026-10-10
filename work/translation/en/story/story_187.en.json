@@ -1,0 +1,410 @@
+{
+ "slice": "story_187",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Base/MainEventMess0925.mbb#0.4",
+   "en": "Could you all go and take a look for me?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0925.mbb#0.5",
+   "en": "You can get there from \"Random Cube\" on the menu. I'm counting on you!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0926.mbb#0.1",
+   "en": "Seravee was lookin' for you lot, y'know? Got himself in a right old panic, he did."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.1",
+   "en": "Is it really okay for me to stay here?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.2",
+   "en": "Of course it is."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.3",
+   "en": "Thaaank youuu~ Then I'll help out with something."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.4",
+   "en": "Let's see... In that case, there's an untouched storeroom next door. Could you clean it up for us?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.5",
+   "en": "Easy peasy~"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.7",
+   "en": "Kanegon happily left the Briefing Room."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.10",
+   "en": "And then..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.11",
+   "en": "Hey! Something crazy's happened to the storeroom next door!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.12",
+   "en": "Huh? But Kanegon was supposed to be cleaning it up for us."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.13",
+   "en": "This is way past \"cleaning.\" The whole inside's been completely changed."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.14",
+   "en": "Wait, what do you mean?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.15",
+   "en": "Ehehehehe...!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.16",
+   "en": "Did you build that? What the hell is that place even for?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.17",
+   "en": "You don't know? It's called a casino. The \"Kanegon Casino\"!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.18",
+   "en": "A casino...!?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.19",
+   "en": "I wanted to be useful to everyone, so I thought really hard about it, y'know?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.20",
+   "en": "Fighting all the time wears you out, right? When it does, you unwind at the casino!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.21",
+   "en": "Anyway, come check it out!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.23",
+   "en": "The \"Kanegon Casino\" was added."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.28",
+   "en": "Kyaaaaaaah!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.29",
+   "en": "What's going on!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.30",
+   "en": "A kaiju...!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.31",
+   "en": "What!? A kaiju in our base!?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.32",
+   "en": "Hey! Just leave it to me!! What kinda bastard are we talkin' about!?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.33",
+   "en": "I-Its mouth is bigger than its face... It has tiny eyeballs on the tips of its antennae..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.34",
+   "en": "A big, pudgy belly... And there was some kind of counter on its chest."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.35",
+   "en": "What the heck is that? I can't even picture it. Sounds way too fishy!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.36",
+   "en": "Wait for meee~~~!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.37",
+   "en": "Here it comes...!! It followed me here!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.39",
+   "en": "I'm not anybody suspicious~"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.40",
+   "en": "Kanegon!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.41",
+   "en": "...Y-You know who I am!?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.42",
+   "en": "Yeah, you're Kanegon, the Coin Monster, right? You're famous."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.43",
+   "en": "Phew, what a relieeef~"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.44",
+   "en": "Huh? So it's not an enemy!?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.45",
+   "en": "Kanegon, how did you get here?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.46",
+   "en": "I dunnooo~ When I woke up, I was just here."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.47",
+   "en": "I see... It's most likely the same as with us."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.48",
+   "en": "Hey, is it okay if I stay here?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0928.mbb#0.0",
+   "en": " "
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0928.mbb#0.1",
+   "en": "What!? A high-energy reading!? The particle cannon!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0928.mbb#0.2",
+   "en": "Gwaah...!!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0928.mbb#0.5",
+   "en": "...!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0928.mbb#0.6",
+   "en": "A direct hit!?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.1",
+   "en": "Back at base, the injured Gundams went straight into the medical room."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.2",
+   "en": "Hikari, Methuss and Kamen Rider 2 were busy repairing the facilities hit by enemy fire."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.3",
+   "en": "You did great!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.4",
+   "en": "Yeah... But it cost us Seravee."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.5",
+   "en": "I heard Seravee's \"voice\" too. I have a rough idea of what happened, but..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.6",
+   "en": "...And just then!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.7",
+   "en": "I've lost my physical body, but my consciousness has merged with Veda."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.8",
+   "en": "Seravee!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.9",
+   "en": "There's no need to grieve. I was a being created by Veda in the first place."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.10",
+   "en": "More importantly, let's talk about what comes next."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.11",
+   "en": "Just as Belial said, the final Cube lies beyond the Veda Cube."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.12",
+   "en": "It's called the \"Genocide Cube.\" A Cube that exists for the sole purpose of exterminating heroes."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.13",
+   "en": "Inside it, kaiju, kaijin and mobile suits are being revived by all sorts of methods."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.14",
+   "en": "Can you tell us anything specific?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.15",
+   "en": "...I'm combing through the data now. There's an enormous amount of it, after all."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.16",
+   "en": "...Also, there's one more thing that concerns me."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.17",
+   "en": "What is it?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.18",
+   "en": "Part of Veda has been rewritten by someone."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.19",
+   "en": "What did you say!?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.20",
+   "en": "That makes no sense!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.21",
+   "en": "With Reborns dead, nobody but Seravee should be able to access Veda, right?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.22",
+   "en": "It should be that way... and yet, here it is..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.23",
+   "en": "...But what is this? I sense an unfathomably deep darkness from this area..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.24",
+   "en": "You mean there's still someone else behind Belial and the rest!?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.25",
+   "en": "Probably... I'll try to take control of that area somehow. I need a little time."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.26",
+   "en": "Either way, Veda is out of our hands."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.27",
+   "en": "What we can do is go to the Genocide Cube and defeat the enemy."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.28",
+   "en": "Belial...!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.29",
+   "en": "And Shadow Moon...!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.30",
+   "en": "I'll pass on information as it comes in, too. I may have lost my body, but my heart is with you all!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.31",
+   "en": "Of course it is!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.32",
+   "en": "Same goes for us. Even when we're apart, our hearts are with you."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.33",
+   "en": "We're counting on you!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Event/Base/MainEventMess0925.mbb#0.4",
+   "note": "0925 per 0925.bla: #0.4-0.5 Hikari (labels correct). 'Omae-tachi' -> 'you all'."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0926.mbb#0.1",
+   "note": "Kintaros per 0926.bla. Seravee g=m."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.1",
+   "note": "0927, 0928 and 0929 are referenced by no event script (no 0927/0928/0929.bla), so speakers cannot be recovered; they look like unused draft/variant tables. 0927 = variant of the 0916 Kanegon scene (story_184): identical lines reuse the story_184 English. Speakers inferred: Kanegon #0.1,3,5,15,17,19-21,36,39,41,43,46,48; Methuss #0.2,4,12,14,28,30,33,34,37; Hikari #0.31,45."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.11",
+   "note": "Ankh in the 0916 version (#0.11,13,16,18); reused that English."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.23",
+   "note": "System line; phrased like 'An Item Search function was added...' (story_185). Kanegon Casino per UI glossary."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.32",
+   "note": "In this draft the responder is rough-spoken (soitsu-a, yarou, nanda-a) and does not know Kanegon, unlike Mebius in 0916; reads like Momotaros (Den-O Sword Form). Same voice for #0.35 and #0.44. Guess."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.42",
+   "note": "Calm speaker who recognises Kanegon (likely Hikari or an Ultra); 'Coin Monster' as in story_184."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.44",
+   "note": "Kanegon g=n -> 'it'."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.47",
+   "note": "Unlabelled; likely Hikari (ore, calm). Subject restored as 'it' (Kanegon's situation)."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0928.mbb#0.0",
+   "note": "Source is a single full-width space (blank box). Kept as one space."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0928.mbb#0.1",
+   "note": "0928 rows copy 0625 (story_116) #0.25/26/29/30; English reused verbatim. Speakers there: Zoffy, unlabelled, Hikari, unlabelled."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.3",
+   "note": "0929 = unscripted draft of the post-Veda base scene (cf. 0930 in story_188). Speakers inferred: Seravee (speaking through Veda) #0.7,9-13,15,16,18,22,23,25,30. #0.3 is a base member (Hikari/Methuss/Rider 2) greeting the returning team; #0.4 a returning hero. Kept speaker-neutral."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.4",
+   "note": "'Gisei ni natte shimatta' -> 'it cost us Seravee' (not 'died': #0.7 reveals he merged with Veda)."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.5",
+   "note": "Speaker uses watashi; plausibly Zoffy or Rider 1 at base. Dropped subject of 'haaku shite iru' restored as 'I'."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.13",
+   "note": "MS = mobile suits; kaijin per glossary (revived kaijin)."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.20",
+   "note": "Rough speaker (#0.20-21 one person). Reborns per glossary."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.24",
+   "note": "Source typo (dare ka ru = dare ka iru); read as 'someone is'."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.26",
+   "note": "'Kanchi dekinai' = we can't involve ourselves in Veda -> 'Veda is out of our hands'."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.31",
+   "note": "Answer to Seravee's 'my heart is with you'."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.33",
+   "note": "'Tanonda ze': speaker asks Seravee to keep supporting them -> 'We're counting on you' (group context; 'I'm' also possible)."
+  }
+ ],
+ "report": "80/80 rows. 0927-0929 have no event script (unused draft tables): speakers inferred from voice/context; 0927 reuses story_184 (0916) English for identical lines, 0928 reuses story_116 (0625). Guessed: 0927 #0.32/35/44 rough speaker (Momotaros?), #0.42/#0.47 calm speaker; 0929 non-Seravee speakers kept neutral. 0928#0.0 blank row kept as a space. Term used: 'Coin Monster' (Kanegon title, as story_184)."
+}

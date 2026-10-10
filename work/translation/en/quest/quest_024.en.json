@@ -1,0 +1,374 @@
+{
+ "slice": "quest_024",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.112",
+   "en": "Of course. I act on my own convictions, nothing more."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.113",
+   "en": "The battle in this world is already approaching its final stage."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.114",
+   "en": "Altron, we want you to work with us too."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.116",
+   "en": "You of all people should know just how powerful the evil in this world is."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.117",
+   "en": "The righteous have to be strong, right?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.118",
+   "en": "Come with us, Altron!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.119",
+   "en": "...Very well. If our goals are the same, I'll team up with you for now."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.120",
+   "en": "But I have no intention of joining your ranks."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.121",
+   "en": "Yeah. Understood."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.122",
+   "en": "Thank you, Altron!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.125",
+   "en": "Listen, we're in the right. I'll never accept this world. Whatever awaits, I'll defeat the foes I must!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.127",
+   "en": "Obtained Altron Gundam's chip."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.128",
+   "en": "Completed the quest \"Backing Up Altron\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.129",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.131",
+   "en": "Are you an idiot!? We came all the way out here, so why isn't Wing Zero with us!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.133",
+   "en": "THIS IS BAD, ALL OF YOU! ALTRON IS IN DANGER!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.134",
+   "en": "Pigmon, calm down!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.135",
+   "en": "From what Pigmon says, it seems Altron is being attacked by a huge number of Gundams."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.136",
+   "en": "I WAS INVESTIGATING THIS PLACE. THAT IS WHEN I FOUND ALTRON UNDER ATTACK."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.137",
+   "en": "Then those \"Gundams\" must be..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.138",
+   "en": "Yes. There's no doubt they're Virgos."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.139",
+   "en": "By the way, Pigmon, where did you see Altron?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.140",
+   "en": "THE PLACE I SAW ALTRON WAS THE ROOM WHERE VEDA IS."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.141",
+   "en": "ALTRON WAS IN A CERTAIN ROOM IN VEDA."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.142",
+   "en": "I see. Thank you for the information, Pigmon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.143",
+   "en": "Everyone, please. Go and rescue Altron."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.144",
+   "en": "I AM COUNTING ON YOU!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.145",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.146",
+   "en": "Haah!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.148",
+   "en": "I don't care how many of you come!! Don't underestimate me!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.150",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.151",
+   "en": "Enemy reinforcements!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.152",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.154",
+   "en": "Damn it! One after another!! Don't underestimate Nataku!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.156",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.157",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.158",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.159",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.160",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.161",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.162",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.163",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.164",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.165",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.166",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.167",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.168",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.169",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.170",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.171",
+   "en": "You lot!! What are you doing here!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.172",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.173",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.174",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.175",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.176",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.177",
+   "en": "We got word from Pigmon. Please leave this to us."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.178",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.179",
+   "en": "Pigmon tipped us off! Leave this one to us!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.180",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.181",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.182",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.183",
+   "en": "We got word from Pigmon. Please leave this to us."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.184",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.185",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.186",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.187",
+   "en": "Stay out of my way!! They're my prey!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.188",
+   "en": "Ngh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.189",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.190",
+   "en": "Target acquired. Destroying."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.191",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.192",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.193",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.194",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.195",
+   "en": "They're coming!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.196",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.197",
+   "en": "Here they come, baby!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.198",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.199",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.200",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.201",
+   "en": "They're coming!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.112",
+   "note": "Quest021.bla maps TextIdOffset+N to row N+1 (checked: +111 Altron = 112, +112/+113 Sandrock = 113/114, +115 Heavyarms = 116 with 115 empty, +116 Deathscythe Hell = 117, +117 Wing Zero = 118, +118/+119 Altron = 119/120, +120 Wing Zero = 121, +121 Sandrock = 122, +124 Altron = 125, +130 Ankh = 131)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.117",
+   "note": "Deathscythe Hell (Duo) quoting Altron's (Wufei's) creed back at him."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.125",
+   "note": "Altron's parting line (+124). 'Ore-tachi wa tadashii' kept as 'We are in the right' (Wufei's justice theme)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.131",
+   "note": "Ankh (CHARA 36, +130), played when Wing Zero is not in the party (Pt_Chara_Check(9)); same script-fixed Ankh as the rest of this quest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.133",
+   "note": "Rows 133-205 are NOT referenced by Quest021.bla (the script stops at +130; the pck holds the same script). This is an unused alternate version of the quest where Pigmon reports Altron in trouble. Speakers inferred: 133/136/140/141/144 Pigmon via Pan-Space Interpreter (katakana -> ALL CAPS, no contractions); 134/135/138/139/142/143 the polite quest giver, most likely Maganac (QuestMess pairs Pigmon with Maganac); 137 a casual party member."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.140",
+   "note": "140 and 141 are two drafts of the same Pigmon line (Veda ga aru heya / Veda no aru heya); 141 read as 'a certain room in Veda' (aru = a certain). Both unused."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.144",
+   "note": "Tanonda zo: Pigmon asking the heroes, so 'I AM COUNTING ON YOU!'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.145",
+   "note": "145-154 (unused): Altron fighting alone; the '...' rows are the Virgos. 154 'Nataku' is Wufei's name for his Gundam, kept as in the source."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.156",
+   "note": "Unused leader-variant blocks with no script order: 156-170, 172-186, 190-204 (202-204 in quest_025). Voiced from wording: slots 5 and 11 polite (161/167, 177/183, 195/201), slot 7 rough Momotaros (179, 197). Polite 'daijoubu desu ka' kept the same English as the plain form."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.171",
+   "note": "Altron (unused scene), surprised the heroes showed up."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.190",
+   "note": "Treated as slot 0 of the 190-204 block (it lines up the polite/rough slots with the other blocks): Wing Zero's Heero-style version of 'Here they come'. Could instead be a Virgo line; 'Target acquired. Destroying.' reads fine either way."
+  }
+ ],
+ "report": "80/80 rows. Speakers from Quest021.bla (N+1) for 112-131. Rows 133-201 unreferenced by the script (unused Pigmon-report version of the quest): speakers and leader-variant slots inferred from wording. No new names (Nataku kept as Wufei's Gundam name)."
+}

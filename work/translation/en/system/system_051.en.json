@@ -1,0 +1,350 @@
+{
+ "slice": "system_051",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Enemy/PlayerName.mbb#0.6",
+   "en": "Nu Gundam"
+  },
+  {
+   "key": "Table/Enemy/PlayerName.mbb#0.7",
+   "en": "Zeta Gundam"
+  },
+  {
+   "key": "Table/Enemy/PlayerName.mbb#0.8",
+   "en": "God Gundam"
+  },
+  {
+   "key": "Table/Enemy/PlayerName.mbb#0.9",
+   "en": "Zero Custom"
+  },
+  {
+   "key": "Table/Enemy/PlayerName.mbb#0.10",
+   "en": "00"
+  },
+  {
+   "key": "Table/Enemy/PlayerName.mbb#0.11",
+   "en": "Ultraman"
+  },
+  {
+   "key": "Table/Enemy/PlayerName.mbb#0.12",
+   "en": "Seven"
+  },
+  {
+   "key": "Table/Enemy/PlayerName.mbb#0.13",
+   "en": "Taro"
+  },
+  {
+   "key": "Table/Enemy/PlayerName.mbb#0.14",
+   "en": "Mebius"
+  },
+  {
+   "key": "Table/Enemy/PlayerName.mbb#0.15",
+   "en": "Zero"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.1",
+   "en": "Dummy message"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.2",
+   "en": "<act_ch> attacked!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.3",
+   "en": "<tag_chr> took <hit_damage> damage!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.4",
+   "en": "<tag_chr> dodged the attack!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.5",
+   "en": "An all-out blow lands!!<br><tag_chr> took <hit_damage> damage!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.6",
+   "en": "A deadly blow lands!!<br><tag_chr> took <hit_damage> damage!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.7",
+   "en": "<act_ch> is on guard."
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.8",
+   "en": "<act_ch> focused<br>power into a skill!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.9",
+   "en": "<act_ch> fled!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.10",
+   "en": "<tag_chr> was Infected!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.11",
+   "en": "<tag_chr> was Stunned!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.12",
+   "en": "<tag_chr> fell into Panic!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.13",
+   "en": "<tag_chr> was Blinded!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.14",
+   "en": "<tag_chr> was knocked out!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.15",
+   "en": "<tag_chr> came under<br>Pressure!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.16",
+   "en": "<tag_chr> turned Negative!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.17",
+   "en": "<tag_chr> was Infected!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.18",
+   "en": "<tag_chr> was Stunned!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.19",
+   "en": "<tag_chr> fell into Panic!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.20",
+   "en": "<tag_chr> was Blinded!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.21",
+   "en": "<tag_chr> was knocked out!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.22",
+   "en": "Put <tag_chr><br>under Pressure!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.23",
+   "en": "It had no effect on <tag_chr>!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.24",
+   "en": "<tag_chr> recovered<br><get_Recover> HP!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.25",
+   "en": "<tag_chr>'s HP<br>was fully restored!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.26",
+   "en": "<tag_chr> recovered<br><get_Recover> SP!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.27",
+   "en": "<act_ch> unleashed<br><use_skill>!!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.28",
+   "en": "<act_ch> and allies unleashed<br><use_skill>!!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.29",
+   "en": "<act_ch> slashed with<br><use_skill>!!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.30",
+   "en": "<act_ch> fired<br><use_skill>!!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.31",
+   "en": "<act_ch> attacked with<br><use_skill>!!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.42",
+   "en": "<act_ch> launched<br><use_skill>!!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.43",
+   "en": "<act_ch> charged<br><use_skill>!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.44",
+   "en": "Energy is building<br>in <use_skill>!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.45",
+   "en": "<act_ch> thrust out<br><use_skill>!!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.46",
+   "en": "<act_ch> strafed with<br><use_skill>!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.47",
+   "en": "<act_ch> laid down a barrage<br>with <use_skill>!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.48",
+   "en": "<act_ch> activated<br><use_skill>!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.49",
+   "en": "The Ride Machine's armor was restored!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.50",
+   "en": "The Ride Machine was wrapped<br>in a shield of light!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.51",
+   "en": "<act_ch> spun around,<br>firing wildly!!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.52",
+   "en": "<act_ch> hurled<br><use_skill>!"
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.53",
+   "en": "<act_ch> charged in<br>with its huge body!"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.1",
+   "en": "Normal Attack (Physical"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.2",
+   "en": "Normal Attack (Ranged"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.3",
+   "en": "Normal Attack (Slash"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.4",
+   "en": "Normal Attack (Gundam-Type"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.5",
+   "en": "Critical Normal (Physical"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.6",
+   "en": "Critical Normal (Ranged"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.7",
+   "en": "Critical Normal (Slash"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.8",
+   "en": "Critical Normal (Gundam-Type"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.9",
+   "en": "Enemy Normal Attack (Physical"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.10",
+   "en": "Enemy Normal Attack (Ranged"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.11",
+   "en": "Enemy Normal Attack (Slash"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.12",
+   "en": "Enemy Critical Normal (Physical"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.13",
+   "en": "Enemy Critical Normal (Ranged"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.14",
+   "en": "Enemy Critical Normal (Slash"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.15",
+   "en": "Defend"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.16",
+   "en": "Item"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.17",
+   "en": "Cyclone Kick"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.18",
+   "en": "Cyclone Blow"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.19",
+   "en": "Metal Branding"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.20",
+   "en": "Trigger Full Burst"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.21",
+   "en": "Double Extreme"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.22",
+   "en": "Prism Break"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.23",
+   "en": "Bicker Finalfusion"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.24",
+   "en": "Double Action"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.25",
+   "en": "Rider Punch"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.26",
+   "en": "Rider Kick"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.27",
+   "en": "Lightning Rider Kick"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.2",
+   "note": "Rows 0.2-0.53 contain inline variable codes decoded as kana (a name-variable wrapper). Mapped by comparing with the matching Table/Skill/SkillMessage rows: actor -> {806D}, target -> {806E}, damage -> {806F}, amount -> {8070}, skill name -> {8072}; a line-break code was dropped (script rewraps). Mapping is inferred; confirm the build treats these as tags."
+  },
+  {
+   "key": "Table/Enemy/PlayerName.mbb#0.6",
+   "note": "Legacy mis-decode: read as Nu Gundam / Zeta Gundam, same as System 050 enemy names (roster order Nu, Zeta, G, Wing Zero Custom, 00)."
+  },
+  {
+   "key": "Table/Enemy/PlayerName.mbb#0.8",
+   "note": "Short G Gundam read as God Gundam per glossary and slice 050."
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#0.1",
+   "note": "Source parentheses are unclosed in debug rows 0.1-0.14; kept unclosed, wording matches slice 052 copies."
+  },
+  {
+   "key": "Table/Enemy/SkillMessage.mbb#0.28",
+   "note": "Plural suffix on the actor name rendered as \"and the others\"."
+  }
+ ],
+ "report": "80/80 rows. PlayerName 0.9 shortened to Zero Custom for 98 px. Uncertain: inline variable mapping in SkillMessage (see notes), Nu/Zeta Gundam legacy mis-decode, deadly/all-out blow wording. No new glossary terms."
+}

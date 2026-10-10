@@ -1,0 +1,390 @@
+{
+ "slice": "quest_017",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.26",
+   "en": "So you've shown up again!! Alien Baltan!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.27",
+   "en": "So you've shown up again!! Alien Baltan!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.28",
+   "en": "So you've shown up again!! Alien Baltan!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.29",
+   "en": "So you've shown up again!! Alien Baltan!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.30",
+   "en": "Ultraman, we are not the same as before."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.32",
+   "en": "This time, we will destroy you all and conquer your base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.33",
+   "en": "Come on, Alien Baltan! I'll take you on as many times as it takes!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.34",
+   "en": "Come on, Alien Baltan! I'll take you on as many times as it takes!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.35",
+   "en": "Come on, Alien Baltan! I'll take you on as many times as it takes!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.36",
+   "en": "Come on, Alien Baltan! I'll take you on as many times as it takes!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.37",
+   "en": "Come on, Alien Baltan! I'll take you on as many times as it takes!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.38",
+   "en": "Now learn the true extent of our power!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.40",
+   "en": "Curse you...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.41",
+   "en": "As long as our brethren remain... we will invade... again and again...!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.42",
+   "en": "Remember this!! Ultra Warriors!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.44",
+   "en": "...No matter how many times you appear, we Ultra Warriors will protect the peace."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.45",
+   "en": "...However many times you show up, we Ultra Warriors will protect the peace."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.46",
+   "en": "...However many times you show up, we Ultra Warriors will protect the peace."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.47",
+   "en": "...However many times you show up, we Ultra Warriors will protect the peace."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.48",
+   "en": "...However many times you show up, we Ultra Warriors will protect the peace."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.49",
+   "en": "Au-au-au!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.50",
+   "en": "YOU DID WELL TO DEFEAT ALIEN BALTAN."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.51",
+   "en": "We stopped it before it happened thanks to your information, Pigmon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.52",
+   "en": "We stopped it before it happened thanks to your information, Pigmon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.53",
+   "en": "We stopped it before it happened thanks to your information, Pigmon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.54",
+   "en": "We stopped it before it happened thanks to the info you gave us, Pigmon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.55",
+   "en": "We stopped it before it happened thanks to your information, Pigmon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.56",
+   "en": "I AM GLAD I COULD BE OF USE ONCE AGAIN."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.57",
+   "en": "NOW, I WILL RETURN TO INVESTIGATING THE CUBES."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.59",
+   "en": "Pigmon went off somewhere."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.61",
+   "en": "Obtained \"Pencil Bomb\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.63",
+   "en": "Completed the quest \"Alien Baltan Strikes Back\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.64",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.66",
+   "en": "Fo, fo, fo, fo, fo..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.67",
+   "en": "...!? So you've shown up, Alien Baltan!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.68",
+   "en": "Bring me Ultraman. I have no business with anyone else."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.1",
+   "en": "We've learned someone in Shocker Cube is searching for RX. Take RX and go investigate."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.3",
+   "en": "Black Sun, listen well."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.4",
+   "en": "Who's there!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.6",
+   "en": "That voice... Shadow Moon!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.7",
+   "en": "You will face me, Black Sun."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.8",
+   "en": "Wait! Please, wait!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.9",
+   "en": "Are you really Shadow Moon!? You're alive!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.10",
+   "en": "Come, Black Sun. Fight me, Black Sun."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.11",
+   "en": "Answer me, Shadow Moon! Shadow Moon!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.13",
+   "en": "Hey, RX, who was that just now?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.14",
+   "en": "...His name is Shadow Moon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.15",
+   "en": "And he's my best friend."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.16",
+   "en": "Your best friend!? Then isn't he on our side?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.17",
+   "en": "The Crisis Empire controlled him, and he and I became enemies."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.18",
+   "en": "And in the end, I fought him... and I defeated him."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.19",
+   "en": "But Shadow Moon is alive. I have to meet him and see for myself."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.20",
+   "en": "Why the hell should I have to tag along with you?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.21",
+   "en": "Please. I have to stop him."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.22",
+   "en": "...Tch! Fine, let's get this over with!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.26",
+   "en": "I'm here, Shadow Moon! Where are you!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.27",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.28",
+   "en": "Shadow Moon... So you really are alive."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.31",
+   "en": "Whoa!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.32",
+   "en": "Shadow Moon! Are you set on fighting me no matter what!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.33",
+   "en": "Would you bring that nightmare back to life all over again!? Shadow Moon!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.34",
+   "en": "I...! I don't want to fight you!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.35",
+   "en": "I don't want to fight!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.37",
+   "en": "Kuah!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.38",
+   "en": "Answer me, Shadow Moon! Say something!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.39",
+   "en": "My name is Shadow Moon, Black Sun."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.40",
+   "en": "The messenger of death, risen from Hell to bury you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.42",
+   "en": "Uwaah!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.43",
+   "en": "Stop it, Shadow Moon! Stop!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.45",
+   "en": "Shadow Moon, the Prince of Shadows, lost all memory of his days as Black RX's best friend."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.46",
+   "en": "That was the heavy price he paid to survive, and only barely at that."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.47",
+   "en": "And so he wandered, driven by the one thing he had left:"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.48",
+   "en": "the instinct to defeat Kamen Rider Black RX..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.49",
+   "en": "And now, Black RX understood as well."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.50",
+   "en": "The Shadow Moon he once knew was dead."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.51",
+   "en": "What stood before him now was another mighty enemy, every bit the equal of Crisis."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.54",
+   "en": "Gwah!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.55",
+   "en": "Ngh! He's strong!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.56",
+   "en": "Ngh! He's strong!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.57",
+   "en": "Ngh! He's strong!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.26",
+   "note": "Rows 26-29, 34-37, 45-48 and 51-55 are party-variant copies the script never plays (Quest016 is fixed to Ultraman, who uses rows 25/33/44). Identical Japanese kept identical; 45-48 use the rougher first-person-plural wording, so they differ slightly from Ultraman's polite row 44."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.30",
+   "note": "Speakers from Quest016.bla, mapping N+1 (row = TextIdOffset+n+1), calibrated on empty rows 31/39/43 and the OkWin rows 63-64: 30/32/38/40/41 Alien Baltan, 33/44 Ultraman. Row 42 is not called by the script; read as Alien Baltan's parting shot."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.49",
+   "note": "Rows 49-57 are unused by the script. Katakana-speech rows 50/56/57 read as Pigmon via the translator, rendered in caps without -pi like quest_010's katakana Pigmon lines; 51-55 are hero variants addressing Pigmon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.61",
+   "note": "Item not found in the item tables; 'Pencil Bomb' is the Science Patrol weapon's established English name."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.66",
+   "note": "Speakers: 66/68 Alien Baltan, 67 Ankh (wrong-party branch). Laugh matches quest_011's comma version of the identical Japanese (quest_010 used 'Fofofofofo...')."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.1",
+   "note": "Quest intro (3-line layout in Japanese) written as one line; matches QuestMess quest-017 wording."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.3",
+   "note": "Speakers from Quest017.bla, mapping N+1 (calibrated on empty rows 2/5/12/23-25 and OkWin rows 129/131). Row 3 is shown with a '???' name label; it is Shadow Moon. 'Black Sun' (Shadow Moon's name for RX) is not in the glossary."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.4",
+   "note": "Not called by the script (unused); speaker unknown, left neutral."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.13",
+   "note": "Ankh accompanies RX in this event (rows 13/16/20/22)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.17",
+   "note": "The source says the Crisis Empire manipulated Shadow Moon (in the TV series it was Gorgom); translated as written."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.21",
+   "note": "RX asking Ankh to come with him."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.38",
+   "note": "Not called by the script (unused); RX's voice."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.45",
+   "note": "Narration (no name label), in the style of the TV series narrator. Rows 45/46 are one sentence split across boxes; English restructured so each box stands alone while keeping the full meaning."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.51",
+   "note": "'Crisis' kept short for the Crisis Empire as in the source."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.55",
+   "note": "Rows 55-68 are party-leader variants not played in this event (RX alone speaks row 54); identical Japanese kept identical."
+  }
+ ],
+ "report": "Speakers from Quest016/017.bla (both N+1). Unused party-variant rows translated by wording. 'Black Sun' and 'Pencil Bomb' not in glossary."
+}

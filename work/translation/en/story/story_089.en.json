@@ -1,0 +1,414 @@
+{
+ "slice": "story_089",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0462.mbb#0.312",
+   "en": "Master Gundam..."
+  },
+  {
+   "key": "MainEventMess0462.mbb#0.313",
+   "en": "Master Gundam..."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.1",
+   "en": "Taro is frozen in ice!!"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.2",
+   "en": "Use the \"Magnerium Medicalizer\"?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.6",
+   "en": "{8074} and the others irradiated Taro with the \"Magnerium Medicalizer\"!"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.7",
+   "en": "......"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.8",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.9",
+   "en": "...I'm sorry. You saved me... Thank you."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.10",
+   "en": "Taro... Are you all right!?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.11",
+   "en": "Taro... Are you really all right!?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.12",
+   "en": "Brother Taro... Are you all right!?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.13",
+   "en": "Taro...!! You okay!?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.14",
+   "en": "Ultraman Taro... Are you all right!?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.15",
+   "en": "Ultraman Taro... Are you okay!?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.16",
+   "en": "Ultraman Taros... I mean, Taro! You okay!?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.17",
+   "en": "Ultraman Taro... Are you okay!?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.18",
+   "en": "Ultraman Taro... Are you okay!?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.19",
+   "en": "Ultraman Taro... Are you okay!?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.20",
+   "en": "Ultraman Taro... Are you okay!?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.21",
+   "en": "Ultraman Taro... Are you okay!?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.22",
+   "en": "Ultraman Taro... Are you okay!?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.23",
+   "en": "Ultraman Taro!! Are you okay!!"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.24",
+   "en": "I was frozen for a long time, after all... I can't say I'm in top form..."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.27",
+   "en": "Yes. Even frozen in ice, my five senses were still working."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.28",
+   "en": "Having the enemy right before my eyes and being unable to fight... that frustration was hard to bear."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.29",
+   "en": "I see. Then from now on, we stand together!"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.30",
+   "en": "I see. Then from now on, we stand together!"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.31",
+   "en": "I see! Then from now on, let's stand together!"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.32",
+   "en": "I see. Then from now on, you stand with us...!!"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.33",
+   "en": "I see. Then from now on, let's fight together!"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.34",
+   "en": "I see. In that case, from now on, we stand together."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.35",
+   "en": "I see. Then from now on, we stand together!"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.36",
+   "en": "I see. In that case, from now on, let us join forces."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.37",
+   "en": "I see. In that case, from now on, let us join forces."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.38",
+   "en": "I see. Then from now on, we stand together!"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.39",
+   "en": "I see. Then from now on, we stand together!"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.40",
+   "en": "...Well then, how 'bout fightin' alongside us from now on!?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.41",
+   "en": "I see. Then from now on, we stand together!"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.42",
+   "en": "I see. Then from now on, we stand together!"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.43",
+   "en": "Of course! Let me repay everything I owe you!"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.44",
+   "en": "Taro, if your five senses were workin', you must've picked up some info on the enemy, right?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.45",
+   "en": "...Only in fragments, but I did overhear some things."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.46",
+   "en": "Apparently the Ride Gate up ahead leads to the \"Shocker Cube.\""
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.47",
+   "en": "The next Cube, huh..."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.48",
+   "en": "I hear all kinds of \"power\" is kept there: kaiju, kaijin and weapons researched in each Cube."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.49",
+   "en": "It seems they never expected that even we heroes would get pulled in."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.50",
+   "en": "And I hear they're now working on a plan to keep \"forces of justice\" like us from getting in at all..."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.51",
+   "en": "The enemy said so, didn't they? That they're stealing items and sending them to the next Cube..."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.52",
+   "en": "Our lost \"power\" may be there as well."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.53",
+   "en": "Our lost \"power\" may be there as well."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.54",
+   "en": "The \"power\" we lost might be there too, then."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.55",
+   "en": "Maybe the \"power\" we lost is in there too!"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.56",
+   "en": "The \"power\" we lost might be there, too..."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.57",
+   "en": "The \"power\" we lost may well be there too."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.58",
+   "en": "The \"power\" we lost may well be there too."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.59",
+   "en": "The \"power\" we lost might be there too."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.60",
+   "en": "The \"power\" we lost might be there too."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.61",
+   "en": "The \"power\" we lost may well be there too."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.62",
+   "en": "The \"power\" we lost might be in there too, huh."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.63",
+   "en": "The \"power\" we lost might be in there too, huh."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.64",
+   "en": "The \"power\" we lost might be there too."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.65",
+   "en": "The \"power\" we lost might be there too."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.66",
+   "en": "Yes. We'll take it back...!!"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.67",
+   "en": "Then it's settled... The Ride Gate is further in, right?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.68",
+   "en": "No... wait. There's something I must do first."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.69",
+   "en": "What is it...?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.71",
+   "en": "Taro used the ember of the energy core to light the Plasma Spark's pedestal."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.73",
+   "en": "It's a weak light, but this should keep this Cube from falling into further ruin."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.75",
+   "en": "Then the door at the back of the room opened."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.77",
+   "en": "Let's go see."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.79",
+   "en": "{8074} and the others went on through the door."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.80",
+   "en": "Ultraman Taro joined the party!"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.84",
+   "en": "...As expected of the Hero Team."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.85",
+   "en": "But Master Gundam, you did well too."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.86",
+   "en": "Thanks to this tournament, we've obtained a wealth of useful combat data."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.87",
+   "en": "The plan will soon be complete..."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.88",
+   "en": "Now then, heroes... I'll have you run wild for me a little longer..."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.91",
+   "en": "This is it, then? The Ride Gate."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.97",
+   "en": "Shouldn't you get some rest?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.98",
+   "en": "You need to rest. Taro, let's go back to our base."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0463.mbb#0.1",
+   "note": "0463.bla traced: MessWinSet TextIdOffset+n shows row n+1. On the live path in this slice: #0.1-0.2, #0.6-0.24, #0.98 (rest continues in story_090). #0.27-0.91 and #0.97 are not referenced by the script (older draft of the scene); translated by wording with speakers inferred."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.2",
+   "note": "Source spells the item 'Magnerium' with a long vowel here; glossary spelling 'Magnerium Medicalizer' used, as in event 0403."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.9",
+   "note": "Taro. 'Sumanai' read as grateful apology ('I'm sorry'), followed by thanks; subject 'You' restored in 'You saved me'."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.10",
+   "note": "#0.10-0.23 = 14 leader variants (k = 0..13), order from 0463.bla's second Pt_Chara_Check chain: Ultraman, Seven, Mebius, Zero, OOO, W, Den-O Sword, Black RX, Rider 1, Nu, Zeta, 00, Wing Zero, God Gundam. Wording fits (Mebius 'niisan' = 'Brother Taro', Momotaros 'Taros... I mean, Taro', OOO polite). Identical JP (#0.15, #0.17-0.22) kept identical."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.16",
+   "note": "Momotaros running gag of calling him 'Taros' (cf. 0403 #0.209)."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.24",
+   "note": "Taro; trails off in the source ('I can't say I'm in perfect...'), kept unfinished."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.27",
+   "note": "Unused draft. Opens with 'Yes', answering a question not present (rows #0.25-0.26 are empty). Taro speaking (five senses)."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.29",
+   "note": "#0.29-0.42: 14-slot leader block (unused draft, order not traceable). Voiced by wording: plain 'tomo ni' = 'we stand together', #0.31 polite, #0.33 adds 'let's fight', #0.34 'naraba', #0.36-0.37 'kyoutou' = 'join forces', #0.40 rough (Momotaros/Zero-like)."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.43",
+   "note": "Taro answering the invitation."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.44",
+   "note": "Unlabelled, rough speech; likely Ankh, who travels with the party in this arc."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.46",
+   "note": "'Shocker Cube' (in source brackets) is not in the glossary; rendered literally."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.48",
+   "note": "Taro (hearsay '-sou da'). 'Kaijin' kept per glossary usage ('revived kaijin')."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.49",
+   "note": "Speaker uses 'ore-tachi'; context (continuing the report) suggests Taro, but unlabelled."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.51",
+   "note": "Unlabelled, rough ('itteta naa?'); likely Ankh."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.52",
+   "note": "#0.52-0.65: 14-slot leader block (unused draft). Voiced by register: 'wareware' formal, 'boku' polite (Mebius), 'nakushita... nee na!' rough, 'masen ne' polite, 'nee na' rough. Identical JP kept identical."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.66",
+   "note": "Unlabelled 'Aa, torikaesu no da' read as Taro (formal); subject 'We' restored."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.68",
+   "note": "Taro (he then lights the pedestal), so subject 'I' restored; the live version (#0.112) has Taro say the same."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.71",
+   "note": "'Energy core' lowercase and 'ember' follow earlier slices (0403, 0462)."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.84",
+   "note": "#0.84-0.88: the hidden ??? villain (live version is #0.125-0.129). #0.86 subject 'we' restored (Regis side); speaker identity not confirmed."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.88",
+   "note": "'Abarete morau' = speaker making the heroes rampage for their own ends; direction kept ('for me')."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.97",
+   "note": "Stray unused line; #0.98 starts the live 14-slot block (k=0 Ultraman, uses 'watashi')."
+  }
+ ],
+ "report": "All 80 rows translated. #0.10-0.23 leader order verified in 0463.bla. #0.27-0.91 and #0.97 are an unused draft; speakers inferred (#0.44, #0.51 likely Ankh; #0.49, #0.66 likely Taro). #0.86 subject 'we' assumed for the ??? villain. Not in glossary: 'Shocker Cube'."
+}

@@ -1,0 +1,430 @@
+{
+ "slice": "quest_016",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.166",
+   "en": "This is... Hey, look closer, it's a Feilong Flag!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.167",
+   "en": "This is... Hey, look closer, it's a Feilong Flag!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.168",
+   "en": "This is... a Feilong Flag, by the look of it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.169",
+   "en": "This is... a Feilong Flag, by the look of it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.170",
+   "en": "Huh. So that freak was using this thing as the stick for the ice pop?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.171",
+   "en": "Can't be helped. Guess I'll take this back as a souvenir."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.173",
+   "en": "Obtained \"Feilong Flag\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.175",
+   "en": "Completed the quest \"The Ultimate Ice Pop\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.1",
+   "en": "Masurao has sent 00 a challenge letter. Take 00 to Museum 1F in Shocker Cube."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.4",
+   "en": "So you have come..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.5",
+   "en": "You! Masurao!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.6",
+   "en": "I longed to see you... How I longed to see you, Gundam!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.7",
+   "en": "I believed that with information on Veda as bait, I would surely meet you!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.8",
+   "en": "Don't tell me... You were behind the Veda information!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.9",
+   "en": "Precisely! That information was meant to lure out the Gundam."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.10",
+   "en": "Out of my way! I have no time to waste on the likes of you!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.11",
+   "en": "To be brushed aside so coldly... Then I shall hold your gaze captive!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.12",
+   "en": "Today, I am a being who surpasses even Asura!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.13",
+   "en": "This chance to meet you, at long last..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.14",
+   "en": "As a Virgo, I cannot help but sense a sentimental destiny in it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.15",
+   "en": "Huh? What the hell's that guy talkin' about?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.16",
+   "en": "Huh? What is that guy going on about?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.17",
+   "en": "Hm? What is that man talking about?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.18",
+   "en": "What's that guy babbling about?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.19",
+   "en": "Huh? What are you talking about?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.20",
+   "en": "What is that guy talking about?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.21",
+   "en": "What is that guy talking about?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.22",
+   "en": "What is that guy talking about?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.23",
+   "en": "What is that guy talking about?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.24",
+   "en": "What is that guy talking about?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.25",
+   "en": "What is that guy talking about?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.26",
+   "en": "What is that guy talking about?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.27",
+   "en": "What is that guy talking about?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.28",
+   "en": "What is he saying?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.29",
+   "en": "Yes, the Gundam has captivated my heart! This feeling... it is truly love!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.30",
+   "en": "Love!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.31",
+   "en": "But love, once transcended, turns to hatred. And so I will defeat you! Of my own will!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.32",
+   "en": "What!? You are distorted!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.33",
+   "en": "It was you who made me so! The very existence of the Gundam!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.34",
+   "en": "That is why I will defeat you all. The world matters not. Of my own will!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.35",
+   "en": "And then I will surpass the Gundam! That shall be the proof that I live!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.36",
+   "en": "Shut up! Like hell we're gonna get beaten 'cause of your selfish whims!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.37",
+   "en": "Like hell we're goin' down over your screwy logic!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.38",
+   "en": "No way are we getting beaten just to satisfy your desire!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.39",
+   "en": "Like hell we'll go down for your selfish whims!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.40",
+   "en": "We have no intention of being defeated for your selfish whims!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.41",
+   "en": "Like hell we'll go down for your selfish whims!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.42",
+   "en": "We won't be defeated by this so-called love of yours!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.43",
+   "en": "We won't be defeated by this so-called love of yours!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.44",
+   "en": "We will not be defeated for your selfish whims!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.45",
+   "en": "We will not be defeated for your selfish whims!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.46",
+   "en": "We will not be defeated for your selfish whims!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.47",
+   "en": "That's just ego! We won't be beaten by the likes of you!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.48",
+   "en": "We won't be beaten for your selfishness!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.49",
+   "en": "Then I'll kill you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.50",
+   "en": "That distortion of yours! I will sever it myself!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.52",
+   "en": "Ngh... My particle reserves are nearly spent!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.53",
+   "en": "I shall say it boldly, Gundam! Remember this well!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.56",
+   "en": "00 must be in the party to progress this quest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.58",
+   "en": "Completed the quest \"Veda Classified Data\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.1",
+   "en": "Pigmon has come to the base again. It seems to have information on Alien Baltan."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.4",
+   "en": "Just like before, Maganac and Pigmon were there."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.5",
+   "en": "Au-au!! Au-au!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.6",
+   "en": "This again? Hey, get out that Pan-Space Interpreter from last time."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.7",
+   "en": "I've been waiting for you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.8",
+   "en": "It seems Pigmon has gotten hold of new information again."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.9",
+   "en": "Looks like Alien Baltan is moving ahead with a plan to invade the base this time-pi."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.10",
+   "en": "Alien Baltan? Them again?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.11",
+   "en": "But this time there's not just one. It sounds like there are lots of Alien Baltans-pi."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.12",
+   "en": "Pigmon, where are the Alien Baltans?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.13",
+   "en": "North of the quarry in Hideout Cube-pi."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.14",
+   "en": "Ah. Where the Ultra Warriors were crucified, huh."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.15",
+   "en": "IF YOU GO, YOU MUST NOT FORGET TO GO TOGETHER WITH ULTRA WARRIORS."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.16",
+   "en": "Thank you for the information, Pigmon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.17",
+   "en": "This time, multiple Alien Baltans have been confirmed."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.18",
+   "en": "Be careful heading north of the quarry-pi."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.19",
+   "en": "Ultraman must be in the party to progress this quest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.21",
+   "en": "Please bring the Ultra Warriors with you. This request concerns them as well."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.24",
+   "en": "Fo, fo, fo, fo, fo..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.25",
+   "en": "So you've shown up again!! Alien Baltan!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.166",
+   "note": "Quest014.bla, mapping N+1 (as quest_015). Rows 166-169 end the leader block +154+pt (Pt_Chara_Check order 5,4,3,2,1,14,15,13,11,12,6,7,8,9, then 00): 166 Zeta, 167 God Gundam, 168 Wing Zero, 169 00. 166/167 reuse quest_015's English for the identical row 165; 168/169 curt 'you na' wording."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.170",
+   "note": "Ankh (CHARA_NAME 36, +169). 'Saki no yatsu' = Sweets Dopant (g=f); 'that freak' avoids a pronoun, as quest_015 did. 'Ice cream' kept to match the quest title."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.171",
+   "note": "Not referenced by Quest014.bla (script goes +169 straight to OkWin). Rough speech; read as Ankh continuing. Speaker inferred."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.173",
+   "note": "Item message matches QuestMess 0.515 English. Not referenced by the script (OkWin +174/+175 = rows 175/176; 176 does not exist)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.1",
+   "note": "Quest description row. Source location differs from QuestMess 0.71 (this row says Shocker Cube Museum 1F; QuestMess says Veda Cube Terminal Unit); followed this row's source. 'Museum 1F' matches the existing location label."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.4",
+   "note": "Quest015.bla mapping N+1 (+3 = row 4 under a '???' name box, i.e. Masurao before he is seen; +4 00 = row 5; +5-6, +8, +10-13 Masurao; +7, +9 00). Masurao in formal no-contraction speech as in story_083; his lines here are Graham Aker quotes from Gundam 00 (love/hatred, Asura, Virgo, 'I dare say')."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.14",
+   "note": "'Otomeza' = the zodiac sign Virgo (Graham's line), not the Virgo mobile doll."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.15",
+   "note": "Leader block 15-28 (+14+pt), Pt_Chara_Check order: 15 Momotaros, 16 Shotaro, 17 OOO, 18 Zero, 19 Mebius, 20 God Gundam, 21 Black RX, 22 Rider 1, 23 Ultraman, 24 Seven, 25 Taro, 26 Nu, 27 Zeta, 28 Wing Zero. Identical Japanese kept identical. Masurao g=m, so 'that guy/he'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.19",
+   "note": "Mebius: no subject or pronoun in the source; read as a polite question put to Masurao directly ('What are you talking about?'). Could also be an aside to the party ('What is he talking about?')."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.32",
+   "note": "00 (Setsuna): 'distorted' for the series' distortion motif, as in earlier slices; row 50 same."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.34",
+   "note": "Masurao shifts from 'kimi' (00) to 'kimi-tachi' (the whole party): 'you all'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.36",
+   "note": "Leader block 36-49 (+35+pt), same order as 15-28. Dropped subject of 'taosarete tamaru ka' restored as 'we' (Masurao just vowed to defeat them all). 36 Momotaros, 37 Shotaro, 38 OOO ('desire'), 39/41 Zero/God Gundam (same Japanese), 40 Mebius (polite), 42/43 RX/Rider 1 ('so-called love'), 44-46 Ultraman/Seven/Taro, 47 Nu (Amuro's 'That's just ego!'), 48 Zeta, 49 Wing Zero (Heero's 'I'll kill you')."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.52",
+   "note": "Masurao after battle (+51/+52). 'Ryuushi' = GN particles; kept as 'particle reserves'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.53",
+   "note": "'Aete iu zo' echoes Graham's catchphrase ('I dare say'); rendered 'I shall say it boldly'. Parting threat 'oboete oku ga ii' = 'Remember this well!'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.56",
+   "note": "OkWin +55 (no-00 branch). Format as quest_005/007."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.58",
+   "note": "OkWin +57; title from QuestMess 0.16."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.1",
+   "note": "Quest description row. Pigmon g=n ('it')."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.4",
+   "note": "Quest016.bla mapping N+1: Maganac (79) +6/+7 = rows 7/8, Pigmon (267) +8/+10/+12/+17 = rows 9/11/13/18, Ankh (36) +9/+13 = rows 10/14, Ultraman (11) +11/+15 = rows 12/16, OkWin +18 = row 19, Baltan (266) +23 = row 24, Ultraman +24 = row 25. Rows 4, 5, 6, 15, 17 and 21 are not referenced (speakers inferred): 4 narration, 5 Pigmon's cry, 6 rough voice (Ankh-like), 15 Pigmon via the interpreter, 17 and 21 Maganac (polite)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.6",
+   "note": "Unreferenced. Device named descriptively in the source (all-universe translator), so 'universal translator' rather than the 'Pan-Space Interpreter' item name used in quest_010."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.9",
+   "note": "Pigmon's sentence-final 'ppi' as '-pi' per glossary style."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.13",
+   "note": "Same Japanese as DG_QUEST010 #0.22; same English."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.15",
+   "note": "Katakana interpreter speech: all caps, no contractions, as quest_010/011/017."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.21",
+   "note": "Unreferenced (no-Ultraman branch shows only the OkWin). Close to DG_QUEST010 #0.29 with 'mo' (also): 'as well'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.24",
+   "note": "Baltan laugh in the comma form used by quest_011/quest_017 for the identical Japanese."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.25",
+   "note": "Ultraman (+24). Same English as quest_017 rows 26-29 (identical Japanese apart from a comma)."
+  }
+ ],
+ "report": "80/80 rows. Speakers from Quest014/015/016.bla, all mapping TextIdOffset+N = row N+1. Leader blocks follow Pt_Chara_Check order. Unreferenced rows, speakers inferred: DG_QUEST014 171 (Ankh), DG_QUEST016 4/5/6/15/17/21. Uncertain: DG_QUEST015 #0.19 (Mebius addressing Masurao or the party); DG_QUEST015 #0.1 location differs from QuestMess (followed the source). Masurao voiced with Graham Aker quotes in formal speech. No new glossary names."
+}

@@ -1,0 +1,46 @@
+{
+ "tpc": "Graph/Common/UI/common_ui_tex.tpc",
+ "page": "UI_Common_ItemAP_4444.tga",
+ "note": "Field item effect labels; wording matches the item effect names in the menu text (Damage Floors Null, Encounters x2, Encounters Halved, No Encounters).",
+ "defaults": {
+  "size": 10,
+  "bold": false,
+  "color": [
+   17,
+   238,
+   68
+  ],
+  "align": "left"
+ },
+ "clear": [],
+ "boxes": [
+  {
+   "x": 2,
+   "y": 2,
+   "w": 78,
+   "h": 11,
+   "text": "Damage Floors Null"
+  },
+  {
+   "x": 2,
+   "y": 16,
+   "w": 78,
+   "h": 11,
+   "text": "Encounters x2"
+  },
+  {
+   "x": 2,
+   "y": 29,
+   "w": 78,
+   "h": 11,
+   "text": "Encounters Halved"
+  },
+  {
+   "x": 2,
+   "y": 42,
+   "w": 78,
+   "h": 11,
+   "text": "No Encounters"
+  }
+ ]
+}

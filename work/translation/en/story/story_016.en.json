@@ -1,0 +1,398 @@
+{
+ "slice": "story_016",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0146.mbb#0.4",
+   "en": "Now! Use the Denden Sensor!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.6",
+   "en": "{8074} used the Denden Sensor!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.8",
+   "en": "Heh heh heh heh!! What do you think you're doing?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.9",
+   "en": "I see you!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.10",
+   "en": "Whoa, I can see ya!?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.11",
+   "en": "I can see you!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.12",
+   "en": "I can see you!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.13",
+   "en": "I see you!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.14",
+   "en": "I can see you!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.15",
+   "en": "I can see you!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.16",
+   "en": "Y-you can see me? Did you really think drivel like that would rattle me!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.17",
+   "en": "Save your bluster for the grave!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.18",
+   "en": "Haaah!!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.19",
+   "en": "Whoa, that was close."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.20",
+   "en": "Whoa, close one."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.21",
+   "en": "Whoa, that was close."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.22",
+   "en": "...You won't hit me!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.23",
+   "en": "Whoa, that was a close one."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.24",
+   "en": "...You won't hit me!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.25",
+   "en": "...You won't hit me!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.26",
+   "en": "Y-you dodged it!? Impossible!! Can you actually see me!?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.27",
+   "en": "Hnngh!!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.28",
+   "en": "I can see exactly where you're shooting from, y'know?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.29",
+   "en": "I can see right where you're shootin' from, y'know?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.30",
+   "en": "I can see exactly where you're shooting from!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.31",
+   "en": "...Now that I can see you, this fight is mine!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.32",
+   "en": "...Now that I can see you, this fight is mine!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.33",
+   "en": "I can see exactly where you're shooting from!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.34",
+   "en": "...Now that we can see you, the advantage is ours!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.35",
+   "en": "C-curse you!!! A mere gadget like that, exposing me...!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.36",
+   "en": "So Invisible wasn't perfect... But whether you can see me or not, it makes no difference!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.37",
+   "en": "I'll send every one of you to hell with my own hands...!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.38",
+   "en": "Nega Den-O!! We're killing these guys!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.40",
+   "en": "Obtained the spare Rider Pass."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.41",
+   "en": "Ugh... But it's already too late... The road to the \"Gap in Time\" has been sealed..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.42",
+   "en": "Fuha, fuha, fuhaaaaaaaaa!!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.43",
+   "en": "...What did you say!?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.44",
+   "en": "I-I refuse... to die in a place like thiiiis...!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.45",
+   "en": "Fwaaaaah!!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.46",
+   "en": "Weather Dopant... You still have this much power...!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.47",
+   "en": "Weather Dopant... You still have this much power...!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.48",
+   "en": "Weather Dopant... You still have this much power...!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.49",
+   "en": "Weather Dopant... You still have this much power...!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.50",
+   "en": "Weather Dopant... You still have this much power...!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.51",
+   "en": "Weather Dopant... You still have this much power...!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.52",
+   "en": "You bastard, you're still alive!?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.53",
+   "en": "\"VROOOOOOM!!\""
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.54",
+   "en": "Just then, the roar of an engine rang out!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.55",
+   "en": "Who's there...?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.56",
+   "en": "Weather Dopant!!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.57",
+   "en": "Accel!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.58",
+   "en": "I'll shake off... everything!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.59",
+   "en": "\"TRIAL!\""
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.60",
+   "en": "\"VROOM! VROOM! VROOM!\""
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.61",
+   "en": "What!? What is that Gaia Memory...!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.62",
+   "en": "You won't get away!!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.63",
+   "en": "\"VROOOOOOM!!\""
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.64",
+   "en": "But if the one using it is a mere insect..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.65",
+   "en": "S-so fast!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.66",
+   "en": "Gwah!! I can't... see the attacks...!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.67",
+   "en": "Urgh!! Gahh!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.68",
+   "en": "\"TRIAL! MAXIMUM DRIVE!!\""
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.69",
+   "en": "9.8 seconds... That's your time until despair."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.70",
+   "en": "Ngh... I'll be waiting for you in hell... Nuooooooaaaaaaaaaaaaaah!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.71",
+   "en": "We did it!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.72",
+   "en": "We did it..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.73",
+   "en": "We did it..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.74",
+   "en": "Yeah, we did it!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.75",
+   "en": "We did it..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.76",
+   "en": "We did it..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.77",
+   "en": "Hell yeah, we did it!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.79",
+   "en": "What about Methuss...!?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.80",
+   "en": "Hey, there's someone further in there!?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.81",
+   "en": "...E-everyone..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.82",
+   "en": "Methuss!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.83",
+   "en": "...Are you okay!?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.84",
+   "en": "Methuss!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.85",
+   "en": "...Are you okay!?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.86",
+   "en": "Methuss!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.87",
+   "en": "...Are you okay!?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0146.mbb#0.4",
+   "note": "Denden Sensor: Memory Gadget name not in glossary; used Kamen Rider Wiki's 'Denden Sensor' (the Denden Memory from story_014 should match)."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.10",
+   "note": "Momotaros's line ends in a surprised question mark; rendered as surprise that the sensor works ('Whoa, I can see ya!?')."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.16",
+   "note": "No speaker recovered; clearly the Weather Dopant answering the heroes' 'I can see you'. He drops his usual polite register here, kept as harsher speech."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.17",
+   "note": "No speaker recovered; Weather Dopant (continues 0.16)."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.27",
+   "note": "Attack grunt (same shape as 0.18), not a scoffing 'Hmph'."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.35",
+   "note": "Sentence trails off in the source ('with that thing, my form...'); rendered as 'A mere gadget like that, exposing me...!!' to keep the unfinished feel while staying readable."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.36",
+   "note": "'Invisible' = the Invisible Memory's power (story_003 context)."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.38",
+   "note": "No speaker recovered. Addresses Nega Den-O, so inferred as the Weather Dopant calling his ally into the boss fight; rougher than Weather's usual polite speech, so it could also be a mis-tagged line. Uncertain."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.40",
+   "note": "System message after the battle (Nega Den-O drops the pass)."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.41",
+   "note": "Term for the passage/space between times rendered as \"Gap in Time\" in quotes as the source does; not in glossary. 0.43 Momotaros reacts to this line (0.42 is Nega Den-O's defeat laugh in between)."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.46",
+   "note": "0.46-0.51 are the same Japanese for six party members; kept identical. Weather Dopant addressed directly ('You')."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.58",
+   "note": "Accel catchphrase per glossary ('shake it off'): 'I'll shake off... everything!!'"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.59",
+   "note": "Trial Memory voice line, caps in double quotes per style. 0.68 likewise."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.64",
+   "note": "No speaker recovered; inferred as the Weather Dopant sneering at Accel before being overwhelmed (0.65). Line trails off as in source."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.69",
+   "note": "Accel Trial's signature line (9.8 seconds = time until your despair)."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.80",
+   "note": "Ankh's line ends with a surprised '!?'; kept as is."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.61",
+   "note": "proofread: source is an inverted question (what is that Memory?), not a recognition; old line implied Weather knew it."
+  }
+ ],
+ "report": "80/80 rows. Inferred speakers: 0.16, 0.17, 0.64 (Weather Dopant, confident); 0.38 (Weather Dopant addressing Nega Den-O, uncertain). New terms not in glossary: 'Denden Sensor', \"Gap in Time\". Sound effects/Memory voices in double quotes."
+}

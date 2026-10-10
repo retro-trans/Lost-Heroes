@@ -1,0 +1,386 @@
+{
+ "slice": "story_112",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0605.mbb#0.13",
+   "en": "Man, there's no end to these guys."
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.14",
+   "en": "What the hell!! There's no end to these guys, dammit!!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.15",
+   "en": "At this rate, it'll never end!!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.16",
+   "en": "At this rate, there will be no end to this!!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.17",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.18",
+   "en": "What do we do...!?"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.19",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.20",
+   "en": "...Ngh. But the mission... will be completed!!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.21",
+   "en": "...Ngh. But I have to do this! I am Gundam!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.22",
+   "en": "...Gah! But I can't afford to lose here!!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.23",
+   "en": "...Ngh. But all they've got is numbers...!!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.24",
+   "en": "...Ugh... I won't let them look down on me!!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.25",
+   "en": "...Gah! Fine, then I'll go all the way with this!!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.26",
+   "en": "...Ugh... Do we have no choice but to fight!?"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.27",
+   "en": "...Guh. But if we don't do this...!!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.28",
+   "en": "...Guh. But we have to do this!!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.29",
+   "en": "...Guh. But... fighting is the only way!!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.30",
+   "en": "...Ugh. If it's come to this, we just have to do it, right!!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.31",
+   "en": "...Tch. So we've got no choice but to do it!?"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.32",
+   "en": "...Whoa there. Fine, then I'll keep you company till the bitter end!!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.33",
+   "en": "...Guh. If it's come to this, we have no choice!!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.34",
+   "en": "...Guh. If it's come to this, we have no choice!!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.35",
+   "en": "Hold on!!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.36",
+   "en": "...Cherudim!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.37",
+   "en": "The Virgo squad. Didn't think there were still this many of them. But it's as I expected."
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.38",
+   "en": "Alright! Leave these guys to us!!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.39",
+   "en": "What? The same pattern again?"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.40",
+   "en": "No! Fighting them blindly will only wear us down!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.41",
+   "en": "Then what are we supposed to do!?"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.42",
+   "en": "There must be a commander somewhere!!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.43",
+   "en": "Huh? A commander? What do you mean?"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.44",
+   "en": "The way this Virgo squad moves... I can't believe they're ordinary mobile dolls."
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.45",
+   "en": "I see... So you're saying someone, somewhere, is remotely controlling the Virgo squad?"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.46",
+   "en": "That's right. Seravee, does anything come to mind?"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.47",
+   "en": "Actually, I sensed quantum brainwaves a moment ago. There's probably an Innovator nearby..."
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.48",
+   "en": "That's it! If an Innovator is their commander, those tactical movements make sense."
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.49",
+   "en": "Alright! Then Seravee and the Hero Team, find this commander of theirs and take them down!!"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.50",
+   "en": "Roger."
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.51",
+   "en": "Once the op's done and the Virgo squad goes silent, we'll head on ahead of you, got it?"
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.52",
+   "en": "Roger. We'll follow right after you."
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.53",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0606.mbb#0.1",
+   "en": "There are too many enemies this way!!"
+  },
+  {
+   "key": "MainEventMess0606.mbb#0.2",
+   "en": "Take another route!!"
+  },
+  {
+   "key": "MainEventMess0607.mbb#0.1",
+   "en": "I'll hold them off here!"
+  },
+  {
+   "key": "MainEventMess0607.mbb#0.2",
+   "en": "Take another route!!"
+  },
+  {
+   "key": "MainEventMess0608.mbb#0.1",
+   "en": "Take another route!!"
+  },
+  {
+   "key": "MainEventMess0608.mbb#0.2",
+   "en": "I'll take care of things over here!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.1",
+   "en": "You people...!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.2",
+   "en": "...Gaddess!! It's you, isn't it!? You're the mobile dolls' commander!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.4",
+   "en": "Heh heh heh heh. That's right... But how did you figure it out!?"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.5",
+   "en": "Movements far too tactical for mobile dolls. And then, the quantum brainwaves..."
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.6",
+   "en": "That's how I knew. That an Innovator was controlling them from somewhere."
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.7",
+   "en": "Hmm, you've got good instincts, don't you? But no matter how good they are, you can't defeat me!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.8",
+   "en": "Go!! Fangs!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.10",
+   "en": "Ngh...!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.11",
+   "en": "Ahahahahaha!! I'll show you just how much stronger I am!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.12",
+   "en": "Gaddess!! You're the one who's about to learn who's stronger!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.13",
+   "en": "Gaddess!! You're the one who's about to learn who's stronger!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.14",
+   "en": "Gaddess!! You're the one who's about to learn who's stronger!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.15",
+   "en": "Don't give me that!! You're the one who's about to learn who's stronger!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.16",
+   "en": "You're the one who's about to learn who's stronger!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.17",
+   "en": "Gaddess!! You're the one who's about to learn who's stronger!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.18",
+   "en": "Gaddess!! You're the one who's about to learn who's stronger!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.19",
+   "en": "Gaddess!! You're the one who's about to learn who's stronger!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.20",
+   "en": "Gaddess!! You're the one who's about to learn who's stronger!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.21",
+   "en": "Gaddess!! You're the one who's about to learn who's stronger!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.22",
+   "en": "Gaddess!! You're the one who's about to learn who's stronger!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.23",
+   "en": "Sorry, Gaddess!! You're the one who's about to learn who's stronger!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.24",
+   "en": "Now that's interesting!! But you're the one who's gonna learn who's stronger, got it!?"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.25",
+   "en": "We'll see about that!? You're the one who's about to learn who's stronger!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.26",
+   "en": "I'll throw those words right back at you!! Gaddess! You're the one who's about to learn who's stronger!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.28",
+   "en": "Good!! Destroy the control device further in!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.30",
+   "en": "{8074} destroyed the mobile dolls' control device."
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.34",
+   "en": "...Look what you've done."
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.35",
+   "en": "You!! So you were still alive, damn you!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.36",
+   "en": "Me, defeated... There must be some mistake!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.37",
+   "en": "...Fangs!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.38",
+   "en": "Tch...!!"
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.39",
+   "en": "Look!! I can still fight...!! I..."
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.40",
+   "en": "...Hm? Yes... Understood..."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0605.mbb#0.13",
+   "note": "#0.13-16 are the tail of the 15-slot leader block #0.2-16. Pt_Chara_Check chain in 0605.bla is 9,10,8,6,7,15,14,13,12,11,5,4,3,2,1 = Wing Zero, 00, God, Nu, Zeta, Zero, Mebius, Taro, Seven, Ultraman, OOO, W(Shotaro), Momotaros, RX, Rider 1; so #0.13 Shotaro, #0.14 Momotaros, #0.15 RX, #0.16 Rider 1. The order matches the wording (#0.20 'mission' = Heero, #0.21 'I am Gundam' = Setsuna)."
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.20",
+   "note": "#0.20-34 second 15-slot leader block, same chain order (Wing Zero ... Rider 1); the leader groans after a Virgo beam volley. #0.33-34 identical Japanese -> identical English."
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.26",
+   "note": "Mebius slot; subject of the 'no choice but to' tail restored as 'we'. Same tail as #0.31 (Shotaro) with a different interjection; #0.31 voiced rougher."
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.32",
+   "note": "Momotaros slot; 'tokoton tsukiatte yaru' (stick with it to the end) rendered 'keep you company till the bitter end'."
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.35",
+   "note": "Cherudim arriving with the Gundam allies; 'matsu n da' read as 'Hold on' (stop the hopeless fight), not a plea to wait for him."
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.39",
+   "note": "Ankh refers to 0603, where the allies also stayed behind to hold off enemies while the heroes went ahead."
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.47",
+   "note": "00 term for brain quantum waves rendered with the glossary's 'quantum brainwaves'. 'Innovator' (00 English) not in glossary; used the franchise name."
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.51",
+   "note": "'senkou suru' = Cherudim's group moves on ahead once the Virgos fall silent; Seravee answers it will follow right after."
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.8",
+   "note": "Gaddess's 'Fang' = her GN Fangs (glossary note); kept short as 'Fangs'."
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.11",
+   "note": "'chikara no chigai' (difference in power) rendered as 'who's stronger' so Gaddess's taunt and the leader replies (#0.12-26) mirror each other."
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.12",
+   "note": "#0.12-26 15-slot leader block; 0609.bla chain is 10,9,8,6,7,15,14,13,12,11,5,4,3,2,1 = 00, Wing Zero, God, Nu, Zeta, Zero, Mebius, Taro, Seven, Ultraman, OOO, Shotaro, Momotaros, RX, Rider 1. Identical Japanese -> identical English. #0.15 (Nu) opens with 'Don't give me that!!'; #0.23 Shotaro's 'warii na' = sarcastic 'Sorry'."
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.30",
+   "note": "Name variable + padding -> tag only; no 'tachi' in this line so no 'and the team'."
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.34",
+   "note": "'yatte kureta wa ne' read as spiteful 'Look what you've done' (the control device was destroyed)."
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.40",
+   "note": "Gaddess is receiving orders via quantum brainwaves (Seravee/Ankh comment on it in the next slice)."
+  }
+ ],
+ "report": "80/80 rows translated. Leader blocks (0605 #0.13-16 tail, #0.20-34; 0609 #0.12-26) mapped by the Pt_Chara_Check chains in 0605.bla/0609.bla. Not in glossary: 'Innovator' (00 franchise term). Uncertain: 0605 #0.35 'Hold on' reading; 0609 #0.34 'Look what you've done'."
+}

@@ -1,0 +1,329 @@
+{
+ "slice": "system_072",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.30",
+   "en": "Cancels buffs on all enemies, with a chance to inflict Blind."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.31",
+   "en": "Attacks on all enemies always hit."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.32",
+   "en": "Deals a Slash attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.34",
+   "en": "Deals a Ranged attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.35",
+   "en": "Hits one enemy with a powerful punch."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.36",
+   "en": "Deals a Slash attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.37",
+   "en": "Deals an Ice attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.38",
+   "en": "Deals a devastating Slash attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.39",
+   "en": "Deals a devastating Combo attack to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.40",
+   "en": "Deals a Slash attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.41",
+   "en": "Hits one enemy with a kick."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.42",
+   "en": "Deals an attack to one enemy with a chance to inflict Stun."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.43",
+   "en": "Deals a high-power but low-accuracy Slash attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.44",
+   "en": "Deals a Ranged attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.45",
+   "en": "Deals a Ranged attack to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.46",
+   "en": "Makes enemies more likely to target you."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.47",
+   "en": "Hits one enemy with a powerful punch."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.48",
+   "en": "Deals a Ranged attack to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.49",
+   "en": "Raises the Ice ATK of all allies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.50",
+   "en": "Deals a powerful Slash attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.51",
+   "en": "Deals a devastating Slash attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.52",
+   "en": "Hits one enemy with a Wind punch."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.53",
+   "en": "Hits one enemy with a Wind kick."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.54",
+   "en": "Deals a Fire attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.55",
+   "en": "Deals a Light attack to one enemy, with a chance to inflict Panic."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.56",
+   "en": "Deals a Light Ranged attack to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.57",
+   "en": "Deals a Slash attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.58",
+   "en": "Hits one enemy with a powerful Wind kick."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.59",
+   "en": "Deals a Light Slash attack to one enemy and cancels its buffs."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.60",
+   "en": "Deals a Light Ranged attack to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.61",
+   "en": "For 2 turns, you can attack twice in a row."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.62",
+   "en": "Deals a devastating Combo attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.63",
+   "en": "Deals a devastating Light Slash attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.64",
+   "en": "Hits one enemy with a kick."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.65",
+   "en": "Attacks all enemies at random with a series of kicks."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.66",
+   "en": "Deals a Lightning Ranged attack to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.67",
+   "en": "Deals a Fire attack to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.68",
+   "en": "Deals a Slash attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.69",
+   "en": "Deals a powerful attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.70",
+   "en": "Has a chance to lower one enemy's speed."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.71",
+   "en": "Deals a Lightning attack to one enemy, with a chance to inflict Stun."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.72",
+   "en": "Deals a Fire Ranged attack to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.73",
+   "en": "Deals a powerful Ranged attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.74",
+   "en": "Deals a devastating Slash attack to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.75",
+   "en": "Delivers a devastating Fire kick to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.76",
+   "en": "Deals a series of Ranged attacks to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.77",
+   "en": "Deals a series of powerful Ranged attacks to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.78",
+   "en": "Deals a Slash attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.79",
+   "en": "Attacks on all enemies always hit."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.80",
+   "en": "Reduces damage to yourself with a shield for a set number of turns."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.81",
+   "en": "Deals a powerful Ranged attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.82",
+   "en": "Cancels attacks on one ally."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.83",
+   "en": "Raises the Evasion of all allies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.84",
+   "en": "Attacks all enemies at random with Ranged attacks."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.85",
+   "en": "Nullifies Ranged attacks on all allies for a few turns."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.86",
+   "en": "Deals a devastating Combo attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.87",
+   "en": "Deals a devastating Combo attack to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.88",
+   "en": "Deals a series of Ranged attacks to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.89",
+   "en": "Deals a series of powerful Ranged attacks to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.90",
+   "en": "Deals a Slash attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.91",
+   "en": "Deals a Ranged attack to one enemy, with a chance to inflict Stun."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.92",
+   "en": "Deals a powerful Ranged attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.93",
+   "en": "Attacks on all enemies always hit."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.94",
+   "en": "When a chosen ally attacks normally, you add a follow-up attack."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.95",
+   "en": "Deals a powerful Ranged attack to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.96",
+   "en": "Nullifies all enemy attacks, on the turn used only."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.97",
+   "en": "Deals a devastating Ranged attack to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.98",
+   "en": "Deals a devastating Slash attack to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.99",
+   "en": "Deals a series of Ranged attacks to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.100",
+   "en": "Deals a powerful attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.101",
+   "en": "Deals a Slash attack to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.102",
+   "en": "Fills a set amount of your Hero Gauge."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.103",
+   "en": "Raises your Evasion."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.104",
+   "en": "Takes attacks aimed at a chosen ally in their place."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.105",
+   "en": "For a few turns, your attacks ignore enemy resistances."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.106",
+   "en": "Raises the Fire ATK of all allies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.107",
+   "en": "Deals a powerful Slash attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.108",
+   "en": "Deals a devastating Slash attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.109",
+   "en": "Deals a devastating Fire attack to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.110",
+   "en": "Deals a devastating attack to one enemy."
+  }
+ ],
+ "notes": [],
+ "report": "Skill help text (SkillHelpMessage 30-110). Element names Ice/Wind/Fire/Light/Lightning; Stun and Panic and Blind per glossary. Uncertain: 82 and 94 wording, 80 shield duration. No new glossary terms."
+}

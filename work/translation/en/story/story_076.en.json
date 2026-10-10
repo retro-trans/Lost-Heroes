@@ -1,0 +1,382 @@
+{
+ "slice": "story_076",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0430.mbb#0.8",
+   "en": "Jack...! ...It couldn't be helped. They're formidable foes."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.9",
+   "en": "Brother Jack...! ...It couldn't be helped. They're formidable opponents."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.10",
+   "en": "...Can't be helped, man. Those guys are tough."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.11",
+   "en": "Problem is, though... their next opponent is us."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.12",
+   "en": "What...!? Then you'd better watch out. They had Black King hidden away as an ambush."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.13",
+   "en": "They had Black King hidden away as an ambush."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.14",
+   "en": "What did you say?"
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.15",
+   "en": "We had the upper hand at first, too. But then, out of nowhere, one who was never even entered..."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.16",
+   "en": "Black King appeared, and the tide turned against us in one stroke..."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.17",
+   "en": "Hmph! What a dirty trick...!!"
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.18",
+   "en": "Understood, thank you. We'll avenge you, without fail!!"
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.19",
+   "en": "You all go back to base and focus on recovering."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.20",
+   "en": "Understood, thank you. We'll avenge you, without fail!!"
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.21",
+   "en": "You all go back to base and focus on recovering."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.22",
+   "en": "Understood! We'll avenge you, I promise!!"
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.23",
+   "en": "Brothers, please go back to base and focus on recovering!"
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.24",
+   "en": "I won't let this slide!! I'll pay them back for you, count on it!!"
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.25",
+   "en": "You guys head back to base and focus on recovering!"
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.26",
+   "en": "Yes... We'll do just that."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.27",
+   "en": "You'd better hurry to the next venue. There isn't much time left."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.28",
+   "en": "Jack, Ace, Accel and Birth headed back to base."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.41",
+   "en": "This is District B... This is where Jack's team..."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.42",
+   "en": "Everyone, I'm sorry... We, of all people... lost to the Alien Alliance..."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.43",
+   "en": "To the Alien Alliance... we lost..."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.44",
+   "en": "Jack...! ...Don't worry about it. They're tough, right?"
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.45",
+   "en": "Yeah..."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.46",
+   "en": "Hmph! Never mind that. The problem is that we're their next opponent."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.47",
+   "en": "What...!? Then you'd better watch out. They had Black King hidden away as an ambush."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.48",
+   "en": "They had Black King hidden away as an ambush."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.49",
+   "en": "What?"
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.50",
+   "en": "We had the upper hand at first, too. But then, out of nowhere, one who was never even entered..."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.51",
+   "en": "Black King appeared, and the tide turned against us in one stroke..."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.52",
+   "en": "Tch! What a dirty trick...!!"
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.53",
+   "en": "Understood! We'll avenge you, I promise!!"
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.54",
+   "en": "Everyone, please go back to base and focus on recovering."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.55",
+   "en": "Got it, thanks. We'll settle the score for you, count on it!!"
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.56",
+   "en": "You guys go back to base and focus on getting better."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.57",
+   "en": "Allll right! Got it!! I'll get payback for you myself!!"
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.58",
+   "en": "You lot just stay at base and focus on healing up!!"
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.59",
+   "en": "Unforgivable!! I will avenge you without fail!"
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.60",
+   "en": "You all should head back to base and focus on recovering."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.61",
+   "en": "...Unforgivable!! I swear I'll avenge this!"
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.62",
+   "en": "You all should head back to base and focus on recovering."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.63",
+   "en": "Got it. I'll avenge you, count on it."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.64",
+   "en": "You all should head back to base and focus on recovering."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.65",
+   "en": "Understood... I'll avenge this, I swear!"
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.66",
+   "en": "Everyone, please go back to base and focus on recovering."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.67",
+   "en": "Understood... Whatever happens, the target will be annihilated."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.68",
+   "en": "You should go back to base and focus on recovering."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.69",
+   "en": "Roger. 00, eliminating the target."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.70",
+   "en": "You all, return to base and focus on recovering."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.71",
+   "en": "Yes... We'll do just that."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.72",
+   "en": "You should hurry to the next venue too. There's not much time left."
+  },
+  {
+   "key": "MainEventMess0431.mbb#0.1",
+   "en": "...What the hell is this place!"
+  },
+  {
+   "key": "MainEventMess0434.mbb#0.1",
+   "en": "Dada's corpse has been left lying here! ...But its special weapon was gone."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.1",
+   "en": "...That's odd. This is supposed to be District C, isn't it?"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.2",
+   "en": "......"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.3",
+   "en": "Ankh and the others waited there for a while, but their opponent never showed up."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.4",
+   "en": "There was no sign of the beam ropes being set up, either."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.5",
+   "en": "Then, suddenly, something appeared on the monitor."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.6",
+   "en": "Notice: Match Venue Change\nVenue changed due to a beam rope malfunction."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.7",
+   "en": "Venue: Floor 3 NE - Ultra Tower"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.8",
+   "en": "The Ultra Tower...!?"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.9",
+   "en": "The Ultra Tower...!?"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.10",
+   "en": "The Ultra Tower...!?"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.11",
+   "en": "The Ultra Tower...!?"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.12",
+   "en": "What's wrong?"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.13",
+   "en": "No... It shouldn't be easy to get inside the tower, though..."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.14",
+   "en": "Well... in a situation like this, its defense system probably isn't working either."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.15",
+   "en": "No... It shouldn't be easy to get inside the tower, though..."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.16",
+   "en": "Well... in a situation like this, its defense system probably isn't working either."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.17",
+   "en": "Oh, no... It's just that the tower shouldn't be easy to get into..."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.18",
+   "en": "Well... in a situation like this, I don't think the defense system is working either."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.19",
+   "en": "No... It shouldn't be easy to get inside the tower, though..."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.20",
+   "en": "Well... in a situation like this, the defense system's probably down too, huh."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.21",
+   "en": "I see. Whoa... never mind that, we're out of time."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.22",
+   "en": "The time remaining was displayed in the corner of the monitor."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.23",
+   "en": "Time Remaining: 1:59:59"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.24",
+   "en": "...We're down to less than two hours."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.25",
+   "en": "For now, let's follow the instructions and head for the Ultra Tower."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0430.mbb#0.8",
+   "note": "Leader variants from 0430.bla Pt_Chara_Check: Ultra block #0.7-0.10 and #0.18-0.25 = Ultraman, Seven, Mebius, Zero; Ankh block #0.53-0.70 pairs = OOO, Shotaro, Momotaros, RX, Rider 1, Nu, Zeta, Wing Zero, 00 (confirmed by voice). #0.8 = Seven, same Japanese as Ultraman's #0.7 (story_075)."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.11",
+   "note": "Ankh: the Alien Alliance's next opponent is Ankh's team (confirmed by #0.46 and the match board in 0429)."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.13",
+   "note": "#0.13/#0.48 duplicate the second half of #0.12/#0.47 and are not called by the script; given the same English as that half."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.15",
+   "note": "Sentence runs across #0.15-0.16 (and #0.50-0.51); cut at the matching point. Black King not in glossary (standard English name)."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.18",
+   "note": "Avenge-lines: subject restored as 'we' where unstated and the leader speaks for the team; 'I' where the speaker stresses himself (Zero, Momotaros) or speaks personally (RX, Rider 1, Nu, Zeta). Jack is alive; 'avenge' kept for the source idiom (repay the defeat)."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.41",
+   "note": "District B/C follows story_068's 'City District A' board wording; trailing sentence kept unfinished as in source."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.43",
+   "note": "#0.43-0.45 are not called by the script (unused leftovers). #0.44 has no speaker; read as a casual party leader consoling Jack, #0.45 as Jack's reply."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.69",
+   "note": "Setsuna's catchphrase as established elsewhere ('00, eliminating the target')."
+  },
+  {
+   "key": "MainEventMess0434.mbb#0.1",
+   "note": "Narration; Dada g=n so 'its'. Dedicated weapon rendered 'special weapon'."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.4",
+   "note": "'Beam rope' = the energy ring ropes marking a match area; no earlier English precedent found."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.6",
+   "note": "Deliberate two-line notice layout (title + body) kept with a line break."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.7",
+   "note": "Match-board format as in story_068: 'Venue: Floor N <dir> - <place>'. Ultra Tower not in glossary."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.8",
+   "note": "0435.bla chain: #0.8-0.11 and pairs #0.13-0.20 = Ultraman, Seven, Mebius, Zero. #0.24-0.25 labelled ?party (any leader), voiced neutrally."
+  }
+ ],
+ "report": "80/80 rows. Leader-variant orders from 0430/0435.bla Pt_Chara_Check chains. Uncertain: 0430 #0.43-0.45 unused rows, #0.44 speaker inferred; 'we' vs 'I' on avenge-lines chosen per voice. Not in glossary: Black King, Ultra Tower, beam rope, District B/C (board style from story_068)."
+}

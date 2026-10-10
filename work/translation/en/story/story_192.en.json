@@ -1,0 +1,394 @@
+{
+ "slice": "story_192",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.15",
+   "en": "...Hey! All that damage we took is gone like it never happened!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.16",
+   "en": "...Hm? ...Come to think of it, my body suddenly feels lighter, too."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.17",
+   "en": "Ah... Me too! My wounds healed before I even noticed!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.18",
+   "en": "I don't know why, but since coming here, everyone's strength recovered in no time."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.19",
+   "en": "Yeah. This place is clearly different from where we just were."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.20",
+   "en": "That said, it doesn't seem to be our own world either..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.21",
+   "en": "But there's no sign of any enemies here at all!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.22",
+   "en": "Now that you mention it, you're right!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.23",
+   "en": "All right, let's split up and investigate this place."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.24",
+   "en": "The three of them decided to look around this place..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.26",
+   "en": "Ultraman Zero and the others had reached a place made up of several rooms and facilities."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.27",
+   "en": "Lucky for us there's a medical room here. We can get treated there."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.28",
+   "en": "Thanks to it, I was able to heal my wounds."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.29",
+   "en": "That's a \"medical capsule.\""
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.30",
+   "en": "It's technology from my world... Seems this place has the same technology."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.31",
+   "en": "Is that so? With that machine, we can heal our wounds safely."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.32",
+   "en": "Oh, everyone."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.33",
+   "en": "By the way, the room over there had lots of items that look useful in battle."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.34",
+   "en": "That's a big help."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.35",
+   "en": "...I don't know why, but as long as we're here, our lives don't seem to be in danger."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.36",
+   "en": "Hey! There's another hole open over there."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.37",
+   "en": "Really!?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.38",
+   "en": "Yeah. If we use it, we should be able to get somewhere else."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.39",
+   "en": "Somewhere else...? Where does it lead?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.40",
+   "en": "I don't know. Not until we go and see."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.41",
+   "en": "Everyone... We have a mountain of things to look into."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.42",
+   "en": "What this world is... and what we have to do to get back to our own worlds..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.43",
+   "en": "For now, let's make this place our \"base,\" then go past the hole Zero found and explore every inch."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.44",
+   "en": "Yeah, you're right."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.45",
+   "en": "I agree."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.46",
+   "en": "All right, then let's get ready to head out."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0996.mbb#0.1",
+   "en": "Would you like to view the tutorial on Random Cubes?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0996.mbb#0.2",
+   "en": "You can view tutorials at any time from the Camp Menu."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0997.mbb#0.1",
+   "en": "Would you like to view the tutorial on Equipment Upgrades?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0997.mbb#0.2",
+   "en": "You can view tutorials at any time from the Camp Menu."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.1",
+   "en": "Would you like to view the tutorial on Idle Actions?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.2",
+   "en": "You can view tutorials at any time from the Camp Menu."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.3",
+   "en": "You can view this same tutorial at any time from the Camp Menu."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.5",
+   "en": "\"Parallel universes\"... Ours is not the only universe in existence."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.6",
+   "en": "Many universes exist, and each one has its own, very similar \"Earth.\""
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.8",
+   "en": "Those worlds were never meant to cross paths. Not until that \"Anomaly\" occurred..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.9",
+   "en": "The \"Anomaly\" began suddenly, at nearly the same moment on every universe's Earth."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.10",
+   "en": "Cracks ran across the sky, and a vortex of darkness assailed the Earth."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.11",
+   "en": "Everything was swept up and sucked into the cracks."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.12",
+   "en": "Civilizations, living things, even minds and memories... Every last thing..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.13",
+   "en": "It all fused together in a \"hyperspace\" outside every universe, giving birth to a new \"world\" there."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.14",
+   "en": "A world filled with malice and ruled by fear..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.15",
+   "en": "But amid that chaos, there were those who shone like brilliant stars."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.16",
+   "en": "Yes, the heroes!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.17",
+   "en": "Gathered as if guided by fate, they have now begun to act! To save the Earth!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.21",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.22",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.23",
+   "en": "...Looks like someone's arrived."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.24",
+   "en": "That makes three now..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.25",
+   "en": "...This one's a different type from us."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.26",
+   "en": "Are you all right!? Hang in there!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.27",
+   "en": "...Did the shock of getting pulled in knock them out?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.28",
+   "en": "...Ugh."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.29",
+   "en": "Looks like they've just passed out."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.30",
+   "en": "Hey! Can you hear us?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.31",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.32",
+   "en": "All right, they'll be fine now!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.33",
+   "en": "...Hm?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.34",
+   "en": "Looks like you're awake."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.35",
+   "en": "...What?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.36",
+   "en": "What... is this place...!?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.37",
+   "en": "Wh-what are you guys!?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.38",
+   "en": "Calm down. It looks like you're a \"hero\" just like us."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.39",
+   "en": "We're heroes too, same as you."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.40",
+   "en": "Heroes...? I don't know any of you!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.42",
+   "en": "That goes both ways."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.43",
+   "en": "Seems each of us got pulled in here from a different world, too."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.44",
+   "en": "Same goes for you, right?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.45",
+   "en": "...Pulled in?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.46",
+   "en": "Ah... yeah, that's right... I remember now..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.47",
+   "en": "I was training on Planet K76..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.48",
+   "en": "Suddenly, a pitch-black hole opened in the sky, and a violent storm kicked up."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.49",
+   "en": "I took off to find out what was causing it, but the wind kept getting stronger..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.50",
+   "en": "...and it looks like I got sucked right in..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.51",
+   "en": "I see... Just like what happened to us."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.15",
+   "note": "Event/Base/Command/0985.bla checked: MessWinSet TextIdOffset+N plays entry N+1 (+0 -> 0.1 OOO, +22 -> 0.23 Nu Gundam, +23 -> 0.24 narration; entry 0.25 is empty, +25 -> 0.26 narration). Chara 5 = OOO, 6 = Nu Gundam, 15 = Zero. All slice labels match the script."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.15",
+   "note": "Rows 0.15-0.22 are never played (script jumps from +13 to +22). They copy MainEventMess0991 #0.28-0.35 (story_179); that English is reused. Inferred speakers as in story_179: 0.15 Zero, 0.16 Nu Gundam, 0.17 OOO, 0.18 Nu Gundam, 0.19 Zero, 0.20 Nu Gundam, 0.21 OOO, 0.22 Zero."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.16",
+   "note": "Differs from the 0991 copy only by an added 'come to think of it'; added to the reused line."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.29",
+   "note": "Rows 0.29-0.32 are never played (script jumps +27 -> +32). Inferred: 0.29-0.30 Nu Gundam (tech from his world), 0.31-0.32 OOO (polite; 0.32 'Oh, everyone' leads into OOO's 0.33)."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.29",
+   "note": "'medical capsule' kept in the source's quotes; the glossary's 'regeneration capsule' is a different source word. Not in glossary."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.42",
+   "note": "'our own worlds' (plural) since the three come from different worlds; source has no possessor."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.43",
+   "note": "'base' keeps the source's quotation marks as in story_002 #0.97."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0996.mbb#0.1",
+   "note": "Tutorial prompts follow story_019 wording ('Would you like to view the tutorial on X?'); Random Cube, Equipment Upgrade and Idle Action follow glossary/system UI. The 0996 (Hangar) and 0997 (Shop) scripts call Tutorial_08/06 directly and use no MessWinSet."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.1",
+   "note": "Command/0998 and Top/0998 scripts only play +0 (YesNo -> 0.1) and +2 (OkWin -> 0.3). Rows 0.5-0.51 (and 0.2) are an unused early draft of the opening (story_001 MainEventMess01); no speakers in the script."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.5",
+   "note": "Unused opening draft: identical or near-identical lines reuse story_001 English (0.5, 0.6, 0.12, and 0.25-0.51 where they match)."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.13",
+   "note": "'hyperspace' for the source's quoted 'super-space' term; not in glossary (story_001's version said 'dimensional space' for a different word)."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.16",
+   "note": "Source ends with a trailing line break; dropped."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.23",
+   "note": "Speakers inferred from voice (unused rows): 0.23 Nu Gundam or W, 0.24 OOO (polite), 0.25 Nu Gundam/W, 0.26 OOO, 0.27 W, 0.28 Zero, 0.29 OOO, 0.30 W, 0.32 Nu Gundam, 0.33-0.37 Zero, 0.38 Nu Gundam (kimi, calm), 0.39 W, 0.40 Zero, 0.42-0.43 W/Nu, 0.44 OOO, 0.45-0.50 Zero, 0.51 OOO/W."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.24",
+   "note": "Source says the newcomer is the 'third person' (story_001's version said fourth); kept 'three' even though W appears later in this draft."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.27",
+   "note": "Unconscious newcomer's identity unknown to the speakers; 'them' as in story_001."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.50",
+   "note": "Continues 0.49's trailing clause; lowercase start marks the continuation."
+  }
+ ],
+ "report": "80/80 rows. 0985 speakers verified against Event/Base/Command/0985.bla (N+1 mapping); slice labels correct. Unplayed rows: 0985 #0.15-0.22, #0.29-0.32 and the 0998 opening draft (#0.5-0.51); speakers inferred from voice. Copies reuse story_179 / story_001 English. Not in glossary: 'medical capsule', 'hyperspace', Planet K76 (as in story_001)."
+}

@@ -1,0 +1,346 @@
+{
+ "slice": "system_046",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Common/CharacterName.mbb#3.87",
+   "en": "Gundam Throne Drei"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.88",
+   "en": "Antlar"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.89",
+   "en": "GN-X"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.90",
+   "en": "Metaheavy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.91",
+   "en": "Mezool"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.92",
+   "en": "Arche Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.93",
+   "en": "The O"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.94",
+   "en": "Bound Doc"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.95",
+   "en": "Tieren Taozi"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.96",
+   "en": "Mercurius"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.97",
+   "en": "Vayeate"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.98",
+   "en": "Crazygon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.104",
+   "en": "Alien Zarab"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.105",
+   "en": "Fake Ultraman"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.106",
+   "en": "Skull"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.107",
+   "en": "Dummy Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.108",
+   "en": "Ikadevil"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.109",
+   "en": "Giant Yapool"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.110",
+   "en": "Bee Woman"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.111",
+   "en": "Gebacondor"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.112",
+   "en": "Modified Bemstar"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.113",
+   "en": "Sabotendar (Modified)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.114",
+   "en": "Verokron (Modified)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.115",
+   "en": "Gomora"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.116",
+   "en": "Gadiva"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.117",
+   "en": "Zanjioh"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.118",
+   "en": "Gundam Heaven's Sword"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.119",
+   "en": "Vakishim"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.120",
+   "en": "Death Army"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.121",
+   "en": "Red King"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.122",
+   "en": "Neo-Organism"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.123",
+   "en": "Doras"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.124",
+   "en": "Gaina Ninpo"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.125",
+   "en": "Gamel"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.126",
+   "en": "Giant Greeed (Berserk)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.127",
+   "en": "Ace"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.128",
+   "en": "Jack"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.129",
+   "en": "Zoffy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.130",
+   "en": "Ace Killer"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.131",
+   "en": "Alien Guts"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.132",
+   "en": "Mebius Killer"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.133",
+   "en": "Ultimate Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.134",
+   "en": "Jamila"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.135",
+   "en": "Revived Todogiller"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.136",
+   "en": "Revived Spider Man"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.137",
+   "en": "Revived Bat Man"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.138",
+   "en": "Ultraman?"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.139",
+   "en": "Armored Samurai Kaijin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.142",
+   "en": "Ultraman Belial"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.143",
+   "en": "Master Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.144",
+   "en": "Granzairas"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.145",
+   "en": "Over Flag"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.146",
+   "en": "Jashrine"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.147",
+   "en": "Zamsha"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.148",
+   "en": "Alien Valky"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.149",
+   "en": "Mururoa"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.150",
+   "en": "Alien Nackle"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.151",
+   "en": "Alien Tempera"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.152",
+   "en": "Black King"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.153",
+   "en": "Grand Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.154",
+   "en": "Walter Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.155",
+   "en": "Pandon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.156",
+   "en": "Violence Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.157",
+   "en": "Alien Reflect"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.158",
+   "en": "Susanowo"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.159",
+   "en": "Kabuto Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.160",
+   "en": "Stag Beetle Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.161",
+   "en": "Zetton"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.162",
+   "en": "Kamen Rider Gaoh"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.163",
+   "en": "Shiomaneking"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.167",
+   "en": "Birdon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.168",
+   "en": "Eleking"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.169",
+   "en": "Astromons"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.170",
+   "en": "Garagaranda"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.171",
+   "en": "King Pandon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.172",
+   "en": "Mole Imagin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.173",
+   "en": "Taboo Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.174",
+   "en": "Lion-Jellyfish Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.175",
+   "en": "Hiru-Chameleon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.176",
+   "en": "Terror Dopant"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Common/CharacterName.mbb#3.134",
+   "note": "Romanized Jamila; matches earlier tables, not in glossary."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.169",
+   "note": "Astromons; not in glossary, matches earlier tables."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.160",
+   "note": "Stag Beetle Yummy; matches system_044."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.97",
+   "note": "Vayeate; not in glossary, matches earlier tables."
+  }
+ ],
+ "report": "Enemy-name table. Glossary names used verbatim. New terms not in glossary: Jamila, Astromons, Vayeate, Mercurius, Stag Beetle Yummy, Sabotendar/Verokron (Modified) from glossary terms."
+}

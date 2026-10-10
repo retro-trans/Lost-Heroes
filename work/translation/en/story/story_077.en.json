@@ -1,0 +1,390 @@
+{
+ "slice": "story_077",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0435.mbb#0.26",
+   "en": "...We've got less than two hours left."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.27",
+   "en": "For now, let's follow the instructions and head to Ultra Tower."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.28",
+   "en": "...We have less than two hours left now."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.29",
+   "en": "For now, let's do as the instructions say and head to Ultra Tower."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.30",
+   "en": "...We've got less than two hours left."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.31",
+   "en": "For now, let's follow the instructions and head to Ultra Tower."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.32",
+   "en": "Ultra Tower is on Floor 3, huh..."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.33",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.36",
+   "en": "Ultra Tower...? A change of venue, huh. Smells fishy..."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.37",
+   "en": "Ankh, we're running out of time, you know?"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.38",
+   "en": "We're runnin' outta time, y'know?"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.39",
+   "en": "Hey! We're runnin' outta time!"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.40",
+   "en": "Not good, we're running out of time!"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.41",
+   "en": "Not good, we're running out of time!"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.42",
+   "en": "Not good, we're running out of time!"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.43",
+   "en": "Not good, we're running out of time!"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.44",
+   "en": "...We're running out of time."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.45",
+   "en": "...We're running out of time."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.46",
+   "en": "The time remaining was displayed in the corner of the monitor."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.47",
+   "en": "Time Left: 1:59:59"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.48",
+   "en": "...We've got less than two hours left?"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.49",
+   "en": "For now, let's follow the instructions and head to Ultra Tower!"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.50",
+   "en": "For now, let's follow the instructions and head to Ultra Tower."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.51",
+   "en": "Whatever, let's just get to Ultra Tower!! We can talk after that!!"
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.52",
+   "en": "For now, let's follow the instructions and head to Ultra Tower."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.53",
+   "en": "For now, let's follow the instructions and head to Ultra Tower."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.54",
+   "en": "For now, let's follow the instructions and head to Ultra Tower."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.55",
+   "en": "For now, let's follow the instructions and head to Ultra Tower."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.56",
+   "en": "For now, let's follow the instructions and head to Ultra Tower."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.57",
+   "en": "For now, let's follow the instructions and head to Ultra Tower."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.58",
+   "en": "Ultra Tower is on Floor 3."
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.1",
+   "en": "Haaaah... Haaaah..."
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.2",
+   "en": "...!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.3",
+   "en": "...!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.4",
+   "en": "...!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.5",
+   "en": "...!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.6",
+   "en": "...!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.7",
+   "en": "...!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.8",
+   "en": "...!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.9",
+   "en": "...!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.10",
+   "en": "...!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.11",
+   "en": "...!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.12",
+   "en": "...!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.13",
+   "en": "...!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.14",
+   "en": "...!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.15",
+   "en": "Kabuto Yummy...!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.16",
+   "en": "Gwaaah...!! ...Stronger... I have to get even stronger...!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.20",
+   "en": "Ooh! It's growing up nicely!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.21",
+   "en": "Uva...!! So you entered this thing too!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.22",
+   "en": "I've ended up needing a whole lot of Cell Medals, that's why."
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.23",
+   "en": "...You... don't tell me, Mezool and Gamel..."
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.24",
+   "en": "That's right! Those two got played by Kazari."
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.25",
+   "en": "I'm gonna revive them and make them my allies."
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.26",
+   "en": "Hmph... Still squabbling over medals, same as always?"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.27",
+   "en": "What'd you say!? You're no different, are you!?"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.28",
+   "en": "Yeah... but I've got no intention of staying in a world like this forever!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.29",
+   "en": "Ankh...!?"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.30",
+   "en": "Ankh...!?"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.31",
+   "en": "Ankh...!?"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.32",
+   "en": "Ankh...!?"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.33",
+   "en": "Ankh...!?"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.34",
+   "en": "Ankh...!?"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.35",
+   "en": "Ankh...!?"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.36",
+   "en": "Ankh...!?"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.37",
+   "en": "Ankh...!?"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.38",
+   "en": "Ankh...!?"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.39",
+   "en": "Ankh...!?"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.40",
+   "en": "Ankh...!?"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.41",
+   "en": "Ankh...!?"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.42",
+   "en": "...Huh? Don't get the wrong idea. My priorities just changed, that's all."
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.43",
+   "en": "Hmph!! Well, I like this world...!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.44",
+   "en": "This Cube especially is overflowing with the desire for strength!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.45",
+   "en": "The desire for strength here is off the charts, I tell ya!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.46",
+   "en": "The desire for strength here is off the charts!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.47",
+   "en": "It's the perfect desire for me!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.48",
+   "en": "You...!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.49",
+   "en": "Whoa, I'm not looking for a fight right now. Once I reach the finals, there'll be even greater desires!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.50",
+   "en": "Uva...!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.51",
+   "en": "Ankh!!"
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.52",
+   "en": "Ankh!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0435.mbb#0.26",
+   "note": "#0.24-0.31 (0.24/0.25 in story_076) are the Ultra-leader pairs; 0435.bla checks ids 11,12,14,15 = Ultraman, Seven, Mebius, Zero, so #0.26/27 Seven, #0.28/29 Mebius (polite), #0.30/31 Zero. Zero's pair is identical to Ultraman's in the source, so identical English. Dropped subject restored as 'we' (the party)."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.32",
+   "note": "Dai-3-sou rendered 'Floor 3' per the 'Floor 1' precedent (story_070/076 venue boards). Ultra Tower is not in the glossary."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.37",
+   "note": "#0.37-0.45 non-Ultra leader variants. 0435.bla check order 5,4,2,1,3,6,7,9,10 = OOO, W, Black RX, Rider 1, Den-O, Nu, Zeta, Wing Zero, 00. #0.37 OOO (addresses Ankh), #0.38 W (casual), #0.44-0.45 Wing Zero/00 (curt). The rough slot 3 (#0.39, and #0.51) reads like Momotaros but falls on Black RX by that order; voiced by wording (rough) either way. Possible script/order mismatch, as in story_066."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.47",
+   "note": "On-screen timer; full-width spacing replaced by 'Time Left: '."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.48",
+   "note": "Ankh repeating the leader's 'under two hours' line as a question in the non-Ultra branch; subject 'we' restored."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.49",
+   "note": "#0.49-0.57 same non-Ultra order: #0.49 OOO (adds '!'), #0.51 rough slot (RX per check order, Momotaros-like wording). Identical Japanese -> identical English."
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.2",
+   "note": "#0.2-0.14 thirteen identical leader gasps. 0436.bla check order 5,4,3,15,14,6,7,2,1,11,12,9,10 = OOO, W, Den-O, Zero, Mebius, Nu, Zeta, RX, Rider 1, Ultraman, Seven, Wing Zero, 00 (confirmed: slot 5 Mebius adds -san at #0.33)."
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.20",
+   "note": "Uva admiring the Kabuto Yummy (it grows by feeding on desire); 'it' = the Yummy (g=n)."
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.23",
+   "note": "Ankh deliberately trails off: he guesses Uva means to revive Mezool and Gamel with the Cell Medals; Uva confirms next row."
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.24",
+   "note": "'Hamerareta' = were trapped/set up; rendered 'got played by Kazari'."
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.26",
+   "note": "'Toriaikko' is a childish word for a scramble/tug-of-war; Ankh is mocking, rendered 'squabbling over medals'."
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.33",
+   "note": "Mebius slot uses Ankh-san; honorific dropped per style, so same English as the other slots."
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.44",
+   "note": "Source has a typo (a kanji resembling 'afureru' = overflowing); read as 'overflowing'."
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.45",
+   "note": "#0.45/#0.46 are not shown by 0436.bla (script goes #0.44 -> #0.47); unused alternates of Uva's line, voiced as Uva."
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.49",
+   "note": "'If (someone) goes to the finals' has no subject; Uva is a tournament entrant chasing desires, so 'I' restored. Could also be read as 'we'/'you'."
+  }
+ ],
+ "report": "80/80 rows. Leader variants mapped from 0435.bla/0436.bla Pt_Chara_Check order; 0435 rough slot 3 (#0.39, #0.51) falls on Black RX by check order but reads like Momotaros (voiced rough). 0436 #0.45/#0.46 unused alternates. #0.49 subject 'I' restored (inferred). Not in glossary: Ultra Tower; 'Floor 3' follows 'Floor 1' precedent."
+}

@@ -1,0 +1,394 @@
+{
+ "slice": "story_070",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0407.mbb#0.1",
+   "en": "Abiiih!! Abi-abi!!"
+  },
+  {
+   "key": "MainEventMess0407.mbb#0.2",
+   "en": "You lot are entering too? I'd love to kill you all right here and now, but..."
+  },
+  {
+   "key": "MainEventMess0407.mbb#0.3",
+   "en": "we'll follow the tournament rules and settle this in a match."
+  },
+  {
+   "key": "MainEventMess0408.mbb#0.1",
+   "en": "Kikikikiki!!"
+  },
+  {
+   "key": "MainEventMess0408.mbb#0.2",
+   "en": "Come to think of it, a while back some Kamen Rider I'd never seen before was running wild..."
+  },
+  {
+   "key": "MainEventMess0408.mbb#0.3",
+   "en": "Isn't that one entered in the tournament?"
+  },
+  {
+   "key": "MainEventMess0408.mbb#0.4",
+   "en": "Who are you talking about?"
+  },
+  {
+   "key": "MainEventMess0408.mbb#0.5",
+   "en": "You don't know... Hmph! Seems they're no friend of yours, then."
+  },
+  {
+   "key": "MainEventMess0409.mbb#0.1",
+   "en": "Who's there? Barging in without even knocking..."
+  },
+  {
+   "key": "MainEventMess0409.mbb#0.2",
+   "en": "This is the waiting room of our team, the Alien Alliance!"
+  },
+  {
+   "key": "MainEventMess0409.mbb#0.3",
+   "en": "You're the Hero Team, aren't you?"
+  },
+  {
+   "key": "MainEventMess0409.mbb#0.4",
+   "en": "Were you eavesdropping on our strategy meeting!?"
+  },
+  {
+   "key": "MainEventMess0409.mbb#0.5",
+   "en": "If you're going to spy on us, at least do it without getting caught!!"
+  },
+  {
+   "key": "MainEventMess0410.mbb#0.1",
+   "en": "Once this tournament's over, I'm gonna propose to Seamons."
+  },
+  {
+   "key": "MainEventMess0410.mbb#0.2",
+   "en": "If I can, I'll win it... but even if I don't, if I just do as well as I possibly can..."
+  },
+  {
+   "key": "MainEventMess0410.mbb#0.3",
+   "en": "I'm sure she'll finally look my way."
+  },
+  {
+   "key": "MainEventMess0411.mbb#0.1",
+   "en": "Didja know? Whoever wins gets to be ruler of this Cube."
+  },
+  {
+   "key": "MainEventMess0412.mbb#0.1",
+   "en": "I'll win this tournament and make my name thunder across the universe..."
+  },
+  {
+   "key": "MainEventMess0413.mbb#0.1",
+   "en": "{8074}! The entrance to the Plasma Spark Tower is just through here."
+  },
+  {
+   "key": "MainEventMess0413.mbb#0.2",
+   "en": "The trouble is, it's been completely sealed off by ice..."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.1",
+   "en": "...So this is it? The entrance to that Plasma-whatever?"
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.2",
+   "en": "Sure enough... It's frozen solid."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.3",
+   "en": "Hey, {8074}. Can't you smash it somehow?"
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.5",
+   "en": "{8074} and the others tried every means they had..."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.6",
+   "en": "but the wall of solid ice was thicker than they'd imagined, and they couldn't break through."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.8",
+   "en": "Tch, no good..."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.9",
+   "en": "How did it go?"
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.10",
+   "en": "No good, Jack... It won't budge an inch."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.11",
+   "en": "Brother Jack, it's no use... It won't budge."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.12",
+   "en": "Jack, it's no good... It won't budge."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.13",
+   "en": "Jack, it's no good... It won't budge."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.14",
+   "en": "Jack, it's no use... It just won't budge..."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.15",
+   "en": "Jack, it's no good... It won't budge."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.16",
+   "en": "Jack, it's no good... It won't budge."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.17",
+   "en": "Jack, it's no good... It won't budge."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.18",
+   "en": "Gaaaaah!! No good, no good! The damn thing won't budge!!"
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.19",
+   "en": "Jack... I'm afraid we just don't have the power for this."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.20",
+   "en": "It's no good, it won't budge...!!"
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.21",
+   "en": "Jack... I'm afraid it's beyond us as we are now."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.22",
+   "en": "Jack... I'm afraid it's beyond us as we are now."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.23",
+   "en": "So it's as I thought... We tried as well, but we couldn't even make a dent in it."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.24",
+   "en": "If we can't get through here, then we'll have to do as Brother Zoffy ordered and..."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.26",
+   "en": "Guess so. We're joining the game too."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.27",
+   "en": "You're right. We'll take part in the game too."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.28",
+   "en": "Right. Then we'll take part in the game as well."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.29",
+   "en": "Right. Then we'll take part in the game as well."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.30",
+   "en": "Yes, we'll take part in the game too."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.31",
+   "en": "Yeah, we're joining the game too."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.32",
+   "en": "Yes, let's join the game too!"
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.33",
+   "en": "Indeed. We shall take part in the game as well."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.34",
+   "en": "Yeah! We're jumping into this game too!!"
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.35",
+   "en": "Right. Then we'll take part in the game as well."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.36",
+   "en": "Yes, we'll join the game too."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.37",
+   "en": "Understood. We're entering the game too."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.38",
+   "en": "Understood. We're entering the game too."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.39",
+   "en": "All right. We're entered separately, but if anything happens, let's work together."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.40",
+   "en": "\"Attention, contestants! Attention, contestants!\""
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.41",
+   "en": "It's an announcement over the PA...!"
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.42",
+   "en": "\"The opening ceremony will now begin. All contestants, assemble in the arena.\""
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.43",
+   "en": "Everyone, let's hurry! Good luck out there!"
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.45",
+   "en": "Jack's team and the Hero Team headed for the arena where the opening ceremony was being held."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.48",
+   "en": "Assembled warriors, I thank you for your patience."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.49",
+   "en": "We shall now begin the opening ceremony of the \"Regis Fight\"!"
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.50",
+   "en": "\"Woooooooaaah!!\""
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.51",
+   "en": "I am Master Gundam, who shall preside over this tournament!"
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.52",
+   "en": "\"Woooooooaaah!!\""
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.53",
+   "en": "Now then, first allow me to explain the outline of this tournament!"
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.54",
+   "en": "To begin with, its purpose..."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.55",
+   "en": "At present, this Cube... the \"Ultra Cube\"... has no \"master.\""
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.56",
+   "en": "So the Fight shall decide who is truly mightiest, and grant them full authority over this Cube."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.57",
+   "en": "In other words, the victor shall be recognized as king of this Cube!"
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.58",
+   "en": "\"Woooooooooooooaaaaaah!!!\""
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.59",
+   "en": "In this tournament, power is everything! Hero or kaijin, friend or foe, it matters not..."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.60",
+   "en": "Those who fight, and fight, and fight on to the very end, the last ones left standing..."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.61",
+   "en": "shall claim the right to rule as king of this Cube!!"
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.62",
+   "en": "\"Woooooooooooooaaaaaah!!!\""
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.63",
+   "en": "Next, the tournament format. It consists of two stages: the preliminaries and the final tournament."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.64",
+   "en": "First, the preliminaries, known as \"Survival Eleven\"! A survival race to decide the 8 teams in the finals."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.65",
+   "en": "Those who reach the Plasma Spark Tower, the final tournament venue, within 11 hours..."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.66",
+   "en": "shall earn the right to compete in the final tournament!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0407.mbb#0.1",
+   "note": "Shiomaneking's cry has no precedent in finished slices; romanized as 'Abiiih!! Abi-abi!!'. story_073 (0425 #0.10) repeats it; keep consistent."
+  },
+  {
+   "key": "MainEventMess0407.mbb#0.2",
+   "note": "One sentence split across #0.2/#0.3; English cut at the same point."
+  },
+  {
+   "key": "MainEventMess0408.mbb#0.3",
+   "note": "The unfamiliar Kamen Rider is unidentified; gender-neutral 'that one' / 'they' (#0.5)."
+  },
+  {
+   "key": "MainEventMess0409.mbb#0.2",
+   "note": "'Uchuujin Rengou' = Alien Alliance, matching story_057."
+  },
+  {
+   "key": "MainEventMess0410.mbb#0.3",
+   "note": "'Furimuite kureru' rendered 'look my way' (return his feelings); Seamons is female per glossary."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.5",
+   "note": "Narration sentence split across #0.5/#0.6; English cut at the same point. {8074} = party leader name."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.9",
+   "note": "Jack asks how the party's attempt on the ice went."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.10",
+   "note": "#0.10-0.22 and #0.26-0.38 are 13 leader variants. 0414.bla leader chain Pt_Chara_Check 15,14,12,11,5,4,2,1,3,6,7,9,10 = Zero, Mebius, Seven, Ultraman, OOO, W, RX, Rider 1, Den-O (Momotaros), Nu, Zeta, Wing Zero, 00; script default index +12 = 00 (last). Voices confirm: Mebius 'Jack nii-san' polite, OOO 'Jack-san' polite, Momotaros rough #0.18/#0.34, Rider 1 uses 'watashitachi' #0.33."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.12",
+   "note": "Identical source for Seven, Ultraman, W, RX, Rider 1 (#0.12,13,15,16,17): identical English. Same for Wing Zero/00 (#0.21/#0.22)."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.24",
+   "note": "Jack deliberately trails off (Zoffy's order: join the game if the tower route is blocked); the leader completes the thought next."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.26",
+   "note": "'Game' kept (Belial's 'game' from story_069). Seven, Ultraman, Nu (#0.28/#0.29/#0.35) identical source, identical English; Wing Zero/00 (#0.37/#0.38) identical. Zeta #0.36 polite."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.40",
+   "note": "Unseen announcer (speaker ???); source marks the broadcast with double corner brackets, rendered as double quotes (precedent: earlier slices). Crowd roars (#0.50 etc.) likewise."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.49",
+   "note": "'Regis Fight' and 'Survival Eleven' (#0.64) are not in the glossary; rendered from the katakana. 'Plasma Spark Tower' follows the established franchise name."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.56",
+   "note": "Winner unspecified; gender-neutral 'them'."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.59",
+   "note": "Sentence runs #0.59-#0.61; English cut at the matching points. 'Kaijin' kept per glossary usage (revived kaijin)."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.65",
+   "note": "Sentence continues into #0.66; cut at the matching point."
+  }
+ ],
+ "report": "All 80 rows translated. Leader-variant order from 0414.bla Pt_Chara_Check chain (Zero first, 00 last), confirmed by voices. Terms not in glossary: Plasma Spark Tower, Regis Fight, Survival Eleven. Shiomaneking cry romanized without precedent."
+}

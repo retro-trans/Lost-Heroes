@@ -1,0 +1,8 @@
+{
+ "tpc": "Graph/Camp/UI/Camp.tpc",
+ "page": "UI_psp_CampBG_4444.tga",
+ "note": "Camp background banner: hero name strip (Kamen Rider BLACK RX). Name follows the glossary (Kamen Rider Black RX).",
+ "boxes": [
+  {"x": 48, "y": 46, "w": 151, "h": 15, "text": "Kamen Rider Black RX", "color": [255, 255, 255]}
+ ]
+}

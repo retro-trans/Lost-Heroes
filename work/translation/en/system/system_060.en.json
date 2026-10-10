@@ -1,0 +1,354 @@
+{
+ "slice": "system_060",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.71",
+   "en": "Bent Steel Beam"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.72",
+   "en": "Lightweight Frame"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.73",
+   "en": "Large Gear"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.74",
+   "en": "Engine Piston"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.75",
+   "en": "Fuel Tank"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.76",
+   "en": "Crankshaft"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.77",
+   "en": "Microchip"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.78",
+   "en": "Nanochip"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.79",
+   "en": "Electromagnet"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.80",
+   "en": "Abandoned Mine Pipe"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.81",
+   "en": "High-End Resistor"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.82",
+   "en": "Micro Magnetic Drum"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.83",
+   "en": "Particle Cable"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.84",
+   "en": "X Motor"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.85",
+   "en": "Electric Circuit"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.86",
+   "en": "Superconducting Circuit"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.87",
+   "en": "Quantum Processor"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.88",
+   "en": "Reactor"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.89",
+   "en": "Quartz"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.90",
+   "en": "Thruster Nozzle"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.91",
+   "en": "Shattered Blade"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.92",
+   "en": "Titanium Bolt"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.93",
+   "en": "Five-Inch Nail"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.94",
+   "en": "Gold Nugget"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.95",
+   "en": "Dacite"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.96",
+   "en": "Chalcopyrite"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.97",
+   "en": "Copper Ore"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.98",
+   "en": "Iron Ore"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.99",
+   "en": "Silver Ore"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.100",
+   "en": "Ice Crystal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.101",
+   "en": "Lava Rock"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.102",
+   "en": "Moonstone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.103",
+   "en": "Water-Calling Stone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.104",
+   "en": "Thunder Stone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.105",
+   "en": "Tamahagane"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.106",
+   "en": "Tin Stone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.107",
+   "en": "Fluorite"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.108",
+   "en": "Quartz Crystal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.109",
+   "en": "Black Gravel"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.110",
+   "en": "Round Gravel"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.111",
+   "en": "Hollow Sand"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.112",
+   "en": "Singing Star Sand"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.113",
+   "en": "Strength Stone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.114",
+   "en": "Mossy Rock"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.115",
+   "en": "Flat Stone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.116",
+   "en": "Feldspar"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.117",
+   "en": "Oily Clay"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.118",
+   "en": "Smelly Oil"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.119",
+   "en": "Mineral Oil"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.120",
+   "en": "Waste Oil"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.121",
+   "en": "Engine Oil"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.122",
+   "en": "Hybrid Oil"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.123",
+   "en": "Fresh Green Nectar"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.124",
+   "en": "Disinfectant Extract"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.125",
+   "en": "Insectivore Extract"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.126",
+   "en": "Fortifying Extract"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.127",
+   "en": "Cloudy Slime"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.128",
+   "en": "Strong Acid Slime"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.129",
+   "en": "Blue Algae Water"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.130",
+   "en": "Cool Water"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.131",
+   "en": "Glowing Water"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.132",
+   "en": "Mercury"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.133",
+   "en": "Mineral Water"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.134",
+   "en": "Distilled Water"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.135",
+   "en": "Bubbling Water"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.136",
+   "en": "Fallen Angel Feather"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.137",
+   "en": "Miracle Gem"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.138",
+   "en": "Ruby Stone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.139",
+   "en": "Sapphire Stone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.140",
+   "en": "Obsidian"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.141",
+   "en": "Topaz Stone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.142",
+   "en": "Opal Stone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.143",
+   "en": "Diamond"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.144",
+   "en": "Black Diamond"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.145",
+   "en": "Aquamarine"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.146",
+   "en": "Amethyst Stone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.147",
+   "en": "Yellow Dragon Whisker"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.148",
+   "en": "Genbu Shell"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.149",
+   "en": "Blue Dragon Scale"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.150",
+   "en": "White Tiger Fang"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.81",
+   "note": "Resistor (electronics part) chosen for the katakana 'register'."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.93",
+   "note": "Gosun-kugi: five-inch nail (ritual/voodoo nail)."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.106",
+   "note": "Suzu-ishi = cassiterite (tin ore); written Tin Stone."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.108",
+   "note": "Differentiated from #3.89 Quartz (katakana) by Quartz Crystal."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.113",
+   "note": "Chikara-ishi: lifting stone; Strength Stone is a guess."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.148",
+   "note": "Four Symbols beasts: Genbu romanized; Seiryu/Byakko rendered as Blue Dragon / White Tiger; Kiryu as Yellow Dragon."
+  }
+ ],
+ "report": "Material item names, 80/80. No tags. Uncertain: Strength Stone, Hollow Sand, Tin Stone, Abandoned Mine Pipe, Genbu Shell; Four Symbols naming mixed (romanized vs translated)."
+}

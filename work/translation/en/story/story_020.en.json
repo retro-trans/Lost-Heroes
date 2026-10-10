@@ -1,0 +1,366 @@
+{
+ "slice": "story_020",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0201.mbb#0.9",
+   "en": "Huh? So this is some other world?"
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.10",
+   "en": "...That's quite likely. Anyway, let's try walking around a bit."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.12",
+   "en": "You're right... It's like a whole other world."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.13",
+   "en": "...Tch, what the hell is going on!?"
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.14",
+   "en": "I think we were probably transported here in an instant."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.15",
+   "en": "Let's explore a little! We might find out something!"
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.17",
+   "en": "You're right... It's like a whole other world."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.18",
+   "en": "...Tch, what the hell is going on!?"
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.19",
+   "en": "Most likely, we were transported here instantaneously."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.20",
+   "en": "Let's explore a little. We might learn something."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.22",
+   "en": "Different? Nah, it's more than that. It's like a whole other world."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.23",
+   "en": "...Tch, what the hell is going on!?"
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.24",
+   "en": "No idea. But we ended up here all of a sudden."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.25",
+   "en": "That much is certain."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.26",
+   "en": "Hmph... Well, I guess nothing that happens should surprise me anymore."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.27",
+   "en": "Let's explore a little. We might figure something out."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.29",
+   "en": "No, it's more than that. It's like a different world entirely."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.30",
+   "en": "...Tch, what the hell is going on!?"
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.31",
+   "en": "All I can think is that we were transported in an instant..."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.32",
+   "en": "Anyway, let's explore a little. We might learn something."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.34",
+   "en": "Hey! Why the hell did we suddenly end up in a place like this?"
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.35",
+   "en": "How should I know?"
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.36",
+   "en": "Geez, what a useless hand you are!"
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.37",
+   "en": "Fine, guess we'll wander around a bit."
+  },
+  {
+   "key": "MainEventMess0202.mbb#0.1",
+   "en": "A rumble like bombing echoed from somewhere far off..."
+  },
+  {
+   "key": "MainEventMess0202.mbb#0.3",
+   "en": "...Bombing?"
+  },
+  {
+   "key": "MainEventMess0202.mbb#0.4",
+   "en": "Is there a war goin' on?"
+  },
+  {
+   "key": "MainEventMess0202.mbb#0.6",
+   "en": "...That's bombing."
+  },
+  {
+   "key": "MainEventMess0202.mbb#0.7",
+   "en": "There's fighting going on somewhere."
+  },
+  {
+   "key": "MainEventMess0202.mbb#0.9",
+   "en": "...Bombing?"
+  },
+  {
+   "key": "MainEventMess0202.mbb#0.10",
+   "en": "It's like a battlefield..."
+  },
+  {
+   "key": "MainEventMess0202.mbb#0.12",
+   "en": "...That's bombing."
+  },
+  {
+   "key": "MainEventMess0202.mbb#0.13",
+   "en": "Is there fighting going on somewhere?"
+  },
+  {
+   "key": "MainEventMess0202.mbb#0.15",
+   "en": "...That's bombing."
+  },
+  {
+   "key": "MainEventMess0202.mbb#0.16",
+   "en": "So this place is a battlefield, huh!!"
+  },
+  {
+   "key": "MainEventMess0202.mbb#0.18",
+   "en": "...That's bombing."
+  },
+  {
+   "key": "MainEventMess0202.mbb#0.19",
+   "en": "Is there fighting going on somewhere?"
+  },
+  {
+   "key": "MainEventMess0202.mbb#0.21",
+   "en": "...Hm? What's that?"
+  },
+  {
+   "key": "MainEventMess0202.mbb#0.22",
+   "en": "Is that bombing?"
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.1",
+   "en": "Suddenly, a violent explosion rocked the area!!"
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.3",
+   "en": "!!"
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.4",
+   "en": "Tch! That one was pretty close..."
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.5",
+   "en": "Yeah. That was some awful shaking."
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.6",
+   "en": "What on earth is going on?"
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.7",
+   "en": "Yeah. That was some awful shaking."
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.8",
+   "en": "What on earth is going on?"
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.9",
+   "en": "Yeah. Just feel how hard it's shaking."
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.10",
+   "en": "Still, what on earth is going on?"
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.11",
+   "en": "Yeah, it shook pretty hard."
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.12",
+   "en": "But a little shaking like that is nothing to me."
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.13",
+   "en": "More importantly, what on earth is going on?"
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.14",
+   "en": "That was one hell of a shake!"
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.15",
+   "en": "What the heck is going on?"
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.16",
+   "en": "Yes. That was terrible shaking."
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.17",
+   "en": "What could possibly be happening!?"
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.18",
+   "en": "Yeah. It shook pretty hard."
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.1",
+   "en": "Ugh..."
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.2",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.3",
+   "en": "Are you okay!?"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.4",
+   "en": "Are you okay!?"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.5",
+   "en": "Hey, you okay!?"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.6",
+   "en": "You okay!?"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.7",
+   "en": "You okay!?"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.8",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.9",
+   "en": "...A... A Gundam got us... A type I've never seen before..."
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.10",
+   "en": "A Gundam!?"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.11",
+   "en": "A Gundam!?"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.12",
+   "en": "A Gundam!?"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.13",
+   "en": "A Gundam!?"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.14",
+   "en": "A Gundam!?"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.15",
+   "en": "A Gundam!?"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.16",
+   "en": "A Gundam!?"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.17",
+   "en": "Yeah... Gundams... Three of them showed up..."
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.18",
+   "en": "Urgh..."
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.19",
+   "en": "Hey! Hang in there!!"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.20",
+   "en": "Hey! Hang in there!!"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.21",
+   "en": "Hey! Hang in there!!"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.22",
+   "en": "Hey! Hang in there!!"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.23",
+   "en": "Hey! Pull yourself together!!"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.24",
+   "en": "Hey! Hang in there!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0201.mbb#0.9",
+   "note": "Answers W (Shotaro)'s 'These ruins... this isn't Fuuto' (0201 #0.8, story_019). 0201 is a scene with one variant per party partner of Ankh (OOO, W, Mebius, Nu Gundam, Zero, Zeta Gundam, Den-O), so near-identical lines repeat."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.12",
+   "note": "'You're right' agrees with Ankh's opening 'the atmosphere's different' (0201 #0.1); the line before this variant (#0.11) is not in the slice."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.22",
+   "note": "Source opens 'No, rather than that...': Zero topping Ankh's 'the atmosphere's different'. Added 'Different?' to make the referent clear in English. Same structure at #0.29 (Zeta Gundam), kept plainer."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.31",
+   "note": "Deliberately trails off in the source; kept unfinished."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.36",
+   "note": "Momotaros insulting Ankh, who is a disembodied arm/hand ('useless hand'). Insult kept."
+  },
+  {
+   "key": "MainEventMess0202.mbb#0.6",
+   "note": "0202 #0.6-0.22 have no recovered speaker. They are per-partner variants (pairs) of the Den-O rows #0.3-0.4; order of partners not recoverable, so lines kept speaker-neutral. #0.16 reads like Zero, #0.21-0.22 casual (possibly OOO), but unconfirmed."
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.7",
+   "note": "0203 #0.7-0.8 and #0.11-0.18 have no recovered speaker; per-partner variants answering Ankh's 'That one was pretty close'. #0.16-0.17 are polite (likely Mebius), #0.12 boastful (likely Zero), #0.14-0.15 rough (likely Den-O). Kept speaker-neutral."
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.9",
+   "note": "Source is just 'Yeah, this shaking': Shotaro confirming Ankh's 'that was close' by pointing at the tremor. Rendered as 'Just feel how hard it's shaking.'"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.9",
+   "note": "Maganac pilot, dying. 'got us' chosen for the passive 'was done in by a Gundam'; Maganac Corps are a group, so 'us' fits. 'Gundam' kept singular here; #0.17 clarifies there were three."
+  }
+ ],
+ "report": "80/80 rows examined. Speakers missing for 0202 #0.6-0.22 and 0203 #0.7-0.8, #0.11-0.18 (party-partner variants); kept speaker-neutral. No new names or terms outside the glossary."
+}

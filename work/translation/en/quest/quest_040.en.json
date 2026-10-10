@@ -1,0 +1,329 @@
+{
+ "slice": "quest_040",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.47",
+   "en": "What just happened!? Who are you!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.48",
+   "en": "Skullmaster!! Taste the power of my sorrow and anger!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.49",
+   "en": "Obtained \"Heart of Anger\" and \"Heart of Sorrow\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.50",
+   "en": "I am the Prince of Sorrow, Black RX! Robo Rider!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.51",
+   "en": "Gwoh!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.52",
+   "en": "Obtained \"Robo Rider\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.53",
+   "en": "Black RX's new skill has been unlocked."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.54",
+   "en": "The Prince of Anger, Black RX! Bio Rider!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.55",
+   "en": "Obtained \"Bio Rider\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.58",
+   "en": "Gwoooooooh!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.60",
+   "en": "Pigmon!! Are you all right!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.61",
+   "en": "Uh... Uuugh..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.62",
+   "en": "You're still breathing! Hang in there, Pigmon! I'll treat your wounds right now!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.64",
+   "en": "Fortunately, Pigmon's wounds were shallow, and first aid was enough to save its life."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.69",
+   "en": "I'm saved-pi! RX, you saved my life-pi!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.70",
+   "en": "I'm really glad I was able to save you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.71",
+   "en": "I'll keep helping you from now on-pi. Thank youuu~"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.73",
+   "en": "Completed the quest \"The Prince of Sorrow\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.76",
+   "en": "Black RX must be in the party to progress this quest."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.1",
+   "en": "The repaired O Raiser was stolen in an enemy raid. Ask Maganac at Hideout Cube for details."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.5",
+   "en": "Everyone! I've been waiting for you!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.6",
+   "en": "I believe you've already heard what the request is about."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.7",
+   "en": "Yeah... We heard the O Raiser was stolen."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.8",
+   "en": "Yes... unfortunately."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.9",
+   "en": "It seems the other unit was carrying the repaired O Raiser on a transport Ride Machine."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.10",
+   "en": "That's when the enemy struck... We were completely off guard."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.11",
+   "en": "Being attacked is a fact that won't change. For now, let's focus on getting the O Raiser back."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.12",
+   "en": "You're right... It looks like the enemy fled into this Hideout Cube."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.13",
+   "en": "Not much time has passed since it was stolen. They're most likely still somewhere in this area."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.14",
+   "en": "Please, catch up to the enemy and take back the O Raiser...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.15",
+   "en": "Understood. I'll carry out the mission."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.18",
+   "en": "Please, bring 00 here with you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.22",
+   "en": "With this equipment, even we would stand a chance of winning...!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.23",
+   "en": "Yes. And that's exactly why we must make sure this equipment gets back with us."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.24",
+   "en": "Hey... look!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.25",
+   "en": "Captain!! We're being pursued!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.26",
+   "en": "So they've come...!! Don't fall behind! We'll shake them off!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.28",
+   "en": "No doubt about it! They're the ones who stole the O Raiser!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.29",
+   "en": "Right, let's hurry after them. We have to take back the O Raiser no matter what."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.32",
+   "en": "There they are!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.33",
+   "en": "Tch! They're still on our tail!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.34",
+   "en": "Don't look back! They'll catch up to us!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.37",
+   "en": "Wait!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.38",
+   "en": "Damn! The passage on the right leads outside!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.40",
+   "en": "I won't let you get away...!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.42",
+   "en": "Look out! Something's flying at us from behind!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.44",
+   "en": "This way! Hurry."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.46",
+   "en": "Good! They went the opposite way!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.47",
+   "en": "Now we keep driving them into a corner...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.49",
+   "en": "Looks like they're just up ahead."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.52",
+   "en": "It seems we've been had."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.53",
+   "en": "Give up. You have nowhere left to run. Hand over the O Raiser quietly, and we won't harm you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.54",
+   "en": "That, we cannot do."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.55",
+   "en": "What did you say?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.56",
+   "en": "We need this O Raiser too, whatever it takes. We can't hand it over, no matter what."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.57",
+   "en": "...So negotiations have broken down. Then we'll take it back by force...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.58",
+   "en": "Let's go!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.60",
+   "en": "Obtained \"O Raiser\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.61",
+   "en": "Mission complete. With this, I've gotten my power back."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.63",
+   "en": "Completed the quest \"Retrieving the O Raiser\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.65",
+   "en": "...No good. They're nowhere to be found."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.66",
+   "en": "Shouldn't we be bringing 00 along at a time like this?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.68",
+   "en": "Everyone, I've been waiting for you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.69",
+   "en": "Is it true that the enemy stole the O Raiser?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.70",
+   "en": "Yes..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.71",
+   "en": "Repairs on the O Raiser you all found in the Desert Cube some time ago were finally finished."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.72",
+   "en": "So, just as we tried to carry the O Raiser on a transport Ride Machine,"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.73",
+   "en": "we came under attack by the enemy."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.74",
+   "en": "It seems the enemy had been waiting for the moment the repairs were done..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.75",
+   "en": "After that, the enemy apparently fled in here, into the \"Hideout Cube\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.76",
+   "en": "So we'd like you all to use your strength to get the O Raiser back for us."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.77",
+   "en": "Understood. Commencing the mission."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.78",
+   "en": "We're counting on you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.81",
+   "en": "What's this?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.82",
+   "en": "That key is the master key for the Hideout Cube."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.83",
+   "en": "With that key, you can open the locked rooms in this Cube."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.84",
+   "en": "Please, be sure to find the enemy and get the O Raiser back."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.88",
+   "en": "Hey! Look at that one!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.89",
+   "en": "Target confirmed. I'll eliminate it by force of arms."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.90",
+   "en": "That one... it's got the O Raiser!?"
+  }
+ ],
+ "notes": [],
+ "report": "filled from the DG_QUEST twin rows / translation memory"
+}

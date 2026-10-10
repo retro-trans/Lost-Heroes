@@ -1,0 +1,410 @@
+{
+ "slice": "talk_006",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.280",
+   "en": "Hey, what are you doing!? You're supposed to be lying down!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.281",
+   "en": "I told you you needed complete bed rest!! I can't believe you!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.282",
+   "en": "No, I'm on standby here so I'm ready the moment the order to sortie comes..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.283",
+   "en": "Quiet!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.284",
+   "en": "Quit your excuses, we're going!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.285",
+   "en": "Ow, ow, ow, ow!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.286",
+   "en": "At this rate, he's only going to get worse."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.292",
+   "en": "What? The match venue's been changed?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.293",
+   "en": "Hmph... Looks like the enemy's starting to show their true colors, huh?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.294",
+   "en": "Interesting. If it were me, I'd act like I'd been fooled and feel out the enemy's next move."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.299",
+   "en": "...So Ankh said he'd fight to get back to his own world, rather than for the Medals?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.300",
+   "en": "That's right! Pretty amazing, huh? Ankh's really changed."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.301",
+   "en": "Yay! Yay! I wanna hurry up and take the DenLiner to go see Big Sis!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.302",
+   "en": "Idiots! I'm not doing this for your sake."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.303",
+   "en": "Oh, quit acting tough!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.304",
+   "en": "Shut up!! I'm under no obligation to help you lot!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.305",
+   "en": "Oh! Come to think of it, Urataros told me there are some really tasty ice pops, but..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.306",
+   "en": "...What?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.307",
+   "en": "He said he'd bring them out if you keep helping us from here on."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.308",
+   "en": "...If that's how it is, that's a different story."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.309",
+   "en": "I'll help you a little while longer."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.310",
+   "en": "But I'm still collecting Medals from here on. And you're going to help me with that."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.311",
+   "en": "So you want the Medals after all."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.312",
+   "en": "Shut up. Hey, hurry up and bring out the ice pops."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.313",
+   "en": "Yes, yes."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.317",
+   "en": "This place... seems to be some kind of rest area."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.318",
+   "en": "...Well, hey, if it isn't God Gundam."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.319",
+   "en": "You... know who I am?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.320",
+   "en": "I saw you once before, inside a Cube."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.321",
+   "en": "You were fightin' like nothin' else in the world existed, weren't ya?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.322",
+   "en": "Ya were sayin' somethin' about yer hand burnin', weren't ya?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.323",
+   "en": "I see. I didn't notice at all."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.324",
+   "en": "Hey, hey, show me that thing again~ That whatever-Finger thing!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.325",
+   "en": "The God Finger is not a sideshow."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.326",
+   "en": "Tch! Meanie."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.327",
+   "en": "...Well, since you came all this way, at least stay for a cup of coffee."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.328",
+   "en": "Yes, I'll have one."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.332",
+   "en": "We've defeated Grand Gundam. That leaves two of the Four Heavenly Kings..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.333",
+   "en": "Mind if I ask you something?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.334",
+   "en": "What is it? That's unusual for you."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.335",
+   "en": "That technique you used to smash the ice wall..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.336",
+   "en": "The Sekiha Tenkyoken?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.337",
+   "en": "Is that a technique you earned through your training?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.338",
+   "en": "Not only that. It's what you'd call an \"ultimate technique.\""
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.339",
+   "en": "A technique only those who have attained the state of \"Meikyo Shisui\" can unleash..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.340",
+   "en": "Back then, cornered, I pulled it off by a miracle. But since coming here, I've lost the feel for it."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.341",
+   "en": "I see... I've done plenty of training myself, so I figured I'd have you teach it to me."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.342",
+   "en": "Too bad for you."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.343",
+   "en": "Then next time, I'll show you MY technique, \"Big Bang Zero\"!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.344",
+   "en": "It's not quite the Sekiha Tenkyoken, but I'm confident it won't lose to the God Finger!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.345",
+   "en": "That's quite some confidence."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.346",
+   "en": "Yeah! I wrap my fist in flames and slam a knife-hand chop into the foe with all I've got!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.347",
+   "en": "'Cause this hand of mine is literally burnin' red!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.348",
+   "en": "But I'm getting it back through battle. You'll get there someday too."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.349",
+   "en": "Then next time, I'll get to see what you can do."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.353",
+   "en": "Sounds like the final tournament has started."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.354",
+   "en": "I'd love to go cheer you on, but I'm busy."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.355",
+   "en": "Well, you lot'll win!! Want me to tell ya why?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.356",
+   "en": "In this world, when it comes down to it, there's only two kinds of \"strength.\""
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.357",
+   "en": "Huh~? What are they?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.358",
+   "en": "Strength that'll make ya cry, and strength that won't! Relax! Yours is the kind that'll make ya cry!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.359",
+   "en": "...Not that it matters, but Kin-chan, you're talking like it's none of your business."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.360",
+   "en": "I only get called out once in a while, so my body's gettin' rusty, I tell ya."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.365",
+   "en": "Hey! What happened to Ultraman Taros!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.366",
+   "en": "Sempai, I told you, it's Taro!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.367",
+   "en": "Don't tell me ya came back without savin' him!? You're a heartless jerk!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.374",
+   "en": "So? How's this latest Cube?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.375",
+   "en": "I heard there should be all kinds of items in there, right?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.381",
+   "en": "Huh~ So they've got kaiju and kaijin on display in cages."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.382",
+   "en": "Sounds just like a zoo."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.383",
+   "en": "Wow! I wanna go see too~!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.384",
+   "en": "Dummy! If a guy like you went, they'd lock ya in a cage and put ya on display!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.385",
+   "en": "Momo! Same goes for you!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.386",
+   "en": "Whaddya say!? Bear! Have YOU ever looked in a mirror!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.393",
+   "en": "Uuugh... I can't stop shakin'..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.394",
+   "en": "Huh? Did you catch a cold or something?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.395",
+   "en": "No, inside the Cube... Hoooooo... It's no good, I can't put it into words..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.396",
+   "en": "What happened in there?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.397",
+   "en": "Ah, that was... how do I put it... I guess you could call it a swamp of terror..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.398",
+   "en": "OOO!! Don't say another word!! It'll all come back to me..."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.280",
+   "note": "SPEAKERS from tools/talkspk.py Quest (Talk01_25-34): Methuss = #0.280/281/283/284; Accel = #0.282 (+#0.285, unlabelled: Accel being dragged off by Methuss); Urataros = #0.286/299/303/313/318/320/327/353/354/359/366/374/375/381/382/394/396; Rider 2 = #0.292-294; OOO = #0.300/305/307/311/397; Ryutaros = #0.301/324/326/357/383; Ankh = #0.302/304/306/308-310/312; God Gundam = #0.317/319/323/325/328/332/334/336/338-340/342/345/349; Momotaros = #0.321/365/367/384/386; Kintaros = #0.322/355/356/358/360/385; Zero = #0.333/335/337/341/343/344/346/347; W (Shotaro) = #0.393/395/398. Slice speaker fields were all empty."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.285",
+   "note": "No speaker in the script; Accel's pained cry as Methuss hauls the injured man away, which #0.286 comments on."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.299",
+   "note": "'Moto no sekai' = Ankh's own world; Medals left generic (no Core/Cell in source). Ankh g=m."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.301",
+   "note": "Ryutaros's 'onee-chan' (Airi in Den-O) rendered 'Big Sis'; no earlier English precedent found."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.305",
+   "note": "'Aisu' = ice pops per Ankh's glossary note / talk_005 #0.203. Sentence trails off; kept."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.307",
+   "note": "Subject 'he' = Urataros (from #0.305), who would 'bring them out'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.332",
+   "note": "'Taoshita na' has no subject; God Gundam noting the party's victory, rendered 'We'. Four Heavenly Kings per glossary."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.338",
+   "note": "'Ougi' = a school's secret ultimate technique; rendered 'ultimate technique' in quotes as the source brackets it."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.339",
+   "note": "'Meikyo Shisui' kept in romaji, matching the existing 'State of Meikyo Shisui' line."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.340",
+   "note": "Tightened to fit: 'kono sekai ni kite' = 'since coming here' (this world)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.343",
+   "note": "'Big Bang Zero' = Ultraman Zero's flaming chop (Ultraman Zero Gaiden); not in glossary. 'MY' stresses the contrast with God Gundam's technique."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.347",
+   "note": "Zero borrowing God Gundam's catchphrase ('My hand is burnin' red!' per glossary) as a joke, since his move literally sets his hand ablaze."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.348",
+   "note": "Speaker uncertain: talkspk finds no script reference (possibly unused). Read as God Gundam (neutral 'darou' ending, not Zero's rough 'ze'): he is regaining the lost feel for Meikyo Shisui in battle and Zero will reach it too. If Zero speaks it, 'it' = his own lost power and the English still reads acceptably."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.355",
+   "note": "Kintaros to the party; 'you lot' restores the plural listener."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.358",
+   "note": "Kintaros's 'nakeru tsuyosa' = strength so great it makes you cry, tied to his catchphrase 'You'll cry!'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.360",
+   "note": "'Yobarehen' = seldom called out (into the party / battle); subject 'I' restored."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.365",
+   "note": "'Ultraman Taros' is Momotaros's deliberate mix-up, as in story slices; corrected by Urataros in #0.366."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.367",
+   "note": "Momotaros scolding the party leader for returning without Taro; 'hidee yatsu' kept harsh."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.385",
+   "note": "Kintaros's 'Momo no ji' rendered 'Momo', as in story (MainEventMess0144 #0.40)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.397",
+   "note": "'Swamp of terror' literal; the Cube's horror is not named here."
+  }
+ ],
+ "report": "80/80 rows. Speakers taken from talkspk.py Quest (slice labels empty). Uncertain: #0.348 speaker (no script reference; read as God Gundam), #0.285 assigned to Accel. Not in glossary: Big Bang Zero (Zero's attack), 'Big Sis' (Ryutaros's onee-chan); Meikyo Shisui romaji matches existing line."
+}

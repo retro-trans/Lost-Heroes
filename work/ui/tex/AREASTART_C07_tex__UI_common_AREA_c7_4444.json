@@ -1,0 +1,93 @@
+{
+ "tpc": "Graph/Dg/Start/Area/AREASTART_C07_tex.tpc",
+ "page": "UI_common_AREA_c7_4444.tga",
+ "note": "Area-start card name pieces (rects from AREASTART_C07.gtx GFUV; the GTSH shapes place them side by side: Cube name, then area pieces). Cube names are right-aligned so they sit next to the area pieces. Genocide (rects 0/4) + Cube (rect 1, starts x=23 so the dot rect 10 stays blank); Monster Graveyard W/Central/N (West/North do not fit 11-12 px); Regis + Core (+ path pieces). Dot (rect 10) and dakuten (rect 9) left blank. 'への道' rendered as 'Path' (Regis Core Path) since the pieces follow Core.",
+ "boxes": [
+  {
+   "x": 49,
+   "y": 0,
+   "w": 70,
+   "h": 11,
+   "text": "Genocide",
+   "align": "right"
+  },
+  {
+   "x": 23,
+   "y": 12,
+   "w": 49,
+   "h": 10,
+   "text": "Cube"
+  },
+  {
+   "x": 72,
+   "y": 11,
+   "w": 48,
+   "h": 11,
+   "text": "Monster Graveyard",
+   "size": 7
+  },
+  {
+   "x": 0,
+   "y": 0,
+   "w": 24,
+   "h": 11,
+   "text": "Central",
+   "size": 8
+  },
+  {
+   "x": 24,
+   "y": 0,
+   "w": 12,
+   "h": 11,
+   "text": "W",
+   "align": "center"
+  },
+  {
+   "x": 37,
+   "y": 0,
+   "w": 11,
+   "h": 11,
+   "text": "N",
+   "align": "center"
+  },
+  {
+   "x": 48,
+   "y": 22,
+   "w": 51,
+   "h": 10,
+   "text": "Regis",
+   "align": "right"
+  },
+  {
+   "x": 99,
+   "y": 22,
+   "w": 26,
+   "h": 10,
+   "text": "Core"
+  },
+  {
+   "x": 17,
+   "y": 22,
+   "w": 20,
+   "h": 10,
+   "text": "Path"
+  }
+ ],
+ "defaults": {
+  "size": 9,
+  "bold": false,
+  "color": [
+   255,
+   255,
+   255
+  ]
+ },
+ "clear": [
+  [
+   0,
+   0,
+   128,
+   32
+  ]
+ ]
+}

@@ -1,0 +1,390 @@
+{
+ "slice": "quest_018",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.58",
+   "en": "Ngh! He's strong!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.59",
+   "en": "Ngh! He's strong!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.60",
+   "en": "Ngh! He's strong!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.61",
+   "en": "Ngh! He's strong!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.62",
+   "en": "Ngh! He's strong!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.63",
+   "en": "Ngh! He's strong!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.64",
+   "en": "Ngh! He's strong!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.65",
+   "en": "Ngh! He's strong!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.66",
+   "en": "Ngh! He's strong!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.67",
+   "en": "Ngh! He's strong!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.68",
+   "en": "Ngh! He's strong!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.69",
+   "en": "Tend to your wounds. I will defeat you before long."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.70",
+   "en": "Until then, our duel is on hold."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.72",
+   "en": "Understood. The next time we fight, I'll face you with everything I've got, too."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.73",
+   "en": "He didn't finish us off..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.74",
+   "en": "He didn't finish us off..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.75",
+   "en": "He didn't finish us off..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.76",
+   "en": "He didn't finish us off..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.77",
+   "en": "He didn't finish us off..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.78",
+   "en": "He didn't finish us off..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.79",
+   "en": "He didn't finish us off..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.80",
+   "en": "He didn't finish us off..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.81",
+   "en": "He didn't finish us off..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.82",
+   "en": "He didn't finish us off..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.83",
+   "en": "He didn't finish us off..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.84",
+   "en": "He didn't finish us off..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.85",
+   "en": "He didn't finish us off..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.86",
+   "en": "He didn't finish us off..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.87",
+   "en": "...Yeah. Looks that way."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.88",
+   "en": "He won't fight dirty... Couldn't there still be some justice left in his heart?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.89",
+   "en": "Not pullin' any dirty tricks, huh? Gotta say, I think a bit better of the guy now."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.90",
+   "en": "He won't fight dirty... Doesn't that mean there's still some justice left in his heart?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.91",
+   "en": "He won't fight dirty... Doesn't that mean there's still some justice left in his heart?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.92",
+   "en": "Not pulling any dirty tricks, huh? I think a bit better of him now."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.93",
+   "en": "He won't fight dirty... Doesn't that mean there's still some justice left in his heart?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.94",
+   "en": "He won't fight dirty... Doesn't that mean there's still some justice left in his heart?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.95",
+   "en": "He won't fight dirty... Doesn't that mean there's still some justice left in his heart?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.96",
+   "en": "He won't fight dirty... Doesn't that mean there's still some justice left in his heart?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.97",
+   "en": "He wants a real, honest duel, huh? I think a little better of him now."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.98",
+   "en": "He won't fight dirty... Doesn't that mean there's still some justice left in his heart?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.99",
+   "en": "He won't fight dirty... Doesn't that mean there's still some justice left in his heart?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.100",
+   "en": "He won't fight dirty... Doesn't that mean there's still some justice left in his heart?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.101",
+   "en": "He won't fight dirty... Doesn't that mean there's still some justice left in his heart?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.102",
+   "en": "No... That's not it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.103",
+   "en": "Huh?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.104",
+   "en": "Huh?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.105",
+   "en": "Huh?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.106",
+   "en": "Huh?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.107",
+   "en": "Huh?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.108",
+   "en": "Huh?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.109",
+   "en": "Huh?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.110",
+   "en": "Huh?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.111",
+   "en": "Huh?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.112",
+   "en": "Huh?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.113",
+   "en": "Huh?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.114",
+   "en": "Huh?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.115",
+   "en": "Huh?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.116",
+   "en": "Huh?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.117",
+   "en": "That guy... That guy has no heart like that left in him!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.118",
+   "en": "He didn't spare us. He just doesn't care about any life but mine."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.119",
+   "en": "I'll be looking forward to it, Black Sun."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.120",
+   "en": "Just like the Crisis Empire, he's an enemy I have to defeat, no matter what!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.122",
+   "en": "Shadow Moon, risen from the depths of hell."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.123",
+   "en": "Taking up his challenge, Black RX burned with fighting spirit."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.124",
+   "en": "And the Crisis Empire, too, is sure to strike again with some new strategy."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.125",
+   "en": "Don't lose! Kamen Rider Black RX!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.129",
+   "en": "Completed the quest \"The Shadow Prince\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.131",
+   "en": "Black RX must be in the party to progress this quest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.1",
+   "en": "Word is a martial arts tournament is being held at the Ultra Cube's Colosseum. Investigate at once."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.7",
+   "en": "In the Colosseum, kaiju were fighting each other."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.8",
+   "en": "Gwaaaaaooooooh!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.9",
+   "en": "Gwah... Gwah..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.10",
+   "en": "And now Bemular can do nothing but defend against Gomora's fierce attacks!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.11",
+   "en": "Gyaaaoooooooh!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.12",
+   "en": "Gwoh... Gwoh..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.13",
+   "en": "Gaaaaoooooooh!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.14",
+   "en": "...Gya... Guh... Uuuh..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.15",
+   "en": "Ohh, Bemular is down!! Gomora wins without giving it a single chance to strike back!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.16",
+   "en": "\"WOOOOOOOOOOOOAAAAAAH!!!\""
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.17",
+   "en": "Amid a storm of roars, the match came to an end."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.58",
+   "note": "Quest017.bla (QuestEventMess017) maps MessWinSet TextIdOffset+N to row N+1 (verified: +2 ??? -> row 3, +68/+69 Shadow Moon -> 69/70, +71 RX -> 72, +118 Shadow Moon -> 119, OkWin +128/+130 -> 129/131). The script has no party-variant indexing at all (RX required, no pt_ variable), so the 14-row blocks 55-68, 73-86, 88-101, 103-116 and rows 87, 102, 117, 118, 120, 124 are never played: a cut version where the whole party reacts. Voiced from wording; identical Japanese kept identical. 'Ngh! He's strong!' should match quest_017 rows 55-57."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.69",
+   "note": "Played: Shadow Moon (CHARA_NAME 271) 69/70 and 119; RX (CHARA_NAME 2) 72. Played order is 72 -> 119, so Shadow Moon's 'looking forward to it' answers RX's promise to fight all-out. 'Shoubu wa azuketa' = the fight is left unsettled until then."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.73",
+   "note": "Unreferenced block (14 rows = leader list minus RX). Party members, plural 'us' (ore-tachi). Subject 'He' restored (Shadow Moon)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.87",
+   "note": "Unreferenced; speaker inferred as RX (answers the party, no variant block)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.88",
+   "note": "Unreferenced 14-slot block; slot order not recoverable from Quest017.bla. 88 polite (desu ka: OOO/Mebius-type), 89 rough (shinee: Momotaros/Zero-type), 92 casual -ze, 97 'wants a serious duel' (God Gundam/Zero-type) given their own English; the other ten share one line."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.102",
+   "note": "Unreferenced; RX (contradicts the party; 117/118/120 continue his reply). 'Black Sun' (119) is Shadow Moon's name for RX, the franchise's established English; not in glossary."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.118",
+   "note": "'Tasuketa' read as 'spared us' (Shadow Moon left them alive); RX says it was only because he cares about no life but RX's."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.122",
+   "note": "Narration 122/123/125 played (+121/+122/+124); 124 (+123) is skipped by the script but is narration of the same epilogue. TV-narrator style kept. 122 is a noun-phrase line in the source; kept as a fragment."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.129",
+   "note": "Quest title from QuestMess 0.18 'The Shadow Prince'; standard completion format."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.131",
+   "note": "OkWin (+130), same format as earlier 'must be in the party' rows."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.1",
+   "note": "Quest description (QuestMess 0.69 is the matching longer copy; this quest is QuestMess 0.19 'Money Dopant's Challenge'). Compressed to fit 2 lines; 'shikyuu' kept as 'at once'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.7",
+   "note": "Quest018.bla maps TextIdOffset+N to row N+1 (rows 2-6 empty; verified: +34 Money Dopant -> row 35 in quest_019, +19+14 leader block end -> 34). Played here: +15 crowd roar -> row 16 (with applause SE), then +6 narration -> row 7. Rows 8-15 and 17 are unreferenced: a cut opening bout with an announcer. 18 in quest_019 repeats row 7's Japanese and should match it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.8",
+   "note": "Unreferenced fight: Gomora (attacker per row 10) 8/11/13, Bemular (defending, then down) 9/12/14. New roars, not in the glossary roar list; Gomora's established roars are for different Japanese."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.10",
+   "note": "Announcer (unnamed, unreferenced); also 15. 'It' for Bemular (g=n)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.16",
+   "note": "Crowd roar in double brackets in the source; same English as the identical Japanese elsewhere (TM)."
+  }
+ ],
+ "report": "80/80 rows examined. Speakers from Quest017.bla and Quest018.bla (both TextIdOffset+N = row N+1). Played: Quest017 Shadow Moon 69/70/119, RX 72, narration 122/123/125, OkWins 129/131; Quest018 crowd 16, narration 7. Unreferenced (voiced from wording, slot order unverifiable): Quest017 leader blocks 58-68, 73-86, 88-101, 103-116 and RX lines 87/102/117/118/120, narration 124; Quest018 cut opening bout 8-15, 17 (Gomora vs Bemular, announcer). Not in glossary: 'Black Sun' (Shadow Moon's name for RX)."
+}

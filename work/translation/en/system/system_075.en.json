@@ -1,0 +1,338 @@
+{
+ "slice": "system_075",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.61",
+   "en": "Nullifies enemy encounters while moving."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.62",
+   "en": "Doubles the enemy encounter rate while moving."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.63",
+   "en": "Halves damage from damage floors while moving."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.64",
+   "en": "Nullifies damage from damage floors while moving."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.65",
+   "en": "Restores a little HP as you walk."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.66",
+   "en": "Restores a little SP as you walk."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.67",
+   "en": "Makes it easier to strike first when encountering enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.68",
+   "en": "Prevents enemy ambushes when encountering enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.69",
+   "en": "Makes it easier to flee from enemies in battle."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.70",
+   "en": "Chance to counterattack when hit by an enemy in battle."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.71",
+   "en": "Makes critical hits more likely in battle."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.72",
+   "en": "Nullifies one Physical attack against you."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.73",
+   "en": "Nullifies one Ranged attack against you."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.74",
+   "en": "Nullifies one Slash attack against you."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.75",
+   "en": "Raises your Fire-element ATK."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.76",
+   "en": "Raises your Lightning-element ATK."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.77",
+   "en": "Raises your Ice-element ATK."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.78",
+   "en": "Raises your Wind-element ATK."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.79",
+   "en": "Raises your Light-element ATK."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.80",
+   "en": "Raises your Hero Gauge gain."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.81",
+   "en": "Greatly raises your Hero Gauge gain."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.82",
+   "en": "Your SP cost becomes 2/3."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.83",
+   "en": "Halves your SP cost."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.84",
+   "en": "Raises Physical and Ranged ATK by 20% when near death."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.85",
+   "en": "Raises Physical and Ranged DEF by 20% when near death."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.86",
+   "en": "Raises evasion by 20% when near death."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.87",
+   "en": "Restores 15% of your HP when you defeat an enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.88",
+   "en": "Restores 3% of your SP when you defeat an enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.89",
+   "en": "Makes enemies more likely to target you in battle."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.90",
+   "en": "Makes enemies less likely to target you in battle."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.91",
+   "en": "Restores a little HP every turn in battle."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.92",
+   "en": "Increases your HP recovery from healing skills and items."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.93",
+   "en": "Restores HP equal to a portion of the damage you deal."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.94",
+   "en": "Nullifies enemy Physical attacks when near death."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.95",
+   "en": "Nullifies enemy Ranged attacks when near death."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.96",
+   "en": "Nullifies enemy Slash attacks when near death."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.97",
+   "en": "Always lets you act first on turn 1 of battle."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.98",
+   "en": "Restores a little HP every 3 turns."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.99",
+   "en": "Once, survives lethal damage with 1 HP."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.100",
+   "en": "Keeps your Hero Gauge even if you are KO'd."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.101",
+   "en": "Restores a little HP when battle ends."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.102",
+   "en": "Lowers accuracy and raises Physical and Ranged ATK."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.103",
+   "en": "Lowers Physical and Ranged ATK and raises evasion."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.104",
+   "en": "Restores a little HP when you evade an enemy attack."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.105",
+   "en": "Restores a little SP when you evade an enemy attack."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.106",
+   "en": "Your action always comes last in the turn in battle."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.107",
+   "en": "Nullifies all attacks on turn 1 of battle only."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.108",
+   "en": "Enemies are more likely to drop chips after battle."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.109",
+   "en": "Slightly raises power when you hit an enemy's weakness."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.110",
+   "en": "Greatly raises power when you hit an enemy's weakness."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.111",
+   "en": "Slightly raises critical hit power."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.112",
+   "en": "Greatly raises critical hit power."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.113",
+   "en": "Always evades attack skills on turn 1 of battle only."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.114",
+   "en": "Raises Physical and Ranged ATK when at 1 HP."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.115",
+   "en": "Extends Ultra-type Color Timer duration by 1 turn."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.116",
+   "en": "The whole party gains more EXP than usual after battle."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.117",
+   "en": "The whole party gains more AP than usual after battle."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.118",
+   "en": "Gain more materials than usual after battle."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.119",
+   "en": "Enemies are more likely to drop items after battle."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.120",
+   "en": "The whole party gains no EXP after battle."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.121",
+   "en": "On a first strike, raises the whole party's ATK for that battle."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.122",
+   "en": "When ambushed, raises the whole party's DEF for that battle."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.123",
+   "en": "Always counterattacks when you evade an enemy attack."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.124",
+   "en": "Raises ATK while afflicted with a status ailment."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#3.1",
+   "en": "Unused"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.1",
+   "en": "Gaia Cannon Description"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.2",
+   "en": "Mega Particle Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.3",
+   "en": "GN Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.4",
+   "en": "Beam Emerald"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.8",
+   "en": "Vulcan Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.9",
+   "en": "Pointer Ray Gun"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.10",
+   "en": "Beam Vulcan"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.11",
+   "en": "Tri-Gar Shot"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.15",
+   "en": "Pelucidar Drill"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.16",
+   "en": "Permidar Drill"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.17",
+   "en": "Magma Riser Drill"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.18",
+   "en": "Regis Breaker"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.22",
+   "en": "Beam Shield"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.23",
+   "en": "I-Field"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.24",
+   "en": "Defense Dome"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.121",
+   "note": "Preemptive (first strike) vs ambush wording kept consistent with rows 2.67/2.68/2.122."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.11",
+   "note": "Tri-Gar Shot: Tiga-era GUTS weapon name; spelling uncertain."
+  }
+ ],
+ "report": "80/80 translated. Uncertain: Tri-Gar Shot spelling; 4.1 is a dev placeholder row (literal). New terms: Mega Particle Cannon, GN Cannon, Beam Emerald, Pointer Ray Gun, Tri-Gar Shot, Regis Breaker, I-Field, Defense Dome, Vulcan Cannon."
+}

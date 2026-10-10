@@ -1,0 +1,32 @@
+{
+ "tpc": "Graph/Common/UI/common_ui_tex.tpc",
+ "page": "UI_Common_window_5551.tga",
+ "note": "Shop tab labels (buy / sell). Menu text uses 'Buy items.' / 'Sell items.'.",
+ "defaults": {
+  "size": 12,
+  "bold": false,
+  "color": [
+   140,
+   200,
+   235
+  ],
+  "align": "center"
+ },
+ "clear": [],
+ "boxes": [
+  {
+   "x": 106,
+   "y": 112,
+   "w": 29,
+   "h": 14,
+   "text": "Buy"
+  },
+  {
+   "x": 136,
+   "y": 112,
+   "w": 28,
+   "h": 14,
+   "text": "Sell"
+  }
+ ]
+}

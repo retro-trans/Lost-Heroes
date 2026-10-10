@@ -1,0 +1,773 @@
+{
+ "tpc": "Graph/Camp/UI/Camp.tpc",
+ "page": "UI_psp_CampWindow_4444.tga",
+ "note": "Camp menu labels. Boxes follow the sprite rects in Graph/Camp/UI/Camp.gtx (GFUV); split boxes (Skill|Tree, Chip|Check, Chip|Catalog, Data|base, Phys.|ATK, Rider|1, Wing|Zero, Main|Quest, F|orce) keep both the whole and the part sprites readable. Rows Use Skill / Equip·Force / Check Quests are composites (sprite pieces from the Camp menu draw log, tools/sprite_log.py).",
+ "defaults": {
+  "bold": false,
+  "color": [
+   255,
+   255,
+   255
+  ]
+ },
+ "clear": [
+  [
+   192,
+   196,
+   63,
+   10
+  ],
+  [
+   95,
+   106,
+   56,
+   1
+  ],
+  [
+   208,
+   116,
+   39,
+   10
+  ],
+  [
+   197,
+   128,
+   19,
+   10
+  ],
+  [
+   198,
+   139,
+   39,
+   10
+  ],
+  [
+   239,
+   128,
+   10,
+   9
+  ],
+  [
+   145,
+   174,
+   43,
+   1
+  ],
+  [
+   107,
+   128,
+   1,
+   11
+  ]
+ ],
+ "boxes": [
+  {
+   "x": 203,
+   "y": 10,
+   "w": 32,
+   "h": 10,
+   "text": "Chara"
+  },
+  {
+   "x": 78,
+   "y": 28,
+   "w": 41,
+   "h": 11,
+   "text": "Force"
+  },
+  {
+   "x": 0,
+   "y": 29,
+   "w": 20,
+   "h": 9,
+   "text": "OK"
+  },
+  {
+   "x": 32,
+   "y": 29,
+   "w": 45,
+   "h": 9,
+   "text": "Learn/Upgrade"
+  },
+  {
+   "x": 123,
+   "y": 29,
+   "w": 48,
+   "h": 9,
+   "text": "Accessory"
+  },
+  {
+   "x": 0,
+   "y": 39,
+   "w": 20,
+   "h": 10,
+   "text": "Back"
+  },
+  {
+   "x": 31,
+   "y": 40,
+   "w": 60,
+   "h": 9,
+   "text": "Details ON/OFF"
+  },
+  {
+   "x": 94,
+   "y": 40,
+   "w": 79,
+   "h": 8,
+   "text": "Force Capacity"
+  },
+  {
+   "x": 234,
+   "y": 48,
+   "w": 21,
+   "h": 12,
+   "text": "Power",
+   "color": [
+    204,
+    204,
+    204
+   ],
+   "stroke": [
+    0,
+    0,
+    0
+   ],
+   "stroke_width": 1
+  },
+  {
+   "x": 0,
+   "y": 51,
+   "w": 20,
+   "h": 9,
+   "text": "Use"
+  },
+  {
+   "x": 31,
+   "y": 51,
+   "w": 30,
+   "h": 10,
+   "text": "Chip"
+  },
+  {
+   "x": 61,
+   "y": 51,
+   "w": 20,
+   "h": 9,
+   "text": "Check"
+  },
+  {
+   "x": 234,
+   "y": 60,
+   "w": 21,
+   "h": 12,
+   "text": "Target",
+   "color": [
+    204,
+    204,
+    204
+   ],
+   "stroke": [
+    0,
+    0,
+    0
+   ],
+   "stroke_width": 1
+  },
+  {
+   "x": 0,
+   "y": 62,
+   "w": 30,
+   "h": 9,
+   "text": "Discard"
+  },
+  {
+   "x": 31,
+   "y": 62,
+   "w": 40,
+   "h": 9,
+   "text": "Switch Info"
+  },
+  {
+   "x": 108,
+   "y": 72,
+   "w": 19,
+   "h": 10,
+   "text": "Req.",
+   "stroke": [
+    0,
+    0,
+    0
+   ],
+   "stroke_width": 1
+  },
+  {
+   "x": 0,
+   "y": 73,
+   "w": 20,
+   "h": 9,
+   "text": "Sort"
+  },
+  {
+   "x": 143,
+   "y": 73,
+   "w": 30,
+   "h": 10,
+   "text": "Data",
+   "align": "right"
+  },
+  {
+   "x": 172,
+   "y": 73,
+   "w": 31,
+   "h": 10,
+   "text": "base"
+  },
+  {
+   "x": 96,
+   "y": 84,
+   "w": 43,
+   "h": 10,
+   "text": "Items"
+  },
+  {
+   "x": 164,
+   "y": 84,
+   "w": 33,
+   "h": 10,
+   "text": "Chip"
+  },
+  {
+   "x": 197,
+   "y": 84,
+   "w": 22,
+   "h": 11,
+   "text": "Catalog"
+  },
+  {
+   "x": 164,
+   "y": 95,
+   "w": 54,
+   "h": 10,
+   "text": "Options"
+  },
+  {
+   "x": 164,
+   "y": 105,
+   "w": 55,
+   "h": 11,
+   "text": "Suspend"
+  },
+  {
+   "x": 95,
+   "y": 107,
+   "w": 56,
+   "h": 9,
+   "text": "Status"
+  },
+  {
+   "x": 129,
+   "y": 117,
+   "w": 33,
+   "h": 10,
+   "text": "Set"
+  },
+  {
+   "x": 164,
+   "y": 117,
+   "w": 43,
+   "h": 10,
+   "text": "Return"
+  },
+  {
+   "x": 208,
+   "y": 117,
+   "w": 18,
+   "h": 9,
+   "text": "MND"
+  },
+  {
+   "x": 229,
+   "y": 117,
+   "w": 17,
+   "h": 9,
+   "text": "FOC"
+  },
+  {
+   "x": 67,
+   "y": 128,
+   "w": 27,
+   "h": 9,
+   "text": "God"
+  },
+  {
+   "x": 141,
+   "y": 128,
+   "w": 22,
+   "h": 10,
+   "text": "Phys.",
+   "align": "right"
+  },
+  {
+   "x": 163,
+   "y": 128,
+   "w": 32,
+   "h": 10,
+   "text": "ATK"
+  },
+  {
+   "x": 198,
+   "y": 128,
+   "w": 17,
+   "h": 9,
+   "text": "SPD"
+  },
+  {
+   "x": 218,
+   "y": 128,
+   "w": 18,
+   "h": 9,
+   "text": "TEC"
+  },
+  {
+   "x": 240,
+   "y": 128,
+   "w": 9,
+   "h": 9,
+   "text": "LK",
+   "size": 8
+  },
+  {
+   "x": 142,
+   "y": 139,
+   "w": 21,
+   "h": 11,
+   "text": "Rng.",
+   "align": "right"
+  },
+  {
+   "x": 163,
+   "y": 139,
+   "w": 32,
+   "h": 11,
+   "text": "DEF"
+  },
+  {
+   "x": 198,
+   "y": 139,
+   "w": 18,
+   "h": 9,
+   "text": "STR"
+  },
+  {
+   "x": 218,
+   "y": 139,
+   "w": 18,
+   "h": 9,
+   "text": "SPI"
+  },
+  {
+   "x": 210,
+   "y": 151,
+   "w": 31,
+   "h": 10,
+   "text": "Active",
+   "color": [
+    136,
+    238,
+    255
+   ],
+   "stroke": [
+    0,
+    0,
+    0
+   ],
+   "stroke_width": 1
+  },
+  {
+   "x": 18,
+   "y": 152,
+   "w": 36,
+   "h": 9,
+   "text": "Rider",
+   "align": "right"
+  },
+  {
+   "x": 54,
+   "y": 152,
+   "w": 20,
+   "h": 9,
+   "text": "1"
+  },
+  {
+   "x": 106,
+   "y": 152,
+   "w": 17,
+   "h": 9,
+   "text": "Party"
+  },
+  {
+   "x": 126,
+   "y": 152,
+   "w": 81,
+   "h": 9,
+   "text": "Active Party",
+   "stroke": [
+    0,
+    0,
+    0
+   ],
+   "stroke_width": 1
+  },
+  {
+   "x": 1,
+   "y": 163,
+   "w": 35,
+   "h": 9,
+   "text": "Gundam"
+  },
+  {
+   "x": 60,
+   "y": 163,
+   "w": 17,
+   "h": 8,
+   "text": "Den-O",
+   "size": 8
+  },
+  {
+   "x": 146,
+   "y": 163,
+   "w": 37,
+   "h": 10,
+   "text": "SP Cost:"
+  },
+  {
+   "x": 187,
+   "y": 163,
+   "w": 38,
+   "h": 9,
+   "text": "Records"
+  },
+  {
+   "x": 0,
+   "y": 173,
+   "w": 54,
+   "h": 9,
+   "text": "Ultraman"
+  },
+  {
+   "x": 58,
+   "y": 173,
+   "w": 26,
+   "h": 9,
+   "text": "Seven"
+  },
+  {
+   "x": 191,
+   "y": 174,
+   "w": 21,
+   "h": 11,
+   "text": "Equip"
+  },
+  {
+   "x": 216,
+   "y": 174,
+   "w": 29,
+   "h": 10,
+   "text": "Key Items"
+  },
+  {
+   "x": 145,
+   "y": 175,
+   "w": 20,
+   "h": 9,
+   "text": "Cons."
+  },
+  {
+   "x": 168,
+   "y": 175,
+   "w": 20,
+   "h": 9,
+   "text": "Mat."
+  },
+  {
+   "x": 0,
+   "y": 184,
+   "w": 36,
+   "h": 9,
+   "text": "Mebius"
+  },
+  {
+   "x": 39,
+   "y": 184,
+   "w": 28,
+   "h": 9,
+   "text": "OOO"
+  },
+  {
+   "x": 67,
+   "y": 187,
+   "w": 37,
+   "h": 9,
+   "text": "Wing",
+   "align": "right"
+  },
+  {
+   "x": 104,
+   "y": 187,
+   "w": 17,
+   "h": 9,
+   "text": "Zero"
+  },
+  {
+   "x": 121,
+   "y": 187,
+   "w": 27,
+   "h": 10,
+   "text": "Taro"
+  },
+  {
+   "x": 148,
+   "y": 187,
+   "w": 27,
+   "h": 9,
+   "text": "W"
+  },
+  {
+   "x": 175,
+   "y": 187,
+   "w": 19,
+   "h": 9,
+   "text": "00"
+  },
+  {
+   "x": 194,
+   "y": 187,
+   "w": 35,
+   "h": 9,
+   "text": "Raiser"
+  },
+  {
+   "x": 230,
+   "y": 187,
+   "w": 19,
+   "h": 10,
+   "text": "Sub"
+  },
+  {
+   "x": 192,
+   "y": 197,
+   "w": 27,
+   "h": 8,
+   "text": "Main",
+   "align": "right"
+  },
+  {
+   "x": 219,
+   "y": 197,
+   "w": 36,
+   "h": 8,
+   "text": "Quest"
+  },
+  {
+   "x": 44,
+   "y": 224,
+   "w": 71,
+   "h": 10,
+   "text": "Force List",
+   "color": [
+    170,
+    238,
+    255
+   ],
+   "stroke": [
+    0,
+    0,
+    0
+   ],
+   "stroke_width": 1
+  },
+  {
+   "x": 149,
+   "y": 233,
+   "w": 52,
+   "h": 12,
+   "text": "Req. Chips",
+   "color": [
+    136,
+    255,
+    255
+   ],
+   "stroke": [
+    0,
+    0,
+    0
+   ],
+   "stroke_width": 1
+  },
+  {
+   "x": 75,
+   "y": 234,
+   "w": 74,
+   "h": 12,
+   "text": "Tutorial"
+  },
+  {
+   "x": 1,
+   "y": 245,
+   "w": 43,
+   "h": 11,
+   "text": "Records"
+  },
+  {
+   "x": 170,
+   "y": 245,
+   "w": 41,
+   "h": 11,
+   "text": "Unlock Req.",
+   "stroke": [
+    0,
+    0,
+    0
+   ],
+   "stroke_width": 1
+  },
+  {
+   "x": 44,
+   "y": 246,
+   "w": 67,
+   "h": 10,
+   "text": "Database"
+  },
+  {
+   "x": 96,
+   "y": 95,
+   "w": 68,
+   "h": 10,
+   "text": "Skill Tree"
+  }
+ ],
+ "gtx": "Graph/Camp/UI/Camp.gtx",
+ "composites": [
+  {
+   "note": "Camp row: sprite 44 + 45 (+35)",
+   "parts": [
+    [
+     "Use Skill",
+     0,
+     58
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 44,
+     "dx": 0,
+     "move": true
+    },
+    {
+     "sprite": 45,
+     "dx": 35
+    }
+   ]
+  },
+  {
+   "note": "Camp row: 48 + 51 (+23, dy 2; the original dot, now blank) + 49 (+27, dy 1) + 50 (+39)",
+   "parts": [
+    [
+     "Equip",
+     0,
+     23
+    ],
+    [
+     "Force",
+     27,
+     70,
+     0
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 48,
+     "dx": 0
+    },
+    {
+     "sprite": 51,
+     "dx": 23,
+     "dy": 2
+    },
+    {
+     "sprite": 49,
+     "dx": 27,
+     "dy": 1
+    },
+    {
+     "sprite": 50,
+     "dx": 39
+    }
+   ],
+   "line_h": 10,
+   "style": {
+    "size": 10
+   }
+  },
+  {
+   "note": "Camp row: 58 + 59 (+45); 59 shares pixels with Chip Check (13/18)",
+   "parts": [
+    [
+     "Check Quests",
+     0,
+     65
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 58,
+     "dx": 0
+    },
+    {
+     "sprite": 59,
+     "dx": 45,
+     "move": true
+    }
+   ]
+  },
+  {
+   "note": "Skill screen header 'Skill' (sprite 112) shares pixels with Skill Tree (43)",
+   "parts": [
+    [
+     "Skill",
+     0,
+     33
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 112,
+     "dx": 0,
+     "move": true
+    }
+   ]
+  },
+  {
+   "note": "Database submenu 'Force' (Force Data): whole sprite 52 shared with 49|50",
+   "parts": [
+    [
+     "Force",
+     0,
+     43
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 52,
+     "dx": 0,
+     "move": true
+    }
+   ]
+  }
+ ],
+ "grow": [
+  256,
+  512
+ ]
+}

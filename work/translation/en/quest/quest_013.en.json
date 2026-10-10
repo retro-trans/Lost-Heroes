@@ -1,0 +1,418 @@
+{
+ "slice": "quest_013",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.119",
+   "en": "We'll be taking back the O Raiser you stole from Maganac."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.120",
+   "en": "We'll be taking back the O Raiser you stole from Maganac."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.121",
+   "en": "Tch! Pursuers, is it!? You won't get the O Raiser!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.123",
+   "en": "Tch! So there were more of them!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.124",
+   "en": "No matter how many come, I'll simply eliminate them."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.125",
+   "en": "It doesn't matter how many of you there are. Let's go!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.126",
+   "en": "It doesn't matter how many of you there are. Let's go!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.127",
+   "en": "It doesn't matter how many of you there are. Let's go!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.128",
+   "en": "It doesn't matter how many of you there are. Let's go!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.129",
+   "en": "It doesn't matter how many of you there are. Let's go!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.130",
+   "en": "It doesn't matter how many of you there are. Let's go!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.131",
+   "en": "It doesn't matter how many of you there are. Let's go!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.132",
+   "en": "It doesn't matter how many of you there are. Let's go!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.133",
+   "en": "It doesn't matter how many of you there are. Let's go!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.134",
+   "en": "It doesn't matter how many of you there are. Let's go!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.135",
+   "en": "It doesn't matter how many of you there are. Let's go!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.136",
+   "en": "Bring it on, however many of ya there are! Let's gooo!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.137",
+   "en": "It doesn't matter how many of you there are. Let's go!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.138",
+   "en": "It doesn't matter how many of you there are. Let's go!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.140",
+   "en": "Impossible... That we could be defeated..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.143",
+   "en": "All right, that gets the O Raiser back."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.144",
+   "en": "The O Raiser... my new power..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.145",
+   "en": "Let's hand this over to 00."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.146",
+   "en": "Let's hand this over to 00."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.147",
+   "en": "Let's hand this over to 00."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.148",
+   "en": "Let's hand this over to 00."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.149",
+   "en": "Let's hand this over to 00."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.150",
+   "en": "Let's hand this over to 00."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.151",
+   "en": "Let's hand this over to 00."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.152",
+   "en": "Let's hand this over to 00."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.153",
+   "en": "Let's hand this over to 00."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.154",
+   "en": "Let's hand this over to 00."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.155",
+   "en": "Let's hand this over to 00."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.156",
+   "en": "Let's hand this over to 00."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.157",
+   "en": "Let's hand this over to 00."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.158",
+   "en": "Let's hand this over to 00."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.159",
+   "en": "00 must be in the party to progress this quest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.160",
+   "en": "Obtained \"O Raiser\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.161",
+   "en": "00's new skill has been unlocked."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.162",
+   "en": "Completed the quest \"Retrieving the O Raiser\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.1",
+   "en": "Word is Gaoh's evil Grand Bandit Gang is rampaging in Ultra Cube. Go stop them."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.16",
+   "en": "Hey, Gaoh!! Where are ya!! Get out here!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.17",
+   "en": "What the hell are you doing!! Why would you tell him where we are yourself!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.18",
+   "en": "Daah, shut up!! Gaoh! Get out here!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.19",
+   "en": "Who's there? Who's calling my name?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.21",
+   "en": "I wondered who it was. So it's you, Den-O."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.22",
+   "en": "Yo, Gaoh! Looks like you've been raisin' hell around here!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.23",
+   "en": "Well, I came all the way here to take ya down!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.24",
+   "en": "...What are you talking about? Are you an idiot?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.25",
+   "en": "Whaddya say!? Why, you..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.27",
+   "en": "Is that all you've got?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.29",
+   "en": "Whoa!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.30",
+   "en": "That's enough. Get out of here, now."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.31",
+   "en": "Like I'd ever listen to anything you say!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.32",
+   "en": "Don't get the wrong idea. I'm not asking."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.34",
+   "en": "Daah!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.35",
+   "en": "Listen. I'll say this just once more. Get out of my sight."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.36",
+   "en": "Ngh! He's strong!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.37",
+   "en": "Sempai, you okay?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.38",
+   "en": "What, Turtle!? I'm in the middle of a fight!! Don't talk to me!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.39",
+   "en": "That won't cut it, Sempai. Scoot over a sec."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.41",
+   "en": "What're you doin', Turtle!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.42",
+   "en": "I figured you couldn't win, Sempai. Hey you, how about you let me reel you in?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.43",
+   "en": "Hold it right there!! Leave this one to me!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.45",
+   "en": "Hey, Kin-chan!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.46",
+   "en": "I can't leave this to you lot. Leave it to me."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.47",
+   "en": "No fair, Bear! Let me have a go too!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.49",
+   "en": "I'm gonna beat you, okay? I don't care about your answer!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.50",
+   "en": "Ryuta!! Don't you go jumpin' in on your own..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.51",
+   "en": "But everyone looks like they're having so much fun. Of course I'm joining in too♪"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.52",
+   "en": "You snot-nosed brat! This ain't playtime!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.54",
+   "en": "You bastards!! Is this some cute little playtime for the four of you!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.56",
+   "en": "Huh?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.57",
+   "en": "Den-O can now use a new skill."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.58",
+   "en": "Oh!? What's this!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.59",
+   "en": "No way... Sempai, looks like we've turned into Climax Form."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.60",
+   "en": "Climax Form, ya say?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.61",
+   "en": "What? What the hell is going on?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.62",
+   "en": "Perfect timing!! I'll take ya on with this!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.63",
+   "en": "Let's go, you guys!! From here on out, it's our climax!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.119",
+   "note": "Quest012.bla: TextIdOffset+N plays row N+1 (empty rows 122/139/141-142 and content confirm: +120 Ahead -> 121, +122 Ankh -> 123, +123 00 -> 124, +143 00 -> 144, OkWinIn +158/+159/+161 -> 159/160/162). The final script requires 00 and plays only 00's own lines, so leader-variant blocks 107-120, 125-138 and 145-158 are unreferenced. In the 14-slot order without 00 (Ultraman..OOO), 119/120 = Shotaro/OOO; identical Japanese to 107-117, so same English as quest_012."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.121",
+   "note": "Ahead (CHARA_NAME 269, +120); glossary g=n, it speaks for its squad ('we')."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.123",
+   "note": "Ankh (+122), as a second enemy machine enters; 00 replies with row 124 (+123)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.136",
+   "note": "Unreferenced leader block 125-138; 136 is the Momotaros slot (rough 'ikuze-ei'). Others share identical Japanese, so identical English."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.140",
+   "note": "Unreferenced; inferred the defeated Ahead pilots (plural 'we')."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.143",
+   "note": "Unreferenced; speaker not recovered (a party member before 00's +143 line 144). Kept neutral."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.145",
+   "note": "Unreferenced 14-row leader block 145-158 (non-00 leaders); volitional '-te okou' rendered 'Let's hand this over to 00.'"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.161",
+   "note": "Not played by the script (OkWinIn skips +160); wording per QuestMess precedent \"X's new skill has been unlocked.\" Item name 'O Raiser' as in quest_012 / SkillName."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.1",
+   "note": "Quest description; 'Grand Bandit Gang' from QuestMess titles (#0.14 'The Infamous Grand Bandit Gang'), Ultra Cube per glossary. Compressed to fit like earlier quest descriptions."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.16",
+   "note": "Quest013.bla: TextIdOffset+N plays row N+1 throughout (empty rows 20/26/28/33/40/44/48/53/55 confirm). Den-O Sword Form (CHARA_NAME 3) lines are Momotaros' voice."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.17",
+   "note": "Ankh (+16) scolding Momotaros for shouting their position."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.19",
+   "note": "Gaoh speaking under the '???' name box (+18)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.32",
+   "note": "Not referenced by the script (+31 absent), but clearly Gaoh's reply to row 31 before his next attack; 'tanonderu n ja nai' = he is not asking, it's an order."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.39",
+   "note": "Urataros (+38) before taking over as Rod Form."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.42",
+   "note": "Den-O Rod Form (Urataros). Second sentence reuses the fixed catchphrase 'how about you let me reel you in?' (story_015)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.47",
+   "note": "Ryutaros calls Kintaros 'Kuma-chan' -> 'Bear' (talk_005 precedent); Urataros' 'Kin-chan' kept as in story_015/talk."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.49",
+   "note": "Den-O Gun Form (Ryutaros) catchphrase, as story_015."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.50",
+   "note": "Kintaros (+49); line trails off as in the source."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.54",
+   "note": "Gaoh (+53). 'O-yuugi' = a kindergarten play/dance routine; rendered 'cute little playtime' to keep the mockery."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.56",
+   "note": "Spoken by all four Imagin together (name box 'Momo/Ura/Kin/Ryu', CHARA_NAME 218)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.57",
+   "note": "System: played via OkWinIn(+56) after GetSkill; format per story precedent 'X can now use a new skill.'"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.63",
+   "note": "Momotaros (+62); 'koko kara ga climax da ze' rendered in his climax catchphrase family."
+  }
+ ],
+ "report": "80/80 rows examined. Quest012.bla and Quest013.bla both map TextIdOffset+N -> row N+1. DG_QUEST012 tail: Ahead 121, Ankh 123, 00 124/144, system 159-162; leader blocks 107-120, 125-138, 145-158 and rows 140/143 unreferenced (speakers inferred). DG_QUEST013: Gaoh vs Momotaros, then Urataros/Kintaros/Ryutaros take over and Climax Form unlocks; row 32 (Gaoh) unreferenced but certain from context. 0.143 speaker not recovered. No new names; Gaoh, Climax Form, Grand Bandit Gang reuse existing terms."
+}

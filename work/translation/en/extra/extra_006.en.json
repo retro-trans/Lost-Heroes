@@ -1,0 +1,170 @@
+{
+ "slice": "extra_006",
+ "rows_in_slice": 27,
+ "rows_examined": 27,
+ "rows": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.77",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess012.mbb#0.163",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.74",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.176",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.59",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.69",
+   "en": "Looks like we have to bring Ultraman along this time too."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess017.mbb#0.132",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.289",
+   "en": "Hey. Without God Gundam around, none of us is gonna use a sword."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess019.mbb#0.75",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.86",
+   "en": "00 must be in the party to progress this quest."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.262",
+   "en": "Completed the quest \"Rescuing Altron\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.30",
+   "en": "I have no interest in you lot. Bring me Black Sun."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.90",
+   "en": "Mebius must be in the party to progress this quest."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.210",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess025.mbb#0.41",
+   "en": "I'm pretty sure I told you to bring OOO."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0001.mbb#0.16",
+   "en": "With any attack, you can aim to deal massive damage."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0002.mbb#0.11",
+   "en": "Also, depending on which Forces you combine, they may produce unexpected effects."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0003.mbb#0.5",
+   "en": "That concludes the Checkpoint tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0004.mbb#0.9",
+   "en": "That concludes the Ride Dungeon tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0005.mbb#0.18",
+   "en": "That concludes the Ride Battle tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0006.mbb#0.7",
+   "en": "That concludes the Equipment Upgrade tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0007.mbb#0.14",
+   "en": "Once enough EXP builds up, that Idle Action levels up and becomes more effective."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0008.mbb#0.6",
+   "en": "That concludes the Random Cube tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0009.mbb#0.7",
+   "en": "That concludes the Item Search tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0010.mbb#0.5",
+   "en": "That concludes the Casino tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0011.mbb#0.15",
+   "en": "That concludes the Status tutorial."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.531",
+   "en": "Reward 30"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess011.mbb#0.77",
+   "note": "This and the other identical rows (012/013/014/015/017/019/024) reuse the established 'You can report quests...' wording; each is the final OkWinIn of its Quest0NN.bla after the completion message (e.g. Quest011 +72 completed, +76 this row)."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.69",
+   "note": "Quest016.bla +68, CHARA_NAME 36 = Ankh. Wrong-party branch: follows Baltan's 'Bring me Ultraman' (row 68); 'kondo mo' = 'this time too'."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.289",
+   "note": "Not referenced by Quest018.bla (max offset +162), so unused; speaker unknown. Rough 'oi ... zo' voice, kept as a party member's rough line. 'G-Gan' (slang for G Gundam) rendered God Gundam per corpus convention; 'katana' rendered 'sword' to match the 'Rusty Sword' reward earlier in the scene."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.86",
+   "note": "Quest020.bla: Pt_Chara_Check(10) then OkWinIn(+85). Matches the existing party-requirement wording."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.262",
+   "note": "Unused (Quest021.bla max offset +130). The title here differs from the quest list, which has 'Backing Up Altron' (QuestMess #0.22); this one says 'rescue', so rendered 'Rescuing Altron' - likely an old title."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.30",
+   "note": "Quest022.bla +29, CHARA_NAME 271 = Shadow Moon (wrong-party branch). 'Kisamara' = contemptuous 'you lot'."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.90",
+   "note": "Quest023.bla checks Pt_Chara_Check(14) at the start; the linear decompile shows OkWinIn(+89) after Quest_SetComplete, which is presumably the fail branch of that check. Text is the standard party-requirement line."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess025.mbb#0.41",
+   "note": "Quest025.bla +40, CHARA_NAME 36 = Ankh (wrong-party branch). '...ta hazu da' = 'I'm pretty sure I told you'."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0001.mbb#0.16",
+   "note": "Unused: Tutorial_01.bla plays +0..+13 only (rows 15 and 16 never play). Referent unclear (likely HERO/Crossover Skills or the red Color Timer crit boost); translated literally and neutrally."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0002.mbb#0.11",
+   "note": "Tutorial_02.bla plays +10 after row 7 (two kinds of Forces), before row 8."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0007.mbb#0.14",
+   "note": "Tutorial_07.bla plays +13 after row 4 (idle heroes gain EXP), so 'that Idle Action' = each hero's set action."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0003.mbb#0.5",
+   "note": "Tutorial closers 0003-0011 all play as the last line of their scripts; worded like the existing 'That concludes the Battle/Chip Tutorial.' with the lowercase 'tutorial' of their 'Starting the X tutorial.' openers."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.531",
+   "note": "Placeholder label, matches 'Reward 26'-'Reward 29'."
+  }
+ ],
+ "report": "27/27 rows. Uncertain: QuestEventMess018#0.289 (unused, speaker unknown), QuestEventMess021#0.262 (title 'Rescuing Altron' differs from quest list 'Backing Up Altron'), MainEventMess0001#0.16 (unused, referent unclear). No new names."
+}

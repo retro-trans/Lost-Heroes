@@ -1,0 +1,378 @@
+{
+ "slice": "quest_015",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.83",
+   "en": "Kh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.84",
+   "en": "Kh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.85",
+   "en": "Kh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.86",
+   "en": "Kh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.87",
+   "en": "Kh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.88",
+   "en": "Kh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.89",
+   "en": "Kh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.90",
+   "en": "Kh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.91",
+   "en": "Kh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.92",
+   "en": "Kh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.93",
+   "en": "Kh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.94",
+   "en": "Yes, that's it. Be afraid."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.95",
+   "en": "Fear, too, is a sweetness of dazzling colors that races across the tongue."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.96",
+   "en": "Damn it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.97",
+   "en": "Ankh! Are you okay!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.98",
+   "en": "Ankh! Are you okay!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.99",
+   "en": "Ankh! Are you okay!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.100",
+   "en": "Ankh! Are you okay!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.101",
+   "en": "Ankh! Are you okay!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.102",
+   "en": "Ankh! Are you okay!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.103",
+   "en": "Ankh! You all right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.104",
+   "en": "Ankh! Are you okay!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.105",
+   "en": "Ankh! Are you okay!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.106",
+   "en": "Ankh! Are you okay!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.107",
+   "en": "Ankh! Are you okay!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.108",
+   "en": "Ankh! Are you okay!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.109",
+   "en": "Ankh! Are you okay!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.110",
+   "en": "Ankh! Are you okay!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.111",
+   "en": "Ankh! Are you okay!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.112",
+   "en": "Ankh! Are you okay!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.113",
+   "en": "Shut up! Don't worry about me!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.114",
+   "en": "Never mind me, focus on that freak! Take that freak down and snatch the ice pop!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.115",
+   "en": "Let's go!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.118",
+   "en": "All right! The ice pop... What happened to the ice pop!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.120",
+   "en": "What the hell!? The ice pop's gone!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.121",
+   "en": "So the ice pop melted away while we were fighting..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.122",
+   "en": "So the ice pop melted away while we were fighting..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.123",
+   "en": "Looks like the ice pop melted away while we were fightin'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.124",
+   "en": "So the ice pop melted away while we were fighting..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.125",
+   "en": "So the ice pop melted away while we were fighting..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.126",
+   "en": "It seems the ice pop melted away while we were fighting."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.127",
+   "en": "Guess the ice pop melted away while we were fighting."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.128",
+   "en": "So the ice pop melted away while we were fighting, huh."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.129",
+   "en": "It appears the ice pop melted away while we were fighting."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.130",
+   "en": "Seems the ice pop melted away while we were fighting."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.131",
+   "en": "So the ice pop melted away while we were fighting..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.132",
+   "en": "So the ice pop melted away while we were fighting..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.133",
+   "en": "So the ice pop melted away while we were fighting..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.134",
+   "en": "So the ice pop melted away while we were fighting..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.135",
+   "en": "So the ice pop melted away while we were fighting..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.136",
+   "en": "Damn it! You've gotta be kidding me! What do you think I was fighting for!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.137",
+   "en": "Tough luck, Ankh."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.138",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.139",
+   "en": "Man, just how bad do you want ice pop?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.140",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.141",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.142",
+   "en": "Let's let it go, Ankh."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.143",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.144",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.145",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.146",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.147",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.148",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.149",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.150",
+   "en": "Better give it up."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.151",
+   "en": "Better give it up."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.152",
+   "en": "...Tch."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.153",
+   "en": "Hm? What's that...?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.154",
+   "en": "Where the ice pop had melted, only its stick was left, stuck in the ground."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.155",
+   "en": "This is... Hey, look closer, it's a Feilong Flag!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.156",
+   "en": "This is... Hey, look closer, it's a Feilong Flag!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.157",
+   "en": "This thing... Hey, look closer, it's a Feilong Flag, ain't it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.158",
+   "en": "This is... Hey, look closer, it's a Feilong Flag!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.159",
+   "en": "This is... Hey, look closer, it's a Feilong Flag!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.160",
+   "en": "This is... Looking closely, isn't this a Feilong Flag?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.161",
+   "en": "This thing... Hey, look closer, it's a Feilong Flag, ain't it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.162",
+   "en": "Why, this is... a Feilong Flag!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.163",
+   "en": "Why, this is... a Feilong Flag!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.164",
+   "en": "Why, this is... a Feilong Flag!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.165",
+   "en": "This is... Hey, look closer, it's a Feilong Flag!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.83",
+   "note": "Quest014.bla maps TextIdOffset+N to row N+1 (checked: +3 Ankh = row 4, +4 narration = row 5, +117/+119 Ankh = rows 118/120 with 116/117/119 empty, +153 narration = row 154). Leader blocks are +K+pt in this script's Pt_Chara_Check order: 0 OOO, 1 W (Shotaro), 2 Den-O Sword (Momotaros), 3 Black RX, 4 Rider 1, 5 Mebius, 6 Zero, 7 Taro, 8 Ultraman, 9 Seven, 10 Nu, 11 Zeta, 12 God, 13 Wing Zero, 14 00 (default). Rows 79-93 = party grunt block (79-82 in quest_014); 'Kh!' reused from identical Japanese elsewhere."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.94",
+   "note": "Sweets Dopant (CHARA_NAME 270, +93/+94). Glossary g=f; no pronoun needed in these rows."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.96",
+   "note": "Ankh (+95), hit by the Dopant."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.97",
+   "note": "Leader block 97-111 (+96+pt). 103 = Zero (plain, rougher form), others share one line. Row 112 is an extra copy of the same line, not referenced by the script."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.114",
+   "note": "Ankh (+112/+113). 'That one' = Sweets Dopant; 'that freak' avoids a gendered pronoun. Speaking to the party: beat it and seize the ice cream."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.115",
+   "note": "Not referenced by Quest014.bla (+114 unused; script goes from +113 straight to GoToBattle). Speaker unknown, most likely Ankh; rendered neutrally."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.118",
+   "note": "Ankh (+117/+119), after the battle. Aisu rendered 'ice cream' to match the quest title/description already translated in QuestMess (system_066: 'The Ultimate Ice Cream', 'giant ice cream'); story/talk slices use 'ice pops' for Ankh's usual craving, so this quest stays on 'ice cream' for internal consistency."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.121",
+   "note": "Leader block 121-135 (+120+pt): 123 Momotaros, 126 Mebius (polite), 127 Zero, 128 Taro, 129 Ultraman, 130 Seven; all the identical plain-question rows share one English line."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.136",
+   "note": "Ankh (+135), venting at the loss."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.137",
+   "note": "Leader block 137-151 (+136+pt): 137 OOO teasing, 139 Momotaros, 142 Mebius (inclusive 'let's'), 150-151 Wing Zero/00 (curt, no name). Others share 'Give it up, Ankh.'"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.152",
+   "note": "Ankh (+151/+152); +153 narration (154)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.155",
+   "note": "Leader block 155-169 (+154+pt; 166-169 in quest_016): 157 Momotaros and 161 Zero (rough form, same English), 160 Mebius (polite question), 162-164 Taro/Ultraman/Seven (shorter wording). Feilong Flag = item name from ItemNameFormal/QuestMess English (system_058/067/070)."
+  }
+ ],
+ "report": "80/80 rows. Speakers from Quest014.bla (mapping N+1; Pt_Chara_Check order OOO, Shotaro, Momotaros, RX, Rider 1, Mebius, Zero, Taro, Ultraman, Seven, Nu, Zeta, God, Wing Zero, 00). Row 115 unreferenced (speaker guessed Ankh, neutral). Row 112 unreferenced duplicate. Aisu = 'ice cream' per quest title, conflicts with 'ice pops' used for Ankh in story/talk. No new names."
+}

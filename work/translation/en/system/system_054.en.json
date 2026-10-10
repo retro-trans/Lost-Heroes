@@ -1,0 +1,350 @@
+{
+ "slice": "system_054",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.64",
+   "en": "All-Direction Barrage"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.65",
+   "en": "Imperial Sword"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.66",
+   "en": "One-Trillion-Degree Fireball"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.67",
+   "en": "Zetton Final Beam"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.68",
+   "en": "Light Bullet"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.69",
+   "en": "Sharp Claws"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.70",
+   "en": "Sharp Fangs"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.71",
+   "en": "Club-Type Beam Rifle"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.72",
+   "en": "Heat Hawk"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.73",
+   "en": "Heat Rod"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.74",
+   "en": "Body Slam"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.75",
+   "en": "Intense Flame"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.76",
+   "en": "Blue Heat Ray"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.77",
+   "en": "Heat Punch"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.78",
+   "en": "Extra Effect j attached"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.79",
+   "en": "Extra Effect k attached"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.80",
+   "en": "Extra Effect l attached"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.81",
+   "en": "Extra Effect m attached"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.82",
+   "en": "Extra Effect n attached"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.83",
+   "en": "Extra Effect o attached"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.84",
+   "en": "Extra Effect p attached"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.85",
+   "en": "Extra Effect q attached"
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.86",
+   "en": "Extra Effect r attached"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.1",
+   "en": "Dummy message"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.2",
+   "en": "A horde of enemies attacked!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.3",
+   "en": "<enemy_name> attacked!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.4",
+   "en": "<enemy_name> and others attacked!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.5",
+   "en": "<party_name>'s team<br>struck first!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.6",
+   "en": "<enemy_name> launched<br>a surprise attack!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.7",
+   "en": "The enemy pack launched<br>a surprise attack!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.8",
+   "en": "Defeated the enemy horde!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.9",
+   "en": "<party_name>'s team<br>was defeated..."
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.10",
+   "en": "<act_ch>'s team fled!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.11",
+   "en": "But there was no escape!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.12",
+   "en": "We can't run away here!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.13",
+   "en": "Attack"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.14",
+   "en": "Use a skill"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.15",
+   "en": "Use a HERO Skill"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.16",
+   "en": "Defend"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.17",
+   "en": "Use an item"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.18",
+   "en": "Flee"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.19",
+   "en": "Spend 1 Hero Gauge<br>to power up a skill"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.20",
+   "en": "Team up with allies<br>to use a Crossover Skill"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.21",
+   "en": "Spend the whole Hero Gauge<br>to use a Finish Skill"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.22",
+   "en": "Attack"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.23",
+   "en": "Retreat"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.24",
+   "en": "Attack with the main cannon or drill"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.25",
+   "en": "Attack or harass with machine guns"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.26",
+   "en": "Head to the bridge and use a HERO Skill"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.27",
+   "en": "Heal or defend"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.28",
+   "en": "Fire the main cannon"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.29",
+   "en": "Charge the main cannon"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.30",
+   "en": "Attack with the drill"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.31",
+   "en": "Attack with machine guns"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.32",
+   "en": "Lay down a barrage to harass the enemy"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.33",
+   "en": "Weaken the enemy with a special device"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.34",
+   "en": "Restore armor"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.35",
+   "en": "Repair damaged parts"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.36",
+   "en": "Support and defend"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.37",
+   "en": "But there was no escape!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.38",
+   "en": "But there's no escape!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.39",
+   "en": "Defeated <tag_chr>!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.40",
+   "en": "<tag_chr> collapsed!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.41",
+   "en": "<act_ch><br>ran out of energy!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.42",
+   "en": "<act_ch>'s energy<br>was restored!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.43",
+   "en": "<act_ch> is Infected!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.44",
+   "en": "<act_ch> is Stunned!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.45",
+   "en": "<act_ch> is in a Panic!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.46",
+   "en": "<act_ch> is knocked out!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.47",
+   "en": "<act_ch> is under Pressure<br>and can't use skills!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.48",
+   "en": "<tag_chr> is no longer Infected!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.49",
+   "en": "<tag_chr> is no longer Stunned!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.50",
+   "en": "<tag_chr> came to their senses!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.51",
+   "en": "<tag_chr>'s vision returned!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.52",
+   "en": "<tag_chr> woke up!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.53",
+   "en": "<tag_chr> was freed<br>from Pressure!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.54",
+   "en": "<tag_chr> recovered<br>from Negative!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.55",
+   "en": "<tag_chr> got back up!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.56",
+   "en": "The main cannon was repaired!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.57",
+   "en": "The gun turret was repaired!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.3",
+   "note": "Rows 3-10 and 39-55 contain mis-decoded name variables (v...x spans) that are not {XXXX} tags; they cannot be reproduced, so generic subjects (the enemy, the party, the unit, the target) stand in. Actor-type variable -> 'the unit', target-type -> 'the target'. Unsure."
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.19",
+   "note": "Mid-sentence mis-decoded wait code omitted (same as system_053). Also #0.21, #0.47, #0.6, #0.7."
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.20",
+   "note": "Source says SP Skill; rendered 'Crossover Skill' to match the glossary and the BattleMess table."
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.21",
+   "note": "'Finish Skill' is a literal rendering; may be the same thing as the 3-gauge HERO Skill in BattleMess."
+  },
+  {
+   "key": "Table/Enemy/SkillName.mbb#2.78",
+   "note": "Dev placeholder 'Additional effect <letter> attached'; letters kept."
+  }
+ ],
+ "report": "Enemy skill names (reused system_053 renderings) and Enemy/SystemMessage debug/command text. Uncertain: generic subjects replacing garbled name variables, Crossover Skill for SP skill, Finish Skill. No new glossary terms."
+}

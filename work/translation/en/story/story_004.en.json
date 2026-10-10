@@ -1,0 +1,394 @@
+{
+ "slice": "story_004",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0111.mbb#0.3",
+   "en": "Send the current through 'em!!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.4",
+   "en": "Uwaaaaagh!!!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.5",
+   "en": "Kyaaaaah!!!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.6",
+   "en": "You're not getting away! Now go down!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.7",
+   "en": "Wahahahaha!! Can't move, can you!? This is our Hambrabi Squad's \"Spider Web\" tactic!!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.8",
+   "en": "Gwaaaaagh!!!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.9",
+   "en": "Kyaaaaaah!!!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.10",
+   "en": "All right, that's enough."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.11",
+   "en": "After that much damage, they won't be moving! Haul 'em in!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.12",
+   "en": "Kh... Not here... not like this..."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.13",
+   "en": "I... I can't move..."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.15",
+   "en": "Zeta Gundam!! Methuss!! Has the current left you unable to move!?"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.16",
+   "en": "...Nu Gundam!?"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.17",
+   "en": "Hm? ...Hold on a sec."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.18",
+   "en": "Looks like some fresh prey just showed up, huh?"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.19",
+   "en": "Hambrabi!! What are you planning to do with those two!?"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.20",
+   "en": "Who knows!!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.21",
+   "en": "We'll take your heads too while we're at it!! The more gifts we bring back, the better!!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.22",
+   "en": "Kh... I'm not about to die over something like this. If it's come to this... I've got no choice..."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.23",
+   "en": "Kyaah!!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.24",
+   "en": "I'm taking this one, at least!!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.25",
+   "en": "Wait!!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.26",
+   "en": "Ah-ah, stay right there. Or else I can't say what'll happen to Methuss."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.27",
+   "en": "So that's how you people fight!?"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.28",
+   "en": "Guhahahahaha!!!! Exactly right!! Farewell!!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.29",
+   "en": "Wait!! Spider Man!!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.30",
+   "en": "Hold on, Zeta!!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.31",
+   "en": "I can't wait! I have to get Methuss...!!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.32",
+   "en": "You can't, not in that condition!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.33",
+   "en": "But..."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.34",
+   "en": "Besides, going off alone is dangerous. Calm down, Zeta."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.35",
+   "en": "Everyone here is a comrade. Don't you think joining forces is the smart move right now?"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.36",
+   "en": "...You're right."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.37",
+   "en": "Understood. If you'll have me..."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.38",
+   "en": "Of course we will."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.39",
+   "en": "Zeta Gundam joined the party!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.40",
+   "en": "You can change your party lineup at the base."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.42",
+   "en": "Damn it! Looks like even the great me is losing my edge..."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.43",
+   "en": "Hambrabi!! What a sorry state you're in!!"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.44",
+   "en": "Spider Man, huh..."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.45",
+   "en": "That \"Sea Snake\" you gave me... Now that was one fine weapon..."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.46",
+   "en": "Hambrabi... Understood... Leave the rest to me!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.1",
+   "en": "My deepest apologies..."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.2",
+   "en": "I believe I ordered you to capture Zeta and Methuss as a set, did I not?"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.3",
+   "en": "But in that situation..."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.4",
+   "en": "Silence!! As punishment, you will become Bogal's food!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.5",
+   "en": "Fufufu... Spider Man. What a tasty-looking kaijin you are."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.6",
+   "en": "N-no... Please, forgive me!!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.7",
+   "en": "I'll hear no excuses!!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.8",
+   "en": "Time to eaaat..."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.9",
+   "en": "N... Nooo, stop iiiit!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.10",
+   "en": "GYAAAAAAAAAGH!!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.11",
+   "en": "Now, Methuss... watch veeery closely."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.12",
+   "en": "...!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.13",
+   "en": "\"CRUNCH...!! SNAP... SPLAT...\""
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.14",
+   "en": "At this very moment, Twin Tail is being skewered all over by countless fangs..."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.15",
+   "en": "...while digestive acid slowly melts its body away, starting from the extremities!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.16",
+   "en": "H-how could you..."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.17",
+   "en": "Mm... Gnngh..."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.18",
+   "en": "\"GLUUURK... SQUISH-SQUISH-SQUISH-SQUISH...\""
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.19",
+   "en": "Th... Th-that's horrible..."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.20",
+   "en": "Oh, I do like that expression. It seems even mobile suits can feel fear."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.21",
+   "en": "Heh heh heh heh...!! At last I've found one... someone with excessive compatibility!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.22",
+   "en": "Stop it!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.23",
+   "en": "Stop!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.24",
+   "en": "Let Methuss go!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.25",
+   "en": "That's enough, Weather Dopant! Stealing the wind and taking our friend... that's a heavy sin!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.26",
+   "en": "That's far enough! I will never forgive a scumbag like you!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.27",
+   "en": "You people again...? I'm impressed you made it all the way here."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.28",
+   "en": "However... I cannot forgive you for getting in my way!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.29",
+   "en": "...Now disappear!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.30",
+   "en": "Seamons!! Seagorath!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.31",
+   "en": "Kiiiiigwah!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.32",
+   "en": "Groooooooh!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.33",
+   "en": "Heh heh heh heh!! Rampage to your hearts' content!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.34",
+   "en": "Methuss! We're leaving!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.35",
+   "en": "Kiiiiigwah!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.36",
+   "en": "Groooooooh!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.37",
+   "en": "...This wind is incredible. We can't get anywhere near them like this!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.38",
+   "en": "...This wind is incredible. We can't get anywhere near them like this!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0111.mbb#0.22",
+   "note": "proofread: speaker confirmed from 0111.bla: the script plays 0.1-0.21, battle vs Hambrabi, 0.42-0.46, battle vs Spider Man, then 0.22 onward. This is the beaten Spider Man; label correct, English unchanged."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.31",
+   "note": "Zeta's line trails off in the source (literally 'I, Methuss...'). The verb 'get' was supplied and the line still ends unfinished."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.38",
+   "note": "Nu Gundam is answering Zeta's 'if you'll have me', so he is accepting Zeta into the group: 'Of course we will.'"
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.40",
+   "note": "System message. 'base' is the hub term used in story_002 (check it against the UI name for the hub)."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.42",
+   "note": "The idiom means losing one's edge or touch. The arrogant first-person 'ore-sama' is rendered as 'even the great me'."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.45",
+   "note": "'Sea Snake' is the established English name of Hambrabi's wire weapon (Zeta Gundam), kept in quotes as in the source."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.1",
+   "note": "proofread: 0112.bla never plays 0.1-0.5, 0.11-0.15, 0.17-0.19 or 0.21 (unused cut lines, an older draft where Spider Man is fed to Bogal). Their speakers are inferred only: 0.1/0.3 Spider Man, 0.2/0.4 Weather Dopant, 0.5 Bogal. English left as is."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.6",
+   "note": "proofread: label confirmed. The played scene opens with 0.90-0.102 (Weather offers Twin Tail to Bogal as a feast), then 0.6-0.10, 0.16, 0.20, 0.22+. Twin Tail is the victim; the Spider Man lines are unused (see 0.1)."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.14",
+   "note": "proofread: unused line (not called by 0112.bla). The played scene feeds Twin Tail to Bogal, so 'Twin Tail' stays; no change to Spider Man needed. 0.15 uses 'its' for Twin Tail (g=n)."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.11",
+   "note": "Unused line (not called by 0112.bla). Unlabelled. Weather Dopant (polite sadistic speech) forcing the captive Methuss to watch. 0.12 '...!!' and 0.19 are probably Methuss. 0.17 'Mm... Gnngh...' is unclear: either the victim's last gasp or Methuss being restrained. It is written as a neutral groan."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.32",
+   "note": "proofread: Seagorath roar aligned with story_005/006 ('Grooooooh!!'), per the glossary roar-consistency rule. Same for 0.36."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.13",
+   "note": "Sound effects in corner brackets are rendered in double quotes, as in story_003. Same for 0.18."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.21",
+   "note": "Unlabelled; this is Weather Dopant. The W term 'kajou tekigousha' (someone with excessive Gaia Memory compatibility, what Isaka hunts for in the show) is rendered descriptively as 'someone with excessive compatibility'. I couldn't verify an established English fandom term for it (possibly 'Excessive Adaptor'); worth a glossary entry."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.20",
+   "note": "The source says 'MS', rendered as 'mobile suits' following the glossary."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.22",
+   "note": "0.22-0.26 and 0.37-0.38 are party-dependent variants: one line per hero, only the ones in the party play."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.25",
+   "note": "'Our friend' = Methuss (the source says 'nakama', comrade). 'kidnapped' became 'taking' and 'That's far enough' became 'That's enough' so the line fits in 2 lines; the meaning is unchanged. 'Heavy sin' echoes W's sin motif."
+  }
+ ],
+ "report": "PROOFREAD: 80/80 rows checked, 2 changed (Seagorath roar 0.32/0.36 aligned with later slices). Speakers verified against 0111.bla/0112.bla; the Twin Tail vs Spider Man question is settled: the Spider Man feeding lines (0112 0.1-0.5, 0.11-0.15, 0.17-0.19, 0.21) are never played, Twin Tail is the real victim. ORIGINAL: 80/80 rows examined. Key issue: in 0112 #0.14 the source names Twin Tail as Bogal's victim, but the lines before it (0.4-0.5) make Spider Man the victim, and the victim's speaker labels say Twin Tail. Translated as written; needs a decision. Other inferences: 0111 #0.22 could be Spider Man or Hambrabi; 0112 #0.1-0.5, 0.11-0.21 speakers unlabelled and inferred. Terms not in glossary: 'Sea Snake' (Hambrabi's weapon), 'Spider Web' tactic, 'Hambrabi Squad', 'excessive compatibility' (W term, unverified English), 'kaijin'."
+}

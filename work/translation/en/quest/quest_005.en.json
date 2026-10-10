@@ -1,0 +1,398 @@
+{
+ "slice": "quest_005",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.102",
+   "en": "Yeah, it's Zeta Gundam's weapon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.103",
+   "en": "Yeah, that's gotta be the thing Zeta Gundam was lookin' for."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.104",
+   "en": "Yeah, that's gotta be the thing Zeta Gundam was lookin' for."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.105",
+   "en": "Yes. I think it's the weapon Zeta was looking for."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.106",
+   "en": "Yes, it's most likely the weapon Zeta Gundam was looking for."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.107",
+   "en": "Yes, it's most likely the weapon Zeta Gundam was looking for."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.108",
+   "en": "Yes, it's most likely the weapon Zeta Gundam was looking for."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.109",
+   "en": "Yeah, it's probably the weapon Zeta Gundam was looking for."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.110",
+   "en": "Yeah, that must be the weapon Zeta Gundam was looking for."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.111",
+   "en": "Yes, it's most likely the weapon Zeta Gundam was looking for."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.113",
+   "en": "I see. Then I'll leave it with you all. Put it to good use in the battles ahead."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.114",
+   "en": "Obtained \"Hyper Mega Launcher\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.115",
+   "en": "Well, I'll report it that way. Thanks!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.117",
+   "en": "What are you doing? You're going to look for the weapon without Zeta Gundam?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.118",
+   "en": "Zeta Gundam must be in the party to progress this quest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.120",
+   "en": "Completed the quest \"Maganac's Request\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.1",
+   "en": "Word is an MS hunting Zeta Gundam has appeared in Desert Cube's Wasteland Zone. Investigate."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.8",
+   "en": "If it's that MS you're after... it should still be deep in the area up ahead."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.14",
+   "en": "There's something here!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.19",
+   "en": "Well, well!! Found ya!! Zeta Gundam!! And you came strollin' right up to me on your own!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.20",
+   "en": "So you're the one who's been looking for me!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.21",
+   "en": "Thanks to you, I got run out of Regis Core and stuck in a dump like this, miserable and filthy!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.22",
+   "en": "If I bring you back as a gift, my name's cleared!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.23",
+   "en": "All right, you lot! Seize Zeta Gundam!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.24",
+   "en": "Fufufufu..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.25",
+   "en": "Hyahhaaa!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.26",
+   "en": "You've even got underlings like these...!! I won't let you do as you please!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.27",
+   "en": "This time it ain't gonna go like before!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.29",
+   "en": "Dammit!! Retreat!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.30",
+   "en": "Obtained Spider Silk."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.31",
+   "en": "Completed the quest \"The Mysterious Mobile Suit\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.32",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.34",
+   "en": "What!? You lot... Zeta Gundam ain't with you!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.0",
+   "en": "7"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.1",
+   "en": "Possible Psycommu weapon found in Desert Cube's Military Base. Check it with Nu & Zeta Gundam."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.7",
+   "en": "There was nothing inside."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.8",
+   "en": "...There's nothing in it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.9",
+   "en": "This is the right place, though."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.10",
+   "en": "...Hm!? What is this feeling!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.11",
+   "en": "I felt it too..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.12",
+   "en": "Let's go and see..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.13",
+   "en": "Right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.16",
+   "en": "Nu Gundam and Zeta Gundam must be in the party to progress this quest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.23",
+   "en": "This way."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.26",
+   "en": "It's not this way."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.29",
+   "en": "It's up ahead."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.30",
+   "en": "It's getting stronger, isn't it?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.35",
+   "en": "It's in here...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.36",
+   "en": "I'm opening it...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.39",
+   "en": "Ngh... Funnels!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.40",
+   "en": "Where are they...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.43",
+   "en": "How did you know about this place!? You're Newtypes, aren't you!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.44",
+   "en": "A Jagd Doga...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.45",
+   "en": "A survivor from the research facility!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.46",
+   "en": "I'm not giving you the \"Fin Funnels\"!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.47",
+   "en": "What!? ...So the Psycommu weapon was the \"Fin Funnels\"!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.48",
+   "en": "Those belong to Nu Gundam!! We're taking them back!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.49",
+   "en": "No way! These are really important to Regis!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.50",
+   "en": "I don't have time to play with a child! Let's go!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.51",
+   "en": "Go!! Funnels!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.52",
+   "en": "Ahahahahah!! Go down, go down, go dooown!!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.53",
+   "en": "This one's... a real pain."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.54",
+   "en": "All of you, just go dooown!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.56",
+   "en": "Obtained \"Fin Funnel\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.57",
+   "en": "We did it. With these, the fighting will get a lot easier."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.58",
+   "en": "Yeah... But it doesn't sit well with me that the enemy has even Newtypes under its command."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.60",
+   "en": "Completed the quest \"Psycommu Weapon\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.1",
+   "en": "We got word from a comrade who's acting alone. Please head into Desert Cube's Military Base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.3",
+   "en": "I've been waiting."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.4",
+   "en": "Altron!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.5",
+   "en": "Altron! What's going on?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.6",
+   "en": "Altron! What on earth happened?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.7",
+   "en": "Altron! What on earth happened?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.8",
+   "en": "Altron! What's going on?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.9",
+   "en": "Altron! Is something wrong?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.10",
+   "en": "Altron! What on earth happened?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.11",
+   "en": "Well, if it ain't Altron! What the hell happened?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.12",
+   "en": "Altron! What on earth happened?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.13",
+   "en": "Altron! What on earth happened?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.14",
+   "en": "Altron! Is something the matter?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.102",
+   "note": "Quest004.bla (row = TextIdOffset+N-2) plays only 118 (+120, OkWin when Zeta is missing) and 120 (+122, completion) from this table's tail. 102-117 are unused: 102-111 finish the 13-slot no-Zeta leader block begun at 99 (quest_004), voiced from wording as quest_004 did (103/104 casual 'yatsu', 105 polite 'Zeta-san' -> 'Zeta'); identical Japanese kept identical (102 = 99-101)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.113",
+   "note": "113/115 = the unnamed casual client of the unused finale (115 identical to 79, kept identical). 117 speaker unknown (unused line addressed to a party without Zeta); kept neutral."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.8",
+   "note": "Quest005.bla (QuestEventMess005, same text) maps TextIdOffset+N to row N-1 here (verified: +20 Hambrabi -> 19, +21 Zeta -> 20, +25 Magma Dopant -> 24, +26 Ice Age Dopant -> 25). 8 = Maganac (CHARA_NAME 79)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.14",
+   "note": "Row 14 not referenced by Quest005.bla; treated as narration."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.19",
+   "note": "Hambrabi (CHARA_NAME 42, Yazan voice: thuggish) speaks 19, 21-23, 27, 29, 34; Zeta Gundam 20, 26; Magma Dopant 24; Ice Age Dopant 25. 'Noko-noko' = walking right in carelessly."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.21",
+   "note": "'Regis Core' as in DungeonName."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.22",
+   "note": "'Temiyage' (a gift to bring along) -> 'bring you back as a gift'; 'omei henjou' -> 'my name's cleared'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.30",
+   "note": "Not referenced by the decompiled script (the GET sound plays before OkWin +32/+33 = rows 31/32); item name 'Spider Silk' from ItemNameFormal. Source has no brackets, so no quotes."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.34",
+   "note": "+35 -> row 34: Hambrabi line in the no-Zeta branch (Pt_Chara_Check(7))."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.1",
+   "note": "Compressed to fit the 2-line box: 'something that looks like' -> 'Possible', 'investigate' -> 'Check it'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.0",
+   "note": "Header cell (like {F000} in other quest tables); kept as the digit."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.7",
+   "note": "Quest006.bla maps TextIdOffset+N to row N-3 (OkWin +10 -> 7 chest narration, +11 Nu -> 8, +12 Zeta -> 9 ... +57 Jagd Doga -> 54, +59 -> 56, +63 -> 60, +19 -> 16). Nu Gundam (Amuro): 8, 10, 12, 23, 29, 35, 39, 44, 47, 50; Zeta Gundam (Kamille, polite to Amuro, carried by tone): 9, 11, 13, 26, 30, 36, 40, 45, 48, 53."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.43",
+   "note": "Jagd Doga (CHARA_NAME 188) speaks 43, 46, 49, 51, 52, 54; childish female-coded speech, but glossary g=n, so no pronouns used; Nu calls it 'a child' (50)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.45",
+   "note": "'Research facility' not identified further in the source; kept literal."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.52",
+   "note": "'Ochiro' -> 'Go down', matching the story slices' rendering."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.57",
+   "note": "Rows 57/58 not referenced by the decompiled script; 57 polite -> Zeta Gundam, 58 -> Nu Gundam, inferred from wording."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.3",
+   "note": "Quest007.bla: +2 -> row 3 (??? = Altron, CHARA_NAME 30), +3 -> row 4 Wing Zero (required, script-fixed). 5-14 are unused leader variants voiced from wording, matching quest_006's inferred order (5 00, 6 God, 7 Zeta, 8 Nu, 9 OOO polite, 10 W, 11 Den-O rough, 12 RX, 13 Rider 1, 14 Mebius polite with -san dropped). 6/7/10/12/13 use quest_006's 'Altron! What on earth happened?' exactly."
+  }
+ ],
+ "report": "80/80 rows examined. Speakers from Quest004-007.bla; offsets differ per script: Quest004 N-2, Quest005 N-1, Quest006 N-3, Quest007 N+1 (each checked against the empty rows and content). Unused rows voiced from wording: Q4 102-117, Q5 14/30, Q6 57-58, Q7 5-14. Q4 117 speaker unknown. New non-glossary names: none (Hambrabi, Magma Dopant, Ice Age Dopant, Jagd Doga, Regis Core, Spider Silk, Fin Funnel all from glossary/tables)."
+}

@@ -1,0 +1,406 @@
+{
+ "slice": "story_017",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0146.mbb#0.88",
+   "en": "Methuss!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.89",
+   "en": "...Are you all right!?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.90",
+   "en": "Methuss!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.91",
+   "en": "...You okay!?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.92",
+   "en": "Methuss!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.93",
+   "en": "...Are you all right!?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.94",
+   "en": "Methussss!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.95",
+   "en": "...Hey, you okay!?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.96",
+   "en": "Yeah... I'm..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.97",
+   "en": "With the Weather Dopant gone, Methuss was freed from her fear."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.105",
+   "en": "Welp, now that we got the spare Pass back too, we're outta here!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.106",
+   "en": "We've got to investigate the \"flow of time,\" after all."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.107",
+   "en": "It was only a short while, but thanks for everythin'."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.108",
+   "en": "Bye-byeee!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.111",
+   "en": "Heeey!! ...Huh? What the, it's already over?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.112",
+   "en": "...So? You got it back for us, right!? The spare Pass!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.114",
+   "en": "{8074} handed the spare Rider Pass to Den-O."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.116",
+   "en": "Yeah! Thanks a bunch!! Well then, we're outta here."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.117",
+   "en": "We've got to investigate the \"flow of time,\" after all."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.118",
+   "en": "It was only a short while, but thanks for everythin'."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.119",
+   "en": "Bye-byeee!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.127",
+   "en": "Looks like each of you achieved what you came for."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.128",
+   "en": "You saved our skins, Accel."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.129",
+   "en": "Thank you, Accel!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.130",
+   "en": "You saved us, Accel."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.131",
+   "en": "You saved our skins, Accel."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.132",
+   "en": "Thank you, Accel."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.133",
+   "en": "Thank you so much, Accel!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.134",
+   "en": "I only won thanks to the Trial Memory. Good thing I happened to stumble across it, but..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.135",
+   "en": "It seems the powers we lost have been absorbed into this world as well."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.136",
+   "en": "I see..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.137",
+   "en": "So if we want to keep fighting in this world, we'll have to recover them one by one."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.138",
+   "en": "I see..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.139",
+   "en": "So to keep fighting in this world, we need to get them back..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.140",
+   "en": "I see..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.141",
+   "en": "So to keep fighting in this world, we'll have to take them back."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.142",
+   "en": "I see..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.143",
+   "en": "So if we wanna keep fighting in this world, we've gotta take 'em back, huh."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.144",
+   "en": "I see..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.145",
+   "en": "So to keep fighting in this world, we have to win them back..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.146",
+   "en": "I see..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.147",
+   "en": "So to keep fighting in this world, we need to recover them..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.148",
+   "en": "Daaaaagh!! You guys!! We're gonna be leanin' on you again!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.149",
+   "en": "What happened?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.150",
+   "en": "Whaddaya mean, what happened!? We can't get home!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.151",
+   "en": "Looks like what Negataros said was true."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.152",
+   "en": "Seems we won't be getting home unless we do something about this world's enemies."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.153",
+   "en": "So we'll be fightin' alongside you again."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.154",
+   "en": "Be nice to us, okay!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.155",
+   "en": "No clue what's up, but welcome aboard. ...Now all that's left is saving Rider 1 and 2. Let's hurry!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.156",
+   "en": "Yes, likewise. ...Now, let's hurry! We're going to save Rider 1 and Rider 2!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.157",
+   "en": "Yes, likewise. ...Oh, we've got to hurry! Let's save our seniors, Rider 1 and Rider 2, as fast as we can!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.158",
+   "en": "Yeah, glad to have you! ...Right, all that's left is rescuing Rider 1 and Rider 2. Let's hurry!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.159",
+   "en": "Yeah, likewise. Now we just need to rescue Rider 1 and Rider 2... Let's hurry!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.160",
+   "en": "Likewise, we're counting on you too! Now we just need to rescue Rider 1 and Rider 2!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.167",
+   "en": "Looks like each of you achieved what you came for."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.168",
+   "en": "I got a good look at how you fight. Pretty impressive."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.169",
+   "en": "I only won thanks to the Trial Memory. Good thing I happened to stumble across it, but..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.170",
+   "en": "It seems the powers we lost are lying dormant all over this world."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.171",
+   "en": "I see..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.172",
+   "en": "So if we wanna keep fighting in this world, we've gotta take those back, huh."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.173",
+   "en": "Daaaaagh!! You guys!! We're gonna be leanin' on you again!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.174",
+   "en": "What happened?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.175",
+   "en": "Whaddaya mean, what happened!? We can't get home!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.176",
+   "en": "Looks like what Negataros said was true."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.177",
+   "en": "Seems we won't be getting home unless we do something about this world's enemies."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.178",
+   "en": "So we'll be fightin' alongside you again."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.179",
+   "en": "Be nice to us, okay!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.180",
+   "en": "Oh yeah, come to think of it, there were some Kamen Riders frozen in ice."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.181",
+   "en": "Shouldn't we go rescue 'em?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.193",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.194",
+   "en": "Weather Dopant, Negataros... Your efforts were by no means in vain."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.195",
+   "en": "The battle data will contribute greatly to our purpose..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.197",
+   "en": "Damn it!! Where'd that bastard go!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.198",
+   "en": "Hmm, it's weirdly quiet around here. Kinda creepy."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.199",
+   "en": "Quit hidin' and come on out!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.200",
+   "en": "Hide-and-seek?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.201",
+   "en": "Whoa!!! What the!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.202",
+   "en": "Ow ow ow ow!? Gimme a break!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.203",
+   "en": "Heh heh heh heh heh..."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0146.mbb#0.96",
+   "note": "Methuss trails off mid-sentence ('I'm...'); kept unfinished as in source."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.97",
+   "note": "Narration; source says the Weather Dopant 'vanished/was erased'; rendered 'gone'. Methuss g=f per glossary."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.105",
+   "note": "Rows 0.105-0.108 and 0.111-0.119 are two branches: Den-O already holding the spare Pass vs. arriving late and receiving it from the player."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.106",
+   "note": "'flow of time' as established in story_007 for the Den-O term."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.108",
+   "note": "Extractor labels this Kintaros, but it is Ryutaros's line (parallel row 0.119 has Ryutaros, and Kintaros just spoke in 0.107). Rendered in Ryutaros's voice."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.134",
+   "note": "Subject 'I': Accel alone defeated Weather Dopant in the previous scene, so 'I won', not 'we'."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.150",
+   "note": "Source retort 'there's no what-happened about it'; rendered 'Whaddaya mean, what happened!?'. Avoided 'Don't ask' to not collide with Accel's catchphrase."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.154",
+   "note": "Direction: Ryutaros asking the heroes to treat the Imagin well ('Be nice to us'), answering Momotaros's 'we'll be leaning on you again'."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.155",
+   "note": "Shotaro's casual reply to the Imagin's request rendered 'welcome aboard'; 0.156-0.160 are party-leader variants answering with 'likewise'."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.157",
+   "note": "OOO calls Rider 1 and 2 'senpai'; rendered 'our sempai Rider 1 and Rider 2' (spelling per glossary 'Sempai'). Mebius's polite '-san' (0.160) dropped."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.157",
+   "note": "proofread: glossary keeps 'Sempai' for the Imagin addressing Momotaros only; OOO's senpai for Rider 1/2 -> 'our seniors', as in other slices."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.160",
+   "note": "'Likewise, we're counting on you too!' = Mebius returning the request for goodwill (both sides asking each other)."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.167",
+   "note": "Rows 0.167-0.179 are the Ankh-led branch with no recovered speakers: 0.167/0.169/0.170/0.174 Accel, 0.173/0.175 Momotaros, 0.176-0.177 Urataros, 0.178 Kintaros, 0.179 Ryutaros (inferred from parallel rows 0.127-0.154)."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.168",
+   "note": "Ankh to Accel; grudging praise, kept short."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.170",
+   "note": "Differs from 0.135: here the lost powers are 'sleeping all over this world'."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.181",
+   "note": "Ankh's suggestion; subject 'we' restored."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.194",
+   "note": "Unidentified villain (???) monologue; no gender assumed."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.197",
+   "note": "Rows 0.197-0.203 have no recovered speakers. Inferred from speech style: 0.197 Momotaros (rough), 0.198 Urataros (drawling), 0.199 Kintaros (Kansai), 0.200 Ryutaros (childish), 0.201 likely Momotaros, 0.202 Urataros. 'That bastard' is probably Negataros (or Weather Dopant)."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.203",
+   "note": "Villain's chuckle, likely Weather Dopant (next slice opens with the party shouting 'Weather Dopant!!' and Weather's lines); laugh styled as in story_004."
+  }
+ ],
+ "report": "80/80 rows. Speakers inferred for unlabeled rows 0.167-0.179 (Ankh branch, from parallel rows) and 0.197-0.203 (Den-O Imagin by voice, villain laugh). 0.108 mislabeled Kintaros, treated as Ryutaros. OOO's 'senpai' for Rider 1/2 rendered 'our sempai'. Terms not in glossary: Trial Memory, spare (Rider) Pass, 'flow of time' (all as used in earlier slices / Kamen Rider canon)."
+}

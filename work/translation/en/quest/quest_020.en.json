@@ -1,0 +1,370 @@
+{
+ "slice": "quest_020",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.124",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.125",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.126",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.127",
+   "en": "...No, nothing."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.128",
+   "en": "Very well, then. You won the bet, so you shall receive your prize money!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.130",
+   "en": "Obtained \"Gold Nugget\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.133",
+   "en": "Completed the quest \"Money Dopant's Challenge\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.137",
+   "en": "Too bad! You lost the bet!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.138",
+   "en": "Now you'll pay the price. In full."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.139",
+   "en": "What price!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.140",
+   "en": "What price!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.141",
+   "en": "What price!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.142",
+   "en": "What price!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.143",
+   "en": "What price!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.144",
+   "en": "What price!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.145",
+   "en": "What price!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.146",
+   "en": "What price!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.147",
+   "en": "What price!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.148",
+   "en": "What price!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.149",
+   "en": "What price!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.150",
+   "en": "What price!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.151",
+   "en": "What price!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.152",
+   "en": "What price!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.153",
+   "en": "What price!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.154",
+   "en": "Isn't it obvious? Your lives!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.157",
+   "en": "Not yet... Next time... Next time, my luck will... come around..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.160",
+   "en": "Obtained \"Gold Nugget\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.162",
+   "en": "Completed the quest \"Money Dopant's Challenge\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.163",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.166",
+   "en": "Our other unit in Shocker Cube found a mystery key but lost it in a fierce battle. Investigate the site."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.168",
+   "en": "We've been waiting for you. Let's get right to our request."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.169",
+   "en": "We of the Maganac Corps have been carrying out an investigation here, inside Shocker Cube."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.170",
+   "en": "And in the course of that investigation, we found a mysterious key."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.171",
+   "en": "A key? A key to what?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.172",
+   "en": "Yes. Our investigation revealed that it's the key to one of the exhibit rooms here in Shocker Cube."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.173",
+   "en": "We're told an old sword is on display inside."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.176",
+   "en": "A sword!? Don't tell me that sword is on display here!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.177",
+   "en": "Hey, when you go to that room, you're taking me with you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.178",
+   "en": "Is something on your mind?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.179",
+   "en": "If I use that sword, I might be able to get my lost power back."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.180",
+   "en": "I'm counting on you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.181",
+   "en": "Can't be helped. But first we've gotta find the key."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.182",
+   "en": "Do you have any idea where you dropped the key?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.183",
+   "en": "Yes. We were fighting in an open area at the bottom of a pitfall."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.184",
+   "en": "I remember light leaking through the cracks in a nearby wall."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.185",
+   "en": "I see. With that much to go on, we should be able to manage."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.186",
+   "en": "Sorry for the trouble. We're counting on you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.189",
+   "en": "A sword? Couldn't God Gundam use it?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.190",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.191",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.192",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.193",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.194",
+   "en": "Then let's take God Gundam along when we go to the room!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.195",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.196",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.197",
+   "en": "Then let's bring God Gundam along with us when we go to the room."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.198",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.199",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.200",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.201",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.202",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.203",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.204",
+   "en": "Yeah."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.205",
+   "en": "By the way, you'd better have some idea where you dropped the key."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.206",
+   "en": "Yes. We were fighting in an open area at the bottom of a pitfall."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.207",
+   "en": "I remember light leaking through the cracks in a nearby wall."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.208",
+   "en": "With that much to go on, we'll manage. We'll go find it for you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.209",
+   "en": "Sorry for the trouble. We're counting on you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.212",
+   "en": "Hey! Look at this!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.213",
+   "en": "There's a key lying on the ground."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.215",
+   "en": "Obtained \"Exhibit Room Key\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.217",
+   "en": "This must be it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.218",
+   "en": "This must be it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.219",
+   "en": "This must be it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.220",
+   "en": "This must be it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.221",
+   "en": "This must be it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.222",
+   "en": "This has gotta be it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.223",
+   "en": "This must be it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.224",
+   "en": "This must be it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.225",
+   "en": "I'm sure this must be it."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.124",
+   "note": "Quest018.bla plays row TextIdOffset+N+1. Leader block 112-126 (+111+k) in Pt_Chara_Check order (k from the LOADK pairs in the chain): Shotaro, OOO, Den-O, RX, Rider 1, Mebius, Zero, Taro, Ultraman, Seven, God, Zeta, Nu, 00, Wing Zero; so 124 Nu, 125 00, 126 Wing Zero. Same English as quest_019's 115-123."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.127",
+   "note": "127-128 Money Dopant (CHARA_NAME 272, +126/+127) on the win route: he denies his 'Tch!' and pays out."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.130",
+   "note": "130/133 and 160 are not referenced by the script (it shows OkWin +161/+162 = rows 162/163 on both routes). Item name 'Gold Nugget' per ItemNameFormal 3.94."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.137",
+   "note": "Lose route: script plays only +136/+137 (rows 137-138) then the battle, then +156 (row 157). Rows 139-155 are unused: 139-153 a 15-row leader block (identical Japanese, identical English), 154 Money Dopant."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.166",
+   "note": "Rows 166-286 are a second quest (the Shocker Cube exhibit-room key / rusty sword) that no script references and that has no QuestMess title; all speakers inferred from wording. 166 is a quest-board description (three-line source box), compressed to the 2-line limit like earlier quest descriptions; 'betsudoutai' rendered 'our other unit'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.168",
+   "note": "168-170, 172-173, 183-184, 186, 206-207, 209: Maganac (Corps spokesman, polite 'we'). 171/178/181/182/185 the party leader (rough 'shikata nee'; leader identity not fixed by any script). 176/177/179/180 God Gundam (Domon voice): 189 confirms the alternate branch is for when God Gundam is absent."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.183",
+   "note": "Source 'hirogeta basho' read as 'hiraketa' (open area); 207 has the typo 'hibi' (days) for 'hibi' (cracks), translated as cracks like 184."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.189",
+   "note": "Speaker of 189 and 204 unknown (a party member who suggests God Gundam); voiced neutral. 190-203 is a 14-row leader block (the 15 leaders minus God Gundam); order unknown, voiced from wording: 194 rough 'yarou ze', 197 polite 'agemashou', the rest 'yaru ka'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.212",
+   "note": "212 speaker unknown (leader); 213 written to work as either narration or the same speaker. 215 'Exhibit Room Key' is not in the item tables (cut item); named after the 'Exhibit Room' rendering used elsewhere."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.217",
+   "note": "217-231 is a 15-row leader block (continues in quest_021); 222 rough ('chigai nee na'), 225 polite ('desu ne'); identical Japanese kept identical."
+  }
+ ],
+ "report": "80/80 rows examined. Speakers from Quest018.bla (row = TextIdOffset+N+1) for 124-163; rows 166-225 belong to an unreferenced second quest, speakers inferred from wording. New item name 'Exhibit Room Key' (not in item tables)."
+}

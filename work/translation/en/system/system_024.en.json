@@ -1,0 +1,342 @@
+{
+ "slice": "system_024",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Base/BaseMess.mbb#0.83",
+   "en": "Play Poker."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.84",
+   "en": "Play Concentration."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.85",
+   "en": "Trade Materials for coins."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.86",
+   "en": "Trade coins for prizes."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.87",
+   "en": "Talk with your teammates."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.88",
+   "en": "Choose an opponent."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.89",
+   "en": "Choose how many to exchange."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.90",
+   "en": "Can't exchange: your inventory is full."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.91",
+   "en": "Obtained"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.101",
+   "en": "Head out to take on a dungeon."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.102",
+   "en": "Perform maintenance on your Ride Machine."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.103",
+   "en": "Head to the Random Cube."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.104",
+   "en": "Dummy description text"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.105",
+   "en": "Dummy description text"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.106",
+   "en": "Main Cannon upgrade materials have been delivered. You can now upgrade the Main Cannon."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.107",
+   "en": "Gun Turret upgrade materials have been delivered. You can now upgrade the Gun Turret."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.108",
+   "en": "Drill upgrade materials have been delivered. You can now upgrade the Drill."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.109",
+   "en": "Shield upgrade materials have been delivered. You can now upgrade the Shield."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.110",
+   "en": "Recovery upgrade materials have been delivered. You can now upgrade the Recovery Unit."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.111",
+   "en": "HP upgrade materials have been delivered. You can now upgrade HP."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.112",
+   "en": "EN upgrade materials have been delivered. You can now upgrade EN."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.113",
+   "en": "has been delivered. A new support device can now be equipped."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.121",
+   "en": "Take on the Random Cube."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.122",
+   "en": "Register Passing Link."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.123",
+   "en": "{808B} {808C} {808D} Cube"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.124",
+   "en": "The Cube changed into a {808B} {808C} Cube."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.125",
+   "en": "Register Passing Link?"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.126",
+   "en": "Passing Link is already registered."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.127",
+   "en": "Passing Link registered."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.128",
+   "en": "This system can't register any more Passing Link.{8002}Please turn off Passing Link for other software in the system's Passing Link settings."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.129",
+   "en": "Passing Link with other users is restricted by parental controls, so it can't be used."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.130",
+   "en": "You have not agreed to the EULA."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.131",
+   "en": "You crossed paths with {8092} people."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.132",
+   "en": "Your Passing Rank went up! Rare items are now more likely to appear."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.133",
+   "en": "Set the data sent via Passing Link to your current Random Cube data. Is that OK?"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.134",
+   "en": "The data to send via Passing Link has been set."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.141",
+   "en": "This is the base. It has a variety of facilities."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.142",
+   "en": "This is HQ."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.143",
+   "en": "This is the Item Lab. You can buy and sell all sorts of items."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.144",
+   "en": "This is the Warehouse. Why not store any items you don't need?"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.145",
+   "en": "This is the Quest Cafe. As the story progresses, various sub-quests will appear."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.146",
+   "en": "This is the Kanegon Casino. Casino coins can be exchanged for items."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.147",
+   "en": "This is the Gate Port. Service your Ride Machine or advance into the Cubes."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.148",
+   "en": "This is the Random Cube. Its shape changes every time you clear it."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.151",
+   "en": "Quest Room unlocked."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.152",
+   "en": "Kanegon Casino unlocked."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.153",
+   "en": "Idle Actions unlocked."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.154",
+   "en": "Equipment Upgrades unlocked."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.155",
+   "en": "Arena unlocked."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.156",
+   "en": "Slots unlocked."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.157",
+   "en": "Poker unlocked."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.158",
+   "en": "Concentration unlocked."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.159",
+   "en": "Maintenance Bay unlocked."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.1",
+   "en": "Emerald"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.2",
+   "en": "Azure"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.3",
+   "en": "Scarlet"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.4",
+   "en": "Alliance"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.5",
+   "en": "Dummy 1"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.6",
+   "en": "Dummy 2"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.7",
+   "en": "Dummy 3"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.8",
+   "en": "Dummy 4"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.9",
+   "en": "Dummy 5"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.10",
+   "en": "Dummy 6"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.11",
+   "en": "Novice"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.12",
+   "en": "Budding"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.13",
+   "en": "Dawn"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.14",
+   "en": "Perplexing"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.15",
+   "en": "Uneasy"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.16",
+   "en": "Unknown"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.17",
+   "en": "Misty"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.18",
+   "en": "Clouded"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.19",
+   "en": "Midnight"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.20",
+   "en": "Lost"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.21",
+   "en": "Bewildering"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.22",
+   "en": "Ill-Fated"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.23",
+   "en": "Fearsome"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.24",
+   "en": "Malicious"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.25",
+   "en": "Arduous"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.26",
+   "en": "Villainous"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.27",
+   "en": "Forbidden"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Base/BaseMess.mbb#0.113",
+   "note": "Source line starts with the particle after a runtime-inserted item name; English keeps the fragment, verb first."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#0.122",
+   "note": "Passing Link is my rendering of the ad-hoc 'passing by' communication feature; no established term."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.11",
+   "note": "Table 1 rows 11-27 are rank adjectives that prefix a cube colour name; written as bare adjectives so they stack with {808B}/{808C}."
+  }
+ ],
+ "report": "Complete. Uncertain: Passing Link term, Concentration (card game), Idle Actions, cube adjective list. New terms: Kanegon Casino, Quest Room, Quest Cafe, Item Lab, Gate Port, Maintenance Bay, Passing Link, Main Cannon/Gun Turret/Drill/Shield/Recovery Unit."
+}

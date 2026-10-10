@@ -1,0 +1,342 @@
+{
+ "slice": "system_084",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillName.mbb#1.42",
+   "en": "Solid Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.43",
+   "en": "Dynamic Chop"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.44",
+   "en": "Wild Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.45",
+   "en": "Step Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.46",
+   "en": "Dance"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.47",
+   "en": "Voistars Punch"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.48",
+   "en": "Voistars Shout"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.49",
+   "en": "Skilled Negotiation"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.50",
+   "en": "My Special Attack, Part 5"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.51",
+   "en": "Voistars Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.52",
+   "en": "Cyclone Blow"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.53",
+   "en": "Joker Cyclone Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.54",
+   "en": "Metal Branding"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.55",
+   "en": "Trigger Full Burst"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.56",
+   "en": "Trigger Full Burst (All)"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.57",
+   "en": "Fang Striker"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.58",
+   "en": "Double Extreme"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.59",
+   "en": "Prism Break"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.60",
+   "en": "Bicker Finalfusion"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.61",
+   "en": "Double Action"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.62",
+   "en": "Maximum Drive Combo"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.63",
+   "en": "Bicker Charge Break"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.64",
+   "en": "Tatoba Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.65",
+   "en": "Gatakiriba Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.66",
+   "en": "Kuwagata Horn Bolt"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.67",
+   "en": "Lio Dias"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.68",
+   "en": "Latoratar Cross"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.69",
+   "en": "Sagohzo Impact"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.70",
+   "en": "Gravity Control"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.71",
+   "en": "Voltarm Whip"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.72",
+   "en": "Giga Scan"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.73",
+   "en": "Strain Doom"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.74",
+   "en": "OOO Bash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.75",
+   "en": "Prominence Drop"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.76",
+   "en": "Vulcan Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.77",
+   "en": "Beam Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.78",
+   "en": "Beam Saber"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.79",
+   "en": "Lock-On"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.80",
+   "en": "Shield"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.81",
+   "en": "New Hyper Bazooka"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.82",
+   "en": "Defense Follow"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.83",
+   "en": "Dummy Balloon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.84",
+   "en": "Fin Funnel"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.85",
+   "en": "I-Field"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.86",
+   "en": "Nu Gundam Combo"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.87",
+   "en": "Fin Funnel Combo"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.88",
+   "en": "Vulcan Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.89",
+   "en": "Beam Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.90",
+   "en": "Beam Saber"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.91",
+   "en": "Grenade Launcher"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.92",
+   "en": "Hyper Mega Launcher"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.93",
+   "en": "Lock-On"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.94",
+   "en": "Covering Fire"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.95",
+   "en": "Beam Confuse"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.96",
+   "en": "Psycho Field"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.97",
+   "en": "Hyper Mega Launcher"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.98",
+   "en": "Hyper Beam Saber"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.99",
+   "en": "Machine Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.100",
+   "en": "God Field Dash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.101",
+   "en": "God Slash Typhoon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.102",
+   "en": "Charge Up"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.103",
+   "en": "God Shadow Clone Strike"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.104",
+   "en": "Cover"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.105",
+   "en": "King of Hearts"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.106",
+   "en": "Firepower"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.107",
+   "en": "God Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.108",
+   "en": "Erupting God Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.109",
+   "en": "Erupting God Finger"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.110",
+   "en": "Sekiha Tenkyo God Finger"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.111",
+   "en": "Beam Saber"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.112",
+   "en": "Buster Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.113",
+   "en": "Buster Rifle x2"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.114",
+   "en": "Machine Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.115",
+   "en": "Rolling Buster Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.116",
+   "en": "Zero System On"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.117",
+   "en": "Lock-On"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.118",
+   "en": "Self-Destruct"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.119",
+   "en": "Wing Shield"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.120",
+   "en": "Twin Buster Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.121",
+   "en": "Rolling Buster Rifle"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Skill/SkillName.mbb#1.110",
+   "note": "Sekiha Tenkyo kept romanized as in the G Gundam dub."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.103",
+   "note": "Clone-technique name; 'God Shadow' is the move name."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.42",
+   "note": "Rows 1.42-1.95 mirror table 0 (system_081); reused those English names for consistency."
+  }
+ ],
+ "report": "80 rows; first 54 reuse system_081 wording (table 0 mirror), 26 new. Uncertain: Sekiha Tenkyo God Finger, God Shadow Clone Strike, Charge Up. New terms: Buster Rifle, Machine Cannon, Wing Shield, God Slash, God Field Dash."
+}

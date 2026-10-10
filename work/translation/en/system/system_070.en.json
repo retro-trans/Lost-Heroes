@@ -1,0 +1,350 @@
+{
+ "slice": "system_070",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.471",
+   "en": "The Mobile Doll commander Gaddess has been driven off and the control device destroyed. The objective is to stop the particle cannon. Press on."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.472",
+   "en": "You found the particle cannon's control room in the Control Room. Head for the stairs to the Middle Layer."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.473",
+   "en": "The particle cannon is about to fire!! Go outside through the Ride Gate that appeared and destroy the particle cannon!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.474",
+   "en": "The particle cannon fired, but the base narrowly avoided a direct hit. Hurry to the Terminal Unit."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.475",
+   "en": "Deathscythe Hell and the others destroyed the particle cannon, but there were 4 giant weapons in all. First, check the Terminal Unit."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.476",
+   "en": "The heroes split into three squads and began the operation to destroy the giant weapons. Destroy the power source on the Lower Layer."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.477",
+   "en": "The heroes defeated Devil Gundam. They try to contact the Gundam Team, but can't get through. Follow the route the Gundam Team took."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.478",
+   "en": "The Gundam Team was attacked by Gaddess. Destroying the Libra Cannon has been entrusted to the Hero Team. Hurry to the Libra Cannon control room!!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.479",
+   "en": "With a strong heart that bows to no evil, Gundam Epyon stopped the Libra Cannon from firing. Press on toward the remaining Colony Laser."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.480",
+   "en": "We were attacked by Reborns and the others, but made it through with our allies' strength. Seravee and the others are in danger! Chase Gaddess!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.481",
+   "en": "Veda has been recaptured. The chance to finally defeat Reborns has come. Chase Reborns!!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.482",
+   "en": "The heroes finally defeated Reborns. After returning to base, head for a new Cube through the Ride Gate in the deepest part of Veda Cube."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.483",
+   "en": "Chasing Belial led us to the Monster Graveyard, where kaiju and aliens sleep. Be careful as you press on."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.484",
+   "en": "Belial has used the power of the Plasma Spark to revive the kaiju the heroes defeated!! Watch out for the revived kaiju as you advance."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.485",
+   "en": "You defeated the waiting Pteranodon Yummy. What is the ultimate being...? Chase after the Memory Memory that flew away."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.486",
+   "en": "The key to completing the Memory Memory's data was the heroes' feeling of \"despair.\" Pass through the scattered warp zones and press on."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.487",
+   "en": "Grand Master Gundam is defeated, and Devil Gundam's fusion with the Cube has been stopped! Take the path the tentacles had blocked."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.488",
+   "en": "Belial's revived \"King Pandon,\" \"Zetton\" and \"Tyrant.\" Defeat the resurrected strongest kaiju and open the door!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.489",
+   "en": "You defeated King Pandon, the twin-headed kaiju Belial revived! Press on and defeat the remaining 2."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.490",
+   "en": "You defeated Zetton, the space dinosaur Belial revived! Only 1 left! Hurry on!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.491",
+   "en": "All the kaiju Belial sent have been defeated. The door should be open now. Head for Belial, who awaits beyond the door."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.492",
+   "en": "The Memory Memory is complete! Belial is waiting in the back hall. Go, heroes! Defeat Belial!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.493",
+   "en": "The fight was not over. The source of it all lies deep within the Genocide Cube. Heroes, restore peace!!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.494",
+   "en": "An unknown Cube has been discovered. Try pushing through the northeast outer wall of Ultra Cube with the new drill."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.495",
+   "en": "Main Quest 095 Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.496",
+   "en": "Main Quest 096 Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.497",
+   "en": "Main Quest 097 Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.498",
+   "en": "Main Quest 098 Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.499",
+   "en": "Main Quest 099 Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.500",
+   "en": "Main Quest 100 Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.501",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.502",
+   "en": "Obtained \"Smooth Hide\"."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.503",
+   "en": "Obtained \"Batta Candroid\"."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.504",
+   "en": "Obtained \"Silver Whisker\"."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.505",
+   "en": "Zeta Gundam's new skill has been unlocked."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.506",
+   "en": "Obtained:\n\"Spider Silk\"\n\"Unbreakable Sticky Thread\""
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.507",
+   "en": "Nu Gundam's new skill has been unlocked."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.508",
+   "en": "Obtained \"Planet Defensor\"."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.509",
+   "en": "You get the feeling a new request is coming..."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.510",
+   "en": "You get the feeling a new request is coming..."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.511",
+   "en": "You get the feeling a new request is coming..."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.512",
+   "en": "Black RX's new skill has been unlocked."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.513",
+   "en": "00's new skill has been unlocked."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.514",
+   "en": "You get the feeling a new request is coming..."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.515",
+   "en": "Obtained \"Feilong Flag\"."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.516",
+   "en": "You get the feeling a new request is coming..."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.517",
+   "en": "Obtained \"Zero-G Bullet\"."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.518",
+   "en": "You get the feeling a new request is coming..."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.519",
+   "en": "Obtained \"Gold Nugget\"."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.520",
+   "en": "God Gundam's new skill has been unlocked."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.521",
+   "en": "Obtained:\n\"Shiranui\"\n\"Unryu\""
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.522",
+   "en": "Obtained \"Shenlong Shield\"."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.523",
+   "en": "Obtained \"Moto Crystal\"."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.524",
+   "en": "Mebius's new skill has been unlocked."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.525",
+   "en": "Obtained:\n\"AZ2006\"\n\"GN Drive Tau\"\n\"Kujaku Candroid\""
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.526",
+   "en": "Obtained:\n\"Agility Crystal\"\n\"Magic Crystal\"\n\"Luck Crystal\""
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.527",
+   "en": "Reward 26"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.528",
+   "en": "Reward 27"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.529",
+   "en": "Reward 28"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.530",
+   "en": "Reward 29"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.1",
+   "en": "Load successful."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.2",
+   "en": "Load failed.\nFile not found."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.3",
+   "en": "Failed to read data.\nPlease turn off the power and reinsert the card."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.4",
+   "en": "The save data was corrupted, so the data will be initialized."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.5",
+   "en": "The save data was corrupted, so the data will be initialized."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.6",
+   "en": "Failed to read data.\nPlease turn off the power and reinsert the card."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.7",
+   "en": "Not enough free space on the SD card.\nAt least 19,484 KB of free space is required."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.8",
+   "en": "Failed to read data.\nPlease turn off the power and reinsert the card."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.9",
+   "en": "Failed to read data.\nPlease turn off the power and reinsert the card."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.10",
+   "en": "Mount failed.\nAn error occurred."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.11",
+   "en": "Failed to commit the file. An unexpected error occurred.\nThis message should never appear."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.12",
+   "en": "Failed to create the file. An unexpected error occurred.\nThis message should never appear."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.13",
+   "en": "Failed to read data.\nPlease turn off the power and reinsert the card."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.14",
+   "en": "Failed to read data.\nPlease turn off the power and reinsert the card."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.33",
+   "en": "Save complete."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.34",
+   "en": "Failed to write data.\nPlease turn off the power and reinsert the card."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.35",
+   "en": "Failed to write data.\nPlease turn off the power and reinsert the card."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.36",
+   "en": "Save failed.\nInvalid format."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.37",
+   "en": "The save data was corrupted, so the data will be initialized."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.38",
+   "en": "Save failed.\nAccess denied."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.472",
+   "note": "Source names the Control Room and the cannon's control room; merged into one clause."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.485",
+   "note": "Pteranodon Yummy: gender variant (male/female) not specified in source; used the generic name."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.508",
+   "note": "Used 'Planate Defenser' to match the item-name table (descriptions elsewhere say 'Planet Defenser')."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.525",
+   "note": "'Pseudo GN Drive' is the franchise-official rendering of the pseudo solar furnace; not in glossary."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.527",
+   "note": "Placeholder reward rows (hiragana 'reward' + number)."
+  }
+ ],
+ "report": "All 80 rows translated. Uncertain: 'Memory Memory' (Gaia Memory name, not in glossary), 'Pseudo GN Drive', Planate/Planet Defenser spelling, 'Lower Layer' for the lower level. New terms: Memory Memory, Pseudo GN Drive, Mobile Doll, Particle Cannon, Colony Laser."
+}

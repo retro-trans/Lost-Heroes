@@ -1,0 +1,29 @@
+# Game data and anything containing Japanese script (see AGENTS.md)
+*.iso
+*.cso
+*.chd
+*.elf
+*.BIN
+*.bin
+*.PCK
+*.pmf
+*.xdelta
+*.zip
+*.exe
+*.png
+*.log
+incoming/
+work/source/
+work/output/
+work/build/
+work/release/
+work/local/
+work/slices/
+work/translation/**/*.jp.json
+# lists Japanese source lines next to their English
+work/translation/en/consistency_report.json
+__pycache__/
+*.pyc
+.env
+.env.*
+.claude/

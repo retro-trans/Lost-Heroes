@@ -1,0 +1,329 @@
+{
+ "slice": "system_043",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Common/CharacterName.mbb#1.246",
+   "en": "U-Killersaurus Neo"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.247",
+   "en": "Messala"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.248",
+   "en": "Hi-Zack Custom"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.249",
+   "en": "Barzam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.250",
+   "en": "Galbaldy Beta"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.251",
+   "en": "Death Beast"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.252",
+   "en": "Virgo II"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.253",
+   "en": "Union Realdo"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.254",
+   "en": "Automaton"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.255",
+   "en": "Tragos"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.256",
+   "en": "Fanton"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.257",
+   "en": "Anf"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.258",
+   "en": "Geara Doga (Cmdr)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.259",
+   "en": "Jellyfish Imagin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.260",
+   "en": "Magma Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.261",
+   "en": "Giradoras"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.262",
+   "en": "Samekujira"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.263",
+   "en": "Baricane"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.264",
+   "en": "Skullmaster"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.265",
+   "en": "Shark Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.266",
+   "en": "Cobra Man"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.267",
+   "en": "Dada"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.268",
+   "en": "Alien Valky"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.269",
+   "en": "Pandon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.270",
+   "en": "Weather Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.271",
+   "en": "Nega Den-O"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.272",
+   "en": "The O"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.273",
+   "en": "Giant Yapool"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.274",
+   "en": "Mebius Killer"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.275",
+   "en": "Ultimate Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.276",
+   "en": "Zetton"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.277",
+   "en": "Ikadevil"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.278",
+   "en": "Terror Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.279",
+   "en": "Garagaranda"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.280",
+   "en": "Gundam Epyon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.281",
+   "en": "Alien Metron"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.282",
+   "en": "Woo"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.283",
+   "en": "Mole Imagin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.284",
+   "en": "Hambrabi"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.285",
+   "en": "Jagd Doga"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.286",
+   "en": "Crazygon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.287",
+   "en": "Antlar"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.288",
+   "en": "Skullma"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.289",
+   "en": "Ahead"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.290",
+   "en": "Ahead Smultron"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.291",
+   "en": "Sweets Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.292",
+   "en": "Alien Baltan"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.293",
+   "en": "Shadow Moon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.294",
+   "en": "Money Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.295",
+   "en": "Bullton"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.296",
+   "en": "Master Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.297",
+   "en": "Masurao"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.298",
+   "en": "Gaga"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.299",
+   "en": "Shadow Moon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.300",
+   "en": "Alien Zarab"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.301",
+   "en": "Alien Guts"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.302",
+   "en": "Alien Nackle"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.303",
+   "en": "Alien Tempera"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.304",
+   "en": "Kamen Rider Gaoh"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.305",
+   "en": "Arms Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.306",
+   "en": "Aries (Cmdr)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.307",
+   "en": "Gamel"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.308",
+   "en": "Gamel"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.309",
+   "en": "Mezool"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.310",
+   "en": "Uva"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.311",
+   "en": "Kazari"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.312",
+   "en": "Eleking"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.313",
+   "en": "Magma Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.314",
+   "en": "Ice Age Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.315",
+   "en": "Bound Doc"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.316",
+   "en": "Mezool"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.317",
+   "en": "Uva"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.318",
+   "en": "Gamel"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.319",
+   "en": "Kraken Imagin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.320",
+   "en": "Bird Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.321",
+   "en": "Tieren"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.322",
+   "en": "Fanton"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.323",
+   "en": "Seamons"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.324",
+   "en": "Seagorath"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.325",
+   "en": "Vayeate"
+  }
+ ],
+ "notes": [],
+ "report": "80/80 CharacterName rows. Reused existing English from ChipLibMess/CharacterName slices and glossary. Uncertain: Fanton, Anf, Automaton, Tragos (romanized, matches earlier slices); Samekujira (CharacterName uses it, ChipLibMess says Sharkwhale); Ultimate D kept per glossary. New: Bird Dopant."
+}

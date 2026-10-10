@@ -1,0 +1,358 @@
+{
+ "slice": "system_034",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.175",
+   "en": "Death Army"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.176",
+   "en": "Jewel Dopant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.177",
+   "en": "Lodora"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.178",
+   "en": "Eledortus"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.179",
+   "en": "Alien Baldack"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.180",
+   "en": "Virgo"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.181",
+   "en": "Zone Dopant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.182",
+   "en": "Bullton"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.183",
+   "en": "Gaga"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.184",
+   "en": "Gaddess"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.185",
+   "en": "Gadessa"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.186",
+   "en": "Garazzo"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.187",
+   "en": "Susanowo"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.188",
+   "en": "Jark Midora"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.189",
+   "en": "Master Gundam"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.190",
+   "en": "Devil Gundam"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.191",
+   "en": "Gundam Epyon"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.192",
+   "en": "Regnant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.193",
+   "en": "Arche Gundam"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.194",
+   "en": "Reborns Gundam"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.195",
+   "en": "Jamila"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.196",
+   "en": "Mochiron"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.197",
+   "en": "Noba"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.198",
+   "en": "Alien Magma"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.199",
+   "en": "Mukadender"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.200",
+   "en": "Death Navy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.201",
+   "en": "Death Birdy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.202",
+   "en": "Alien Reflect"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.203",
+   "en": "Solitula"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.204",
+   "en": "Lunaticks"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.205",
+   "en": "Alien Borg"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.206",
+   "en": "Grost"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.207",
+   "en": "Pteranodon Yummy (Male)"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.208",
+   "en": "Pteranodon Yummy (Female)"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.209",
+   "en": "Birdon"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.210",
+   "en": "Gundam Head"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.211",
+   "en": "Geronimon"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.212",
+   "en": "Grand Master Gundam"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.213",
+   "en": "Dinosaur Greeed"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.214",
+   "en": "Ultraman Belial"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.215",
+   "en": "Devil Gundam Final Form"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.216",
+   "en": "Kamen Rider Core"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.217",
+   "en": "Beryudora"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.218",
+   "en": "Death Beast"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.219",
+   "en": "Virgo II"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.220",
+   "en": "Alien Valky"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.221",
+   "en": "Jagd Doga"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.222",
+   "en": "Pandon"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.223",
+   "en": "Bolinoak Sammahn"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.224",
+   "en": "Pallas Athene"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.225",
+   "en": "Digarug"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.226",
+   "en": "Kroizel"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.227",
+   "en": "Leo Imagin"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.228",
+   "en": "Messala"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.229",
+   "en": "Gel-Shocker Leader"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.230",
+   "en": "Sazabi"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.231",
+   "en": "U-Killersaurus Neo"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.232",
+   "en": "Enemy Chip 226"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.233",
+   "en": "Enemy Chip 227"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.234",
+   "en": "Enemy Chip 228"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.235",
+   "en": "Enemy Chip 229"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.236",
+   "en": "Enemy Chip 230"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.237",
+   "en": "Enemy Chip 231"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.238",
+   "en": "Enemy Chip 232"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.239",
+   "en": "Enemy Chip 233"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.240",
+   "en": "Enemy Chip 234"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.241",
+   "en": "Enemy Chip 235"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.242",
+   "en": "Enemy Chip 236"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.243",
+   "en": "Enemy Chip 237"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.244",
+   "en": "Enemy Chip 238"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.245",
+   "en": "Enemy Chip 239"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.246",
+   "en": "Enemy Chip 240"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.247",
+   "en": "Enemy Chip 241"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.248",
+   "en": "Enemy Chip 242"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.249",
+   "en": "Enemy Chip 243"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.250",
+   "en": "Enemy Chip 244"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.251",
+   "en": "Enemy Chip 245"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.252",
+   "en": "Psycho Gundam"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.253",
+   "en": "Gigantes Heaven"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.254",
+   "en": "Gigantes Hell"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.178",
+   "note": "Romanized from the established Ultra kaiju name; spelling unverified."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.203",
+   "note": "Not in glossary; romanized, spelling unverified."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.206",
+   "note": "Not in glossary; romanized, spelling unverified."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.225",
+   "note": "Not in glossary; romanized, spelling unverified."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.226",
+   "note": "Not in glossary; romanized, spelling unverified."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.232",
+   "note": "Rows 232-251 are placeholder Enemy Chip entries with serial numbers 226-245; kept the numbers."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.253",
+   "note": "Full-width space between the name and variant written as one normal space."
+  }
+ ],
+ "report": "60 named rows plus 20 placeholder chips. Names missing from glossary (established English used): Eledortus, Alien Baldack, Bullton, Jamila, Mochiron, Noba, Mukadender, Death Navy, Death Birdy, Alien Borg, Death Beast, Bolinoak Sammahn, Pallas Athene, Leo Imagin, Messala, Gel-Shocker Leader, Sazabi, U-Killersaurus Neo, Psycho Gundam, Gigantes Heaven/Hell. Romanized and unverified: Solitula, Grost, Digarug, Kroizel."
+}

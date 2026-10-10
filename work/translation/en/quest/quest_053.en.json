@@ -1,0 +1,329 @@
+{
+ "slice": "quest_053",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.174",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.175",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.176",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.177",
+   "en": "We got word from Pigmon. Please leave this to us."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.178",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.179",
+   "en": "Pigmon tipped us off! Leave this one to us!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.180",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.181",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.182",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.183",
+   "en": "We got word from Pigmon. Please leave this to us."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.184",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.185",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.186",
+   "en": "We got word from Pigmon. Leave this to us."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.187",
+   "en": "Stay out of my way!! They're my prey!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.188",
+   "en": "Ngh!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.189",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.190",
+   "en": "Target acquired. Destroying."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.191",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.192",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.193",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.194",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.195",
+   "en": "They're coming!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.196",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.197",
+   "en": "Here they come, baby!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.198",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.199",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.200",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.201",
+   "en": "They're coming!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.202",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.203",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.204",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.207",
+   "en": "Area secured."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.208",
+   "en": "Area secured."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.209",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.210",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.211",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.212",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.213",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.214",
+   "en": "All right, that oughta make this area safe!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.215",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.216",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.217",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.218",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.219",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.220",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.221",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.222",
+   "en": "Why!? I told you not to interfere!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.223",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.224",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.225",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.226",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.227",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.228",
+   "en": "I only did it because I believed it was right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.229",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.230",
+   "en": "Shut up! I just did what I felt like doin'!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.231",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.232",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.233",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.234",
+   "en": "I only did it because I believed it was right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.235",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.236",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.237",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.238",
+   "en": "What...? You followed your own sense of justice?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.239",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.240",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.241",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.242",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.243",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.244",
+   "en": "Yes, that's right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.245",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.246",
+   "en": "...Well, that's about the size of it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.247",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.248",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.249",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.250",
+   "en": "Yes, that's right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.251",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.252",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.253",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.254",
+   "en": "I see. You followed your own justice. That is a good thing."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.255",
+   "en": "We are in the right. And the righteous must be strong. Take this."
+  }
+ ],
+ "notes": [],
+ "report": "filled from the DG_QUEST twin rows / translation memory"
+}

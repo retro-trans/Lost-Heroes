@@ -1,0 +1,398 @@
+{
+ "slice": "quest_008",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.94",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.98",
+   "en": "This time it's \"Copper Ore,\" huh..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.99",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.100",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.101",
+   "en": "No, please wait! There's something else here!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.102",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.103",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.104",
+   "en": "Hold on! There's something else here!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.105",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.106",
+   "en": "No, wait! There's something else here!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.107",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.108",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.109",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.110",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.111",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.112",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.113",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.115",
+   "en": "Obtained \"Broken O Raiser\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.117",
+   "en": "The O Raiser...!! To think it was here, of all places."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.118",
+   "en": "What's that thing?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.119",
+   "en": "It's something I need to stabilize my Twin Drive."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.120",
+   "en": "But it looks busted."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.121",
+   "en": "...First, let's head back to Maganac."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.123",
+   "en": "Go bring 00 here!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.126",
+   "en": "This is... MS equipment...?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.127",
+   "en": "This is... MS equipment...?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.128",
+   "en": "This is... MS equipment...?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.129",
+   "en": "This is... MS equipment...?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.130",
+   "en": "What's this...? Looks like MS equipment."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.131",
+   "en": "What's this...? Looks like MS equipment."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.132",
+   "en": "I wonder what this is... MS equipment, maybe?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.133",
+   "en": "What's this...? Looks like MS equipment."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.134",
+   "en": "What's this...? Looks like MS equipment."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.135",
+   "en": "I wonder what this is... Could it be MS equipment?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.136",
+   "en": "This is... MS equipment...?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.137",
+   "en": "What the hell's this...? Some kinda MS gear?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.138",
+   "en": "This equipment... Is it from an MS!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.139",
+   "en": "This equipment... Is it from an MS!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.141",
+   "en": "In that case, let's take it to Maganac and have him look into it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.146",
+   "en": "It seems you succeeded in defeating the Crazygons."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.147",
+   "en": "{8074} and the team handed over the item they had obtained from the Crazygons."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.148",
+   "en": "This is... the \"O Raiser\"...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.149",
+   "en": "So the enemy was trying to get their hands on this!! ...I'm glad you got it back."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.151",
+   "en": "Yeah. But it's broken. It can't be used as it is."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.152",
+   "en": "We'll hold onto it for a while. We'll repair it with Celestial Being's technology."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.153",
+   "en": "Please do."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.155",
+   "en": "It's an item tied to 00. What's the use if he isn't here himself?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.158",
+   "en": "What on earth is this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.159",
+   "en": "It's equipment made exclusively for 00."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.160",
+   "en": "It stabilizes the Twin Drive and draws out 00's abilities to the fullest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.161",
+   "en": "Interesting. Let's give it to 00 right away."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.162",
+   "en": "However, it seems to be a little damaged."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.163",
+   "en": "We'll hold onto it for a while. We'll repair it with Celestial Being's technology."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.164",
+   "en": "Right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.165",
+   "en": "00 must be in the party to progress this quest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.166",
+   "en": "Completed the quest \"Crazygon Hunt\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.1",
+   "en": "An Antlar nest has appeared in Desert Cube's Ruins Zone. Please exterminate it at once."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.6",
+   "en": "I'm sure you've heard already, but an Antlar nest has appeared."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.7",
+   "en": "So we just gotta crush it, right?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.8",
+   "en": "If that were all, it would be fine, but this time one of our comrades was dragged into the nest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.9",
+   "en": "That's terrible!! We must go at once!! Leave it to us!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.10",
+   "en": "That's terrible!! We must go at once!! Leave it to us!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.11",
+   "en": "That's terrible!! We must go at once!! Leave it to us!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.12",
+   "en": "That's terrible... Let's go right away! We'll do our best to rescue them!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.13",
+   "en": "Now that's bad news! We'll take care of it for ya!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.14",
+   "en": "Mission accepted. We'll take care of it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.15",
+   "en": "Understood. We'll take care of it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.16",
+   "en": "That's terrible! We'll hurry to the rescue."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.17",
+   "en": "That's terrible! We'll hurry to the rescue."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.18",
+   "en": "What did you say!? All right, I'll take care of it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.19",
+   "en": "What!? We'll hurry to the rescue."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.20",
+   "en": "That's terrible!! Leave it to us!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.21",
+   "en": "That ain't good!! All right! Leave it to us!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.22",
+   "en": "That's bad news! This ain't the time to sit around! Let's hurry!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.23",
+   "en": "That's terrible! We've gotta hurry!! Ankh! Let's go!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.24",
+   "en": "We're counting on you. I'll mark the location on your map."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.31",
+   "en": "So that's it...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.32",
+   "en": "So that's it...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.33",
+   "en": "So that's it...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.34",
+   "en": "So that's it...!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.94",
+   "note": "Speakers verified in Quest008.bla (QuestEventMess008 = same text; MessWinSet TextIdOffset+N plays row N+1, empty rows 114/116/140/150 skipped without shifting, content confirms). Event005: +93 Crazygon (CHARA_NAME 97) -> 94; +97 Ankh (36) -> 98; +98+pt leader block -> 99-113; OkWin +114 -> 115; +116..+120 alternate 00 (10) / Ankh -> 117-121."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.99",
+   "note": "Leader block 99-113 = TextIdOffset+98+pt, same Pt_Chara_Check order as 43-57/64-78 in quest_007: Seven, Zero, Mebius, Taro, Ultraman, OOO, W, Den-O, RX, Rider 1, 00, Wing Zero, God, Zeta, Nu (default). Wording matches: 101 Mebius polite, 104 OOO casual. 'Iya' read as contradicting Ankh's disappointment (not the target yet). Identical Japanese kept identical; 106 differs only by '!?'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.115",
+   "note": "OkWin. Item name 'Broken O Raiser' built like 'Broken Zeroliner Drill'/'Broken Bit'; 'O Raiser' from QuestMess/SkillName. (Prompt mentioned 'Planate Defenser' - that item belongs to quest 7 and does not occur in this slice.)"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.119",
+   "note": "'Twin Drive' = glossary 'Twin Drive System', shortened in 00's own speech ('my Twin Drive')."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.123",
+   "note": "Unreferenced (the no-00 path shows only OkWin +164). Speaker not recovered; rough imperative like the unreferenced Ankh-style rows 81/91 in quest_007."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.126",
+   "note": "Rows 126-139 (14-row block) and 141 are unreferenced by Quest008.bla. Likely an earlier design where a non-00 leader finds the O Raiser and doesn't recognise it; 14 rows = the leader list minus 00. Voiced from wording only (132/135 gentle, 137 rough Momotaros-style, 138/139 earnest). 141 speaker unknown; Maganac g=m -> 'him'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.146",
+   "note": "Event002 (report): Maganac (79) +145 -> 146, narration +146 -> 147, Maganac +147/+148 -> 148/149, 00 +150 -> 151, Maganac +151 -> 152, 00 +152 -> 153, then OkWin +165 -> 166. 'Crazygons' plural as in quest_007 rows 6/9."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.149",
+   "note": "Maganac (still under his name box). 'Dakan dekite yokatta' - subject restored as the party ('you got it back'), since they brought it in."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.153",
+   "note": "00 to Maganac: 'tanomu' = 00 asking Maganac to repair it -> 'Please do.'"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.155",
+   "note": "Rows 155 and 158-164 are unreferenced (alternate hand-over scene). Speakers inferred: 159/160/162/163 Maganac (polite, CB repair); 155/158/161/164 a party member, voiced neutral. 163 = 152 minus a comma, same English. 164 reuses the corpus 'Right.'"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.165",
+   "note": "OkWin +164 (no-00 path); format follows quest_007 row 116. 166 = OkWin +165; quest title from QuestMess#0.9 'Crazygon Hunt'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.1",
+   "note": "Quest 9 description row (no speaker). 'Ruins Zone' from QuestMess#0.60; quest title is 'Antlar Strikes Again'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.6",
+   "note": "Quest009.bla (QuestEventMess009, same text): here TextIdOffset+N plays row N, no +1 shift (content confirms: +7 is the rough Ankh line, +9+pt fits the 15 voices). +6 Maganac (79), +7 Ankh (36), +8 Maganac, +9+pt leader block 9-23."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.8",
+   "note": "'Nakama' singular: the captive turns out to be Pigmon (later in quest 9), so 'one of our comrades'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.9",
+   "note": "Block 9-23 order from Quest009 Pt_Chara_Check: Ultraman, Seven, Taro, Mebius, Zero, Wing Zero, 00, Nu, Zeta, God, Rider 1, RX, Den-O, W, OOO (default). Wording confirms: 12 Mebius polite, 13 Zero cocky, 14 Heero 'ninmu ryoukai', 18 Domon, 21 Momotaros, 22 Shotaro, 23 OOO naming Ankh. 12 'them' = the unidentified captive."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.24",
+   "note": "Unreferenced in Quest009.bla; speaker inferred Maganac (polite request, map marker). 'Onegai shimasu' = Maganac asking the party -> 'We're counting on you.' Source writes MAP in capitals; rendered 'map'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.31",
+   "note": "+31+pt block 31-45 (same order): 31-34 Ultraman, Seven, Taro, Mebius. Reuses the established 'So that's it...!!'."
+  }
+ ],
+ "report": "80/80 rows examined. Speakers from Quest008.bla (row = TextIdOffset+N+1) and Quest009.bla (row = TextIdOffset+N). Quest008: Crazygon 94, Ankh 98/118/120, leader block 99-113, 00 117/119/121/151/153, Maganac 146/148/149/152, narration 147, OkWins 115/165/166. Unreferenced, speakers inferred: 123, 126-139, 141, 155, 158-164 (alternate scenes). Quest009: Maganac 6/8 (24 inferred), Ankh 7, leader blocks 9-23 and 31-34. Item 'Broken O Raiser' coined from 'O Raiser' + the 'Broken X' item pattern. No new names."
+}

@@ -1,0 +1,462 @@
+{
+ "slice": "extra_005",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0726.mbb#0.118",
+   "en": "...I've got a bad feeling about this."
+  },
+  {
+   "key": "MainEventMess0727.mbb#0.4",
+   "en": "All that's left is \"Tyrant.\" Let's go."
+  },
+  {
+   "key": "MainEventMess0728.mbb#0.17",
+   "en": "That's intense... But we're going in!! Check the stone pillar first!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.606",
+   "en": "Make your preparations before you go."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.292",
+   "en": "Yeah...!!"
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.109",
+   "en": "I can feel tremendous pressure..."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.522",
+   "en": "Ride Machine, full speed ahead!!"
+  },
+  {
+   "key": "MainEventMess0803.mbb#0.5",
+   "en": "The powerful enemies' presence has faded. Looks like you've defeated them all!"
+  },
+  {
+   "key": "MainEventMess0804.mbb#0.5",
+   "en": "The powerful enemies' presence has faded. Looks like you've defeated them all!"
+  },
+  {
+   "key": "MainEventMess0805.mbb#0.5",
+   "en": "The powerful enemies' presence has faded. Looks like you've defeated them all!"
+  },
+  {
+   "key": "MainEventMess0890.mbb#0.5",
+   "en": "The powerful enemies' presence has faded. Looks like you've defeated them all!"
+  },
+  {
+   "key": "MainEventMess0891.mbb#0.5",
+   "en": "The powerful enemies' presence has faded. Looks like you've defeated them all!"
+  },
+  {
+   "key": "MainEventMess0892.mbb#0.5",
+   "en": "The powerful enemies' presence has faded. Looks like you've defeated them all!"
+  },
+  {
+   "key": "MainEventMess0905.mbb#0.5",
+   "en": "If I can repair it properly, it could probably be fitted to the Ride Machine."
+  },
+  {
+   "key": "MainEventMess0906.mbb#0.2",
+   "en": "The mightiest kaijin of the Kaima Realm... We've drawn a nasty opponent right from the first match."
+  },
+  {
+   "key": "MainEventMess0909.mbb#0.4",
+   "en": "But he's a fearsome foe. Be on your guard."
+  },
+  {
+   "key": "MainEventMess0986.mbb#0.2",
+   "en": "(This is no ordinary space...)"
+  },
+  {
+   "key": "MainEventMess0987.mbb#0.2",
+   "en": "(What...!? What was that tremor!!)"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.55",
+   "en": "Nu Gundam and OOO joined the party!"
+  },
+  {
+   "key": "MainEventMess0990.mbb#0.28",
+   "en": "This is bad...!! We're getting out of here!!"
+  },
+  {
+   "key": "MainEventMess0991.mbb#0.37",
+   "en": "The three of them decided to look around this place..."
+  },
+  {
+   "key": "MainEventMess0999.mbb#0.8",
+   "en": "(...Anyway, I'll try walking around.)"
+  },
+  {
+   "key": "MainEventMess7000.mbb#0.2",
+   "en": "Fight the powerful enemy?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0901.mbb#0.30",
+   "en": "Quest objective completed."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0902.mbb#0.41",
+   "en": "Yeah, leave it to us."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0903.mbb#0.41",
+   "en": "{8074} and the others returned to base."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0904.mbb#0.30",
+   "en": "Let's hurry up and go beat Negataros and his gang!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0905.mbb#0.5",
+   "en": "If I can repair it properly, it could probably be fitted to the Ride Machine."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0906.mbb#0.2",
+   "en": "The mightiest kaijin of the Kaima Realm... We've drawn a nasty opponent right from the first match."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0907.mbb#0.8",
+   "en": "...Understood. But they're a formidable enemy."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0908.mbb#0.5",
+   "en": "They collect the guys they beat!? Talk about sick taste!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0909.mbb#0.4",
+   "en": "But he's a fearsome foe. Be on your guard."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0910.mbb#0.3",
+   "en": "You'd best be careful."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0911.mbb#0.96",
+   "en": "Roger!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0912.mbb#0.48",
+   "en": "Obtained Kamen Rider Birth's chip."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0913.mbb#0.69",
+   "en": "Ultraman and Ultraseven joined the party!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0914.mbb#0.25",
+   "en": "{8074} and the others returned to base and discussed how to deal with the Modified Bemstar."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.22",
+   "en": "Kamen Rider 1 joined the party!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.53",
+   "en": "The \"Kanegon Casino\" was added."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0917.mbb#0.38",
+   "en": "Obtained Kamen Rider Skull's chip."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0918.mbb#0.12",
+   "en": "Quite right. Very well, Accel and Birth, go with them and begin the investigation."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0919.mbb#0.49",
+   "en": "...Well, one thing's for sure: it's not a plan that's good news for us."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0920.mbb#0.88",
+   "en": "Head from the outer wall of the \"Desert Cube\" to the \"Veda Cube.\""
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0921.mbb#0.6",
+   "en": "You can view tutorials at any time from the Camp Menu."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0923.mbb#0.9",
+   "en": "The \"Quest Room\" was added."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0924.mbb#0.2",
+   "en": "Turtle's in charge of it! I'm gonna go tease him later~!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0925.mbb#0.7",
+   "en": "The \"Random Cube\" was added."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0926.mbb#0.2",
+   "en": "Uh-huh, he was all panicky~! Looks like he's at the Gate Port."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.49",
+   "en": "Yeah, of course."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0930.mbb#0.250",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0931.mbb#0.135",
+   "en": "Of course. Well then, I'll head back ahead of you."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0985.mbb#0.48",
+   "en": "Select a \"Cube\" to begin exploring."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0996.mbb#0.3",
+   "en": "You can view this same tutorial at any time from the Camp Menu."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0997.mbb#0.3",
+   "en": "You can view this same tutorial at any time from the Camp Menu."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.112",
+   "en": "they moved from the Gate Port to \"another place.\""
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0999.mbb#0.149",
+   "en": "The three of them leapt into the hole that had opened in space."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCasino.mbb#0.37",
+   "en": "It makes me real happy if I can help everybody out~"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.763",
+   "en": "I'm counting on you. Save the world from this crisis."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.107",
+   "en": "means a great deal."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.765",
+   "en": "Hey, Turtle! This ain't the time for that!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.780",
+   "en": "Everyone, please!! Save the world!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0001.mbb#0.3",
+   "en": "You can view this same tutorial at any time from the Camp Menu."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0002.mbb#0.3",
+   "en": "You can view this same tutorial at any time from the Camp Menu."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0003.mbb#0.6",
+   "en": "You're the one who's gonna get taken down, punk."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0004.mbb#0.3",
+   "en": "I cannot die here..."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0005.mbb#0.3",
+   "en": "...Y-You useless piece of junk...!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0006.mbb#0.4",
+   "en": "As if I'd fall to something like this... You wretches... I'll drag you to hell with me...!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0007.mbb#0.4",
+   "en": "Black King is no mere savage monster! It's been drilled with all your data!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0009.mbb#0.3",
+   "en": "So you are warriors of some skill, it seems..."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0010.mbb#0.4",
+   "en": "Heh, my evolution is only just getting started, you know?"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0011.mbb#0.14",
+   "en": "Wail! Writhe in frustration! Gaaaraaaah!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0013.mbb#0.4",
+   "en": "Now it's getting fun. This is war, y'know? And on one hell of a scale!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0015.mbb#0.4",
+   "en": "Forget \"Emerium Slash,\" I can't even use my \"Zero Sluggers\"!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0016.mbb#0.3",
+   "en": "The ultimate nothingness, where nothing exists. That is the highest summit we could ever reach."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0017.mbb#0.3",
+   "en": "You can never beat me!!"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.105",
+   "en": "All riiight!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.203",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.118",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.167",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess010.mbb#0.101",
+   "en": "You can report quests in the Quest Room at the base."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0726.mbb#0.118",
+   "note": "Ankh (script n117, after the 'clouds changed color' party-variant block)."
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.606",
+   "note": "Seravee's Voice per script (n605); follows the party-variant 'prepare thoroughly' line."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.292",
+   "note": "Last of a party-leader variant block (rows 285-291 identical); same English as the block."
+  },
+  {
+   "key": "MainEventMess0803.mbb#0.5",
+   "note": "Plural 'enemies' because the source says all were defeated. Same text for 0804/0805/0890/0891/0892."
+  },
+  {
+   "key": "MainEventMess0905.mbb#0.5",
+   "note": "Legacy table with mis-decoded kanji; meaning taken from the clean Base copy of the same line (Hikari)."
+  },
+  {
+   "key": "MainEventMess0906.mbb#0.2",
+   "note": "Legacy table, mis-decoded; meaning from the Base copy (Black RX). 'Kaima Realm' as in story 0414."
+  },
+  {
+   "key": "MainEventMess0909.mbb#0.4",
+   "note": "Legacy table, mis-decoded; meaning from the Base copy."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0909.mbb#0.4",
+   "note": "Script never plays this entry (last played is entry 3, Rider 1); alternate of Rider 1's warning, voiced as Rider 1."
+  },
+  {
+   "key": "MainEventMess0987.mbb#0.2",
+   "note": "Zero's thought; matches the Base 0999 copy of this line."
+  },
+  {
+   "key": "MainEventMess0999.mbb#0.8",
+   "note": "Zero's thought; identical to the Base 0999 row 8 translation."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0902.mbb#0.41",
+   "note": "Unplayed final entry; reply to Hikari's 'I'm counting on you to save Mebius', most likely Nu Gundam."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0904.mbb#0.30",
+   "note": "Den-O Sword Form (Momotaros) per script (n31; the table is shifted by empty entries)."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0907.mbb#0.8",
+   "note": "00 replying to Zoffy's 'don't act alone'."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0908.mbb#0.5",
+   "note": "Momotaros reacting to Jashrine turning defeated foes into golden statues; 'sick taste' keeps the rude jab."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0911.mbb#0.96",
+   "note": "Unplayed; speaker not in script (likely a party member answering Zoffy). Kept neutral."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0927.mbb#0.49",
+   "note": "Answer to Kanegon asking to stay; speaker not recovered (a hero, probably Nu Gundam)."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0931.mbb#0.135",
+   "note": "Ending: rows 131-135 are not played by the script (last played is entry 129); speaker unknown, a hero going home first."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0998.mbb#0.112",
+   "note": "Second half of row 111's sentence ('Once the three ... had finished preparing,'), so it starts lowercase."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.107",
+   "note": "Completes row 106's sentence; same wording as the TalkMessShop#172 copy."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.765",
+   "note": "Momotaros scolding Urataros ('Turtle', as established)."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0924.mbb#0.2",
+   "note": "Ryutaros calls Urataros 'Turtle' (established)."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0003.mbb#0.6",
+   "note": "Nega Den-O per script."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0004.mbb#0.3",
+   "note": "The O (Scirocco) per script."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0005.mbb#0.3",
+   "note": "Skull (Dummy Dopant) berating Fake Ultraman, per script."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0006.mbb#0.4",
+   "note": "Giant Yapool per script."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0007.mbb#0.4",
+   "note": "Alien Nackle per script."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0009.mbb#0.3",
+   "note": "Zamsha per script; archaic tone."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0010.mbb#0.4",
+   "note": "Kazari per script."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0011.mbb#0.14",
+   "note": "Garagaranda per script; cry romanized fresh, no prior rendering found."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0013.mbb#0.4",
+   "note": "Arche Gundam (Ali) per script."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0015.mbb#0.4",
+   "note": "Zero per script; same line as story 0990 but with the source's quotes kept."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0016.mbb#0.3",
+   "note": "Dinosaur Greeed per script."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0017.mbb#0.3",
+   "note": "Ultraman Belial per script."
+  }
+ ],
+ "report": "All rows translated. Speakers confirmed from event scripts where played; several final entries are never played (Base 0902, 0909, 0911, 0931) and were voiced from context. Legacy Dungeon rows 0905/0906/0909 mis-decoded, translated from clean Base copies. Garagaranda cry romanized fresh. No new names."
+}

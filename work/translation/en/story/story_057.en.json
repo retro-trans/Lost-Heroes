@@ -1,0 +1,382 @@
+{
+ "slice": "story_057",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0335.mbb#0.27",
+   "en": "An armory, huh... There should be some small bombs in here we can use."
+  },
+  {
+   "key": "MainEventMess0335.mbb#0.28",
+   "en": "An armory, huh... There should be some small bombs in here we can use."
+  },
+  {
+   "key": "MainEventMess0335.mbb#0.29",
+   "en": "An armory, huh... There should be some small bombs in here we can use."
+  },
+  {
+   "key": "MainEventMess0335.mbb#0.31",
+   "en": "But the door is securely locked!"
+  },
+  {
+   "key": "MainEventMess0335.mbb#0.33",
+   "en": "Heh... Guess it won't be that easy."
+  },
+  {
+   "key": "MainEventMess0335.mbb#0.34",
+   "en": "...Guess it won't be that easy."
+  },
+  {
+   "key": "MainEventMess0335.mbb#0.35",
+   "en": "...Figures it ain't gonna be that easy!"
+  },
+  {
+   "key": "MainEventMess0335.mbb#0.36",
+   "en": "...Guess it won't be easy."
+  },
+  {
+   "key": "MainEventMess0335.mbb#0.37",
+   "en": "...Guess it won't be easy."
+  },
+  {
+   "key": "MainEventMess0335.mbb#0.38",
+   "en": "...Guess it won't be easy."
+  },
+  {
+   "key": "MainEventMess0335.mbb#0.39",
+   "en": "...Guess it won't be easy."
+  },
+  {
+   "key": "MainEventMess0335.mbb#0.40",
+   "en": "...Guess it won't be easy."
+  },
+  {
+   "key": "MainEventMess0335.mbb#0.41",
+   "en": "...Guess it won't be easy."
+  },
+  {
+   "key": "MainEventMess0335.mbb#0.42",
+   "en": "...Guess it won't be easy."
+  },
+  {
+   "key": "MainEventMess0335.mbb#0.43",
+   "en": "...Guess it won't be easy."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.1",
+   "en": "Hold it right there. I can't let you lot go any further than this."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.2",
+   "en": "Skull... no, Dummy Dopant... Sorry, but would you step aside?"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.3",
+   "en": "Right now, we don't have time to waste on small fry like you."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.4",
+   "en": "Skull... no, Dummy Dopant... Sorry, but could you get out of the way?"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.5",
+   "en": "Right now, we don't have time to bother with you."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.6",
+   "en": "Skull, my ass!! You phony bastard!! Get the hell outta the way!!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.7",
+   "en": "We ain't got time to mess around with small fry like you."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.8",
+   "en": "Skull... no, Dummy Dopant... Sorry, but would you step aside?"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.9",
+   "en": "We don't have time to deal with you right now."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.10",
+   "en": "Skull... no, Dummy Dopant... Sorry, but would you step aside?"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.11",
+   "en": "We don't have time to deal with you right now."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.12",
+   "en": "You... I know you. What you really are is Dummy Dopant!!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.13",
+   "en": "Out of the way!! We've got no time to waste on small fry like you!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.14",
+   "en": "Skull... no, Dummy Dopant... Sorry, but would you step aside?"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.15",
+   "en": "We don't have any time to spare!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.16",
+   "en": "Skull... no, Dummy Dopant... Sorry, but would you step aside?"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.17",
+   "en": "We don't have time to deal with you right now."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.18",
+   "en": "Skull... no, Dummy Dopant... Sorry, but get out of the way."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.19",
+   "en": "We don't have time to deal with you right now."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.20",
+   "en": "Skull... no, Dummy Dopant. Out of the way."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.21",
+   "en": "We have no time to deal with you right now."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.22",
+   "en": "Skull... no, Dummy Dopant. Out of the way."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.23",
+   "en": "We have no time to deal with you right now."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.24",
+   "en": "Cold, aren't you? But will you still be saying that after you see this?"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.25",
+   "en": "...Wh-What are you doing! U-Unhand me!!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.26",
+   "en": "It's your friend, Ultraman. Don't you care what happens to him?"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.27",
+   "en": "Stooop iiit!! I'm Ultraman, you know!!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.28",
+   "en": "...No matter what, we're not going to be fooled by that!!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.29",
+   "en": "...You really think that'll fool us? ...I'm so fed up I can't even speak."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.30",
+   "en": "...Hey, you're kidding, right? Is that supposed to fool us?"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.31",
+   "en": "...Are you serious? There's no way we'd fall for that, you know?"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.32",
+   "en": "You bastard! Taking Ultraman hostage... You've got some nerve!!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.33",
+   "en": "...Are you serious? There's no way we'd fall for that, you know?"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.34",
+   "en": "...So this is what they mean by being left slack-jawed."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.35",
+   "en": "...Are you out of your mind?"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.36",
+   "en": "...Are you out of your mind?"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.37",
+   "en": "...Are you out of your mind?"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.38",
+   "en": "...Are you out of your mind?"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.39",
+   "en": "Well! Don't you care whether Ultraman lives or dies!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.40",
+   "en": "Help meee!! He's gonna kill meee!!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.41",
+   "en": "...That's a fake! We Ultra Warriors would never say something like that!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.42",
+   "en": "...That's a fake. No Ultra Warrior would ever say somethin' like that!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.43",
+   "en": "...That's a fake, right? The Ultra Warriors I know wouldn't say that."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.44",
+   "en": "...That's a fake, right? The Ultra Warriors I know wouldn't say that."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.45",
+   "en": "Aaah!! Now that I look closer, he's got a real nasty mug!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.46",
+   "en": "That's a fake!! The Ultra Warriors I know wouldn't say that."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.47",
+   "en": "That's a fake! The Ultra Warriors I know wouldn't say that!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.48",
+   "en": "...That's a fake. The Ultra Warriors I know wouldn't say that."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.49",
+   "en": "...That's a fake. The Ultra Warriors I know wouldn't say that."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.50",
+   "en": "...That's a fake. The Ultra Warriors I know wouldn't say that."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.51",
+   "en": "...That's a fake. The Ultra Warriors I know wouldn't say that."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.52",
+   "en": "Ngh!! You useless idiot!!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.53",
+   "en": "C-Curses!! To think we'd be seen through so easily!!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.54",
+   "en": "I only went along with this plan 'cause you said it'd work, y'know!?"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.55",
+   "en": "Bah! That's it, I've got nothing left to lose!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.59",
+   "en": "I-I refuse to die in a place like this..."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.60",
+   "en": "Not until I've proven the power of the precious Memory Lord Terror Dopant gave me...!!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.61",
+   "en": "Terror Dopant...!?"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.62",
+   "en": "...Damn it, and I'm supposed to be an executive of the Alien Alliance..."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.63",
+   "en": "Y-You haven't seen the last of me... Farewell...!!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.64",
+   "en": "Wait...!!"
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.65",
+   "en": "Why, that...! ...He sure is quick to run away."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.68",
+   "en": "This isn't over yet."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.69",
+   "en": "Ugh... As if I'd croak from something like this..."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.70",
+   "en": "Fake Ultraman and Kamen Rider Skull's transformations broke, revealing their true forms!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0335.mbb#0.27",
+   "note": "#0.27-0.29 are the last three leader variants of the block begun in story_056 (Zeta, 00, Wing Zero per the 0335 script); identical Japanese to #0.26, so identical English."
+  },
+  {
+   "key": "MainEventMess0335.mbb#0.33",
+   "note": "#0.33-0.43 leader variants; script order Rider 1, Black RX, Den-O, W, OOO, Zero, Mebius, Nu, Zeta, 00, Wing Zero. #0.35 is Momotaros (rough); #0.36-0.43 identical."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.2",
+   "note": "#0.2-0.23 are leader pairs set by pt_01_txt2 in the 0336 script: W, OOO, Den-O, RX, Rider 1, Zero, Mebius, Nu, Zeta, 00, Wing Zero (two rows each). Identical Japanese (#0.2/8/10/14/16; #0.9/11/17/19) given identical English. Dropped subject of 'no time' restored as 'we' (the party)."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.6",
+   "note": "Momotaros: 'Skull ja nee daro' rendered 'Skull, my ass!!' to keep the force; trailing line break in source dropped."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.12",
+   "note": "Zero's slot per script; 'your true identity is Dummy Dopant' rendered 'What you really are is Dummy Dopant'."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.28",
+   "note": "#0.28-0.38 are all labelled Wing Zero by the extractor but are leader variants; script order Mebius, Zero, W, OOO, Den-O, RX, Rider 1, Nu, Zeta, 00, Wing Zero. #0.32 is Momotaros, the only one who falls for the hostage act (pays off in #0.45). #0.31/#0.33 differ only by a comma, same English."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.34",
+   "note": "Rider 1's slot; idiom for being dumbfounded (mouth hanging open) rendered 'left slack-jawed'."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.41",
+   "note": "#0.41-0.51 leader variants (all labelled Wing Zero); script order Mebius, Zero, W, OOO, Den-O, RX, Rider 1, then Nu/Zeta/00/Wing Zero. 'Ultra Warriors' per glossary. #0.45 is Momotaros finally realising it's a fake."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.53",
+   "note": "Fake Ultraman is Alien Zarab in disguise (labelled Alien Zarab in #0.62); 'we' for the pair being seen through."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.54",
+   "note": "Unlabelled; read as Fake Ultraman (Zarab) blaming Skull/Dummy, who just called him useless in #0.52. His next line #0.55 is labelled Fake Ultraman."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.60",
+   "note": "-sama on Terror Dopant rendered 'Lord Terror Dopant' (precedent: 'Lord Ikadevil', 'Lord Weather')."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.62",
+   "note": "'Uchuujin Rengou' rendered 'Alien Alliance' - not in glossary; recurs in story_070/074-078."
+  },
+  {
+   "key": "MainEventMess0336.mbb#0.70",
+   "note": "Narration; the two disguised villains revert to Dummy Dopant and Alien Zarab."
+  }
+ ],
+ "report": "80/80 rows. Party-leader variant order taken from the 0335/0336 event scripts; #0.28-0.51 mislabelled Wing Zero by the extractor. 0336 #0.54 unlabelled, read as Fake Ultraman (Zarab). New term: 'Alien Alliance' (uchuujin rengou), not in glossary. 'Lord Terror Dopant' for -sama."
+}

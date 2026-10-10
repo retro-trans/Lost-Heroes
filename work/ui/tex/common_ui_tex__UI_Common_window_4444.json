@@ -1,0 +1,180 @@
+{
+ "tpc": "Graph/Common/UI/common_ui_tex.tpc",
+ "page": "UI_Common_window_4444.tga",
+ "note": "Field/shop window labels. Ride gauge labels follow BattleMess (Armor Repair, Drill); Item Search follows the tutorial text. Original outlined style (white edge, dark fill) is drawn as plain white text.",
+ "defaults": {
+  "size": 11,
+  "bold": false,
+  "color": [
+   255,
+   255,
+   255
+  ],
+  "align": "center"
+ },
+ "clear": [],
+ "boxes": [
+  {
+   "x": 54,
+   "y": 134,
+   "w": 25,
+   "h": 13,
+   "text": "Armor",
+   "size": 11,
+   "color": [
+    187,
+    255,
+    34
+   ]
+  },
+  {
+   "x": 79,
+   "y": 134,
+   "w": 52,
+   "h": 13,
+   "text": "Energy",
+   "size": 11,
+   "color": [
+    34,
+    221,
+    255
+   ]
+  },
+  {
+   "x": 14,
+   "y": 152,
+   "w": 27,
+   "h": 11,
+   "text": "Drill",
+   "size": 10,
+   "color": [
+    153,
+    255,
+    255
+   ],
+   "align": "left"
+  },
+  {
+   "x": 45,
+   "y": 157,
+   "w": 26,
+   "h": 14,
+   "text": "Discard",
+   "size": 10,
+   "color": [
+    24,
+    28,
+    40
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "x": 114,
+   "y": 189,
+   "w": 22,
+   "h": 12,
+   "text": "Qty",
+   "size": 11
+  },
+  {
+   "x": 138,
+   "y": 189,
+   "w": 46,
+   "h": 12,
+   "text": "Total",
+   "size": 11
+  },
+  {
+   "x": 80,
+   "y": 203,
+   "w": 40,
+   "h": 18,
+   "text": "Talk",
+   "size": 13,
+   "color": [
+    24,
+    28,
+    40
+   ],
+   "stroke": [
+    255,
+    255,
+    255
+   ],
+   "stroke_width": 1,
+   "bold": false
+  },
+  {
+   "x": 121,
+   "y": 203,
+   "w": 55,
+   "h": 18,
+   "text": "Check",
+   "size": 13,
+   "color": [
+    24,
+    28,
+    40
+   ],
+   "stroke": [
+    255,
+    255,
+    255
+   ],
+   "stroke_width": 1,
+   "bold": false
+  },
+  {
+   "x": 1,
+   "y": 222,
+   "w": 81,
+   "h": 16,
+   "text": "Next Area",
+   "size": 13,
+   "color": [
+    24,
+    28,
+    40
+   ],
+   "stroke": [
+    255,
+    255,
+    255
+   ],
+   "stroke_width": 1,
+   "bold": false
+  },
+  {
+   "x": 82,
+   "y": 222,
+   "w": 56,
+   "h": 16,
+   "text": "Item",
+   "size": 13,
+   "color": [
+    24,
+    28,
+    40
+   ],
+   "stroke": [
+    255,
+    255,
+    255
+   ],
+   "stroke_width": 1,
+   "bold": false
+  },
+  {
+   "x": 137,
+   "y": 242,
+   "w": 65,
+   "h": 11,
+   "text": "Item Search",
+   "size": 10
+  }
+ ]
+}

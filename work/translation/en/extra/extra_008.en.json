@@ -1,0 +1,381 @@
+{
+ "slice": "extra_008",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "notes": [
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.25",
+   "note": "Weather Dopant. Differs from twin: the Memory was 'bestowed by the one I serve' (same phrasing as finished row 0.84), not planted in Methuss."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.64",
+   "note": "Polite variant; same English as finished row 0.68."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.14",
+   "note": "Clinical report voice (00/Seravee-type leader); speaker inferred."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.26",
+   "note": "Source calls RX 'senpai' here and in 0.72 and 0.121: a junior Rider, most likely OOO (polite). Dropped per glossary (Sempai only for Imagin to Momotaros)."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.39",
+   "note": "Reaction rows 0.39/0.43/0.51/0.55 follow each leader block, and their tone does not always match the rescuer row before them (polite 0.41, then curt 0.43). Each is voiced from its own wording."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.77",
+   "note": "Source typo (dropped kana in 'dake'); read as in twin. Same for 0.78."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.149",
+   "note": "RX (sun-powered); 0.150 also RX."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0257.mbb#0.2",
+   "note": "Town name romanized 'Yumemi Town'; not in glossary, home franchise unverified. Tower lines 0.1-0.7 are leader variants: 0.1 W (Fuuto), 0.7 Momotaros-style."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.199",
+   "note": "Narration; keeps twin's 'medical room' and adds the emergency treatment this version adds."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0261.mbb#0.8",
+   "note": "Informant NPC; speaker inferred."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0261.mbb#0.19",
+   "note": "Hambrabi (Yazan) speaks 0.19-0.33. Source says 'Regis', not twin's 'Regis Core', in 0.21/0.22, and uses the short name 'Zeta' in 0.23/0.33."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0261.mbb#0.24",
+   "note": "Cry from Hambrabi's minions; romanized 'Veh-veh!!' (no established spelling)."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.13",
+   "note": "Maganac, annoyed that more than one person came when asked to come alone."
+  }
+ ],
+ "rows": [
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.23",
+   "en": "You bastard, you lured us here on purpose!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.25",
+   "en": "This is the Invisible Memory. A special Memory bestowed upon me by the one I serve."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.26",
+   "en": "Now, what happens when I use it...? Ah, but you already know, don't you!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.31",
+   "en": "I've tried every Memory there is, and even I am amazed by this one!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.35",
+   "en": "I'll hit you with my special attack, Part 2!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.41",
+   "en": "We're getting nowhere like this! Fall back for now!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.49",
+   "en": "...Yeah, but you got any way to pull that off?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.62",
+   "en": "No clue what that is, but let's bet on it!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0152.mbb#0.64",
+   "en": "Hikari is repairing it for us! Let's hurry back to the base!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.14",
+   "en": "Unidentified object confirmed. Life signs inside!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.15",
+   "en": "Who is it? Who's in there..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.22",
+   "en": "Kamen Rider Black RX..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.26",
+   "en": "Ah... RX!? Are you all right!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.27",
+   "en": "I'll save you right now!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.29",
+   "en": "Kamen Rider Black RX!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.32",
+   "en": "That you, RX!? What the hell happened to ya, stuck in a place like that!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.33",
+   "en": "All right, hang tight!! I'm gonna get ya outta there!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.37",
+   "en": "All right, I'll save you now!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.39",
+   "en": "A Kamen Rider!? Then you're not an enemy..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.41",
+   "en": "I'll save you right now!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.43",
+   "en": "A Kamen Rider...? So you're one of our comrades as well."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.51",
+   "en": "A Kamen Rider!? Then you're one of our comrades!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.53",
+   "en": "Are you all right!? Hang on!! I'll save you right now!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.55",
+   "en": "A Kamen Rider!? Then that makes you one of our comrades, right?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.61",
+   "en": "I can't believe it... I was pulled into this world and, to my shame, captured by the enemy."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.71",
+   "en": "But my body's all right... Don't worry."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.72",
+   "en": "But, RX, at this rate..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.73",
+   "en": "But we can't just leave you like this."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.74",
+   "en": "But still, it's rough on me too, not bein' able to do a thing!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.77",
+   "en": "But at this rate, you'll only wear yourself down."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.78",
+   "en": "But at this rate, you'll only wear yourself down."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.81",
+   "en": "That's right...! There's something I have to tell you all."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.84",
+   "en": "Until just a moment ago, Kamen Rider 1 and Kamen Rider 2 were here, frozen in ice."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.95",
+   "en": "I want to save them. But in my current state..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.96",
+   "en": "Do you know where they were taken!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.97",
+   "en": "Hmm... when you say they took 'em, took 'em where?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.98",
+   "en": "Still, where'd they haul 'em off to?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.100",
+   "en": "Where in the world could they have taken them..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.106",
+   "en": "Huh? Hideout Cube...? Doesn't sound like it's this Cube."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.107",
+   "en": "I thought I'd be the next one they took away, but The O had other plans..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.108",
+   "en": "He's set his sights on the \"King Stone\" inside my body."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.118",
+   "en": "The King Stone is the power of miracles. It must never, ever fall into enemy hands..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.121",
+   "en": "But what about you...?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.125",
+   "en": "Forget that, is your body even okay? You look like you're hurtin' bad."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.142",
+   "en": "See, what'd I tell ya!! You alright!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.149",
+   "en": "...I'm fine. I'm just short on sunlight..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.150",
+   "en": "I can't bring out my true power, but it's nothing that'll kill me."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.152",
+   "en": "We'll defeat The O, I promise!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.155",
+   "en": "Ya sure? Don't go actin' all tough, y'hear?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.156",
+   "en": "Anyway, leave The O to us, and you just wait right here!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.158",
+   "en": "Leave The O to us!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.160",
+   "en": "Leave The O to us!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.162",
+   "en": "Leave The O to us!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.164",
+   "en": "Leave The O to us!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.166",
+   "en": "Please leave The O to us!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0254.mbb#0.168",
+   "en": "Leave The O to us!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0257.mbb#0.1",
+   "en": "That tower... how tall is that thing? There was nothing like that in Fuuto."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0257.mbb#0.2",
+   "en": "That tower sure is tall... There wasn't anything like that in Yumemi Town, was there?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0257.mbb#0.3",
+   "en": "What's that tower? At that rate, it looks like it could reach all the way to space."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0257.mbb#0.4",
+   "en": "What's that tower...? It's tall. Does it reach all the way to space?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0257.mbb#0.5",
+   "en": "That tower... it's so tall! I can't even see the top!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0257.mbb#0.6",
+   "en": "What's that tower...? It looks incredibly tall..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0257.mbb#0.7",
+   "en": "The hell? What's with that tower! Bein' tall don't make you a big shot!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.199",
+   "en": "Once they reached the base, RX was rushed to the medical room for emergency treatment."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0258.mbb#0.225",
+   "en": "But it's walls everywhere in there. Was there even anywhere we could explore?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0261.mbb#0.1",
+   "en": "Word is an MS hunting Zeta Gundam has appeared in Desert Cube's Quicksand Zone. Investigate."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0261.mbb#0.8",
+   "en": "Never seen an MS like that before... Yeah, it went off past this quicksand."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0261.mbb#0.19",
+   "en": "Well, well!! Found ya!! Zeta Gundam!! Hell, you even came right to me!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0261.mbb#0.21",
+   "en": "Thanks to you, I got run out of Regis and stuck in a dump like this, miserable and filthy!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0261.mbb#0.22",
+   "en": "Bring you back as a gift, and my name's cleared! I can stroll back into Regis, head held high!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0261.mbb#0.23",
+   "en": "All right, you lot! Seize Zeta!! There's a cash bonus if you pull it off!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0261.mbb#0.24",
+   "en": "Veh-veh!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0261.mbb#0.26",
+   "en": "You wanna go!? It ain't gonna go like last time!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0261.mbb#0.28",
+   "en": "Dammit!! Retreat!! But don't think this is over!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0261.mbb#0.33",
+   "en": "What!? You lot... Zeta ain't with you!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.0",
+   "en": "{A000}"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.13",
+   "en": "You came to hear my request? I'm pretty sure I said to come alone!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.20",
+   "en": "Hyahhahhahhah!! It's around here, right!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.22",
+   "en": "Hm...? What's with you guys?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.23",
+   "en": "...You mole bastards!! That's our weapon buried there!!"
+  }
+ ]
+}

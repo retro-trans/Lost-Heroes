@@ -1,0 +1,394 @@
+{
+ "slice": "talk_003",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.459",
+   "en": "The \"Gaia Gates\" their plan needs are said to be in the Cube's underground area."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.460",
+   "en": "Start by searching that area thoroughly. I'm counting on you!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.468",
+   "en": "The Terror Dopant... He seems to be a truly fearsome opponent."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.469",
+   "en": "That much is clear from the damage Accel took..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.470",
+   "en": "Still, he's impressive. He's fully conscious. He has tremendous strength of will."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.471",
+   "en": "...Yeah. That guy's bailed us out more times than I can count."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.472",
+   "en": "There are two Gaia Gates left. It'll be a tough fight, but I'm counting on you."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.482",
+   "en": "There's only one Gaia Gate left."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.483",
+   "en": "But next time, the Terror Dopant is sure to come at you with everything he's got."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.484",
+   "en": "Don't neglect your preparations."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.491",
+   "en": "I've called in our Celestial Being allies, but it'll take a while to organize them into a unit."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.492",
+   "en": "I need you to secure an attack route for them, since they'll be coming in after you."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.499",
+   "en": "So you've joined up with Celestial Being's Gundams."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.500",
+   "en": "Your first objective is stopping the particle cannon from firing, but in battle you must adapt."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.501",
+   "en": "Coordinate well with one another and carry out the operation."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.510",
+   "en": "A Terminal Unit...? I see, an access terminal for Veda."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.511",
+   "en": "But only Seravee can access it. Take great care that he doesn't come under attack."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.521",
+   "en": "I heard your transmission with Cherudim, too. You're having trouble stopping the particle cannon?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.522",
+   "en": "Use the Ride Machine to destroy the turret itself from outside the Cube."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.532",
+   "en": "Thanks to you, we at least escaped a direct hit from the particle cannon."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.533",
+   "en": "But there's no denying we've taken heavy damage."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.534",
+   "en": "We probably won't survive the next one..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.535",
+   "en": "...What are you doing? Your target is the Terminal Unit in Area 2, isn't it?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.536",
+   "en": "You should be able to enter the Cube through the gate the Psycho Gundam Mk-II's explosion made..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.537",
+   "en": "Have you been there yet?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.538",
+   "en": "If not, focus your search there. I'm counting on you."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.547",
+   "en": "That direct hit earlier was a serious blow. And to think it was only a test shot..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.548",
+   "en": "...I'm having every facility checked as we speak."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.557",
+   "en": "...The comms filled me in. Who knew there were giant weapons besides the particle cannon?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.558",
+   "en": "Memento Mori, the Barge Cannon, the Libra Cannon... and the Colony Laser..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.559",
+   "en": "But we mustn't give up. Carry out the operation Seravee devised"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.560",
+   "en": "and stop the enemy's plan!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.568",
+   "en": "So Master Gundam has appeared... Their use of DG Cells seems to be advancing, too."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.569",
+   "en": "And the Zero System as well... If we don't crush it early, it'll become a threat."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.580",
+   "en": "...The giant weapons run on Minus Energy given off by the enemy itself?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.581",
+   "en": "If that's true, cutting off their power source would be an extremely inefficient approach."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.582",
+   "en": "In practice, I'd say it's impossible..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.583",
+   "en": "Also, we've lost contact with the Gundam Team. Follow their attack route and join them, quickly."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.593",
+   "en": "The Gundam Team stopped Memento Mori and the Barge Cannon before they could fire."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.594",
+   "en": "Still left: the Libra Cannon and Colony Laser. We know where the Libra Cannon is, so stop it first."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.603",
+   "en": "What!? Strike the Libra Cannon's reactor core directly? That's a dangerous plan..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.604",
+   "en": "But it's also a sure one. We're short on time, so hurry!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.613",
+   "en": "Only the Colony Laser is left! We're almost there. Stay sharp and see the operation through!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.621",
+   "en": "You've found out where the Colony Laser is?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.622",
+   "en": "A huge space...? That sounds suspicious..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.623",
+   "en": "Whatever the case, hurry!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.631",
+   "en": "What!? Reborns had Seravee in his sights!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.632",
+   "en": "And we were just one step away...!! Go to his aid at once!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.638",
+   "en": "...Yes, we heard Seravee's voice as well. His will lives on inside Veda."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.639",
+   "en": "Do as he says. Then you're sure to finish off Reborns!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.646",
+   "en": "This will most likely be the decisive battle. Steel yourselves."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.647",
+   "en": "Don't worry. Leave the defense of the base to us."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.655",
+   "en": "So Belial has revived the monsters..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.656",
+   "en": "I expected as much once the Plasma Spark was stolen, but..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.657",
+   "en": "The monsters should be stronger than before. If you fight them, be very careful."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.663",
+   "en": "So they were using the \"Memory Memory\" to gather combat data..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.664",
+   "en": "Yeah... There's no way of knowing just how much info ended up in enemy hands."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.665",
+   "en": "Seravee is predicting the location. All we can do is head there."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.673",
+   "en": "The Devil Gundam. So it was still alive...!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.674",
+   "en": "No need to be surprised. It's just what I expected."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.675",
+   "en": "It seems Belial and the Dinosaur Greeed were keeping it in reserve as part of their forces."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.676",
+   "en": "They've left us a troublesome enemy."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.677",
+   "en": "Then we find it and smash it, that's all."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.686",
+   "en": "What is the Dinosaur Greeed scheming with the \"Memory Memory\"...!?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.687",
+   "en": "He said we have Minus Energy in us, too... It's hard to believe, but..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.689",
+   "en": "And Veda is in a state of emergency, too."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.690",
+   "en": "Yes, we've heard Seravee's voice. He says the enemy's territory is expanding..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.691",
+   "en": "That's bad..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.692",
+   "en": "And we can't forget the Devil Gundam. It's fused with the Cube."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.693",
+   "en": "The Devil Gundam... How on earth are we supposed to beat it?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.694",
+   "en": "Like Ankh said, we should look for the spot that serves as its core."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.695",
+   "en": "Right. Either way, all we can do is search every inch of the place."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.699",
+   "en": "If you sense strong Minus Energy there, that may be the Devil Gundam's core."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.700",
+   "en": "...Yeah. It's possible."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.701",
+   "en": "In any case, we need to confirm what's at that spot."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.702",
+   "en": "Got it. Leave it to me."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.710",
+   "en": "So you've stopped the Devil Gundam in its tracks!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.711",
+   "en": "We only shut off its power. We haven't destroyed it completely."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.712",
+   "en": "Even so, the paths tangled with tentacles should be open now. Let's call that a win for now."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.713",
+   "en": "Yes! This could be our breakthrough!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.459",
+   "note": "SPEAKERS from tools/talkspk.py Command (Talk01_50-74): Zoffy for all rows except #0.471/#0.664 W (Shotaro); #0.665/#0.689 00; #0.674/#0.677/#0.692/#0.694/#0.700/#0.702/#0.711 God Gundam; #0.676 Seven; #0.687/#0.691/#0.693/#0.695 Rider 1; #0.713 Black RX. #0.538 and #0.623 have no mapped speaker; treated as Zoffy continuing (same script block)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.459",
+   "note": "Quoted Gaia Gate made plural: later rows say two, then one, remain. Subject of 'their plan' = the enemy's Gaia Impact plan (#0.457, talk_002)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.468",
+   "note": "Terror Dopant = Ryubee (glossary g=m) -> 'he'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.471",
+   "note": "W (Shotaro) about Accel; object of 'helped' dropped in source. Rendered 'us' (Shotaro and Philip / the team); could be 'me'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.492",
+   "note": "Shinkou ruto = 'attack route' (invasion route), reused at #0.583."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.522",
+   "note": "Houtou hontai = the cannon's turret itself; lowercase 'turret' (glossary UI 'Gun Turret' is a target label, not used in dialogue here)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.534",
+   "note": "Subject restored as 'we' (the base) from #0.532-0.533."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.559",
+   "note": "Sentence runs into #0.560; split at the same point."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.569",
+   "note": "Zero System = enemy research (as in story); 'it' = the Zero System threat."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.580",
+   "note": "'the enemy itself' kept collective/neutral."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.603",
+   "note": "Rokushin = reactor core, matching story 'the Libra's reactor core'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.631",
+   "note": "Hosoku = had caught/locked onto; Reborns (Ribbons, g=m) -> 'his sights'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.665",
+   "note": "00. 'The location' kept unspecified as in source (likely the Dinosaur Greeed / next target)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.687",
+   "note": "Rider 1; 'he' = Dinosaur Greeed (g=m) from #0.686."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.701",
+   "note": "Literal 'confirm that location' expanded to 'confirm what's at that spot' for natural English."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.713",
+   "note": "Black RX per script; 'Yes!' renders aa plus the exclamatory tone. God Gundam's reply #0.714 is in talk_004."
+  }
+ ],
+ "report": "80/80. Speakers from talkspk.py (mostly Zoffy; W (Shotaro), 00, God Gundam, Seven, Rider 1, Black RX where mapped). #0.538/#0.623 unmapped, assumed Zoffy. Uncertain: #0.471 'us' vs 'me'; #0.665 unspecified location. No new names."
+}

@@ -1,0 +1,390 @@
+{
+ "slice": "story_027",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0223.mbb#0.1",
+   "en": "So that's it..."
+  },
+  {
+   "key": "MainEventMess0223.mbb#0.2",
+   "en": "Ankh tried to grab the blue stone."
+  },
+  {
+   "key": "MainEventMess0223.mbb#0.3",
+   "en": "But a strange power held it fast to the statue, and it couldn't be removed."
+  },
+  {
+   "key": "MainEventMess0223.mbb#0.4",
+   "en": "Damn it!! It's no good, it won't budge."
+  },
+  {
+   "key": "MainEventMess0223.mbb#0.5",
+   "en": "As I thought, we need the power of an Ultra Warrior."
+  },
+  {
+   "key": "MainEventMess0223.mbb#0.6",
+   "en": "Just as I thought, we need the power of an Ultra Warrior."
+  },
+  {
+   "key": "MainEventMess0223.mbb#0.7",
+   "en": "Figures. We need the power of an Ultra Warrior."
+  },
+  {
+   "key": "MainEventMess0223.mbb#0.8",
+   "en": "So we do need the power of an Ultra Warrior..."
+  },
+  {
+   "key": "MainEventMess0223.mbb#0.9",
+   "en": "Told ya. We need one of them Ultra Warriors after all, don't we?"
+  },
+  {
+   "key": "MainEventMess0224.mbb#0.1",
+   "en": "So that's it..."
+  },
+  {
+   "key": "MainEventMess0224.mbb#0.2",
+   "en": "All right, I'll take it."
+  },
+  {
+   "key": "MainEventMess0224.mbb#0.3",
+   "en": "Mebius reached out to the statue and grabbed the blue stone!"
+  },
+  {
+   "key": "MainEventMess0224.mbb#0.4",
+   "en": "All right, I'll take it."
+  },
+  {
+   "key": "MainEventMess0224.mbb#0.5",
+   "en": "Zero reached out to the statue and grabbed the blue stone!"
+  },
+  {
+   "key": "MainEventMess0224.mbb#0.6",
+   "en": "Obtained the blue stone."
+  },
+  {
+   "key": "MainEventMess0225.mbb#0.1",
+   "en": "Looks like you got your hands on the blue stone!"
+  },
+  {
+   "key": "MainEventMess0225.mbb#0.2",
+   "en": "Now, quick, throw it into the nest!"
+  },
+  {
+   "key": "MainEventMess0225.mbb#0.3",
+   "en": "Throw the blue stone in?"
+  },
+  {
+   "key": "MainEventMess0225.mbb#0.5",
+   "en": "{8074} threw the blue stone into Antlar's nest!"
+  },
+  {
+   "key": "MainEventMess0225.mbb#0.7",
+   "en": "Kyiaaaaahhh~~~!!"
+  },
+  {
+   "key": "MainEventMess0225.mbb#0.9",
+   "en": "{8074} stared at Antlar's nest, still clutching the blue stone."
+  },
+  {
+   "key": "MainEventMess0225.mbb#0.11",
+   "en": "Antlar's nest vanished!"
+  },
+  {
+   "key": "MainEventMess0225.mbb#0.12",
+   "en": "You did it."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.1",
+   "en": "The Ride Gate looks like it's in good shape."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.2",
+   "en": "Now if we can just finish the Ride Machine..."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.3",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.4",
+   "en": "00, what's wrong?"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.5",
+   "en": "The operation plan has been decided."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.6",
+   "en": "I need everyone to gather at the camp immediately."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.7",
+   "en": "...Well then, everyone, let's hurry to the camp."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.9",
+   "en": "{8074} and the team moved to camp."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.10",
+   "en": "...So, our ultimate goal is to strike the enemy's home base, but"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.11",
+   "en": "to do that, we've gotta head out into the Ride Dungeon and take down the Psycho Gundam."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.12",
+   "en": "Just then, 00 came running up to the heroes."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.13",
+   "en": "The Psycho Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.14",
+   "en": "The enemy's even got something like that..."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.15",
+   "en": "You know it?"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.16",
+   "en": "The enemy's even got something like that..."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.17",
+   "en": "...But it's a Gundam, right?"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.18",
+   "en": "It looks like a Gundam, but... it's far bigger and more powerful than any of us."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.19",
+   "en": "Sounds like it's gonna give us a hard time..."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.20",
+   "en": "...So, about how we beat that Psycho Gundam: we absolutely need to build a new \"Ride Machine.\""
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.21",
+   "en": "We absolutely need to build a new \"Ride Machine.\""
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.22",
+   "en": "A Ride Machine?"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.23",
+   "en": "It's a ship for traveling through the Ride Dungeon and fighting the enemy."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.24",
+   "en": "We've been building it on the Ptolemaios, which got wrecked in our last operation, but"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.25",
+   "en": "if we finish it with only our own tech, chances are we'll just end up like last time."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.26",
+   "en": "But thanks to the help of Ultraman Hikari and you guys on the Hero Team,"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.27",
+   "en": "it looks like we can finish a Ride Machine that can handle any situation."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.28",
+   "en": "I see. So, what's this operation plan?"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.29",
+   "en": "I'll explain that part."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.30",
+   "en": "Put simply, this operation is about \"gathering the materials needed to complete the Ride Machine.\""
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.31",
+   "en": "We've been investigating the enemy's territory for some time..."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.32",
+   "en": "And we discovered that this Cube has absorbed a wide variety of materials."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.33",
+   "en": "However, many of them were things whose properties and uses we couldn't identify."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.34",
+   "en": "But now that we've shared information with you, we've found that several of them..."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.35",
+   "en": "would be useful for building a more powerful Ride Machine."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.36",
+   "en": "And what are these materials?"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.37",
+   "en": "Hikari, could you explain the rest?"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.38",
+   "en": "Very well. First, there's \"Emerium ore.\""
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.39",
+   "en": "First, there's \"Emerium ore.\""
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.40",
+   "en": "Emerium ore!?"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.41",
+   "en": "You know it well, don't you, Zero?"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.42",
+   "en": "...It's what Planet Esmeralda is made of. The stuff itself is a source of super-energy... right?"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.43",
+   "en": "It's what Planet Esmeralda is made of. The stuff itself is a source of super-energy... right?"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.44",
+   "en": "Exactly. We want to use it as a power source."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.45",
+   "en": "We'll use it as the Ride Machine's main source of energy."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.46",
+   "en": "Whoa, that's something... The output's gotta be insane."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.47",
+   "en": "Next, \"Gundanium alloy.\" We can use this to reinforce the armor."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.48",
+   "en": "We can use this to reinforce the armor."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.49",
+   "en": "Our investigation found that the enemy is refining Gundanium alloy at a facility inside the Cube,"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.50",
+   "en": "and that they're holding an extremely high-purity supply of it."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.51",
+   "en": "Last of all, there's weaponry..."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.52",
+   "en": "We'll storm the enemy's storehouse and seize anything that looks usable."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.56",
+   "en": "...Those three, materials and equipment, are our targets."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.57",
+   "en": "Normally, we'd have had no choice but to attack these three sites one at a time,"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.58",
+   "en": "but this time, with the Hero Team's help, we can hit them all at once."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.60",
+   "en": "That way, the enemy will be forced to split up its forces."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.61",
+   "en": "On top of that, Celestial Being will act as a decoy and draw the enemy in."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.62",
+   "en": "Meanwhile, the Hero Team will push into the designated points and seize the materials."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0223.mbb#0.1",
+   "note": "Rows 0223-0224 are legacy (older-script) variants of the 0222 statue scene. 0223.3 mis-decoded kanji read as 'fixed' (held fast), matching 0222.6. Legacy calls it just 'the blue stone' (no 'of Baraj'); kept as written."
+  },
+  {
+   "key": "MainEventMess0223.mbb#0.5",
+   "note": "0223.5-9 are party-leader variants of 'we need an Ultra Warrior's power'; voiced by label (Nu calm, Zeta, Shotaro 'Figures', OOO soft, Momotaros rough)."
+  },
+  {
+   "key": "MainEventMess0224.mbb#0.2",
+   "note": "Legacy variant gives Mebius the rough 'yosh, ore ga torou' (Zero-style) instead of his polite line in 0222.18; translated neutrally as written for both Mebius and Zero."
+  },
+  {
+   "key": "MainEventMess0225.mbb#0.1",
+   "note": "0225 is NOT flagged legacy but is fully mis-decoded (wrong-encoding kanji). Meaning inferred from the matching 0217 Antlar-nest scene: blue stone obtained / quick, throw it into the nest / throw it in? / threw it into Antlar's nest / roar / stared while clutching it / nest vanished / 'yatta na'. Speaker labels here (00, Zeta, Waste Yummy) look mis-mapped; 0225.1's gentle 'ne' ending suggests Arios, 0225.7 is Antlar's roar."
+  },
+  {
+   "key": "MainEventMess0225.mbb#0.7",
+   "note": "Antlar's roar rendered 'Kyiaaaaahhh~~~!!'; no earlier English precedent (story_026 0217.10 has the same roar, not yet translated) - keep consistent."
+  },
+  {
+   "key": "MainEventMess0225.mbb#0.12",
+   "note": "'Yatta na' (label Zeta, likely mis-mapped) rendered 'You did it.' praising the player; 0217 counterpart is Arios's 'Did we get it!'."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.6",
+   "note": "00 asking the heroes to come: 'I need everyone to gather...' (subject restored)."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.11",
+   "note": "'Psycho Gundam' not in glossary; standard English name used."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.12",
+   "note": "Narration '00 came running up to the heroes' sits oddly after Cherudim's lines (likely unused/alt ordering); translated as written."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.14",
+   "note": "Unlabelled variant of Zeta's line #0.16; same wording given."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.18",
+   "note": "Zeta speaks politely (desu) to Shotaro here; kept neutral-polite. 'Oretachi' = the Gundams, rendered 'any of us'."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.29",
+   "note": "Seravee (Tieria) uses 'boku' here; rendered plainly 'I'll explain that part.'"
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.42",
+   "note": "'Planet Esmeralda' not in glossary; established Ultraman Zero English name."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.52",
+   "note": "'Hokanko' rendered 'storehouse'; next slice's operation C ('Buso Hokanko' raid) should align (e.g. 'Weapons Storehouse')."
+  },
+  {
+   "key": "MainEventMess0227.mbb#0.56",
+   "note": "'The above three materials/equipment' = two materials plus the weapons; rendered 'Those three, materials and equipment, are our targets.'"
+  }
+ ],
+ "report": "80/80 rows. 0225 (not flagged legacy) is fully mis-decoded; meaning inferred from the 0217 Antlar-nest scene, speaker labels there look mis-mapped. Legacy 0223.3 'fixed' inferred. Not in glossary: Psycho Gundam, Planet Esmeralda, Antlar roar 'Kyiaaaaahhh~~~!!', 'storehouse' for hokanko."
+}

@@ -1,0 +1,402 @@
+{
+ "slice": "extra_001",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.203",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.118",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.167",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.101",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.77",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.163",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST013_pk#0.74",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST014_pk#0.176",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST015_pk#0.59",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.69",
+   "en": "Looks like we'll have to bring Ultraman along again this time."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST017_pk#0.132",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.289",
+   "en": "Hey. Without God Gundam here, nobody's even gonna use that sword."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.75",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.86",
+   "en": "00 must be in the party to progress this quest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.262",
+   "en": "Completed the quest \"Rescuing Altron\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.30",
+   "en": "I have no interest in you lot. Bring me Black Sun."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.90",
+   "en": "Mebius must be in the party to progress this quest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.210",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.41",
+   "en": "I'm sure I told you to bring OOO."
+  },
+  {
+   "key": "MainEventMess0101.mbb#0.13",
+   "en": "Right, let's go."
+  },
+  {
+   "key": "MainEventMess0102.mbb#0.2",
+   "en": "Pressing the open/close switch gets no response. It seems to have stopped working."
+  },
+  {
+   "key": "MainEventMess0103.mbb#0.9",
+   "en": "If we can get Fuuto Tower moving again, won't the city start working again too?"
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.18",
+   "en": "Let's go!"
+  },
+  {
+   "key": "MainEventMess0106.mbb#0.12",
+   "en": "Right. Let's go, and stay on our guard."
+  },
+  {
+   "key": "MainEventMess0107.mbb#0.21",
+   "en": "See ya!"
+  },
+  {
+   "key": "MainEventMess0108.mbb#0.25",
+   "en": "If that's settled, there's no time to waste!"
+  },
+  {
+   "key": "MainEventMess0110.mbb#0.56",
+   "en": "Yeah. They might be up ahead. Let's look for them."
+  },
+  {
+   "key": "MainEventMess0111.mbb#0.47",
+   "en": "All right, let's track down where Spider Man went."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.103",
+   "en": "Now then, Twin Tail, you shall sate Bogal's hunger."
+  },
+  {
+   "key": "MainEventMess0113.mbb#0.9",
+   "en": "The shutter opened!"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.72",
+   "en": "We'll head out too, as soon as we're ready."
+  },
+  {
+   "key": "MainEventMess0115.mbb#0.38",
+   "en": "Ah...!! Hikari, please wait!!"
+  },
+  {
+   "key": "MainEventMess0116.mbb#0.2",
+   "en": "The Barabas corpse is gone."
+  },
+  {
+   "key": "MainEventMess0117.mbb#0.7",
+   "en": "There was fighting over here too? Who on earth could it have been..."
+  },
+  {
+   "key": "MainEventMess0121.mbb#0.5",
+   "en": "Snow...? It wasn't anywhere near this cold a moment ago..."
+  },
+  {
+   "key": "MainEventMess0122.mbb#0.59",
+   "en": "...That's the first time I've ever met a bunch that loud..."
+  },
+  {
+   "key": "MainEventMess0123.mbb#0.66",
+   "en": "This one, for instance, is the \"Begins Cube.\" It's a lot like the world we came from."
+  },
+  {
+   "key": "MainEventMess0124.mbb#0.171",
+   "en": "Here I go!"
+  },
+  {
+   "key": "MainEventMess0126.mbb#0.29",
+   "en": "I'm going toooo!! Bye-byeee♪"
+  },
+  {
+   "key": "MainEventMess0127.mbb#0.23",
+   "en": "You can't, not with that wound! Let's go back to base and get you treated!"
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.41",
+   "en": "Yeah, leave it to us."
+  },
+  {
+   "key": "MainEventMess0129.mbb#0.2",
+   "en": "Something's moving in front of the Ride Vendor!"
+  },
+  {
+   "key": "MainEventMess0130.mbb#0.47",
+   "en": "Hmph! I'll find one in no time! Let's go!"
+  },
+  {
+   "key": "MainEventMess0131.mbb#0.25",
+   "en": "There's no need to wait around here anyway. We're gonna explore this area too."
+  },
+  {
+   "key": "MainEventMess0132.mbb#0.3",
+   "en": "...So it's south of here. Right, let's go!"
+  },
+  {
+   "key": "MainEventMess0133.mbb#0.2",
+   "en": "It's close! Up ahead, is it!!"
+  },
+  {
+   "key": "MainEventMess0134.mbb#0.9",
+   "en": "Ankh disappeared into the wall."
+  },
+  {
+   "key": "MainEventMess0135.mbb#0.4",
+   "en": "Right, let's try following this trail."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.82",
+   "en": "Ultraman Mebius joined the party!"
+  },
+  {
+   "key": "MainEventMess0137.mbb#0.2",
+   "en": "Obtained a key."
+  },
+  {
+   "key": "MainEventMess0138.mbb#0.12",
+   "en": "Obtained a Cell Medal."
+  },
+  {
+   "key": "MainEventMess0139.mbb#0.2",
+   "en": "Huh? What was that scream just now..."
+  },
+  {
+   "key": "MainEventMess0140.mbb#0.3",
+   "en": "A Yummy... Is it close by?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.134",
+   "en": "Now then, that's quite enough... Let us begin!!"
+  },
+  {
+   "key": "MainEventMess0142.mbb#0.6",
+   "en": "The weather changed again...!?"
+  },
+  {
+   "key": "MainEventMess0143.mbb#0.6",
+   "en": "It's strangely quiet..."
+  },
+  {
+   "key": "MainEventMess0144.mbb#0.97",
+   "en": "Tch! Hey, what are you spacing out for? We're going after them too!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.291",
+   "en": "Mebius used the Denden Sensor!"
+  },
+  {
+   "key": "MainEventMess0147.mbb#0.7",
+   "en": "(So the weather still ain't cleared up...)"
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.29",
+   "en": "Obtained Ryutaros's chip."
+  },
+  {
+   "key": "MainEventMess0151.mbb#0.3",
+   "en": "Nega Den-O bolted like a frightened rabbit."
+  },
+  {
+   "key": "MainEventMess0160.mbb#0.3",
+   "en": "You can view this same tutorial at any time from the Camp Menu."
+  },
+  {
+   "key": "MainEventMess0161.mbb#0.3",
+   "en": "You can view this same tutorial at any time from the Camp Menu."
+  },
+  {
+   "key": "MainEventMess0163.mbb#0.2",
+   "en": "Seamons's corpse is gone."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.45",
+   "en": "I'm Nu Gundam. Nice to meet you."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.38",
+   "en": "Let's go!!"
+  },
+  {
+   "key": "MainEventMess0202.mbb#0.23",
+   "en": "So this place is a battlefield, huh!!"
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.19",
+   "en": "What on earth is going on?"
+  },
+  {
+   "key": "MainEventMess0205.mbb#0.56",
+   "en": "Gundams, huh... I hope this is all some kind of mistake."
+  },
+  {
+   "key": "MainEventMess0206.mbb#0.352",
+   "en": "Also, if there's anything you want to ask, come talk to me. I'll be around here."
+  },
+  {
+   "key": "MainEventMess0207.mbb#0.43",
+   "en": "To our shame, the ship got wrecked, and we came running back. That's the story."
+  },
+  {
+   "key": "MainEventMess0208.mbb#0.7",
+   "en": "In fact, some of our comrades' weapons and such turned up in the ruins in this Cube."
+  },
+  {
+   "key": "MainEventMess0209.mbb#0.9",
+   "en": "then applying and repurposing it all. That's how they create even nastier forces."
+  },
+  {
+   "key": "MainEventMess0211.mbb#0.9",
+   "en": "To our shame, the ship got wrecked, and we came running back. That's the story."
+  },
+  {
+   "key": "MainEventMess0212.mbb#0.4",
+   "en": "Please, go right through."
+  },
+  {
+   "key": "MainEventMess0213.mbb#0.15",
+   "en": "Try talking to the Maganac on gate duty."
+  },
+  {
+   "key": "MainEventMess0214.mbb#0.2",
+   "en": "Try talking to the Maganac on gate duty."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.74",
+   "en": "Hell yeah!! We're heading for Baraj!!"
+  },
+  {
+   "key": "MainEventMess0216.mbb#0.2",
+   "en": "A Capture Ray is shining up into the sky, and an eerie cry can be heard from inside."
+  },
+  {
+   "key": "MainEventMess0217.mbb#0.18",
+   "en": "Your destination has been marked on the MAP."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST016_pk#0.69",
+   "note": "Speaker Ankh (script: last MessWinSet +68, CharaNameIn Ankh), answering Alien Baltan's 'Bring me Ultraman'. 'Again this time' echoes QUEST010."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.289",
+   "note": "Speaker not recovered: the Quest018 script trace stops at +156 (Money Dopant quest); the vault/sword half of this table has no traced speaker. Rough voice inferred. 'G-Gun' nickname rendered as God Gundam (established in QUEST019)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.30",
+   "note": "Speaker Shadow Moon (script +29), refusing a party without RX."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.41",
+   "note": "Speaker Ankh (script +40), refusing a party without OOO."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.203",
+   "note": "Quest-report system line; matches the established English used in the quest pass."
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.18",
+   "note": "Not played by the traced script (last MessWinSet is +16 = row 17, Shotaro). Speaker unknown; kept as a plain party line."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.72",
+   "note": "Speaker not recovered; answers Hikari's 'Let's go, Mebius!' (rows 67-71 also unlabelled). Subject 'we' restored."
+  },
+  {
+   "key": "MainEventMess0128.mbb#0.41",
+   "note": "Speaker not recovered (script uses a non-constant MessWinSet); party's reply to Hikari's 'I'm counting on you to bring Mebius back.'"
+  },
+  {
+   "key": "MainEventMess0203.mbb#0.19",
+   "note": "Party-leader variant (script +5+13, curt variant paired with row 18). Same Japanese as rows 6/8, so same English."
+  },
+  {
+   "key": "MainEventMess0215.mbb#0.74",
+   "note": "Party-leader variant (script +67+6, label Zero but leader-dependent); rough/energetic voice."
+  },
+  {
+   "key": "MainEventMess0123.mbb#0.66",
+   "note": "Identical Japanese to row 55 of the same table; reused its English."
+  },
+  {
+   "key": "MainEventMess0208.mbb#0.7",
+   "note": "Legacy mis-decode; read as 'genni ... buso ... iseki' (in fact / weapons / ruins), matching 0207 row 9's content."
+  },
+  {
+   "key": "MainEventMess0209.mbb#0.9",
+   "note": "Legacy mis-decode; same text as 0207 row 20 (apply/repurpose, nastier forces). Lowercase start continues row 8's sentence, as in 0207."
+  },
+  {
+   "key": "MainEventMess0211.mbb#0.9",
+   "note": "Legacy mis-decode; same text as 0207 row 43, so identical English."
+  },
+  {
+   "key": "MainEventMess0214.mbb#0.2",
+   "note": "Legacy mis-decode; same text as 0213 row 15, so identical English."
+  },
+  {
+   "key": "MainEventMess0207.mbb#0.43",
+   "note": "'The ship' = the Ptolemaios I transport from rows 40-42."
+  },
+  {
+   "key": "MainEventMess0135.mbb#0.4",
+   "note": "'Koitsu' = the trail of dropped Cell Medals from rows 2-3."
+  },
+  {
+   "key": "MainEventMess0130.mbb#0.47",
+   "note": "'Find one' = a working Ride Vendor, following the 'let's find one that works' variants."
+  }
+ ],
+ "report": "80/80 rows. Uncertain speakers: DG_QUEST018 .289 (no script trace for the vault half), 0104 .18 (not played by traced script), 0114 .72 and 0128 .41 (unlabelled party replies). Legacy guesses: 0208 .7, 0209 .9, 0211 .9, 0214 .2 resolved from clean duplicates in 0207/0213. No new names."
+}

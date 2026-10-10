@@ -1,0 +1,366 @@
+{
+ "slice": "quest_019",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.18",
+   "en": "In the Colosseum, kaiju were fighting each other."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.20",
+   "en": "This place is really heating up..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.21",
+   "en": "This place is really heating up..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.22",
+   "en": "Damn, this place is really heatin' up...!! Ain't the ice gonna melt?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.23",
+   "en": "This place is really heating up..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.24",
+   "en": "This place is really heating up..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.25",
+   "en": "This place is really heating up, isn't it..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.26",
+   "en": "Man, this place is really heatin' up...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.27",
+   "en": "This place is really heating up..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.28",
+   "en": "This place is really heating up..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.29",
+   "en": "This place is really heating up..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.30",
+   "en": "A Fight between kaiju? Either way, this place is really heating up."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.31",
+   "en": "It's really heating up in here..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.32",
+   "en": "This place is really heating up..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.33",
+   "en": "This place is really heating up..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.34",
+   "en": "This place is really heating up..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.35",
+   "en": "Welcome to \"Heaven,\" heroes. I am Money Dopant."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.36",
+   "en": "I take it you heard the rumors of my \"Million Colosseo\" and came here?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.37",
+   "en": "What?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.38",
+   "en": "Next up is the Red King vs. Eleking match. You will predict which one wins."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.39",
+   "en": "Guess right, and you get enough money to knock you off your feet. But if you guess wrong..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.40",
+   "en": "...I'll take your lives."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.41",
+   "en": "What a load of crap...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.42",
+   "en": "Well then, will you take this bet!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.48",
+   "en": "You're on!! We accept that wager."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.49",
+   "en": "Hey...!! Are you sure about this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.50",
+   "en": "I've read up on winning strategies for every kind of gambling in the world. Leave it to me."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.56",
+   "en": "Guess we'll give it a shot."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.57",
+   "en": "Alright!! Now this is fun!! Let's damn well do this!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.58",
+   "en": "Yeah!! We'll do it!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.59",
+   "en": "Right, let's do it!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.60",
+   "en": "We'll do it!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.61",
+   "en": "Hell yeah!! Let's damn well do this!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.62",
+   "en": "Right, let's do it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.63",
+   "en": "Right, let's do it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.64",
+   "en": "Right, let's do it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.65",
+   "en": "Yeah!! We'll do it!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.66",
+   "en": "Got it!! We'll do it!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.67",
+   "en": "All right, let's give it a try."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.68",
+   "en": "Let's give it a shot."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.69",
+   "en": "Guess we'll give it a shot."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.73",
+   "en": "Very well. Then, without further ado, let's hear your prediction."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.74",
+   "en": "Red King\nEleking\nDraw"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.77",
+   "en": "I see... A draw, is it... Very well."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.79",
+   "en": "Heh heh... Red King, is it!? Very well."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.81",
+   "en": "...Before long, the gong rang out to signal the start of the match."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.84",
+   "en": "Heh heh... Eleking, is it!? Very well."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.86",
+   "en": "...Before long, the gong rang out to signal the start of the match."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.89",
+   "en": "Grrrgh..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.90",
+   "en": "Kih, kih"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.91",
+   "en": "The two are glaring each other down. Are they waiting to see what the other will do?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.92",
+   "en": "Now, which one will make the first move!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.93",
+   "en": "Gyaaaaaaaah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.94",
+   "en": "Red King goes for iiit!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.95",
+   "en": "Pikiiiiiiiih!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.96",
+   "en": "But Eleking hits right back, swinging its giant tail in an electric attaaaaack!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.97",
+   "en": "Gyuaaaaagh!!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.98",
+   "en": "Kiiiiiiiiiiiiiiiiih!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.99",
+   "en": "Gwaah..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.100",
+   "en": "Whoa there, Red King is paralyzed and can't move!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.101",
+   "en": "Kiiiiiih!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.102",
+   "en": "And Eleking! In one smooth motion, it follows up with a Discharge Raaaaaaaaaay!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.103",
+   "en": "Gu... Gwah..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.104",
+   "en": "Red King is dooooown! Will it get up!? Red King, will it get up!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.105",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.106",
+   "en": "Red King is completely knocked ouuut!! The winner iiis... Eleeekiiing!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.107",
+   "en": "\"DING-DING-DIIING!\""
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.111",
+   "en": "Tch!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.112",
+   "en": "Huh? Did you say something?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.113",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.114",
+   "en": "Huh? Did you say something?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.115",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.116",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.117",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.118",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.119",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.120",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.121",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.122",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.123",
+   "en": "Did you say something?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.18",
+   "note": "Narration (no name box), same text as 0.7. Speakers from Quest018.bla with row = TextIdOffset+N+1 (Money Dopant +34 -> 0.35, Ankh +36 -> 0.37 and +40 -> 0.41)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.20",
+   "note": "Leader block 0.20-0.34 (TextIdOffset+19+k), Pt_Chara_Check order: Shotaro, OOO, Momotaros(22), RX, Rider 1, Mebius(25 polite), Zero(26), Taro, Ultraman, Seven, God Gundam(30, 'Fight'), Zeta, Nu, 00, Wing Zero. 'Netsuki' rendered as 'heating up' so it reads as both crowd fervor and literal heat (Momotaros's ice-melting joke)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.36",
+   "note": "Event name 'Million Colosseo' kept distinct from the venue 'Colosseum' because the source uses the Italian form here; not in glossary."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.41",
+   "note": "Ankh (CHARA_NAME 36); same wording as the existing 'What a load of crap!!' line."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.48",
+   "note": "48/50 W (Philip), 49 W (Shotaro): the branch when W is in the party. Otherwise the leader block 0.55+k plays (0.55 Shotaro slot is empty): 56 OOO, 57 Momotaros, 58 RX, 59 Rider 1, 60 Mebius, 61 Zero, 62 Taro, 63 Ultraman, 64 Seven, 65 God, 66 Zeta, 67 Nu, 68 00, 69 Wing Zero. 'Yaru/yarimasu' rendered with 'we' since the leader accepts for the team."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.74",
+   "note": "Three-choice select window; kept as a newline list."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.89",
+   "note": "Match: Red King (89/93/97/99/103), Eleking (90/95/98/101), '???' announcer (91/92/94/96/100/102/104/105/106). Roars romanized from these specific cries (glossary Red King/Eleking roars are for different Japanese). Kaiju referred to as 'it' (glossary g=n). 'Discharge Ray' per the existing skill name."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.107",
+   "note": "Ring bell sound effect, no speaker; written as a quoted SFX per glossary style."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST018_pk#0.111",
+   "note": "Money Dopant clicks his tongue on the win route; 112-126 leader block (TextIdOffset+111+k): 112 Shotaro, 113 OOO, 114 Momotaros, 115 RX, 116 Rider 1, 117 Mebius, 118 Zero, 119 Taro, 120 Ultraman, 121 Seven, 122 God, 123 Zeta (rest in quest_020)."
+  }
+ ],
+ "report": "80/80 rows examined. Speakers from Quest018.bla, row = TextIdOffset+N+1 (0.55 empty slot = Shotaro in leader block 2). Uncertain: 'Million Colosseo' name (not in glossary); new roars romanized; 0.107 bell SFX quoted."
+}

@@ -1,0 +1,378 @@
+{
+ "slice": "story_099",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0565.mbb#0.155",
+   "en": "Is something wrong, Ankh?"
+  },
+  {
+   "key": "MainEventMess0565.mbb#0.156",
+   "en": "What is it, Ankh?"
+  },
+  {
+   "key": "MainEventMess0565.mbb#0.157",
+   "en": "What is it, Ankh?"
+  },
+  {
+   "key": "MainEventMess0565.mbb#0.158",
+   "en": "What is it, Ankh?"
+  },
+  {
+   "key": "MainEventMess0565.mbb#0.159",
+   "en": "What is it, Ankh?"
+  },
+  {
+   "key": "MainEventMess0565.mbb#0.160",
+   "en": "What is it, Ankh?"
+  },
+  {
+   "key": "MainEventMess0565.mbb#0.161",
+   "en": "What is it, Ankh?"
+  },
+  {
+   "key": "MainEventMess0565.mbb#0.162",
+   "en": "Ankh held up a scrap of paper with something written on it."
+  },
+  {
+   "key": "MainEventMess0565.mbb#0.163",
+   "en": "Look at this note... It was stuck to that glass case over there."
+  },
+  {
+   "key": "MainEventMess0565.mbb#0.164",
+   "en": "Written on it were the words \"Ebi, Kani, Sasori.\""
+  },
+  {
+   "key": "MainEventMess0565.mbb#0.165",
+   "en": "Ebi, Kani, Sasori... Those are the Core Medals Ikadevil took from the Armored Samurai Kaijin."
+  },
+  {
+   "key": "MainEventMess0565.mbb#0.166",
+   "en": "But there's no sign of the actual Core Medals anywhere..."
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.1",
+   "en": "Something is written on the door."
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.2",
+   "en": "CAUTION!\nGN Drive Tau Control Area"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.3",
+   "en": "GN Drive Taus...!! In here...!?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.4",
+   "en": "GN Drive Tau...? You mean the power source 00 and the others use?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.6",
+   "en": "Go inside?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.9",
+   "en": "Yo!! You bunch of heroes!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.10",
+   "en": "Oh? The 00 brat's here too, huh? Didn't think you'd still be alive!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.11",
+   "en": "Long time no see. Still breathing, are ya?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.15",
+   "en": "You! What are you doing here...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.16",
+   "en": "You! What are you doing here...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.17",
+   "en": "You! What are you doing here...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.18",
+   "en": "You! What are you doing here...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.19",
+   "en": "You! What are you doing here...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.20",
+   "en": "You there! What are you doing here...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.21",
+   "en": "You there! What are you doing here...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.22",
+   "en": "You there! What are you doing here...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.23",
+   "en": "Hey! You bastard! What're you doing here...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.24",
+   "en": "You! What are you doing here...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.25",
+   "en": "You! What are you doing here...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.26",
+   "en": "You! What are you doing here...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.27",
+   "en": "You! What are you doing here...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.28",
+   "en": "You! What are you doing here...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.29",
+   "en": "You! What are you doing here...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.31",
+   "en": "Too bad. There ain't any GN Drive Taus left. I just finished hauling every last one of 'em out."
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.32",
+   "en": "There were so damn many of 'em, it was a real pain, y'know?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.33",
+   "en": "What are you planning to do with the GN Drive Taus!?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.34",
+   "en": "What are you planning to do with the GN Drive Taus!?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.35",
+   "en": "What are you planning to do with the GN Drive Taus!?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.36",
+   "en": "What are you planning to do with the GN Drive Taus!?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.37",
+   "en": "What are you planning to do with the GN Drive Taus!?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.38",
+   "en": "What are you planning to do with the GN Drive Taus!?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.39",
+   "en": "What are you planning to do with the GN Drive Taus!?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.40",
+   "en": "What are you planning to do with the GN Drive Taus!?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.41",
+   "en": "Just what're you gonna do with that GN Drive whatchamacallit!?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.42",
+   "en": "What are you planning to do with the GN Drive Taus!?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.43",
+   "en": "What are you planning to do with the GN Drive Taus!?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.44",
+   "en": "What are you planning to do with the GN Drive Taus!?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.45",
+   "en": "What are you planning to do with the GN Drive Taus!?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.46",
+   "en": "What are you planning to do with the GN Drive Taus!?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.47",
+   "en": "What are you planning to do with the GN Drive Taus!?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.50",
+   "en": "Looks like they're gonna kick off one hell of a war, y'know?"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.51",
+   "en": "What...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.52",
+   "en": "What...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.53",
+   "en": "What...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.54",
+   "en": "What...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.55",
+   "en": "What...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.56",
+   "en": "What...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.57",
+   "en": "What...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.58",
+   "en": "What...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.59",
+   "en": "What...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.60",
+   "en": "What...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.61",
+   "en": "What...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.62",
+   "en": "What...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.63",
+   "en": "What...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.64",
+   "en": "What...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.65",
+   "en": "What...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.66",
+   "en": "Well, we bumped into each other, so that's that. Not part of my job, but I can't just let you walk!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.67",
+   "en": "Come on out! Virgo!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.68",
+   "en": "Virgo...!? Mobile dolls!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.69",
+   "en": "This is a performance test of the mobile dolls the boss left with me! Go!! Virgo!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.71",
+   "en": "Well, how about that!! Use 'em right, and these things could turn into something big!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.72",
+   "en": "Mobile dolls are some pretty interesting gear. I'm startin' to look forward to this! See ya!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.73",
+   "en": "Arche Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.74",
+   "en": "Arche Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.75",
+   "en": "Arche Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.76",
+   "en": "Arche Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.77",
+   "en": "Arche Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.78",
+   "en": "Arche Gundam...!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0565.mbb#0.155",
+   "note": "#0.147-161 is a 15-slot leader block; 0565's Pt_Chara_Check chain is OOO, W, Den-O, RX, Rider 1, Nu, Zero, Zeta, Mebius, Seven, Ultraman, Taro, God, Wing Zero, 00, and the wording matches it (slot 3 = Momotaros, slot 9 = polite with -san = Mebius). So #0.155 = Mebius (polite), #0.156-161 = Seven, Ultraman, Taro, God, Wing Zero, 00. Story_098 holds slots 1-8 of the same block; align the plain line if it chose differently."
+  },
+  {
+   "key": "MainEventMess0565.mbb#0.164",
+   "note": "Core Medal names romanized Ebi / Kani / Sasori (Shrimp / Crab / Scorpion), following story_097's romanized Kujaku / Condor / Taka. Not in glossary."
+  },
+  {
+   "key": "MainEventMess0565.mbb#0.165",
+   "note": "Ankh's line: the medals Ikadevil took from the Armored Samurai Kaijin (glossary name)."
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.3",
+   "note": "Labelled Ankh by the extractor, but the script runs Pt_Chara_Check(10) (00) and sets both CHARA_NAME 10 and 36 around #0.3/#0.4: #0.3 is most likely 00 recognizing the term, #0.4 Ankh's version if 00 is absent. Both written to fit their likely speaker."
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.2",
+   "note": "Door sign: deliberate two-line layout kept with a line break."
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.10",
+   "note": "#0.10 plays when 00 is in the party (Pt_Chara_Check(10)); #0.11 is the alternate greeting. Ali's voice kept from earlier slices ('the 00 brat', 'ya')."
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.15",
+   "note": "0566 leader chain: 00, Wing Zero, Nu, Zeta, Zero, Mebius, OOO, W, Den-O, RX, Rider 1, Ultraman, God, God (dup in script; Seven absent), Taro. Matches wording: slot 9 (#0.23, #0.41) is Momotaros (rough; forgets the term 'GN Drive Tau'), slots 6-8 (#0.20-22, Mebius/OOO/W) use the milder pronoun -> 'You there!' vs 'You!' for the harsher one."
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.41",
+   "note": "Momotaros garbles the term (source: 'pseudo-whatsit'); rendered 'GN Drive whatchamacallit'."
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.66",
+   "note": "Compressed slightly for the box ('Not part of my job' for 'even if it's outside my mission')."
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.68",
+   "note": "Labelled Taro by the extractor (CHARA_NAME 13), but the replay also shows CHARA_NAME 13 on the computed leader lines, so this may really be the party leader. Wording kept neutral."
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.69",
+   "note": "'Taisho' = 'the boss' as in story slices for 0256; who the boss is stays unspecified, as in the source."
+  },
+  {
+   "key": "MainEventMess0566.mbb#0.71",
+   "note": "Spoken after the Virgo battle; 'bakeru' = could become something formidable."
+  }
+ ],
+ "report": "80/80 rows translated. Leader blocks voiced by each script's Pt_Chara_Check chain (matches wording). Uncertain: #0566.3 speaker likely 00 not Ankh; #0566.68 speaker may be party leader not Taro; Ebi/Kani/Sasori romanized (not in glossary)."
+}

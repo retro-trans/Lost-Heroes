@@ -1,0 +1,329 @@
+{
+ "slice": "quest_030",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.67",
+   "en": "Sorry... and thank you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.68",
+   "en": "I can't believe anyone besides us made it to this place... You saved us."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.69",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.70",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.71",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.72",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.73",
+   "en": "I'm sorry we got so rough. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.74",
+   "en": "I'm sorry we got so rough. But how come you two were fighting each other!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.75",
+   "en": "Sorry we roughed ya up! But what the heck were you two fightin' each other for?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.76",
+   "en": "Why were you two fighting each other?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.77",
+   "en": "But why exactly were you two fighting each other?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.78",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.79",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.80",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.81",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.82",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.83",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.84",
+   "en": "Well... we don't know either."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.85",
+   "en": "You don't know!? What's that supposed to mean?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.86",
+   "en": "You don't know!? What do you mean?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.87",
+   "en": "You don't know!? What's that supposed to mean?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.88",
+   "en": "You don't know!? Then how about you tell me what happened?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.89",
+   "en": "You don't know!? If you don't mind, could you tell us what happened?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.90",
+   "en": "You don't know!? What do you mean by that?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.91",
+   "en": "Ya don't know!? What the heck's that supposed to mean?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.92",
+   "en": "You don't know!? Explain what you mean."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.93",
+   "en": "You don't know!? Explain what you mean."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.94",
+   "en": "You don't know!? What's that supposed to mean?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.95",
+   "en": "You don't know!? What on earth happened?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.96",
+   "en": "You don't know!? What on earth happened?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.97",
+   "en": "You don't know!? What on earth happened?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.98",
+   "en": "You don't know!? Then what the heck went on here?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.99",
+   "en": "You don't know!? What on earth happened?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.100",
+   "en": "Well... we were scouting around here, trying to figure out where this place even is."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.101",
+   "en": "Then all of a sudden, we breathed in some strange smoke."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.102",
+   "en": "I don't know... We breathed in some strange smoke, and I don't remember anything after that..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.103",
+   "en": "Strange smoke...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.104",
+   "en": "Strange smoke...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.105",
+   "en": "Strange smoke...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.106",
+   "en": "Strange smoke...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.107",
+   "en": "Strange smoke...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.108",
+   "en": "Strange smoke...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.109",
+   "en": "Strange smoke...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.110",
+   "en": "Strange smoke...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.111",
+   "en": "Strange smoke...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.112",
+   "en": "Strange smoke...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.113",
+   "en": "Strange smoke...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.114",
+   "en": "Strange smoke...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.115",
+   "en": "Strange smoke...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.116",
+   "en": "Strange smoke...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.117",
+   "en": "Strange smoke...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.118",
+   "en": "Yeah. It came drifting in on the wind from the West District."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.119",
+   "en": "I remember breathing in that smoke, but... the next thing I knew, we were in this mess..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.120",
+   "en": "I see... So that must be the cause."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.121",
+   "en": "I see... So that must be the cause."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.122",
+   "en": "I see... So that must be the cause."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.123",
+   "en": "I see... So that must be the cause."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.124",
+   "en": "I see... So that must be the cause."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.125",
+   "en": "I see... That must be the cause!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.126",
+   "en": "I see... I bet that's the cause!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.127",
+   "en": "Ah-haaah, so that's the culprit, huh?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.128",
+   "en": "I see... So that must be the cause."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.129",
+   "en": "I see... So that must be the cause."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.130",
+   "en": "I see... So that must be the cause."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.131",
+   "en": "I see... So that must be the cause."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.132",
+   "en": "I see... So that must be the cause."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.133",
+   "en": "I see... So that must be the cause."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.134",
+   "en": "I see... So that must be the cause."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.135",
+   "en": "Hey, let's hurry up and get this over with!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.138",
+   "en": "GM II said the West District, right? Why not look for a spot in this district you haven't been to yet?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.143",
+   "en": "So you've come..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.144",
+   "en": "Alien Metron...!! So it was you!! You're the one who's been making the smoke!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.145",
+   "en": "Alien Metron...!! So it was you!! You're the one who's been making the smoke!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.146",
+   "en": "Alien Metron...!! So it was you!! You're the one who's been making the smoke!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.147",
+   "en": "Alien Metron...!! It's you, isn't it!? You're the one who's been making the smoke!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.148",
+   "en": "Alien Metron...!! So it was you!! You're the one who's been making the smoke!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.149",
+   "en": "Alien Metron...!! So it was you!! You're the one who's been making the smoke!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.150",
+   "en": "Alien Metron...!! So it was you!! You're the one who's been making the smoke!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.151",
+   "en": "Alien Metron...!! It's you, ain't it!? You're the one who's been cookin' up that smoke!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.152",
+   "en": "Alien Metron...!! It was you!! You're the one who's been making the smoke!!"
+  }
+ ],
+ "notes": [],
+ "report": "filled from the DG_QUEST twin rows / translation memory"
+}

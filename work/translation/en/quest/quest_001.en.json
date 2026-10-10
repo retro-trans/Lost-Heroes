@@ -1,0 +1,378 @@
+{
+ "slice": "quest_001",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.1",
+   "en": "Dummy"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.5",
+   "en": "Reports just came in of Nemos fighting each other in Begins Cube. Rush there and find the cause."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.14",
+   "en": "You can hear the sounds of a fierce battle!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.17",
+   "en": "Uoooooooooooooh!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.18",
+   "en": "Gwaaaaaaaaaaaargh!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.19",
+   "en": "What!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.20",
+   "en": "What!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.21",
+   "en": "What!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.22",
+   "en": "What!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.23",
+   "en": "What!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.24",
+   "en": "What!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.25",
+   "en": "What!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.26",
+   "en": "What!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.27",
+   "en": "What!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.28",
+   "en": "What!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.29",
+   "en": "What!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.30",
+   "en": "What!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.31",
+   "en": "What!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.32",
+   "en": "What!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.33",
+   "en": "What!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.35",
+   "en": "Stop it!! You're fighting your own comrade!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.36",
+   "en": "Stop it!! You two are on the same side!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.37",
+   "en": "Knock it off!! You guys are on the same side!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.38",
+   "en": "Stop it!! Knock off the infighting!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.39",
+   "en": "Stop this!! You're fighting your own comrade!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.40",
+   "en": "Please stop!! You're comrades, aren't you!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.41",
+   "en": "Hey! I said knock off the infighting, dammit!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.42",
+   "en": "Stop it!! Aren't you comrades!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.43",
+   "en": "Stop it!! Aren't you comrades!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.44",
+   "en": "Stop it!! You're supposed to be comrades!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.45",
+   "en": "Stop it!! You two are on the same side!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.46",
+   "en": "Stop this!! You two are on the same side!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.47",
+   "en": "Stop this!! You two are on the same side!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.48",
+   "en": "Stop this!! You two are on the same side!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.49",
+   "en": "Stop this!! You two are on the same side!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.50",
+   "en": "Huh!? Tch, guess I've got no choice...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.51",
+   "en": "Huh...! Wh-what happened to us?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.52",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.53",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.54",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.55",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.56",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.57",
+   "en": "Phew... You've finally come to your senses."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.58",
+   "en": "Whew~... Looks like you finally snapped out of it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.59",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.60",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.61",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.62",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.63",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.64",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.65",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.66",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.67",
+   "en": "Sorry... and thank you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.68",
+   "en": "I can't believe anyone besides us made it to this place... You saved us."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.69",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.70",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.71",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.72",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.73",
+   "en": "I'm sorry we got so rough. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.74",
+   "en": "I'm sorry we got so rough. But how come you two were fighting each other!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.75",
+   "en": "Sorry we roughed ya up! But what the heck were you two fightin' each other for?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.76",
+   "en": "Why were you two fighting each other?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.77",
+   "en": "But why exactly were you two fighting each other?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.78",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.79",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.80",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.81",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.82",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.83",
+   "en": "Sorry we had to rough you up. But why on earth were you two fighting each other?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.84",
+   "en": "Well... we don't know either."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.85",
+   "en": "You don't know!? What's that supposed to mean?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.86",
+   "en": "You don't know!? What do you mean?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.87",
+   "en": "You don't know!? What's that supposed to mean?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.88",
+   "en": "You don't know!? Then how about you tell me what happened?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.89",
+   "en": "You don't know!? If you don't mind, could you tell us what happened?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.90",
+   "en": "You don't know!? What do you mean by that?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.91",
+   "en": "Ya don't know!? What the heck's that supposed to mean?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.92",
+   "en": "You don't know!? Explain what you mean."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.93",
+   "en": "You don't know!? Explain what you mean."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.94",
+   "en": "You don't know!? What's that supposed to mean?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.1",
+   "note": "Placeholder entry (word for 'dummy'); not shown in play."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.5",
+   "note": "Quest description. Not shown by Quest001.bla; this copy says Nemos, while the shipped QuestMess entry (0.52) says GM IIs and the event portraits are GM II. Translated as written (Nemo, per glossary Nemo A/B)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.14",
+   "note": "Narration (MessWinSet before any CharaNameIn)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.17",
+   "note": "Speaker GM II (CHARA_NAME 214), both brawling GM IIs on screen; 0.18 the same."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.19",
+   "note": "Script shows only TextIdOffset+18 (row 0.19) with the party leader as speaker; 0.20-0.33 are unused identical variants."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.35",
+   "note": "Leader-variant blocks (0.35-0.49, 0.52-0.66, 0.69-0.83, 0.85-0.99) are indexed by the Pt_Chara_Check order in Quest001.bla: Zeta, Nu, Zero, W (Shotaro), OOO, Mebius, Den-O Sword (Momotaros), 00, Wing Zero, Black RX, Rider 1, Ultraman, Seven, God Gundam, Taro. Confirmed by the polite rows landing on OOO/Mebius and the rough ones on Zero/Momotaros."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.50",
+   "note": "Not referenced by Quest001.bla (unused). Rough wording and Ankh (CHARA 36) being in the scene suggest an Ankh line agreeing to step in; voiced as Ankh. Uncertain."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.51",
+   "note": "Speaker GM II (slot 1), coming to after the fight."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.57",
+   "note": "Mebius variant (polite); 0.58 is Momotaros."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.67",
+   "note": "GM II (slot 1); 0.68 is the second GM II (slot 3); 0.84 GM II slot 1."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.69",
+   "note": "Subject restored as 'we' (the party fought them). Kamille's version (but/dakedo) and the da-ga versions share one English line."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST001_pk#0.92",
+   "note": "00 / Wing Zero: curt statement without a question mark, rendered as a flat demand."
+  }
+ ],
+ "report": "All 80 rows examined. Slice had no speaker labels; speakers and leader-variant order recovered from Quest001.bla. Row 0.50 is unused in the script, speaker inferred as Ankh. Row 0.5 says Nemo while QuestMess says GM II; kept as written."
+}

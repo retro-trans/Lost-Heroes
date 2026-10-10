@@ -1,0 +1,406 @@
+{
+ "slice": "story_005",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0112.mbb#0.39",
+   "en": "...What a ferocious wind. Like this, there's no way we can get close..."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.40",
+   "en": "...What a ferocious wind! At this rate, we can't get anywhere near them!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.41",
+   "en": "...What a wind! Like this, there's no way we're getting near those two!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.42",
+   "en": "I have to save Methuss somehow..."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.43",
+   "en": "How are we supposed to rescue Methuss...!?"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.44",
+   "en": "...Methuss!! Hang in there!! I'm gonna save you!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.45",
+   "en": "Methuss!! We have to save her, no matter what...!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.46",
+   "en": "That bastard...!! I'll never forgive him!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.51",
+   "en": "Seamons and Seagorath's fierce winds turned the windmills and restored the city's functions."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.60",
+   "en": "Still, this wind... If it keeps blowing like this, things are going to get dangerous."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.61",
+   "en": "Who knows how long even Fuuto Tower can hold out..."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.62",
+   "en": "Still, this wind... If it keeps blowing like this, things are going to get dangerous."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.63",
+   "en": "Still, this wind... If it keeps blowing like this, things are going to get dangerous."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.64",
+   "en": "Still, this wind... If it keeps blowing like this, things are going to get dangerous."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.65",
+   "en": "Still, this wind... If it keeps blowing like this, things are going to get dangerous."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.68",
+   "en": "But thanks to it, the power seems to be back."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.69",
+   "en": "Still, thanks to it, the power seems to be back."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.70",
+   "en": "But thanks to it, the power seems to be back."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.71",
+   "en": "Still, thanks to it, the power seems to be back."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.72",
+   "en": "But hey, looks like it got the power back on."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.74",
+   "en": "The systems are back...? Then that door that wouldn't open should open now too!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.75",
+   "en": "All right! Let's find another route!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.76",
+   "en": "Plus, there's that Ultra Warrior presence I sensed back there... I've gotta check it out!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.77",
+   "en": "The systems are back...? In that case, that door should open as well..."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.78",
+   "en": "It's a detour, but it can't be helped. Let's find another route."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.79",
+   "en": "The systems are back...? Then that door that wouldn't open should open now too!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.80",
+   "en": "Let's look for another way!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.81",
+   "en": "The systems are back...? So that door should open as well, then..."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.82",
+   "en": "Right. Let's look for another route."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.83",
+   "en": "The systems are back...? Does that mean the door that wouldn't open will open now...?"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.90",
+   "en": "This the one? The MS (mobile suit) that Spider Man went and caught?"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.91",
+   "en": "My research specializes in Dopants, but these MS are quite intriguing as well."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.92",
+   "en": "Such a splendid form... Now then, Methuss... Let me take a good look at your body."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.93",
+   "en": "...Stop it!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.94",
+   "en": "Methuss, is it? I wonder what you'd taste like?"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.95",
+   "en": "E... Eat...!?"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.96",
+   "en": "Y'see, I usually live on a diet of kaiju. But since you're here, I'd love a little taste of you too."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.97",
+   "en": "Stop that, Bogal! I have decided that this body is mine to study and observe."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.98",
+   "en": "Besides, I have prepared a meal for you. A rather luxurious feast, at that."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.99",
+   "en": "A feast...? ...Well now, I'm looking forward to that."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.100",
+   "en": "Twin Tail!! Come here!!"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.101",
+   "en": "...Sir! How may I serve you?"
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.102",
+   "en": "Well, well, doesn't this one look delicious!? A nice, plump, juicy Twin Tail!"
+  },
+  {
+   "key": "MainEventMess0113.mbb#0.1",
+   "en": "Kiiiiigwah!!"
+  },
+  {
+   "key": "MainEventMess0113.mbb#0.2",
+   "en": "Groooooooh!!"
+  },
+  {
+   "key": "MainEventMess0113.mbb#0.3",
+   "en": "The wind is too strong to get close!"
+  },
+  {
+   "key": "MainEventMess0113.mbb#0.4",
+   "en": "What a wind! I can't get anywhere near!"
+  },
+  {
+   "key": "MainEventMess0113.mbb#0.8",
+   "en": "The shutter's open/close mechanism is working."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.1",
+   "en": "You...!?"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.2",
+   "en": "Zero...!!"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.3",
+   "en": "Mebius! Hikari!"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.4",
+   "en": "...I knew it! So that faint presence I sensed earlier was you, Zero!"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.5",
+   "en": "Zero, you came here too!?"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.6",
+   "en": "Well... Less 'came' and more 'got dragged in by the anomaly', I'd say!"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.7",
+   "en": "I see. Then it's the same for us. We were caught in the anomaly too, and woke up here."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.8",
+   "en": "We've explored the area a little, but we still don't know anything beyond that."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.9",
+   "en": "Still, what is this sudden gale...? ...This is no ordinary wind."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.10",
+   "en": "Seamons and Seagorath are behind it."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.11",
+   "en": "What? You mean kaiju are on a rampage!?"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.12",
+   "en": "No point standing around talking here. I'll take you to our base."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.13",
+   "en": "Base?"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.14",
+   "en": "I'll explain later!"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.18",
+   "en": "Who are you...!?"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.19",
+   "en": "Could it be! That presence earlier was..."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.20",
+   "en": "Mebius... Are you saying the presence earlier was them?"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.21",
+   "en": "Yes. You're all friends of Ultraman Zero, aren't you?"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.22",
+   "en": "It's all right. I understand."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.23",
+   "en": "I'm Ultraman Mebius. And this is Ultraman Hikari."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.24",
+   "en": "When I sensed Zero's presence earlier, I realized... about all of you..."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.25",
+   "en": "That there are heroes who were pulled in from other worlds, just like us."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.26",
+   "en": "Say, do you know anything about this gale? It came out of nowhere... It's no ordinary wind."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.27",
+   "en": "Seamons and Seagorath are the cause."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.28",
+   "en": "Seamons and Seagorath are the cause."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.29",
+   "en": "Seamons and Seagorath are the cause."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.30",
+   "en": "Seamons and Seagorath are the cause."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.31",
+   "en": "You mean Seamons and Seagorath have appeared?"
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.32",
+   "en": "Yeah. It's dangerous here. Let me take you to our base."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.33",
+   "en": "Yes. We'll explain everything at our base... I'll lead the way."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.34",
+   "en": "Yes. It's dangerous here. Let me take you to our base."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.35",
+   "en": "Sure! This isn't really the place, so let's head to our base!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0112.mbb#0.41",
+   "note": "Zero's 'those two' = Seamons and Seagorath (the kaiju raising the wind, per 0112#0.30-36); source says 'those guys'."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.44",
+   "note": "Shotaro speaking for W; source is first-person 'I'll save you', kept as 'I'm gonna save you'."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.46",
+   "note": "'That bastard' taken as Weather Dopant (g=m), hence 'him'."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.60",
+   "note": "Rows 0.60-0.72 have no recovered speaker; they are party-dependent variants of one beat. 0.61 (Fuuto Tower) is probably W; 0.69/0.71 use the softer 'demo' (likely OOO/Zeta), 0.72 the rough 'mitai da ze' (Zero or Shotaro). Written speaker-neutral but tone-matched."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.68",
+   "note": "Source leaves 'thanks to it' implicit; 'it' = the wind (from 0.60). Same for 0.69-0.72."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.90",
+   "note": "Earlier beat at Weather Dopant's lair (Bogal, Weather, captive Methuss) setting up the Twin Tail feast seen in 0112#0.1-21. Kept the source's gloss 'MS (mobile suit)'."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.96",
+   "note": "Bogal (g=n) speaks in a feminine 'atashi' register; no pronouns used for Bogal. 'Shishoku' (sample-tasting) rendered 'a little taste of you'."
+  },
+  {
+   "key": "MainEventMess0112.mbb#0.101",
+   "note": "Twin Tail's crisp 'Ha!' acknowledgment to Weather Dopant (g=m) rendered 'Sir!'."
+  },
+  {
+   "key": "MainEventMess0113.mbb#0.3",
+   "note": "No speaker; may be a field/system message when approaching the kaiju. Kept the source's omitted subject ('too strong to get close') since the speaker isn't settled."
+  },
+  {
+   "key": "MainEventMess0113.mbb#0.4",
+   "note": "No speaker; rough male speech (Zero/Shotaro type). Subject restored as 'I'."
+  },
+  {
+   "key": "MainEventMess0113.mbb#0.8",
+   "note": "No speaker; reads as a field/system message for the shutter switch."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.6",
+   "note": "'Ihen' rendered 'the anomaly', matching earlier slices (0104#0.15, 0107#0.5)."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.14",
+   "note": "'Details later!' rendered 'I'll explain later!' (Zero is the one leading them)."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.18",
+   "note": "Rows 0.18-0.35 are the no-Zero-in-party version of the 0.1-0.14 meeting; each party member has a variant (0.27-0.30, 0.32-0.35)."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.22",
+   "note": "Mebius's 'wakatte imasu' rendered 'I understand' (in 0.24 he says he himself sensed it); 'we' would also be possible."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.24",
+   "note": "Sentence runs across 0.24-0.25; cut at the matching point."
+  },
+  {
+   "key": "MainEventMess0114.mbb#0.33",
+   "note": "Zeta's 'annai shimasu' rendered 'I'll lead the way'."
+  },
+  {
+   "key": "MainEventMess0113.mbb#0.1",
+   "note": "proofread: roar aligned with the same Seamons cry in story_004 (0112#0.31/0.35) and story_006 (0115#0.9)."
+  },
+  {
+   "key": "MainEventMess0113.mbb#0.2",
+   "note": "proofread: roar aligned with the same Seagorath cry in story_004 (0112#0.32/0.36)."
+  }
+ ],
+ "report": "80/80 rows examined. Unspeakered party-variant rows 0112#0.60-0.72 and 0113#0.3/0.4/0.8 inferred (see notes). 0112#0.90-0.102 is an earlier lair scene (Bogal/Weather/Methuss). No names outside the glossary."
+}

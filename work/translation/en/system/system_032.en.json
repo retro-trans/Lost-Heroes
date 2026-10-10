@@ -1,0 +1,358 @@
+{
+ "slice": "system_032",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.15",
+   "en": "White Yummy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.16",
+   "en": "Bat Man"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.17",
+   "en": "Magma Dopant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.18",
+   "en": "Astromons"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.19",
+   "en": "Swallowtail Yummy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.20",
+   "en": "Barabas"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.21",
+   "en": "Hambrabi"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.22",
+   "en": "Seamons"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.23",
+   "en": "Seagorath"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.24",
+   "en": "Bogal"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.25",
+   "en": "Negataros"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.26",
+   "en": "Nega Den-O"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.27",
+   "en": "Weather Dopant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.28",
+   "en": "Pink Rabbit Imagin"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.29",
+   "en": "Kemular"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.30",
+   "en": "Chap"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.31",
+   "en": "Aries"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.32",
+   "en": "Fanton"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.33",
+   "en": "Taurus"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.34",
+   "en": "Tragos"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.35",
+   "en": "Leo"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.36",
+   "en": "Anf"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.37",
+   "en": "Siamese Cat Yummy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.38",
+   "en": "Tieren"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.39",
+   "en": "AEU Hellion"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.40",
+   "en": "Salamandra"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.41",
+   "en": "Todogiller"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.42",
+   "en": "Piranha Yummy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.43",
+   "en": "Barzam"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.44",
+   "en": "Samekujira"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.45",
+   "en": "Shark Yummy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.46",
+   "en": "Aries (Commander)"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.47",
+   "en": "Metaheavy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.48",
+   "en": "Snowman Imagin"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.49",
+   "en": "Ice Age Dopant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.50",
+   "en": "Cubrican"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.51",
+   "en": "Antlar"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.52",
+   "en": "Mezool"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.53",
+   "en": "Gundam Throne Eins"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.54",
+   "en": "Gundam Throne Zwei"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.55",
+   "en": "Gundam Throne Drei"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.56",
+   "en": "The O"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.57",
+   "en": "Mantis Man"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.58",
+   "en": "Cat Yummy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.59",
+   "en": "Dada"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.60",
+   "en": "Bemstar"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.61",
+   "en": "Verokron"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.62",
+   "en": "Alien Iros"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.63",
+   "en": "Bison Yummy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.64",
+   "en": "Crazygon"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.65",
+   "en": "AEU Enact"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.66",
+   "en": "GN-X"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.67",
+   "en": "Byarlant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.68",
+   "en": "Virus Dopant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.69",
+   "en": "Cockroach Dopant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.70",
+   "en": "Anomalocaris Dopant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.71",
+   "en": "Bound Doc"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.72",
+   "en": "Zanjioh"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.73",
+   "en": "Geara Doga"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.74",
+   "en": "Tortoise Yummy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.75",
+   "en": "Geara Doga (Commander)"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.76",
+   "en": "Gebacondor"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.77",
+   "en": "King Crab"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.78",
+   "en": "Tieren Taozi"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.79",
+   "en": "Bee Woman"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.80",
+   "en": "Modified Bemstar"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.81",
+   "en": "Sabotendar (Modified)"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.82",
+   "en": "Verokron (Modified)"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.83",
+   "en": "Gundam Heaven's Sword"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.84",
+   "en": "Armored Samurai Kaijin"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.85",
+   "en": "Kamen Rider Skull"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.86",
+   "en": "Fake Ultraman"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.87",
+   "en": "Dummy Dopant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.88",
+   "en": "Alien Zarab"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.89",
+   "en": "Giant Greeed (Berserk)"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.90",
+   "en": "Ace Killer"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.91",
+   "en": "Alien Guts"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.92",
+   "en": "Mebius Killer"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.93",
+   "en": "Ultimate Dopant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.94",
+   "en": "Giant Yapool"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.29",
+   "note": "Kemular: romanization guessed, no glossary entry."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.36",
+   "note": "Anf: romanized, no glossary entry."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.32",
+   "note": "Fanton: romanized, no glossary entry."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.40",
+   "note": "Salamandra: romanized, no glossary entry."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.44",
+   "note": "Sharkwhale: guessed from shark+whale; source unclear."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.50",
+   "note": "Cubrican: romanized, no glossary entry."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.60",
+   "note": "Source has a typo in the first character of Bemstar; rendered as Bemstar per glossary."
+  }
+ ],
+ "report": "Chip library enemy names. Uncertain: Kemular, Anf, Fanton, Salamandra, Sharkwhale, Cubrican, King Crab. Not in glossary: Magma/Weather/Ice Age/Virus/Cockroach/Anomalocaris Dopant, White/Swallowtail/Piranha/Shark/Cat/Bison/Tortoise Yummy, Astromons, Kemular, Chap, Aries, Fanton, Tragos, Anf, AEU Hellion, AEU Enact, Salamandra, Barzam, Sharkwhale, Cubrican, Byarlant, Geara Doga, King Crab, Kamen Rider Skull."
+}

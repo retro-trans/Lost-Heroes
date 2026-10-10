@@ -1,0 +1,426 @@
+{
+ "slice": "story_014",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0141.mbb#0.60",
+   "en": "Accel...!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.61",
+   "en": "Indeed. That enemy is only fast when it comes to escaping."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.62",
+   "en": "Accel...!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.63",
+   "en": "No kidding. The only thing that bastard's fast at is running away."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.64",
+   "en": "Accel...!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.65",
+   "en": "You're right... The only thing that enemy's fast at is running away..."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.66",
+   "en": "The Weather Dopant... To corner him, what I need is speed..."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.67",
+   "en": "See you."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.68",
+   "en": "Yeah... You got that right."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.69",
+   "en": "That's true. We always end up letting him get away..."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.70",
+   "en": "True... We keep letting him get away."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.71",
+   "en": "Yes. The only thing that enemy's fast at is running away."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.72",
+   "en": "That's for sure. The only thing that enemy's fast at is running away."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.73",
+   "en": "Yes... The only thing that enemy's fast at is running away, isn't it?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.74",
+   "en": "...Oh, right."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.75",
+   "en": "I found this a little while ago. It seems to be some kind of Gaia Memory, but it looks broken."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.76",
+   "en": "It might come in handy somewhere. I'll leave it with you."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.78",
+   "en": "Obtained the \"Denden Memory\"."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.80",
+   "en": "Hey, Accel... ...Huh? What's this Gaia Memory?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.81",
+   "en": "Ah, wait... ...I wonder what kind of Gaia Memory this is?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.82",
+   "en": "What kind of Gaia Memory is this...?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.83",
+   "en": "What kind of Gaia Memory is this...?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.84",
+   "en": "What kind of Gaia Memory is this...?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.85",
+   "en": "What kind of Gaia Memory is this...?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.86",
+   "en": "Hikari might be able to figure something out... Let's head back to base for now!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.87",
+   "en": "Hikari might know something. Let's head back to base for now."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.88",
+   "en": "Hikari might be able to figure something out. Let's head back to base for now."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.89",
+   "en": "Hikari might be able to figure something out. Let's head back to base for now."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.90",
+   "en": "Hikari might be able to figure something out... Okay, let's head back to base for now."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.91",
+   "en": "Hikari might know something. All right, let's head back to base for now."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.93",
+   "en": "I was just picking out some items that might be useful."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.94",
+   "en": "What...? You have a Denden Memory?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.95",
+   "en": "Let me take a look at it."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.97",
+   "en": "{8074} handed the Denden Memory to Hikari."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.99",
+   "en": "Oh... This is... the Denden Memory for the Denden Sensor."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.100",
+   "en": "So it was for the Denden Sensor."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.101",
+   "en": "Yes. I found the main unit a little while ago. With this, I might be able to fix it."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.102",
+   "en": "So the Memory Gadgets got pulled in too."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.103",
+   "en": "You know about it?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.104",
+   "en": "Of course."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.105",
+   "en": "It's a Memory Gadget that makes hidden things visible. It's built from a combination of sensors."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.106",
+   "en": "That's right. You certainly know your stuff."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.107",
+   "en": "...Actually, Hikari, look who's talking. You sure know a lot yourself."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.108",
+   "en": "Believe it or not, I was a Space Science Technology Bureau researcher in the Land of Light."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.109",
+   "en": "It may be technology from another world, but the basic design philosophy has a lot in common."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.110",
+   "en": "As long as you don't lose sight of that, you can understand how most things work."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.111",
+   "en": "That's amazing, Hikari."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.112",
+   "en": "Right! Let's get started on the repairs."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.114",
+   "en": "Hikari began repairing the Denden Sensor. It looks like it will take a while to finish."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.116",
+   "en": "Not a bad place you've got here."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.117",
+   "en": "Ankh!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.118",
+   "en": "You're still tagging along with us?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.119",
+   "en": "You're just here to collect medals, right?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.120",
+   "en": "That's right. But this world has more tough enemies than I expected."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.121",
+   "en": "From what I've seen, you lot are about the only ones who can stand up to them."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.122",
+   "en": "I like it. So I'll be sticking with you, got it?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.123",
+   "en": "If you wanted to join us, you could've just said so."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.124",
+   "en": "D-Don't get the wrong idea. I just want to collect medals more efficiently."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.125",
+   "en": "Yeah, yeah."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.126",
+   "en": "Tch! ...Now that that's settled, let's hurry up and collect those medals."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.127",
+   "en": "If we want to learn anything about the enemy, we need to explore deeper in."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.133",
+   "en": "\"That person\"...?"
+  },
+  {
+   "key": "MainEventMess0142.mbb#0.1",
+   "en": "The weather changed again...!?"
+  },
+  {
+   "key": "MainEventMess0142.mbb#0.2",
+   "en": "The weather changed again...!?"
+  },
+  {
+   "key": "MainEventMess0142.mbb#0.3",
+   "en": "The weather changed again...!?"
+  },
+  {
+   "key": "MainEventMess0142.mbb#0.4",
+   "en": "The weather changed again...!?"
+  },
+  {
+   "key": "MainEventMess0142.mbb#0.5",
+   "en": "The weather changed again...!?"
+  },
+  {
+   "key": "MainEventMess0143.mbb#0.1",
+   "en": "It's strangely quiet, isn't it..."
+  },
+  {
+   "key": "MainEventMess0143.mbb#0.2",
+   "en": "It's strangely quiet..."
+  },
+  {
+   "key": "MainEventMess0143.mbb#0.3",
+   "en": "It's way too quiet..."
+  },
+  {
+   "key": "MainEventMess0143.mbb#0.4",
+   "en": "It's strangely quiet..."
+  },
+  {
+   "key": "MainEventMess0143.mbb#0.5",
+   "en": "It's strangely quiet..."
+  },
+  {
+   "key": "MainEventMess0144.mbb#0.1",
+   "en": "You lot!! I've been waitin' for you!! You've got some nerve, wreckin' my army like that!"
+  },
+  {
+   "key": "MainEventMess0144.mbb#0.3",
+   "en": "But! However! The reborn Negataros Army is gonna send you all to hell this time for sure!"
+  },
+  {
+   "key": "MainEventMess0144.mbb#0.4",
+   "en": "Kikikikiki!!"
+  },
+  {
+   "key": "MainEventMess0144.mbb#0.5",
+   "en": "Gyeeeeeh!!"
+  },
+  {
+   "key": "MainEventMess0144.mbb#0.6",
+   "en": "Heh heh heh heh..."
+  },
+  {
+   "key": "MainEventMess0144.mbb#0.7",
+   "en": "Gwaaaargh!!"
+  },
+  {
+   "key": "MainEventMess0144.mbb#0.8",
+   "en": "And that ain't all this time. The great me is gonna be reborn too, that's the plan..."
+  },
+  {
+   "key": "MainEventMess0144.mbb#0.11",
+   "en": "Negataros pulled out the spare Rider Pass and held it over his belt!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0141.mbb#0.61",
+   "note": "Unused per script trace of 0141.bla (MessWinSet never shows this row); likely cut content. Party-leader follow-up to 'Accel...!' (same pattern as .55/.57/.59 in story_013), agreeing with Accel's 'too late again'. Speaker assumed to be the preceding row's speaker (Zeta)."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.63",
+   "note": "Unused per script trace of 0141.bla (MessWinSet never shows this row); likely cut content. Zero variant; 'yarou' rendered 'bastard'."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.65",
+   "note": "Unused per script trace of 0141.bla (MessWinSet never shows this row); likely cut content. Mebius variant (softer opener)."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.66",
+   "note": "Accel (shown). Trailing line break in source dropped. Weather Dopant is male (glossary) -> 'him'."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.67",
+   "note": "Unused per script trace of 0141.bla (MessWinSet never shows this row); likely cut content. No speaker; bare farewell, probably Accel leaving in a cut version of the scene. Rendered neutrally."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.68",
+   "note": "Unused per script trace of 0141.bla (MessWinSet never shows this row); likely cut content. Rows .68-.73 are six party-leader variants agreeing that the enemy always escapes; order assumed W, OOO, Nu, Zeta, Zero, Mebius (same order as .80-.85). Wording follows each Japanese variant."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.69",
+   "note": "Unused per script trace of 0141.bla (MessWinSet never shows this row); likely cut content. 'him' = Weather Dopant (male)."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.78",
+   "note": "Item-get format copied from 0124.98 ('Obtained the \"Rider Pass\".'). Denden Memory = Kamen Rider W Memory Gadget term."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.80",
+   "note": "Accel has apparently left after handing over the Memory; Shotaro calls after him, then looks at it."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.93",
+   "note": "No speaker; base scene. Rows .93-.112 inferred as Hikari talking with the party (Philip answers the gadget questions). .93-.95, .99, .101, .103, .106, .108-.110, .112 assumed Hikari."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.100",
+   "note": "No speaker; assumed party leader / Shotaro."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.102",
+   "note": "No speaker; assumed Philip (he answers 'Of course' and explains the gadget in .104-.105). .103 assumed Hikari asking him."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.107",
+   "note": "No speaker; assumed Shotaro (casual 'omae koso'). .111 likewise."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.108",
+   "note": "Source says 'Ultra no Hoshi' (the Ultras' home star); rendered 'Land of Light' (glossary term for the same place) for clarity. Bureau name per Hikari's official background: Space Science Technology Bureau."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.116",
+   "note": "No speaker; Ankh arriving at the base (OOO/leader reacts 'Ankh!!'). .118-.119 are the party's reply, .120-.122/.124/.126 Ankh, .123/.125 party."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.122",
+   "note": "Ankh: 'ki ni itta' (I like it) + 'I'm tagging along'. Direction: Ankh announcing he joins them, not asking."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.127",
+   "note": "No speaker; could be Ankh continuing or the leader. Subject 'we' restored, which works for either."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.133",
+   "note": "Philip echoes Weather Dopant's honorific 'ano okata' from 0141.31 (story_013). Rendered 'A certain someone'; story_013's 0141.31 should use the same phrase ('...especially for a certain someone!') so the echo lands."
+  },
+  {
+   "key": "MainEventMess0143.mbb#0.3",
+   "note": "Zero variant made a bit more colloquial to fit his voice; same meaning."
+  },
+  {
+   "key": "MainEventMess0144.mbb#0.3",
+   "note": "'Daga, shikashi' is deliberately redundant bluster; kept as 'But! However!'."
+  },
+  {
+   "key": "MainEventMess0144.mbb#0.4",
+   "note": "New roars (no earlier English for these Japanese roars): Bat Man 'Kikikikiki!!', Mantis Man 'Gyeeeeeh!!', T-Rex Dopant 'Gwaaaargh!!'."
+  },
+  {
+   "key": "MainEventMess0144.mbb#0.8",
+   "note": "'Ore-sama' rendered 'the great me' (cf. 'I am the great Negataros!!' in 0124)."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.61",
+   "note": "proofread: same Japanese as story_013 0141.59; made identical to that row's English."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.133",
+   "note": "proofread: Philip echoes Weather Dopant's 'that person' in story_013 0141.31 ('Especially for that person!'); matched the echo."
+  }
+ ],
+ "report": "80/80 rows. Script trace of 0141.bla shows rows 0141.61/.63/.65 and .67-.73 are never displayed (cut content); translated anyway with inferred speakers. Speakers inferred for the unlabelled base scene (.93-.127: Hikari, Philip, Shotaro, Ankh). 0141.133 'A certain someone' must match story_013 row 0141.31. 'Ultra no Hoshi' rendered 'Land of Light'. Not in glossary: Denden Memory, Denden Sensor, Memory Gadget, Space Science Technology Bureau."
+}

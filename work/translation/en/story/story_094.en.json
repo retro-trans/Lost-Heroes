@@ -1,0 +1,354 @@
+{
+ "slice": "story_094",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0525.mbb#0.1",
+   "en": "\"Ice Age Memory\"\nThe Gaia Memory of the Ice Age"
+  },
+  {
+   "key": "MainEventMess0525.mbb#0.2",
+   "en": "The letter \"I\" is marked in the center of the Memory."
+  },
+  {
+   "key": "MainEventMess0525.mbb#0.3",
+   "en": "There's a switch. Press it?"
+  },
+  {
+   "key": "MainEventMess0525.mbb#0.4",
+   "en": "{8074} pressed the switch."
+  },
+  {
+   "key": "MainEventMess0525.mbb#0.5",
+   "en": "\"ICE AGE!!\""
+  },
+  {
+   "key": "MainEventMess0525.mbb#0.6",
+   "en": "\"Click...\""
+  },
+  {
+   "key": "MainEventMess0525.mbb#0.7",
+   "en": "There was a faint sound from over by the door."
+  },
+  {
+   "key": "MainEventMess0525.mbb#0.9",
+   "en": "And then..."
+  },
+  {
+   "key": "MainEventMess0525.mbb#0.10",
+   "en": "\"CLANG!!\""
+  },
+  {
+   "key": "MainEventMess0525.mbb#0.11",
+   "en": "An especially loud metallic clang rang out, and the door bearing the medal crest quietly swung open."
+  },
+  {
+   "key": "MainEventMess0525.mbb#0.12",
+   "en": "...That did it! Let's go!"
+  },
+  {
+   "key": "MainEventMess0526.mbb#0.1",
+   "en": "\"Cockroach Memory\"\nThe Gaia Memory of the cockroach"
+  },
+  {
+   "key": "MainEventMess0526.mbb#0.2",
+   "en": "The letter \"C\" is marked in the center of the Memory."
+  },
+  {
+   "key": "MainEventMess0526.mbb#0.3",
+   "en": "There's a switch. Press it?"
+  },
+  {
+   "key": "MainEventMess0526.mbb#0.4",
+   "en": "{8074} pressed the switch."
+  },
+  {
+   "key": "MainEventMess0526.mbb#0.5",
+   "en": "\"COCKROACH!!\""
+  },
+  {
+   "key": "MainEventMess0526.mbb#0.7",
+   "en": "And then..."
+  },
+  {
+   "key": "MainEventMess0526.mbb#0.8",
+   "en": "\"CLANG!!\""
+  },
+  {
+   "key": "MainEventMess0526.mbb#0.9",
+   "en": "An especially loud metallic clang rang out, and the door bearing the medal crest quietly swung open."
+  },
+  {
+   "key": "MainEventMess0526.mbb#0.10",
+   "en": "...That did it! Let's go!"
+  },
+  {
+   "key": "MainEventMess0527.mbb#0.1",
+   "en": "\"Violence Memory\"\nThe Gaia Memory of violence"
+  },
+  {
+   "key": "MainEventMess0527.mbb#0.2",
+   "en": "The letter \"V\" is marked in the center of the Memory."
+  },
+  {
+   "key": "MainEventMess0527.mbb#0.3",
+   "en": "There's a switch. Press it?"
+  },
+  {
+   "key": "MainEventMess0527.mbb#0.4",
+   "en": "{8074} pressed the switch."
+  },
+  {
+   "key": "MainEventMess0527.mbb#0.5",
+   "en": "\"VIOLENCE!!\""
+  },
+  {
+   "key": "MainEventMess0527.mbb#0.7",
+   "en": "And then..."
+  },
+  {
+   "key": "MainEventMess0527.mbb#0.8",
+   "en": "\"CLANG!!\""
+  },
+  {
+   "key": "MainEventMess0527.mbb#0.9",
+   "en": "An especially loud metallic clang rang out, and the door bearing the medal crest quietly swung open."
+  },
+  {
+   "key": "MainEventMess0527.mbb#0.10",
+   "en": "...That did it! Let's go!"
+  },
+  {
+   "key": "MainEventMess0528.mbb#0.1",
+   "en": "\"Nightmare Memory\"\nThe Gaia Memory of nightmares"
+  },
+  {
+   "key": "MainEventMess0528.mbb#0.2",
+   "en": "The letter \"N\" is marked in the center of the Memory."
+  },
+  {
+   "key": "MainEventMess0528.mbb#0.3",
+   "en": "There's a switch. Press it?"
+  },
+  {
+   "key": "MainEventMess0528.mbb#0.4",
+   "en": "{8074} pressed the switch."
+  },
+  {
+   "key": "MainEventMess0528.mbb#0.5",
+   "en": "\"NIGHTMARE!!\""
+  },
+  {
+   "key": "MainEventMess0528.mbb#0.7",
+   "en": "And then..."
+  },
+  {
+   "key": "MainEventMess0528.mbb#0.8",
+   "en": "\"CLANG!!\""
+  },
+  {
+   "key": "MainEventMess0528.mbb#0.9",
+   "en": "An especially loud metallic clang rang out, and the door bearing the medal crest quietly swung open."
+  },
+  {
+   "key": "MainEventMess0528.mbb#0.10",
+   "en": "...That did it! Let's go!"
+  },
+  {
+   "key": "MainEventMess0529.mbb#0.1",
+   "en": "\"Energy Memory\"\nThe Gaia Memory of energy"
+  },
+  {
+   "key": "MainEventMess0529.mbb#0.2",
+   "en": "The letter \"E\" is marked in the center of the Memory."
+  },
+  {
+   "key": "MainEventMess0529.mbb#0.3",
+   "en": "There's a switch. Press it?"
+  },
+  {
+   "key": "MainEventMess0529.mbb#0.4",
+   "en": "{8074} pressed the switch."
+  },
+  {
+   "key": "MainEventMess0529.mbb#0.5",
+   "en": "\"ENERGY!!\""
+  },
+  {
+   "key": "MainEventMess0529.mbb#0.7",
+   "en": "And then..."
+  },
+  {
+   "key": "MainEventMess0529.mbb#0.8",
+   "en": "\"CLANG!!\""
+  },
+  {
+   "key": "MainEventMess0529.mbb#0.9",
+   "en": "An especially loud metallic clang rang out, and the door bearing the medal crest quietly swung open."
+  },
+  {
+   "key": "MainEventMess0529.mbb#0.10",
+   "en": "...That did it! Let's go!"
+  },
+  {
+   "key": "MainEventMess0530.mbb#0.1",
+   "en": "\"Beast Memory\"\nThe Gaia Memory of a wild beast"
+  },
+  {
+   "key": "MainEventMess0530.mbb#0.2",
+   "en": "The letter \"B\" is marked in the center of the Memory."
+  },
+  {
+   "key": "MainEventMess0530.mbb#0.3",
+   "en": "There's a switch. Press it?"
+  },
+  {
+   "key": "MainEventMess0530.mbb#0.4",
+   "en": "{8074} pressed the switch."
+  },
+  {
+   "key": "MainEventMess0530.mbb#0.5",
+   "en": "\"BEAST!!\""
+  },
+  {
+   "key": "MainEventMess0530.mbb#0.7",
+   "en": "And then..."
+  },
+  {
+   "key": "MainEventMess0530.mbb#0.8",
+   "en": "\"CLANG!!\""
+  },
+  {
+   "key": "MainEventMess0530.mbb#0.9",
+   "en": "An especially loud metallic clang rang out, and the door bearing the medal crest quietly swung open."
+  },
+  {
+   "key": "MainEventMess0530.mbb#0.10",
+   "en": "...That did it! Let's go!"
+  },
+  {
+   "key": "MainEventMess0531.mbb#0.1",
+   "en": "\"Masquerade Memory\"\nThe Gaia Memory of a masquerade ball"
+  },
+  {
+   "key": "MainEventMess0531.mbb#0.2",
+   "en": "The letter \"M\" is marked in the center of the Memory."
+  },
+  {
+   "key": "MainEventMess0531.mbb#0.3",
+   "en": "There's a switch. Press it?"
+  },
+  {
+   "key": "MainEventMess0531.mbb#0.4",
+   "en": "{8074} pressed the switch."
+  },
+  {
+   "key": "MainEventMess0531.mbb#0.5",
+   "en": "\"MASQUERADE!!\""
+  },
+  {
+   "key": "MainEventMess0531.mbb#0.7",
+   "en": "And then..."
+  },
+  {
+   "key": "MainEventMess0531.mbb#0.8",
+   "en": "\"CLANG!!\""
+  },
+  {
+   "key": "MainEventMess0531.mbb#0.9",
+   "en": "An especially loud metallic clang rang out, and the door bearing the medal crest quietly swung open."
+  },
+  {
+   "key": "MainEventMess0531.mbb#0.10",
+   "en": "...That did it! Let's go!"
+  },
+  {
+   "key": "MainEventMess0532.mbb#0.1",
+   "en": "\"Anomalocaris Memory\"\nThe Gaia Memory of the anomalocaris"
+  },
+  {
+   "key": "MainEventMess0532.mbb#0.2",
+   "en": "The letter \"A\" is marked in the center of the Memory."
+  },
+  {
+   "key": "MainEventMess0532.mbb#0.3",
+   "en": "There's a switch. Press it?"
+  },
+  {
+   "key": "MainEventMess0532.mbb#0.4",
+   "en": "{8074} pressed the switch."
+  },
+  {
+   "key": "MainEventMess0532.mbb#0.5",
+   "en": "\"ANOMALOCARIS!!\""
+  },
+  {
+   "key": "MainEventMess0532.mbb#0.6",
+   "en": "\"Click...\""
+  },
+  {
+   "key": "MainEventMess0532.mbb#0.7",
+   "en": "There was a faint sound from over by the door."
+  },
+  {
+   "key": "MainEventMess0532.mbb#0.9",
+   "en": "And then..."
+  },
+  {
+   "key": "MainEventMess0532.mbb#0.10",
+   "en": "\"CLANG!!\""
+  },
+  {
+   "key": "MainEventMess0532.mbb#0.11",
+   "en": "An especially loud metallic clang rang out, and the door bearing the medal crest quietly swung open."
+  },
+  {
+   "key": "MainEventMess0532.mbb#0.12",
+   "en": "...That did it! Let's go!"
+  },
+  {
+   "key": "MainEventMess0533.mbb#0.1",
+   "en": "\"Yesterday Memory\"\nThe Gaia Memory of yesterday"
+  },
+  {
+   "key": "MainEventMess0533.mbb#0.2",
+   "en": "The letter \"Y\" is marked in the center of the Memory."
+  },
+  {
+   "key": "MainEventMess0533.mbb#0.3",
+   "en": "There's a switch. Press it?"
+  },
+  {
+   "key": "MainEventMess0533.mbb#0.4",
+   "en": "{8074} pressed the switch."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0525.mbb#0.1",
+   "note": "Memory exhibit captions (all nine events) keep the source's deliberate two-line layout: quoted Memory name, then description. 'Gaia Memory of X' mirrors the franchise's 'memory of X' phrasing."
+  },
+  {
+   "key": "MainEventMess0525.mbb#0.5",
+   "note": "Gaia Memory voice call rendered in caps and quotes per style (cf. \"TRIAL!\", \"INVISIBLE!!\"). Same for all nine Memories."
+  },
+  {
+   "key": "MainEventMess0525.mbb#0.6",
+   "note": "The faint 'click' only appears for the Memories that fit the G-A-I-A door puzzle (Ice Age = I, Anomalocaris = A); the following door-opening lines are the shared success text that the script branches to."
+  },
+  {
+   "key": "MainEventMess0525.mbb#0.12",
+   "note": "Ankh, gruff: 'yatta na' read as 'That did it!' (credit to the act, not effusive praise). Identical in all nine events."
+  },
+  {
+   "key": "MainEventMess0532.mbb#0.1",
+   "note": "Anomalocaris Memory: official name in W; lowercase 'the anomalocaris' in the description as the creature."
+  },
+  {
+   "key": "MainEventMess0533.mbb#0.4",
+   "note": "Slice ends mid-event; the Yesterday voice call and the rest continue in story_095."
+  }
+ ],
+ "report": "80/80 rows. Repetitive G-A-I-A Memory-puzzle exhibits (events 0525-0533), templated consistently. No glossary gaps beyond Memory names (Cockroach, Nightmare, Energy, Beast, Anomalocaris, Yesterday Memories) which use their official W names."
+}

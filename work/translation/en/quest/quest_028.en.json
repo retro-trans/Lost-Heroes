@@ -1,0 +1,362 @@
+{
+ "slice": "quest_028",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.123",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.124",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.125",
+   "en": "You can still talk, huh? Shut up for a while."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.127",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.128",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.129",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.130",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.131",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.132",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.133",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.134",
+   "en": "Gwoh...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.135",
+   "en": "Gwoh...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.136",
+   "en": "Gwoh...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.137",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.138",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.139",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.140",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.141",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.142",
+   "en": "Fancy you waltzing right into a place like this. Saves me the trouble of coming after you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.143",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.144",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.145",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.146",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.147",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.148",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.149",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.150",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.151",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.152",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.153",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.154",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.155",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.156",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.157",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.158",
+   "en": "Everyone here is a crew I gathered to take you lot down."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.159",
+   "en": "Wh-Whaaat?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.160",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.161",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.162",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.163",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.164",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.165",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.166",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.167",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.168",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.169",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.170",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.171",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.172",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.173",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.174",
+   "en": "I've got no interest in petty treasure. I want something truly amazing."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.175",
+   "en": "So I decided to make this Cube my own."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.176",
+   "en": "But to make this Cube mine, you lot were a thorn in my side."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.177",
+   "en": "So I rounded up Imagin and Dopants."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.178",
+   "en": "After I lost at the Colosseum, I ran into this man here, see."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.179",
+   "en": "And that's when he let me in on his plan to take you guys down."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.180",
+   "en": "That's right. And now I've struck this one down."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.181",
+   "en": "Something this fun? No way I wasn't gonna get in on it! Hahaha!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.182",
+   "en": "Now... this is the end. Be devoured by me!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.184",
+   "en": "Tch... Failed again this time, huh... Next time for sure... I'll devour you all..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.186",
+   "en": "As Gaoh was destroyed, the Imagin and Dopants he had gathered scattered and fled."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.187",
+   "en": "That was close, but that's the job done."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.188",
+   "en": "Yeah! Ya got that right!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.189",
+   "en": "Yeah! You're right!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.190",
+   "en": "Yeah! You're right!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.191",
+   "en": "Yeah! You're right!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.192",
+   "en": "Yeah! You're right!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.193",
+   "en": "Yeah! You're right!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.194",
+   "en": "Yes! You're right!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.195",
+   "en": "Yeah! You're right!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.196",
+   "en": "Yeah! You're right!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.197",
+   "en": "Yeah! You're right!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.198",
+   "en": "Yeah! You're right!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.199",
+   "en": "Yeah! You're right!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.200",
+   "en": "Yeah! You're right!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.201",
+   "en": "Yeah, you're right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.202",
+   "en": "Yeah, you're right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.203",
+   "en": "...Hold it. What's that?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.204",
+   "en": "Obtained \"Ultra Bracelet\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.205",
+   "en": "Obtained \"GN Drive Tau\"."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.123",
+   "note": "Speakers from Quest024.bla, row = TextIdOffset+N+1 (calibrated on +2 Ankh -> 0.3, +124 Gaoh -> 0.125, +186 Ankh -> 0.187; 0.126/0.183/0.185 empty). Leader blocks in Pt_Chara_Check order: Momotaros, Shotaro, OOO, RX, Rider 1, Zero, Mebius, Taro, Seven, Ultraman, Nu, Zeta, God, Wing Zero, 00. 0.123/0.124 = Wing Zero/00 tail of the 0.110-0.124 block (same English as quest_027)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.125",
+   "note": "Kamen Rider Gaoh (CHARA_NAME 161) to the leader, then strikes him (SE + shake on the leader); 0.127-0.141 are the leader's cries, Ultra slots (Taro/Seven/Ultraman, 0.134-0.136) grunt instead."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.159",
+   "note": "Momotaros slot (k=0) drawls the 'what'; 0.160-0.173 identical for the rest. Blocks 0.143-0.157 and 0.188-0.202 likewise; 0.194 Mebius polite, 0.201/0.202 Wing Zero/00 flat."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.178",
+   "note": "Arms Dopant (CHARA_NAME 184), 0.178-0.179. Final 'nee' read as the emphatic particle ('I met him, see'), not a negative, since 0.179 continues 'and there he told me the plan'. 'This man' = Gaoh (Arms Dopant used to work under him)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.180",
+   "note": "UNCERTAIN: Gaoh says he 'slaughtered/struck down' 'this one'. Read as pointing at the leader he just floored (the plan in action). Could instead refer to Arms Dopant (beaten into joining), but 0.181 has him joining gladly, so that reading was rejected."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.184",
+   "note": "Gaoh's parting line echoes his earlier 'Next time, I'll devour every last one of you' (devour = his glutton motif)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.187",
+   "note": "Ankh (CHARA_NAME 36) to the party; 0.188-0.202 are the leader's reply to Ankh; 0.203 Ankh again."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.204",
+   "note": "Ultra Bracelet is not in the item name tables; name taken from the ChipLib entry ('Ultra Bracelet'). GN Drive Tau from ItemNameFormal 2.53."
+  }
+ ],
+ "report": "80/80 rows examined. Speakers from Quest024.bla (row = TextIdOffset+N+1), leader blocks in Pt_Chara_Check order. Uncertain: 0.180 'struck this one down' referent (leader assumed); 0.178 'nee' read as particle. Ultra Bracelet not in item tables (from ChipLib). No new names."
+}

@@ -1,0 +1,474 @@
+{
+ "slice": "quest_011",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.75",
+   "en": "Relax, Pigmon. We defeated Alien Baltan."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.76",
+   "en": "Hikari...!! So that's how it is."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.77",
+   "en": "Relax, Pigmon. We defeated Alien Baltan."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.78",
+   "en": "I AM GRATEFUL!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.79",
+   "en": "It's all thanks to your info, Pigmon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.80",
+   "en": "It's all thanks to your info, Pigmon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.81",
+   "en": "It's all thanks to your info, Pigmon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.82",
+   "en": "It's all thanks to your info, Pigmon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.83",
+   "en": "It's all thanks to your info, Pigmon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.84",
+   "en": "Pigmon, Captain Zoffy said he'd award you the title of Special Member of the Hero Team."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.85",
+   "en": "I SEE. I AM GLAD TO HAVE BEEN OF USE."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.86",
+   "en": "I WILL CONTINUE TO COOPERATE WITH YOU FROM NOW ON."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.87",
+   "en": "THEN I WILL GO INVESTIGATE ANOTHER CUBE. WE WILL MEET AGAIN."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.89",
+   "en": "With that, Pigmon went off somewhere."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.95",
+   "en": "Fo, fo, fo, fo, fo..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.96",
+   "en": "...!? You're... Don't tell me, Alien Baltan!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.97",
+   "en": "Ultraman isn't here? Then I have no business with you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.98",
+   "en": "...The bastard vanished. Looks like we'd better bring Ultraman along."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.100",
+   "en": "Completed the quest \"A Strange Visitor\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.1",
+   "en": "A kaijin hunting for RX is reportedly in Begins Cube's West District. Take RX and investigate."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.5",
+   "en": "You can hear the voices of someone fighting nearby."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.7",
+   "en": "Heading toward the voices, you find a familiar figure there."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.9",
+   "en": "Help meeee-piiii!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.11",
+   "en": "Pigmon!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.13",
+   "en": "So you came, RX."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.14",
+   "en": "You!! Skullma of the Kaima Yokai Clan!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.15",
+   "en": "Skullma! Let Pigmon go!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.16",
+   "en": "Too bad, RX. I won't hand this one over so easily."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.17",
+   "en": "Arr-Ex!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.18",
+   "en": "But if you become my hostage in its place, I'll release Pigmon!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.19",
+   "en": "Ngh! You coward, Skullma!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.20",
+   "en": "Well, what'll it be? This one's life is in your hands."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.21",
+   "en": "It's obviously a trap!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.22",
+   "en": "Let go-piii!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.23",
+   "en": "What'll you do, RX!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.24",
+   "en": "...All right. I'll be your hostage instead."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.25",
+   "en": "That's RX for you. You're a reasonable man."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.26",
+   "en": "Hey! Are you seriously saying that!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.27",
+   "en": "I know it's a trap. But if I don't become the hostage, Pigmon's life is in danger."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.28",
+   "en": "I'm coming over to you now! So let Pigmon go!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.29",
+   "en": "Very well. I'll let Pigmon go."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.31",
+   "en": "Piiiiiih!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.32",
+   "en": "Pigmon!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.34",
+   "en": "Fool! You fell for it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.36",
+   "en": "R... RX..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.38",
+   "en": "Pigmon!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.40",
+   "en": "Raaaaaaaaaaaaaaaah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.41",
+   "en": "Hahahahahahahahaha!! I said I'd let it go, but I never said I'd spare its life!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.42",
+   "en": "How dare you take Pigmon's life!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.43",
+   "en": "I won't forgive you!! I'll never forgive you, Skullma!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.44",
+   "en": "At that moment, something mysterious happened."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.45",
+   "en": "Tears of anger and sorrow unleashed Black RX's hidden power."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.47",
+   "en": "What just happened!? Who are you!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.48",
+   "en": "Skullmaster!! Taste the power of my sorrow and anger!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.49",
+   "en": "Obtained \"Heart of Anger\" and \"Heart of Sorrow\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.50",
+   "en": "I am the Prince of Sorrow, Black RX! Robo Rider!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.51",
+   "en": "Gwoh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.52",
+   "en": "Obtained \"Robo Rider\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.53",
+   "en": "Black RX's new skill has been unlocked."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.54",
+   "en": "The Prince of Anger, Black RX! Bio Rider!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.55",
+   "en": "Obtained \"Bio Rider\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.58",
+   "en": "Gwoooooooh!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.60",
+   "en": "Pigmon!! Are you all right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.61",
+   "en": "Uh... Uuugh..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.62",
+   "en": "You're still breathing! Hang in there, Pigmon! I'll treat your wounds right now!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.64",
+   "en": "Fortunately, Pigmon's wounds were shallow, and first aid was enough to save its life."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.69",
+   "en": "I'm saved-pi! RX, you saved my life-pi!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.70",
+   "en": "I'm really glad I was able to save you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.71",
+   "en": "I'll keep helping you from now on-pi. Thank youuu~"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.73",
+   "en": "Completed the quest \"The Prince of Sorrow\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.76",
+   "en": "Black RX must be in the party to progress this quest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.1",
+   "en": "The repaired O Raiser was stolen in an enemy raid. Ask Maganac at Hideout Cube for details."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.5",
+   "en": "Everyone! I've been waiting for you!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.6",
+   "en": "I believe you've already heard what the request is about."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.7",
+   "en": "Yeah... We heard the O Raiser was stolen."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.8",
+   "en": "Yes... unfortunately."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.9",
+   "en": "It seems the other unit was carrying the repaired O Raiser on a transport Ride Machine."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.10",
+   "en": "That's when the enemy struck... We were completely off guard."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.11",
+   "en": "Being attacked is a fact that won't change. For now, let's focus on getting the O Raiser back."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.12",
+   "en": "You're right... It looks like the enemy fled into this Hideout Cube."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.75",
+   "note": "Quest010.bla never references rows 71-89 (the post-battle Pigmon scene looks cut; both event paths end on OkWin +99 = row 100). Speakers inferred. 75/77 repeat rows 72/73 (hero to Pigmon); 76 repeats row 74: a hero realising Pigmon is now understandable thanks to Hikari's Pan-Space Interpreter. Identical Japanese kept identical."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.78",
+   "note": "Pigmon speaking through the Pan-Space Interpreter (katakana in the source, rows 78/85-87): rendered as stilted English with no contractions, distinct from its natural 'pi' speech. Same treatment suggested for DG_QUEST010 rows 24/71 (slice quest_010)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.79",
+   "note": "Rows 79-83: unreferenced five-row party variant block, identical Japanese; a hero answering Pigmon's thanks. Kept identical."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.84",
+   "note": "Unreferenced; speaker inferred as an Ultra (likely Ultraman: 'Captain Zoffy'). The source's particle slip (title 'ga' okuru) read as Zoffy awarding the title. 'Special Member' of the Hero Team is a coined rank title."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.89",
+   "note": "Narration, unreferenced."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.95",
+   "note": "Rows 95-98: no-Ultraman branch, Quest010.bla +94..+97 (mapping N+1): Alien Baltan 95/97, Ankh (CHARA_NAME 36) 96/98. Laugh kept as comma-separated 'Fo' per glossary note; identical Japanese in quest_010 row 33 should match."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.98",
+   "note": "Ankh, contemptuous -yagaru ('The bastard vanished'); Baltan g=m."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.100",
+   "note": "OkWin +99. Title from QuestMess 0.11. The following OkWin +100 points past the table (row 101 does not exist): script off-by-one, not a translation issue."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.1",
+   "note": "Quest 'The Prince of Sorrow' description row. QuestMess 0.62 says 'Black RX'; this row's source says 'RX', kept. Compressed to 2 lines ('please take RX and go investigate' -> 'Take RX and investigate'). Place 'Begins Cube' per glossary; 'West District' matches QuestMess."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.5",
+   "note": "Quest011.bla mapping verified as TextIdOffset+N = row N+1 (offset 0): +4 row 5 narration, +8 row 9 Pigmon, +10 row 11 Black RX, +15 row 16 Skullma, +20 row 21 Ankh, +75 OkWin row 76. Narration in present tense as in quest_001 ('You can hear...')."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.9",
+   "note": "Pigmon's verbal tic (sentence-final 'pi') rendered as a trailing ', pi' / stretched 'piii'. First use in the quest corpus; quest_009/010 should follow the same convention."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.13",
+   "note": "Shown under a '???' name box (CHARA_NAME 30) before Skullma is identified; voiced as Skullma."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.14",
+   "note": "Kaima Youzoku (Crisis Empire's yokai clan) has no glossary entry; rendered 'Kaima Yokai Clan' (ChipLib translated the same word loosely as 'Kaima Beastman', which is the glossary term for a different corps, Kaima Juujin). Flag for glossary."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.16",
+   "note": "Skullma. Object (Pigmon) unstated; 'this one' keeps it gender-neutral (Pigmon g=n)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.17",
+   "note": "Unreferenced by Quest011.bla. 'RX' spelled out phonetically in katakana; speaker inferred as Pigmon (childlike), rendered 'Arr-Ex!'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.23",
+   "note": "Script gives Skullma (CHARA_NAME 52, +22) for this line, so it is read as Skullma pressing RX, not an ally asking."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.25",
+   "note": "Skullma, mocking: 'hanashi ga wakaru' = RX is being reasonable."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.26",
+   "note": "Ankh (CHARA_NAME 36), +25."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.40",
+   "note": "Black RX's roar of grief/rage (+39)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.41",
+   "note": "Skullma; 'it/its' = Pigmon (villain's wording, Pigmon g=n)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.42",
+   "note": "Unreferenced; speaker inferred Black RX (lead-in to row 43)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.44",
+   "note": "Classic RX narration; English matches the story's rendering of the same line (MainEventMess0256 #0.91)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.47",
+   "note": "Skullma (+46). After this the script goes to battle 628; rows 48-55 (Skullmaster call-out, form changes, item/skill messages) are not referenced by Quest011.bla, so speakers are inferred: 48/50/54 Black RX, 51 the enemy."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.48",
+   "note": "'Skullmaster' per CharacterName/ChipLib (Skullma squad leader)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.49",
+   "note": "Source is missing the closing bracket after the second item; both names quoted in English. Item names 'Heart of Anger' / 'Heart of Sorrow' coined (not in item tables)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.50",
+   "note": "RX's Robo Rider roll call ('Prince of Sorrow'), Bio Rider in row 54 ('Prince of Anger'). Source writes BLACKRX without the space; glossary 'Black RX'. Form names follow ChipLib ('Robo Rider', 'Bio Rider')."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.53",
+   "note": "Matches QuestMess 0.512 English."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.58",
+   "note": "Skullma's death cry (+57, CHARA_NAME 52)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.62",
+   "note": "'There's still breath' addressed to Pigmon, so 'You're still breathing'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.71",
+   "note": "Pigmon (+70). OkWin +72 = row 73 (quest complete); the next OkWin +76 points to a nonexistent row 77 (likely meant the skill-unlock message): script off-by-one, not a translation issue."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.73",
+   "note": "Title from QuestMess 0.12."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST011_pk#0.76",
+   "note": "OkWin +75, no-RX branch; same pattern as quest_007/008 party-requirement messages."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.1",
+   "note": "Quest 'Retrieving the O Raiser' description row. 'O Raiser', 'Maganac', 'Hideout Cube' per glossary/QuestMess 0.63. Compressed to the 2-line box: 'repairs finished, but stolen' -> 'the repaired O Raiser was stolen'; 'who is waiting at' -> 'at'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.5",
+   "note": "Quest012.bla only references rows 68+ (the played version of this scene); rows 5-12 are an unreferenced earlier draft. Speakers inferred: Maganac 5/6/8/9/10/12 (polite); 7 and 11 a hero (calm, plain speech; possibly 00), voiced neutral."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.9",
+   "note": "'Betsudoutai' = a separate/other unit; 'transport Ride Machine' from the source, 'Ride Machine' as in QuestMess."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.11",
+   "note": "Subject 'we' restored (the heroes' side was attacked)."
+  }
+ ],
+ "report": "80/80 rows examined. Speakers from Quest010.bla (+94..+97 = rows 95-98, N+1), Quest011.bla (TextIdOffset+N = row N+1, verified on content and empty rows) and Quest012.bla (played scene starts at row 68). Unreferenced, speakers inferred: Quest010 75-89 (cut post-battle Pigmon scene), Quest011 17/42/48-55 (transformation sequence and item messages), Quest012 5-12 (earlier draft). Script OkWins past table end: Quest010 +100, Quest011 +76. Pigmon 'pi' tic and stilted interpreter speech set here (first use). Not in glossary: Kaima Yokai Clan (Kaima Youzoku), Heart of Anger / Heart of Sorrow (items, coined), Skullmaster (from CharacterName), Special Member (Hero Team title)."
+}

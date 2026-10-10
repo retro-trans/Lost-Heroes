@@ -1,0 +1,378 @@
+{
+ "slice": "story_177",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0736.mbb#0.448",
+   "en": "So it's begun...!! Regis... This whole space is collapsing!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.449",
+   "en": "It's dangerous here!! Let's head back to base!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.450",
+   "en": "Right!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.451",
+   "en": "Right!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.452",
+   "en": "Right!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.453",
+   "en": "Right!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.454",
+   "en": "Right!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.455",
+   "en": "Right!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.456",
+   "en": "Right!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.457",
+   "en": "You got it!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.458",
+   "en": "Right!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.459",
+   "en": "Yes!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.460",
+   "en": "Right!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.461",
+   "en": "Roger!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.462",
+   "en": "Right!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.463",
+   "en": "Right!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.464",
+   "en": "Right!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.466",
+   "en": "The heroes boarded the Ride Machine and made straight for the base."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.468",
+   "en": "\"You did it!!\""
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.469",
+   "en": "Zoffy!? Yeah, we beat Regis!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.470",
+   "en": "\"The Minus Energy readings all around are gradually disappearing...!!\""
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.471",
+   "en": "Great!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.472",
+   "en": "\"Hurry back here!!\""
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.482",
+   "en": "\"The tremors have started here too! It looks like the base is going to collapse as well...!!\""
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.483",
+   "en": "\"What is this...!? My body... It's fading away!?\""
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.484",
+   "en": "\"Mine too...!!\""
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.485",
+   "en": "Your original worlds are trying to call you back."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.486",
+   "en": "\"We can go back!?\""
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.487",
+   "en": "Yes. The original worlds have been trying to pull the power of justice back all along."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.488",
+   "en": "Now that Regis is gone, the force that bound you to this side has vanished."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.489",
+   "en": "\"Nothing's changing for me, though...?\""
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.490",
+   "en": "It seems the timing differs from person to person."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.491",
+   "en": "\"...Huh? Then I have to say goodbye just like this!?\""
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.492",
+   "en": "Unfortunately, it looks that way."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.493",
+   "en": "Hey, hey!! Dammit!! We fought side by side, didn't we!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.494",
+   "en": "Let's hurry back to base!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.495",
+   "en": "Methuss! We're heading back, fast!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.496",
+   "en": "Ride Machine, full speed ahead!!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.497",
+   "en": "No way...!! But we fought side by side!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.498",
+   "en": "Let's hurry!! Ride Machine, full speed ahead!!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.499",
+   "en": "Hey, hey!! We fought side by side, didn't we!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.500",
+   "en": "Let's hurry back to base!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.501",
+   "en": "Wait a minute!! But we fought side by side!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.502",
+   "en": "We need to hurry back to base!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.503",
+   "en": "Hey, hey!! Are you serious? We fought side by side, didn't we!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.504",
+   "en": "Let's hurry back to base!! Ride Machine, full speed ahead!!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.505",
+   "en": "No way...!! We fought side by side, didn't we!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.506",
+   "en": "Let's hurry back to base!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.507",
+   "en": "Hey, hey!! You're kidding, right!? We fought side by side, didn't we!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.508",
+   "en": "Let's hurry back to base!! Ride Machine, full speed ahead!!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.509",
+   "en": "No way...!! We fought side by side, didn't we!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.510",
+   "en": "Let's hurry back to base!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.511",
+   "en": "Methuss! We're heading back, fast!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.512",
+   "en": "Ride Machine, full speed ahead!!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.513",
+   "en": "Is that true...!? We fought side by side, didn't we!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.514",
+   "en": "Let's hurry back to base!! Ride Machine, full speed ahead!!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.515",
+   "en": "Is that true...!? We fought side by side, didn't we!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.516",
+   "en": "Let's hurry back to base!! Ride Machine, full speed ahead!!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.517",
+   "en": "Is that true...!? We fought side by side, didn't we!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.518",
+   "en": "Let's hurry back to base!! Ride Machine, full speed ahead!!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.519",
+   "en": "Methuss... Let's hurry back!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.520",
+   "en": "Ride Machine, full speed ahead!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.521",
+   "en": "Methuss... Let's hurry back!"
+  },
+  {
+   "key": "MainEventMess0803.mbb#0.1",
+   "en": "You sense intense bloodlust! Going any further will likely mean a battle with a powerful enemy!"
+  },
+  {
+   "key": "MainEventMess0803.mbb#0.2",
+   "en": "Proceed?"
+  },
+  {
+   "key": "MainEventMess0803.mbb#0.3",
+   "en": "You defeated the powerful enemy!"
+  },
+  {
+   "key": "MainEventMess0803.mbb#0.4",
+   "en": "But you can still sense the presence of a powerful enemy..."
+  },
+  {
+   "key": "MainEventMess0804.mbb#0.1",
+   "en": "You sense intense bloodlust! Going any further will likely mean a battle with a powerful enemy!"
+  },
+  {
+   "key": "MainEventMess0804.mbb#0.2",
+   "en": "Proceed?"
+  },
+  {
+   "key": "MainEventMess0804.mbb#0.3",
+   "en": "You defeated the powerful enemy!"
+  },
+  {
+   "key": "MainEventMess0804.mbb#0.4",
+   "en": "But you can still sense the presence of a powerful enemy..."
+  },
+  {
+   "key": "MainEventMess0805.mbb#0.1",
+   "en": "You sense intense bloodlust! Going any further will likely mean a battle with a powerful enemy!"
+  },
+  {
+   "key": "MainEventMess0805.mbb#0.2",
+   "en": "Proceed?"
+  },
+  {
+   "key": "MainEventMess0805.mbb#0.3",
+   "en": "You defeated the powerful enemy!"
+  },
+  {
+   "key": "MainEventMess0805.mbb#0.4",
+   "en": "But you can still sense the presence of a powerful enemy..."
+  },
+  {
+   "key": "MainEventMess0890.mbb#0.1",
+   "en": "You sense intense bloodlust! Going any further will likely mean a battle with a powerful enemy!"
+  },
+  {
+   "key": "MainEventMess0890.mbb#0.2",
+   "en": "Proceed?"
+  },
+  {
+   "key": "MainEventMess0890.mbb#0.3",
+   "en": "You defeated the powerful enemy!"
+  },
+  {
+   "key": "MainEventMess0890.mbb#0.4",
+   "en": "But you can still sense the presence of a powerful enemy..."
+  },
+  {
+   "key": "MainEventMess0891.mbb#0.1",
+   "en": "You sense intense bloodlust! Going any further will likely mean a battle with a powerful enemy!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0736.mbb#0.448",
+   "note": "Speakers verified against 0736.bla (MessWinSet TextIdOffset+N plays #N+1): #448-449 Seravee's Voice (+447/+448). The source breaks off after 'Regis...'; kept as a fragment rather than guessing the missing predicate."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.450",
+   "note": "#450-464 = TextIdOffset+449+R2, chain at 3225: Ultraman, Rider 1, Nu, Seven, Black RX, Zeta, Taro, Den-O Sword (#457 rough 'You got it!!'), God Gundam, Mebius (#459 polite 'Yes!!'), W, Wing Zero (#461 'Roger!!'), Zero, OOO, 00. Identical lines kept identical. The extracted '?party' label on #450 is right; the 00 name before the call is a placeholder."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.469",
+   "note": "#469 and #471 are never played by the script (Zoffy's +467 and +469 run back to back). Translated as a generic party reply; 'it' in the source read as Regis."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.470",
+   "note": "Zoffy over comms from base; 'all around' = around the party/area."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.484",
+   "note": "Hikari: his body is fading too (reply to Methuss)."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.485",
+   "note": "Seravee's Voice explains to Methuss/Hikari; 'you' restored for the people being pulled back."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.488",
+   "note": "Binding force read as acting on the heroes ('you'), which the source leaves unstated."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.491",
+   "note": "Methuss: 'this is goodbye just like this' = vanishing before the party gets back; the party's protest in #493+ answers it."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.493",
+   "note": "#493-522 = TextIdOffset+492+R2 / +493+R2 with R2 stepping by 2, chain at 5105: Den-O Sword (#493-494), Zeta (#495-496), Mebius (#497-498), W (#499-500), OOO (#501-502), Zero (#503-504), Black RX (#505-506), God Gundam (#507-508), Rider 1 (#509-510), Nu (#511-512), Taro (#513-514), Seven (#515-516), Ultraman (#517-518), 00 (#519-520), Wing Zero (#521, its second line #522 is in story_178). The Wing Zero name before the call is a placeholder. 'We fought side by side' = protest that she can't leave without a proper farewell."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.495",
+   "note": "Zeta/Nu: 'Methuss!' read as calling out to her over comms while telling the team they are rushing back; the source could also be addressed to the team only."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.519",
+   "note": "00 / Wing Zero: same ambiguity, kept as 'Methuss... Let's hurry back!' (volitional)."
+  },
+  {
+   "key": "MainEventMess0803.mbb#0.1",
+   "note": "Strong-enemy warning prompts (0803/0804/0805/0890/0891 identical). No speaker; system text addressed to the player as 'you'. No earlier English precedent found for these prompts."
+  }
+ ],
+ "report": "80/80 rows. Speakers verified against 0736.bla: #450-464 use the chain at 3225, #493-522 the chain at 5105 (step 2, pairs). #469/#471 unused by the script. #448 trailing fragment kept. No new names or terms."
+}

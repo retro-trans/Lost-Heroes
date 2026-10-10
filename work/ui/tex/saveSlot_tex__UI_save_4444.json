@@ -1,0 +1,10 @@
+{
+ "tpc": "Graph/SaveSlot/saveSlot_tex.tpc",
+ "page": "UI_save_4444.tga",
+ "note": "Save/Load screen buttons: confirm / back (OK and Back as in the other menus).",
+ "defaults": {"color": [255, 255, 255], "size": 9},
+ "boxes": [
+  {"x": 0, "y": 33, "w": 20, "h": 11, "text": "OK", "align": "center"},
+  {"x": 21, "y": 34, "w": 20, "h": 10, "text": "Back", "align": "center"}
+ ]
+}

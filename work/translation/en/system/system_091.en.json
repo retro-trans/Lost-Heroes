@@ -1,0 +1,342 @@
+{
+ "slice": "system_091",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillName.mbb#3.275",
+   "en": "Power Crystal"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.276",
+   "en": "Destruction Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.277",
+   "en": "Double Ray Impact"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.278",
+   "en": "Twin-Head Flame Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.279",
+   "en": "Electric Field"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.280",
+   "en": "Discharge Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.281",
+   "en": "Death Fire"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.282",
+   "en": "Fierce Chill"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.283",
+   "en": "Strong Acid Thread"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.284",
+   "en": "Yellow Gas"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.285",
+   "en": "Fireball Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.286",
+   "en": "Meteorite"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.287",
+   "en": "Medal-Shaped Light Bullet"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.288",
+   "en": "Terror Field Barrier"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.289",
+   "en": "Terror Dragon Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.290",
+   "en": "GN Mega Launcher"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.291",
+   "en": "GN Beam Claw"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.292",
+   "en": "GN Fang"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.293",
+   "en": "GN Cutter"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.294",
+   "en": "Sword"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.295",
+   "en": "GN Spike"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.296",
+   "en": "Egna Whip"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.297",
+   "en": "GN Micro Missile"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.298",
+   "en": "Shield"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.299",
+   "en": "Epyon Claw"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.300",
+   "en": "GN Buster Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.301",
+   "en": "GN Fin Fang"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.302",
+   "en": "Trans-Am"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.303",
+   "en": "GN Shield"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.304",
+   "en": "Devil Finger"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.305",
+   "en": "Spread Particle Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.306",
+   "en": "Master Cloth"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.307",
+   "en": "Sekiha Tenkyoken"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.308",
+   "en": "Darkness Finger"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.309",
+   "en": "Twelve King Great Wheel"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.310",
+   "en": "Wild Thrashing"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.311",
+   "en": "Beryudora Inferno"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.312",
+   "en": "Poison Gas"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.313",
+   "en": "Enhanced Poison Gas"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.314",
+   "en": "Blinding Light"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.315",
+   "en": "Beam Shot Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.316",
+   "en": "Small Missile"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.317",
+   "en": "Spread Mega Particle Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.318",
+   "en": "Funnel"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.319",
+   "en": "Feeler Shock"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.320",
+   "en": "Killer Eye Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.321",
+   "en": "Killer Warhead"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.322",
+   "en": "Dynamite Eraser"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.323",
+   "en": "Saurus Full Burst"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.324",
+   "en": "Stomp"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.325",
+   "en": "Tentacle Sweep"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.326",
+   "en": "Tentacle Grab"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.327",
+   "en": "Shiranui"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.328",
+   "en": "Unryu"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.329",
+   "en": "Souten"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.330",
+   "en": "Tri-Punisher"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.331",
+   "en": "Beam Chakram"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.332",
+   "en": "Missile Pod"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.333",
+   "en": "Beam Launcher"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.334",
+   "en": "Autocannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.335",
+   "en": "Joint Great Tornado"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.336",
+   "en": "Beam Gun"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.337",
+   "en": "Freezing Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.338",
+   "en": "Destruction Light Bullet"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.339",
+   "en": "Tyrant Crush"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.340",
+   "en": "Shadow Flash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.341",
+   "en": "Shadow Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.342",
+   "en": "Shadow Punch"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.343",
+   "en": "Shadow Beam"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.344",
+   "en": "Satan Saber"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.345",
+   "en": "Purple Light Bullet"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.346",
+   "en": "Form Change"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.347",
+   "en": "GN Beam Saber"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.348",
+   "en": "GN Fin Fang"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.349",
+   "en": "GN Fin Fang"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.350",
+   "en": "Egna Whip"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.351",
+   "en": "Gun"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.352",
+   "en": "Beam Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.353",
+   "en": "Beam Saber"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.354",
+   "en": "Beam Sword"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Skill/SkillName.mbb#3.309",
+   "note": "Technique name of Master Gundam's team-up attack; rendered from the kanji, not an official English title."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.296",
+   "note": "Arche Gundam whip, romanized as Egna Whip; not in glossary."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.334",
+   "note": "Cooperative great tornado; wording is a guess at the intended meaning."
+  }
+ ],
+ "report": "80/80 translated. Reused earlier skill names verbatim (Destruction Ray, GN Fang, GN Micro Missile, Shield, GN Shield, Funnel, Missile Pod, GN Beam Saber, Beam Rifle, Beam Saber). Uncertain: Twelve King Great Wheel, Joint Great Tornado, Twin-Head Flame Shot, Double Ray Impact. New terms not in glossary: Egna Whip, Epyon Claw, Devil Finger, Darkness Finger, Tri-Punisher, Satan Saber, Souten, Killer Warhead, Feeler Shock."
+}

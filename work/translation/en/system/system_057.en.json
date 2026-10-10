@@ -1,0 +1,358 @@
+{
+ "slice": "system_057",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.3",
+   "en": "On turns when it hits the whole party, Defend. It also targets Heroes with low HP, so be careful."
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.4",
+   "en": "This enemy isn't all that strong. Stay calm and deal with it, using Skills to take it down."
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.5",
+   "en": "They use combined attacks, so take one down first. Seagorath has low HP, so aim for it."
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.6",
+   "en": "Moving on with low HP is dangerous. When in danger, use Return from Camp to go back to base."
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.7",
+   "en": "Negataros hits the whole party on certain turns. Beat the fast, high-ATK Yummies first to make it easier."
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.8",
+   "en": "Both seem to be weak to fire."
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.9",
+   "en": "It seems to always use a party-wide attack on certain turns. It's not simple, but watch its actions closely."
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.10",
+   "en": "Some enemies resist fire and other elements. One has slightly lower HP, so tell them apart and go for it."
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.11",
+   "en": "Against many enemies, focus fire is the basic tactic. First, thin out their numbers."
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.12",
+   "en": "It's powerful, but some of its attacks target the Hero with the highest HP. Read its timing and use Defend."
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.13",
+   "en": "It often seems to go after the same Heroes. Read who it is aiming at and fight accordingly."
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.14",
+   "en": "Restock your recovery items often."
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.15",
+   "en": "Handle party-wide attacks by Defending. It's weak to certain elements, so it may be worth trying them out."
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.16",
+   "en": "Spot enemies with low HP that are easy to down. Also prioritize enemies with high ATK."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.1",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.2",
+   "en": "Signal Flare"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.3",
+   "en": "Hyper Jammer"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.4",
+   "en": "Active Cloak"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.5",
+   "en": "Lightwave Barrier System"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.6",
+   "en": "Minovsky Craft"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.7",
+   "en": "Life Kit"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.8",
+   "en": "Mega Life Kit"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.9",
+   "en": "Giga Life Kit"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.10",
+   "en": "Recovery Kit"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.11",
+   "en": "Revive Kit"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.12",
+   "en": "Grand Revive Kit"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.13",
+   "en": "Cure Virus"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.14",
+   "en": "Cure Stun"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.15",
+   "en": "Cure Panic"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.16",
+   "en": "Cure Blind"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.17",
+   "en": "Cure Blind"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.18",
+   "en": "Cure Pressure"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.19",
+   "en": "Cure Negative"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.20",
+   "en": "Light of the Plasma Spark"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.21",
+   "en": "All-Purpose Kit"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.22",
+   "en": "Vitality Crystal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.23",
+   "en": "Magic Crystal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.24",
+   "en": "Physical ATK Crystal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.25",
+   "en": "Ranged ATK Crystal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.26",
+   "en": "Physical DEF Crystal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.27",
+   "en": "Ranged DEF Crystal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.28",
+   "en": "Agility Crystal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.29",
+   "en": "Technique Crystal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.30",
+   "en": "Luck Crystal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.31",
+   "en": "Might Crystal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.32",
+   "en": "Resolve Crystal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.33",
+   "en": "Intellect Crystal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.34",
+   "en": "Convergence Crystal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.35",
+   "en": "Skill Book"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.36",
+   "en": "Secret Skill Book"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.37",
+   "en": "Smoke Grenade"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.38",
+   "en": "Spirit Tab"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.39",
+   "en": "Mega Spirit Tab"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.1",
+   "en": "Remove"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.2",
+   "en": "Gaia Cannon"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.3",
+   "en": "Mega Particle Cannon"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.4",
+   "en": "GN Cannon"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.5",
+   "en": "Beam Emerald"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.9",
+   "en": "Vulcan Cannon"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.10",
+   "en": "Pointer Ray Gun"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.11",
+   "en": "Beam Vulcan"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.12",
+   "en": "Tri-Gar Shot"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.16",
+   "en": "Pelucidar Drill"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.17",
+   "en": "Permidar Drill"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.18",
+   "en": "Magma Riser Drill"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.19",
+   "en": "Regis Breaker"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.23",
+   "en": "Beam Shield"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.24",
+   "en": "Defense Dome"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.25",
+   "en": "Ultra Barrier"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.26",
+   "en": "GN Field"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.32",
+   "en": "Recovery Unit α"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.33",
+   "en": "Recovery Unit β"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.34",
+   "en": "Recovery Unit γ"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.35",
+   "en": "Recovery Unit Ω"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.38",
+   "en": "Birdlime"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.39",
+   "en": "Weapon-Dulling Round"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.40",
+   "en": "Armor-Melting Round"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.41",
+   "en": "Missile Pod"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.42",
+   "en": "Berserk Round"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.43",
+   "en": "Strong Acid Round"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.7",
+   "note": "Plural Yummy rendered as Yummies (glossary term Yummy)."
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.5",
+   "note": "Source row breaks mid-word across the line; joined into one sentence. The pair of enemies is unnamed in this row; one is Seagorath."
+  },
+  {
+   "key": "Table/GameOver/GameOverMess.mbb#1.10",
+   "note": "'One of them' = one of a pair of enemies; meaning kept, referent not named."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.32",
+   "note": "Stat crystal names are literal guesses; the stat labels (Might, Resolve, Intellect, Convergence, Technique) are not in the glossary."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.34",
+   "note": "Convergence is a literal reading of an uncommon word; could be Focus."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.17",
+   "note": "Different Ultraman-series drill tank from Pelucidar; romanized as Permidar."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#0.17",
+   "note": "Identical Japanese to the next row, kept identical."
+  }
+ ],
+ "report": "80/80 examined. New terms not in glossary: Signal Flare, Lightwave Barrier System, Minovsky Craft, Permidar Drill, Regis Breaker, Tri-Gar Shot, Pointer Ray Gun, Beam Emerald, Cure Dark, stat crystal names (Might/Resolve/Intellect/Convergence/Technique)."
+}

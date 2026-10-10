@@ -1,0 +1,410 @@
+{
+ "slice": "story_048",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0314.mbb#0.83",
+   "en": "Oho...? Are you running away in fear of my giant space monster?"
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.84",
+   "en": "So that's the extent of your strength after all! Fuhahahahahahahahaha...!!"
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.85",
+   "en": "Fuhahahahahahahahaha...!!"
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.87",
+   "en": "{8074} and the others decided to return to base and work out a plan."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.88",
+   "en": "Like this, we can't get any further. Shouldn't we go back to base and rethink our plan?"
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.89",
+   "en": "...I see. So we can't go any further unless we break through that room."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.90",
+   "en": "Still, it's a stroke of luck that we managed to rescue Kamen Rider 2, at least."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.91",
+   "en": "But why would Skull... No, why would the Dummy Dopant..."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.92",
+   "en": "...save Rider 2...?"
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.93",
+   "en": "...I don't know either. Maybe it was scheming something."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.94",
+   "en": "For now, let's just focus on Rider 1 and the Ultra Brothers."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.95",
+   "en": "But to save Rider 1 and my brothers, we have to defeat Bemstar..."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.96",
+   "en": "That mouth of its is the problem..."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.97",
+   "en": "...Sorry to keep you waiting."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.98",
+   "en": "Hikari, how'd it go? Did you find anything that could plug that mouth?"
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.99",
+   "en": "Well... no good... There's nothing we can use."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.100",
+   "en": "If only we had some highly adhesive substance... Something like birdlime, for example..."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.101",
+   "en": "Huh? Birdlime?"
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.102",
+   "en": "What is it, Ankh? Does that ring a bell?"
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.103",
+   "en": "Ankh grudgingly began telling them of the birdlime-like stuff he'd seen lying in the enemy lab."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.104",
+   "en": "......"
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.105",
+   "en": "...That's most likely a \"Polymer Plaster Bomb.\" It must have misfired in an experiment."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.106",
+   "en": "There may still be some usable ones left. It's worth checking out."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.107",
+   "en": "Got it. Let's go back there one more time."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.108",
+   "en": "Okay!!"
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.109",
+   "en": "You've gotta be kidding me..."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.110",
+   "en": "What's wrong, Ankh? Not feeling up to it?"
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.111",
+   "en": "This Cube doesn't smell of Yummies, that's why."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.112",
+   "en": "Whatever. I'll tag along with you a little longer."
+  },
+  {
+   "key": "MainEventMess0315.mbb#0.1",
+   "en": "Obtained the \"Polymer Plaster Bomb\"."
+  },
+  {
+   "key": "MainEventMess0315.mbb#0.2",
+   "en": "Found it...! With this, we can defeat the Modified Bemstar!"
+  },
+  {
+   "key": "MainEventMess0315.mbb#0.3",
+   "en": "Found it! With this, we oughta be able to beat the Modified Bemstar!"
+  },
+  {
+   "key": "MainEventMess0315.mbb#0.4",
+   "en": "Found it...! With this, we should be able to beat the Modified Bemstar...!"
+  },
+  {
+   "key": "MainEventMess0315.mbb#0.5",
+   "en": "Found it! With this, we should be able to defeat the Modified Bemstar!"
+  },
+  {
+   "key": "MainEventMess0315.mbb#0.6",
+   "en": "Found it! With this, we can beat the Modified Bemstar!"
+  },
+  {
+   "key": "MainEventMess0315.mbb#0.7",
+   "en": "Found it! With this, we can beat the Modified Bemstar!"
+  },
+  {
+   "key": "MainEventMess0315.mbb#0.8",
+   "en": "Alriiight, found it!! Modified Bemstar, you bastard, you just wait!!"
+  },
+  {
+   "key": "MainEventMess0315.mbb#0.9",
+   "en": "The \"Polymer Plaster Bomb\"... Can we defeat the Modified Bemstar with this?"
+  },
+  {
+   "key": "MainEventMess0315.mbb#0.10",
+   "en": "The \"Polymer Plaster Bomb\"... Can we defeat the Modified Bemstar with this?"
+  },
+  {
+   "key": "MainEventMess0315.mbb#0.11",
+   "en": "Found it! With this, we can defeat the Modified Bemstar!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.1",
+   "en": "Oho...? You came back? How laughable."
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.2",
+   "en": "Have you come to fight the Modified Bemstar?"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.4",
+   "en": "Fuhahahahaha!! Then I won't hold back either!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.5",
+   "en": "Modified Bemstar!!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.6",
+   "en": "Hey! OOO! Throw the Polymer Plaster Bomb at that thing's belly!!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.7",
+   "en": "R-right... But I'll have to aim carefully..."
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.8",
+   "en": "Tch, you're hopeless! Gimme that! I'll do the throwing!!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.9",
+   "en": "Ankh aimed for the Modified Bemstar's belly mouth and hurled the Polymer Plaster Bomb!!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.10",
+   "en": "The bomb hit its mark and sealed the mouth on its belly."
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.12",
+   "en": "Mebius took aim at the mouth on the Modified Bemstar's belly,"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.13",
+   "en": "Zero took aim at the mouth on the Modified Bemstar's belly,"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.14",
+   "en": "OOO took aim at the mouth on the Modified Bemstar's belly,"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.15",
+   "en": "W took aim at the mouth on the Modified Bemstar's belly,"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.16",
+   "en": "Nu Gundam took aim at the mouth on the Modified Bemstar's belly,"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.17",
+   "en": "Zeta Gundam took aim at the mouth on the Modified Bemstar's belly,"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.18",
+   "en": "Den-O took aim at the mouth on the Modified Bemstar's belly,"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.19",
+   "en": "00 took aim at the mouth on the Modified Bemstar's belly,"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.20",
+   "en": "Wing Zero took aim at the mouth on the Modified Bemstar's belly,"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.21",
+   "en": "Black RX took aim at the mouth on the Modified Bemstar's belly,"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.22",
+   "en": "and hurled the Polymer Plaster Bomb!!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.23",
+   "en": "The bomb hit its mark and sealed the mouth on its belly."
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.24",
+   "en": "Kiiih!?"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.25",
+   "en": "I see, so that's your move..."
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.26",
+   "en": "Now we can win!!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.27",
+   "en": "All right! Now we can win!!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.28",
+   "en": "Now we can win!!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.29",
+   "en": "Now we can win!!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.30",
+   "en": "Now we can win!!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.31",
+   "en": "Now we can win!!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.32",
+   "en": "Alriiight! This'll be a cakewalk!!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.33",
+   "en": "Now we can win!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.34",
+   "en": "Now we can win!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.35",
+   "en": "All right! Now we can win!!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.36",
+   "en": "In that case...! I'll make my next move as well!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.37",
+   "en": "Bemstar isn't the only one I've modified!!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.38",
+   "en": "Sabotendar! Verokron! You're up!!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.40",
+   "en": "Heh heh heh heh..."
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.41",
+   "en": "Impressive, heroes. It seems we have no choice but to move on to our next operation..."
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.42",
+   "en": "I've opened the door at the back! Now, go forth!"
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.43",
+   "en": "Fuhahahahahahaha!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0314.mbb#0.85",
+   "note": "Duplicate of the laugh in #0.84; the 0314 script never shows it (Yapool's box is #0.83-84). Translated anyway, attributed to Yapool."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.88",
+   "note": "Ankh (script-confirmed): shown when the party re-approaches the Bemstar room without a countermeasure."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.89",
+   "note": "#0.89-#0.112 are a base scene with no recovered script (no .bla references these entries). Speakers inferred: #0.89 calm 'da ne' (likely Philip); #0.93 Rider 2 (just rescued, 'I don't know either'); #0.95 Mebius ('my brothers' = Ultra Brothers); #0.96/#0.98 casual (likely Zero); #0.97/#0.99/#0.100/#0.104-#0.106 Hikari (the one sent to search, explains the bomb); #0.101/#0.109/#0.111/#0.112 Ankh. Others left neutral."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.90",
+   "note": "Source uses the full name 'Kamen Rider 2' here, so the full form is kept; 'fukouchuu no saiwai' rendered 'a stroke of luck'."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.91",
+   "note": "Sentence split across #0.91/#0.92; English cut at the matching point. The speaker corrects 'Skull' to 'the Dummy Dopant' (revealed impostor) and does not say 'oyassan', so probably not Shotaro."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.93",
+   "note": "Dropped subject restored as 'it' = the Dummy Dopant (glossary g=n)."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.99",
+   "note": "Hikari reporting; 'nothing we can use' keeps the impersonal source while restoring a verb."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.100",
+   "note": "'Torimochi' = 'birdlime', matching story_044/047 (the sticky stuff Ankh, a bird Greeed, feared in 0308)."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.103",
+   "note": "Ankh g=m. He tells it 'reluctantly' because the birdlime scared him in 0308."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.105",
+   "note": "Item name rendered \"Polymer Plaster Bomb\" (literal: high-polymer plaster bomb); not in glossary. 'Bouhatsu' = accidental detonation."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.108",
+   "note": "Speaker unknown; cheerful 'Okay!!' kept as is."
+  },
+  {
+   "key": "MainEventMess0314.mbb#0.111",
+   "note": "Source has a typo kanji (a look-alike of the character for 'smell'); read as 'no Yummy smell'. Ankh only cares about Cubes that yield Yummies/Cell Medals; 'that's why' carries the kara-na reason."
+  },
+  {
+   "key": "MainEventMess0315.mbb#0.2",
+   "note": "#0.2-#0.11 are leader variants with labels confirmed by the extractor: Mebius, Zero, OOO, W (Philip), Nu, Zeta, Den-O Sword (Momotaros voice), 00, Wing Zero, Black RX."
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.2",
+   "note": "Unlabelled; continues Yapool's line from #0.1. #0.4 also Yapool."
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.6",
+   "note": "'Yatsu' = Modified Bemstar (g=n), rendered 'that thing'."
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.12",
+   "note": "#0.12-#0.21 are party-leader narration variants, completed by #0.22 ('and hurled...'); comma kept so the two boxes read as one sentence, matching the source split."
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.24",
+   "note": "Short shriek; distinct from the full 'Kwaaah-kiiiiiii!!' roar used in story_047."
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.26",
+   "note": "#0.26-#0.35 are leader variants in the same order as 0315 (#0.26 labelled Black RX by the extractor but sits in Mebius's slot; #0.28 OOO matches). #0.32 is Momotaros-style ('rakushou' = cakewalk)."
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.38",
+   "note": "Sabotendar and Verokron: Ultraman Ace Choju, standard English names; not in glossary."
+  },
+  {
+   "key": "MainEventMess0316.mbb#0.40",
+   "note": "'Fuffuffuffu' rendered 'Heh heh heh heh...' to differ from the 'Fufufufufu' laugh (story_047 #0.37)."
+  }
+ ],
+ "report": "80/80 rows. 0314 #0.89-#0.112 base scene has no recovered speakers; speakers inferred (Hikari, Ankh, Rider 2, Mebius, likely Zero/Philip). 0316 #0.26 mislabelled Black RX (Mebius slot). Not in glossary: \"Polymer Plaster Bomb\", Sabotendar, Verokron."
+}

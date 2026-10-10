@@ -1,0 +1,414 @@
+{
+ "slice": "story_184",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Base/MainEventMess0914.mbb#0.23",
+   "en": "...You idiot! Like hell I am! Shut your mouth!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0914.mbb#0.24",
+   "en": "Whatever. I'll tag along with you a little longer."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.1",
+   "en": "Welcome, Kamen Rider 1! And the real Rider 2!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.2",
+   "en": "Whew, you really saved our lives."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.3",
+   "en": "...I never knew a place like this existed."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.4",
+   "en": "I'm Seravee Gundam. I handle the strategy side of things."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.5",
+   "en": "I'm Methuss. I'm in charge of running the Item Lab."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.6",
+   "en": "I'm Hikari. I handle technical support."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.9",
+   "en": "The heroes discussed a plan for their next objective: rescuing the Ultra Warriors."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.11",
+   "en": "...So the path to the place with the cross is blocked by boulders?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.12",
+   "en": "A small but powerful bomb would do the trick... Unfortunately, we have nothing suitable here."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.13",
+   "en": "A small bomb, huh..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.14",
+   "en": "Then let's just swipe one from the enemy!?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.15",
+   "en": "I doubt the enemy would be so convenient as to have one, though."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.16",
+   "en": "No, the enemy researches weapons and ammo too. They must be storing them somewhere."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.17",
+   "en": "My suspicion is the area even further in from where we were being held."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.18",
+   "en": "Ikadevil was coming and going from there a lot, too."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.19",
+   "en": "See!? You hear that, you lot!? If Rider 1 says so, it's gotta be true!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.20",
+   "en": "Understood. Then investigate that area."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.21",
+   "en": "Right, I'll go with you!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.1",
+   "en": "{8074} and the others returned to base and handed the bomb-like objects to Hikari."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.3",
+   "en": "So these are the bombs you brought back..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.4",
+   "en": "...I see."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.5",
+   "en": "...!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.6",
+   "en": "...Well done! This is \"Spiner.\""
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.7",
+   "en": "Spiner?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.8",
+   "en": "It's what you'd call a high-yield explosive. The enemy must've been trying to improve it."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.9",
+   "en": "With this, we should be able to destroy the rocks blocking the path."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.10",
+   "en": "Understood! We'll give it a try!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.11",
+   "en": "Kyaaaaaaah!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.12",
+   "en": "What's going on!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.13",
+   "en": "A kaiju...!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.14",
+   "en": "What!? A kaiju in our base!?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.15",
+   "en": "Leave it to me!! What kind of kaiju is it!?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.16",
+   "en": "I-Its mouth is bigger than its face... It has tiny eyeballs on the tips of its antennae..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.17",
+   "en": "A big, pudgy belly... And there was some kind of counter on its chest."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.18",
+   "en": "...? Could that be..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.19",
+   "en": "Wait for meee~~~!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.20",
+   "en": "Here it comes...!! It followed me here!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.21",
+   "en": "I'm not anybody suspicious~"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.22",
+   "en": "Kanegon!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.23",
+   "en": "...Y-You know who I am!?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.24",
+   "en": "Of course! You're Kanegon, the Coin Monster, right?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.25",
+   "en": "Phew, what a relieeef~"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.26",
+   "en": "Kanegon, how did you get here?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.27",
+   "en": "I dunnooo~ When I came to, I was just here."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.28",
+   "en": "Just like us, then."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.29",
+   "en": "Hey, is it okay if I stay here?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.30",
+   "en": "Of course it is! That's all right, isn't it?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.31",
+   "en": "Sure. If you're one of us, you're welcome here."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.32",
+   "en": "I don't see a problem."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.33",
+   "en": "Thaaank youuu~ Then I'll help out with something."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.34",
+   "en": "Let's see... In that case, there's an untouched storeroom next door. Could you clean it up for us?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.35",
+   "en": "Easy peasy~"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.37",
+   "en": "Kanegon happily left the Briefing Room."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.40",
+   "en": "And then..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.41",
+   "en": "Hey! Something crazy's happened to the storeroom next door!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.42",
+   "en": "Huh? But Kanegon was supposed to be cleaning it up for us."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.43",
+   "en": "This is way past \"cleaning.\" The whole inside's been completely changed."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.44",
+   "en": "Wait, what do you mean?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.45",
+   "en": "Ehehehehe...!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.46",
+   "en": "Did you build that? What the hell is that place even for?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.47",
+   "en": "You don't know? It's a casino. The \"Kanegon Casino\"!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.48",
+   "en": "A casino...!?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.49",
+   "en": "I wanted to be useful to everyone, so I thought really hard about it, y'know?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.50",
+   "en": "Fighting all the time wears you out, right? When it does, you unwind at the casino!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.51",
+   "en": "Anyway, come check it out!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0917.mbb#0.1",
+   "en": "...We've confirmed the Ultra Sign here as well."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0917.mbb#0.2",
+   "en": "There are Ultra Warriors in the fourth Cube too?"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0917.mbb#0.3",
+   "en": "Yes... It's the \"Ultra Cube.\" Our homeland, the Land of Light, was absorbed into it."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0917.mbb#0.4",
+   "en": "However, the shapes and layout of its facilities differ from the real Land of Light."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0917.mbb#0.5",
+   "en": "It doesn't seem to have been faithfully reconstructed."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0917.mbb#0.6",
+   "en": "...You seem to know a lot about it."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0917.mbb#0.7",
+   "en": "The truth is, the \"Ultra Cube\" is where I awoke."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0917.mbb#0.8",
+   "en": "What? Then how did you end up..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0917.mbb#0.9",
+   "en": "Having lost my power, I was defeated by the enemy and taken to the \"Hideout Cube\"..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0917.mbb#0.10",
+   "en": "So that's how it was. Then if there are other Ultra Warriors there too, that's..."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0917.mbb#0.11",
+   "en": "Yes... not surprising at all."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0917.mbb#0.12",
+   "en": "We've gotta go help them!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0917.mbb#0.13",
+   "en": "But wait. Unless we can break through that wall..."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Event/Base/MainEventMess0914.mbb#0.23",
+   "note": "Ankh (0914.bla +22) answering OOO's 'don't tell me you're scared?' (story_183 0914 #0.22)."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0914.mbb#0.24",
+   "note": "Not played by 0914.bla (script ends at +22). Unlabelled; Ankh's closing line from the 0314 original. Reused story_048 English."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.1",
+   "note": "0915 is a copy of the 0331 base scene (story_055); speakers per 0915.bla (all extracted labels correct). Identical/near-identical lines reuse story_055 English. #0.2 is Rider 1 per script (story_055 had guessed Rider 2)."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.5",
+   "note": "Changed from the 0331 original: Methuss now runs the Item Lab (UI glossary)."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.9",
+   "note": "Source now says Ultra Warriors, not Ultra Brothers as in 0331."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.19",
+   "note": "Source drops the 'dai-senpai' of the 0331 version, so plain 'Rider 1' (Momotaros, per script)."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0915.mbb#0.21",
+   "note": "Rider 1 joining the investigation; 'with you' added for the direction."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.1",
+   "note": "0916 = copy of the 0339 bomb scene plus a new Kanegon scene. Speakers per 0916.bla; all labels correct."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.5",
+   "note": "Not played by 0916.bla (+4 skipped); narration reaction kept."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.8",
+   "note": "Unlike 0339, no Terrestrial Defense Force mention here; 'iwayuru' = 'what you'd call'."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.10",
+   "note": "Mebius; 'yatte mimasu' rendered 'We'll' as the team will use the bomb. Could be 'I'll'."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.20",
+   "note": "Methuss; subject of 'oikakete kita' = the kaiju (Kanegon, g=n) -> 'it'; object 'me' restored (she fled from it)."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.21",
+   "note": "??? = Kanegon (script id 30). Reused the 0337 Kanegon wording (story_059 #0.126)."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.24",
+   "note": "'Koin kaijuu' = Kanegon's Ultra Q title, 'Coin Monster' (not in glossary)."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.28",
+   "note": "Not played by 0916.bla (+27 skipped), unlabelled. Polite; read as Mebius (the heroes also woke up in the Cubes)."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.30",
+   "note": "Mebius; 'ii desu yo ne?' addressed to Methuss/Hikari, who answer in #0.31-0.32."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.35",
+   "note": "Source has a trailing line break; dropped."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0916.mbb#0.37",
+   "note": "Kanegon g=n; no pronoun used. Briefing Room per UI glossary."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0917.mbb#0.1",
+   "note": "0917.bla uses TextIdOffset+153.. (entry = n-152). Speakers: #0.1/3/4/5/7/9/11 Zoffy, #0.2/#0.12 W (Shotaro), #0.6/8/10 W (Philip), #0.13 Nu Gundam. Copy of 0359 #0.154+ (story_066); identical lines reused."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0917.mbb#0.3",
+   "note": "'Ultra Cube' / 'Hideout Cube' in quotes as in source (glossary terms); 0359 used 'Cube 4'/'Cube 3' instead."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0917.mbb#0.10",
+   "note": "Philip; sentence runs into Zoffy's reply #0.11, cut at the matching point."
+  }
+ ],
+ "report": "80/80 rows. Speakers verified against 0914-0917.bla: all extracted labels correct; 0917 rows unlabelled, script gives Zoffy / W (Shotaro) / W (Philip) / Nu Gundam (TextIdOffset+153 -> entry n-152). 0915/0916/0917 copy 0331/0339/0359; identical lines reuse story_048/055/059/060/066 English. Unplayed rows voiced from content: 0914 #0.24 (Ankh), 0916 #0.5, #0.28 (Mebius). Not in glossary: 'Coin Monster' (Kanegon title); Spiner established in story_059."
+}

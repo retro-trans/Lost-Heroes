@@ -1,0 +1,346 @@
+{
+ "slice": "system_061",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.1",
+   "en": "Remove"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.2",
+   "en": "Denden Memory"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.3",
+   "en": "Denden Sensor"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.4",
+   "en": "Blue Stone of Baraj"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.5",
+   "en": "Gaia Cannon"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.6",
+   "en": "Gundanium Alloy"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.7",
+   "en": "Emerium Ore"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.8",
+   "en": "Solar Zircon"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.9",
+   "en": "Den-Metal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.10",
+   "en": "Mebius Prison Key"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.11",
+   "en": "Polymer Plaster Bomb"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.12",
+   "en": "Cell Medal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.13",
+   "en": "Spiner"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.14",
+   "en": "Key Ring"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.15",
+   "en": "Magnerium Medicalizer"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.16",
+   "en": "Storage Key"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.17",
+   "en": "Rusty Sword"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.18",
+   "en": "Execution Ground Key (R)"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.19",
+   "en": "Execution Ground Key (L)"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.31",
+   "en": "Main Cannon Upgrade Material"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.32",
+   "en": "Gun Turret Upgrade Material"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.33",
+   "en": "Drill Upgrade Material"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.34",
+   "en": "Shield Upgrade Material"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.35",
+   "en": "Recovery Upgrade Material"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.36",
+   "en": "HP Upgrade Material"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.37",
+   "en": "EN Upgrade Material"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.38",
+   "en": "Birdlime"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.39",
+   "en": "Weapon-Dulling Round"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.40",
+   "en": "Armor-Melting Round"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.41",
+   "en": "Missile Pod"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.42",
+   "en": "Berserk Round"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.43",
+   "en": "Strong Acid Round"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.44",
+   "en": "High-Precision Gun Camera"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.45",
+   "en": "GN Shield Bit"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.46",
+   "en": "Reinforced Bulkhead"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.47",
+   "en": "GN Condenser"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.48",
+   "en": "Apogee Motor"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.49",
+   "en": "Trans-Am System"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.50",
+   "en": "Reactive Armor"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.51",
+   "en": "Permidar Drill"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.52",
+   "en": "Magma Riser Drill"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.53",
+   "en": "Regis Breaker"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.1",
+   "en": "Dummy description"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.2",
+   "en": "A special round that reveals your position.\nMakes enemy encounters likelier for 75 steps."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.3",
+   "en": "Hides you for 75 steps,\nmaking you harder for enemies to spot."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.4",
+   "en": "Completely hides you for 75 steps,\nso enemies cannot find you."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.5",
+   "en": "Halves trap damage on the map\nfor 20 steps."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.6",
+   "en": "Nullifies trap damage on the map\nfor 20 steps."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.7",
+   "en": "Restores 200 HP to one ally.\nTuned for Heroes."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.8",
+   "en": "Restores 750 HP to one ally.\nTuned for Heroes."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.9",
+   "en": "Restores 1500 HP to one ally.\nTuned for Heroes."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.10",
+   "en": "Restores 1500 HP to all allies.\nTuned for Heroes."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.11",
+   "en": "Revives one KO'd ally\nand restores 100 HP."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.12",
+   "en": "Revives one KO'd ally\nand fully restores HP."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.13",
+   "en": "Cures one ally of Infected."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.14",
+   "en": "Cures one ally of Stunned."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.15",
+   "en": "Cures one ally of Panic."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.16",
+   "en": "Cures one ally of Blind."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.17",
+   "en": "Cures one ally of Blind."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.18",
+   "en": "Cures one ally of Pressure."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.19",
+   "en": "Cures one ally of Negative."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.20",
+   "en": "Cures one ally of Shutdown."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.21",
+   "en": "Cures one ally of all status ailments."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.22",
+   "en": "A crystal that slightly increases max HP."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.23",
+   "en": "A crystal that slightly increases max SP."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.24",
+   "en": "A crystal that slightly increases Physical ATK."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.25",
+   "en": "A crystal that slightly increases Ranged ATK."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.26",
+   "en": "A crystal that slightly increases Physical DEF."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.27",
+   "en": "A crystal that slightly increases Ranged DEF."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.28",
+   "en": "A crystal that slightly increases Speed."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.29",
+   "en": "A crystal that slightly increases Technique."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.30",
+   "en": "A crystal that slightly increases Luck."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.31",
+   "en": "A crystal that slightly increases Strength."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.32",
+   "en": "A crystal that slightly increases Spirit."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.33",
+   "en": "A crystal that slightly increases Mind."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.34",
+   "en": "A crystal that slightly increases Focus."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.35",
+   "en": "A book that slightly increases AP."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.36",
+   "en": "A book that increases AP."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.37",
+   "en": "A smoke-screen round.\nLets you always escape from battles\nwhere fleeing is allowed."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.38",
+   "en": "Restores 50 SP to one ally.\nTuned for Heroes."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.1",
+   "note": "Unequip menu command; rendered as Remove."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#4.15",
+   "note": "Franchise item name romanized as Magnelium Medicalizer; unverified."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.16",
+   "note": "The status meaning darkness is rendered Blind; not in glossary. Rows 5.16 and 5.17 are identical apart from politeness."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#5.20",
+   "note": "The status meaning activity-halt is rendered Shutdown; not in glossary."
+  }
+ ],
+ "report": "80/80. Item names reuse slice 057/058 renderings (Permidar Drill, Magma Riser Drill, Weapon-Dulling Round, etc.). New terms: Blind, Shutdown (statuses), Magnelium Medicalizer, KO'd, Execution Ground Key, Key Ring."
+}

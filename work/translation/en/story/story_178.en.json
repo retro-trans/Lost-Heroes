@@ -1,0 +1,394 @@
+{
+ "slice": "story_178",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0891.mbb#0.2",
+   "en": "Proceed?"
+  },
+  {
+   "key": "MainEventMess0891.mbb#0.3",
+   "en": "You defeated a powerful enemy!"
+  },
+  {
+   "key": "MainEventMess0891.mbb#0.4",
+   "en": "But you still sense the presence of a powerful enemy..."
+  },
+  {
+   "key": "MainEventMess0892.mbb#0.1",
+   "en": "You sense intense killing intent! Go any further and you'll likely have to fight a powerful enemy!"
+  },
+  {
+   "key": "MainEventMess0892.mbb#0.2",
+   "en": "Proceed?"
+  },
+  {
+   "key": "MainEventMess0892.mbb#0.3",
+   "en": "You defeated a powerful enemy!"
+  },
+  {
+   "key": "MainEventMess0892.mbb#0.4",
+   "en": "But you still sense the presence of a powerful enemy..."
+  },
+  {
+   "key": "MainEventMess0905.mbb#0.1",
+   "en": "What is it? You've got something you want to show me?"
+  },
+  {
+   "key": "MainEventMess0905.mbb#0.2",
+   "en": "{8074} and the team handed over the \"Broken Zeroliner Drill.\""
+  },
+  {
+   "key": "MainEventMess0905.mbb#0.3",
+   "en": "A drill..."
+  },
+  {
+   "key": "MainEventMess0905.mbb#0.4",
+   "en": "Oh... It's the Zeroliner's drill. Which means it's made of Den-Metal, right?"
+  },
+  {
+   "key": "MainEventMess0906.mbb#0.1",
+   "en": "What!? ...Granzairas is the opponent!?"
+  },
+  {
+   "key": "MainEventMess0909.mbb#0.1",
+   "en": "What!? The next opponent is Shiomaneking? Let me take this one!!"
+  },
+  {
+   "key": "MainEventMess0909.mbb#0.2",
+   "en": "Wait, Rider 1. Please refrain from acting on your own."
+  },
+  {
+   "key": "MainEventMess0909.mbb#0.3",
+   "en": "...Right. I'm sorry."
+  },
+  {
+   "key": "MainEventMess0986.mbb#0.1",
+   "en": "(But what is this...? Just walking around, I can feel my strength draining away...)"
+  },
+  {
+   "key": "MainEventMess0987.mbb#0.1",
+   "en": "Uwah!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.1",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.2",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.3",
+   "en": "What...!? Who are you guys..."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.4",
+   "en": "The two mysterious beings gave no answer and suddenly attacked!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.5",
+   "en": "Kikikikiki!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.6",
+   "en": "Gwah...!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.7",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.8",
+   "en": "Wah!! What the hell... do you think you're doing!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.9",
+   "en": "Kikiiiiih!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.10",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.11",
+   "en": "It dodged...!? Damn it!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.12",
+   "en": "Kikikikiki!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.13",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.14",
+   "en": "Uwaaaaah...!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.15",
+   "en": "...What's with these guys? My attacks are..."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.16",
+   "en": "Just then!! A single flash of light shot out from out of nowhere!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.17",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.18",
+   "en": "A mobile suit...!! So it's a Hi-Zack...!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.19",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.20",
+   "en": "Tch...!! It's strong... But why...!?"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.21",
+   "en": "Kikikikiki!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.22",
+   "en": "There's another one...!! OOO!! Handle this one for me!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.23",
+   "en": "...Understood!! Leave it to me, Nu Gundam!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.24",
+   "en": "Kikikikiki!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.25",
+   "en": "This is... a kaijin!?"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.26",
+   "en": "Kikikikikiiiiih!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.27",
+   "en": "Whoa-whoa-whoa...!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.28",
+   "en": "But why would a kaijin be here...?"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.29",
+   "en": "Haaaaaaah..."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.30",
+   "en": "Seiyaaaaaah!!!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.31",
+   "en": "There!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.32",
+   "en": "I won't let you!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.33",
+   "en": "Go down!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.34",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.35",
+   "en": "That was a close call, huh?"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.36",
+   "en": "Sorry 'bout that. You saved my skin..."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.37",
+   "en": "But you two... who are you?"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.38",
+   "en": "I'm Nu Gundam. And he is..."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.39",
+   "en": "I'm Kamen Rider OOO."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.40",
+   "en": "Gundam? Kamen Rider? Never heard those names before..."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.41",
+   "en": "Can't blame you. We only just met a little while ago ourselves."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.42",
+   "en": "We have no idea where this place is... or even why we're here."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.43",
+   "en": "I see... So we're in the same boat. I just came to and found myself here, too."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.44",
+   "en": "I'm Zero. Ultraman Zero. Good to meet ya."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.45",
+   "en": "Good to meet you."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.46",
+   "en": "It's a pleasure to meet you!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.48",
+   "en": "Whoa!!"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.49",
+   "en": "...These tremors have been going on for a while now."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.50",
+   "en": "What could be happening...?"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.51",
+   "en": "Either way, it's dangerous here. Let's search the area as we move."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.52",
+   "en": "Zero, would you come with us?"
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.53",
+   "en": "Yeah, of course."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.54",
+   "en": "Ultraman Zero, Nu Gundam and Kamen Rider OOO set out together."
+  },
+  {
+   "key": "MainEventMess0990.mbb#0.1",
+   "en": "Kiiiiiiiiiiih!!"
+  },
+  {
+   "key": "MainEventMess0990.mbb#0.2",
+   "en": "...!! Behind us...!!"
+  },
+  {
+   "key": "MainEventMess0990.mbb#0.4",
+   "en": "Kiiiiiiiiiiih!!"
+  },
+  {
+   "key": "MainEventMess0990.mbb#0.5",
+   "en": "What is this thing!? I've never seen one before!!"
+  },
+  {
+   "key": "MainEventMess0990.mbb#0.6",
+   "en": "I-it's huge...!!"
+  },
+  {
+   "key": "MainEventMess0990.mbb#0.7",
+   "en": "This thing...!! I know it..."
+  },
+  {
+   "key": "MainEventMess0990.mbb#0.8",
+   "en": "It's the Space Monster Eleking!!"
+  },
+  {
+   "key": "MainEventMess0990.mbb#0.9",
+   "en": "Kiiiiiiiiiiih!!"
+  },
+  {
+   "key": "MainEventMess0990.mbb#0.10",
+   "en": "Eleking swung its mighty tail around with brute force!!"
+  },
+  {
+   "key": "MainEventMess0990.mbb#0.11",
+   "en": "Gwaaaaaaaargh!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0891.mbb#0.2",
+   "note": "0891/0892 are the generic strong-enemy gate prompts (scripts in Dg/N/C08); narration addresses the player as 'you'."
+  },
+  {
+   "key": "MainEventMess0905.mbb#0.1",
+   "note": "0905/0906/0909 here are the Dungeon/NC03 copies of the tables, in the older font encoding (not flagged legacy) and with no event script of their own. Meaning restored from the Base copies (story_181) and story_060 0343 (same text): garbled kanji read as 'me' (0905 #0.1, 0909 #0.1), 'broken'/'handed over' (#0.2), ellipses (#0.3/#0.4), 'opponent' (0906, 0909 #0.1), 'next' (0909 #0.1), 'acting alone'/'refrain' (0909 #0.2). 0905 English matches story_060."
+  },
+  {
+   "key": "MainEventMess0905.mbb#0.3",
+   "note": "Unlabelled; Hikari per story_060 precedent (Base 0905.bla never plays this entry)."
+  },
+  {
+   "key": "MainEventMess0905.mbb#0.4",
+   "note": "'made of Den-Metal' is a guess from a garbled kanji, as in story_060."
+  },
+  {
+   "key": "MainEventMess0906.mbb#0.1",
+   "note": "Garbled 4-kanji word read as 'opponent' (Base copy has 'match opponent'). Kept 'the opponent' rather than assuming 'my'."
+  },
+  {
+   "key": "MainEventMess0909.mbb#0.1",
+   "note": "Content differs from the Base 0909 copy. 'Let me take this one' = Rider 1 asks to fight Shiomaneking himself; Zoffy's reply (no acting alone) confirms."
+  },
+  {
+   "key": "MainEventMess0986.mbb#0.1",
+   "note": "Zero's inner monologue; parentheses kept as in source."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.1",
+   "note": "Speakers verified in 0989.bla (TextIdOffset+N = #0.(N+1)); all labels match. The silent ??? rows are the Hi-Zack; the 'Kikiki' rows are the second attacker (a kaijin, per OOO in #0.25)."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.18",
+   "note": "Labelled ??? but it is Nu Gundam before his name is revealed (he fires the flash, recognises a mobile suit, and OOO answers him by name in #0.23). Same for #0.20 and #0.22."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.22",
+   "note": "Direction: Nu Gundam asks OOO to deal with the kaijin, so 'Handle this one for me', not an offer."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.23",
+   "note": "Source glosses the reading of 'Nu' after the name; English just uses 'Nu Gundam'. 'Leave it to me' added to carry the acknowledgment; meaning unchanged."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.30",
+   "note": "OOO's signature shout, 'Seiyaaah' as established in story_002/047."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.31",
+   "note": "#0.31 and #0.32 are never played (0989.bla skips TextIdOffset+30/+31) and are unlabelled; translated anyway."
+  },
+  {
+   "key": "MainEventMess0989.mbb#0.33",
+   "note": "'Go down!!' matches the established rendering (0325)."
+  },
+  {
+   "key": "MainEventMess0990.mbb#0.1",
+   "note": "Speakers verified in 0990.bla; ??? roars are Eleking before it is named. Eleking roar not in the style list; set as 'Kiiiiiiiiiiih!!' and used identically for #0.4/#0.9. #0.3 is not in the table."
+  },
+  {
+   "key": "MainEventMess0990.mbb#0.8",
+   "note": "'Space Monster Eleking' matches the encyclopedia title used in 0507."
+  }
+ ],
+ "report": "All rows examined. 0905/0906/0909 are garbled older-encoding NC03 copies with no script; meaning restored from the Base copies and story_060. 0989/0990 speakers verified against the event scripts; ??? rows #0.18/#0.20/#0.22 are Nu Gundam. 0989 #0.31/#0.32 are never played. Eleking roar newly set. 'Den-Metal' and 'Zeroliner' follow story_060."
+}

@@ -1,0 +1,398 @@
+{
+ "slice": "story_119",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0629.mbb#0.203",
+   "en": "Hold on! Seravee's still inside the Terminal Unit!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.204",
+   "en": "Wait! Seravee isn't back yet."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.205",
+   "en": "Hey, Seravee's still holed up in that Terminal-whatsit. Let's wait up for him, yeah?"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.206",
+   "en": "Wait! Seravee isn't back yet, y'know!?"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.207",
+   "en": "Please wait! Seravee isn't back yet."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.208",
+   "en": "Wait! Seravee isn't back yet."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.209",
+   "en": "Wait! Seravee isn't back yet."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.210",
+   "en": "Wait! Seravee isn't back yet."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.211",
+   "en": "Wait! Seravee isn't back yet."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.212",
+   "en": "Wait! Seravee isn't back yet."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.213",
+   "en": "Wait! Seravee isn't back yet."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.214",
+   "en": "...Whoops, that's right."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.215",
+   "en": "But we're out of time."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.1",
+   "en": "So this is the Terminal Unit."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.2",
+   "en": "......"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.3",
+   "en": "...Sorry to keep you waiting."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.4",
+   "en": "Hey, Seravee! So how'd it go with Veda?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.5",
+   "en": "Cherudim. So you'd already regrouped with the others."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.6",
+   "en": "I've pinpointed Veda's location."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.7",
+   "en": "Oh! Nice work!!"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.8",
+   "en": "But... we've got some bad news for you."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.9",
+   "en": "...Would that happen to be about the giant weapons?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.10",
+   "en": "...What, you already knew...?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.11",
+   "en": "Yes. It was in Veda's data."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.12",
+   "en": "What's more, the latest data says the energy charge on each giant weapon is building up."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.13",
+   "en": "Figured as much... Guess we've got no choice but to hunt them down one by one..."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.14",
+   "en": "No... Splitting into squads would be more efficient. Let's work out a tactical plan right away."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.16",
+   "en": "The heroes moved to the control room."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.17",
+   "en": "With Seravee at the center, they quickly hammered out squad assignments and a battle plan."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.19",
+   "en": "I've confirmed three giant weapons: Memento Mori, the Barge Cannon and the Libra Cannon."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.20",
+   "en": "Each has its own separate control room, but all of them are located on the middle levels."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.21",
+   "en": "We'll seize those control rooms and shut the weapons down."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.22",
+   "en": "Hold on, Seravee. What about the Colony Laser? Any information?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.23",
+   "en": "Seravee, isn't there any information on the Colony Laser?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.24",
+   "en": "Seravee, isn't there any information on the Colony Laser?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.25",
+   "en": "It definitely exists, but unfortunately, I couldn't pinpoint its location."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.26",
+   "en": "I see... Let's just be glad we could at least locate the other giant weapons."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.27",
+   "en": "Is that so... Well, let's be glad we could at least locate the other giant weapons."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.28",
+   "en": "Can't be helped... Let's be glad we could at least locate the other giant weapons."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.29",
+   "en": "But seizing the control rooms alone worries me, so we'll also cut their power at the source."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.30",
+   "en": "We're going after the power source?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.31",
+   "en": "Yes. In fact, I detected a spot on the lower levels giving off an extremely high energy reading."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.32",
+   "en": "My guess is that's where the power source feeding energy to the giant weapons is."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.33",
+   "en": "So if we destroy that, none of them will be able to fire, right?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.34",
+   "en": "Exactly."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.35",
+   "en": "And lastly, Veda's main body. I've traced it to the deepest part of this Cube."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.36",
+   "en": "The deepest part, huh... Sounds like a long way."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.37",
+   "en": "So I plan to split us into three squads and launch a simultaneous assault."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.38",
+   "en": "First, Sandrock, Deathscythe, Heavyarms and Birth. You four will"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.39",
+   "en": "seize the control room of each giant weapon and stop it from firing, or else destroy the cannon itself."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.40",
+   "en": "For convenience, we'll call these four the \"Gundam Team.\""
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.41",
+   "en": "Understood."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.42",
+   "en": "Next, {8074} and the rest of the Hero Team. I need you to destroy the power source."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.43",
+   "en": "The spot with the high energy reading, right?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.44",
+   "en": "The spot with the high energy reading, right?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.45",
+   "en": "The spot with the high energy reading, right?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.46",
+   "en": "The spot with the high energy reading, right?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.47",
+   "en": "The spot with the high energy reading, right?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.48",
+   "en": "The spot with the high energy reading, right?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.49",
+   "en": "You mean the spot with the high energy reading?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.50",
+   "en": "You mean the spot with the high energy reading?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.51",
+   "en": "The spot with the high energy reading, yes?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.52",
+   "en": "The spot with the high energy reading, right?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.53",
+   "en": "The spot with the high energy reading, right?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.54",
+   "en": "The spot with the high energy reading, right?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.55",
+   "en": "The spot with the high energy reading, right?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.56",
+   "en": "The spot with the high energy reading, right?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.57",
+   "en": "The spot with the high energy reading, right?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.58",
+   "en": "Yes. First, head down to the lower levels. I've marked the stairs on your MAP."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.59",
+   "en": "Once you're on the lower levels, the high-energy spot should show up on your MAP automatically."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.60",
+   "en": "Mission accepted."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.61",
+   "en": "All right, got it!"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.62",
+   "en": "Understood."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.63",
+   "en": "Roger!"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.64",
+   "en": "Understood."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.65",
+   "en": "Yeah! You got it!"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.66",
+   "en": "Understood!"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.67",
+   "en": "Understood!"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.68",
+   "en": "You can leave it to us."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.69",
+   "en": "Understood."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0629.mbb#0.203",
+   "note": "Leader-variant block 0.199-0.213 (begins in story_118) follows the Pt_Chara_Check chain right before it: 10,9,6,7,4,5,3,15,14,8,13,12,11,2,1 = 00, Wing Zero, Nu, Zeta, W, OOO, Den-O, Zero, Mebius, God, Taro, Seven, Ultraman, RX, Rider 1. This row = W; 0.204 = OOO (its Japanese is the same blunt line as most rows, so same English)."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.205",
+   "note": "Den-O (Momotaros): he can't remember the name ('Terminal nantoka') -> 'Terminal-whatsit'. 'matte yarou ze' = let's wait for him (Seravee, g=m)."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.207",
+   "note": "Mebius (polite, '-san' on Seravee); honorific dropped, politeness via 'Please'."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.214",
+   "note": "Uncertain speaker. The script names Deathscythe for n=214 and Ankh for n=215; with the usual id = n+1 mapping this row is never shown and Deathscythe says 0.215 (n=215 would point past the table). If the mapping is off by one here, 0.214 = Deathscythe and 0.215 = Ankh. Wording kept neutral so either reading works."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.215",
+   "note": "Labelled Deathscythe Hell; could be Ankh (see 0.214). 'jikan ga nee' = there's no time; subject 'we' restored."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.1",
+   "note": "Speakers for 0631 recovered from the event script (unlabelled in the slice): 0.1/4/7/8/10/13/36 Cherudim; 0.3/5/6/9/11/12/14/19-21/25/29/31/32/34/35/37-40/42/58/59 Seravee; 0.30/33 Arios; 0.41 Sandrock; 0.2 no name tag (silence, likely Seravee emerging); 0.16/17 narration."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.5",
+   "note": "'gouryuu shite ita no ka' = so you had joined up (with the heroes) -> 'regrouped with the others'."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.12",
+   "note": "'enerugii chaaji ga susunde iru' = the charging is progressing -> 'building up'. 'kyodai heiki' = 'giant weapons' throughout (not in glossary)."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.13",
+   "note": "'shiramitsubushi' = exhaustively, one at a time -> 'hunt them down one by one'."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.19",
+   "note": "Memento Mori (00), Barge Cannon (Wing, OZ's Barge), Libra Cannon (Wing, Libra's main cannon): standard English names, not in glossary. 'three' added to introduce the list; the Japanese lists exactly three."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.22",
+   "note": "Variants 0.22-0.24 are guarded by Pt_Chara_Check(6)/(7): 0.22 = Nu Gundam, 0.23 = Zeta Gundam, 0.24 = any other leader. Same for 0.26-0.28 (wakatta / sou ka / shikata ga nai)."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.29",
+   "note": "'fuan da' = it's not reassuring -> 'worries me'; 'doujini' (simultaneously) folded into 'also' to fit the box."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.38",
+   "note": "Sentence split across 0.38/0.39 at the same point as the Japanese. The source itself shortens Deathscythe Hell to 'Deathscythe' here; kept."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.40",
+   "note": "Japanese corner brackets -> double quotes. Birth is counted in the 'Gundam Team' as in the source."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.42",
+   "note": "{8074} = party leader name variable. 'tanomu' = Seravee asking the Hero Team -> 'I need you to destroy...'."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.43",
+   "note": "Variant blocks 0.43-0.57 and 0.60-0.74 follow the chain at the top of the script: 9,8,10,7,6,15,14,5,4,13,3,12,11,1,2 = Wing Zero, God, 00, Zeta, Nu, Zero, Mebius, OOO, W, Taro, Den-O, Seven, Ultraman, Rider 1, RX. Wording matches (0.49/0.50 polite = Mebius/OOO, 0.51 'da ne' = W, 0.60 'Mission accepted' = Wing Zero, 0.65 Zero, 0.68 Philip's 'boku-tachi', 0.70 Momotaros)."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.58",
+   "note": "MAP kept in caps as in earlier slices; 'kaidan no ichi' = the stairs' location -> 'marked the stairs'."
+  }
+ ],
+ "report": "80/80 rows. Leader-variant blocks mapped from the Pt_Chara_Check chains in 0629/0631; 0631 speakers recovered from the event script. Uncertain: 0629#0.214/0.215 speaker (Deathscythe vs Ankh; script indices run one past the table). Not in glossary: Memento Mori, Barge Cannon, Libra Cannon, Terminal Unit, Veda, Gundam Team, 'giant weapons'."
+}

@@ -1,0 +1,410 @@
+{
+ "slice": "story_013",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0136.mbb#0.72",
+   "en": "Hey, Mebius... We need all the strength we can get right now. Will you fight with us?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.73",
+   "en": "Right now, he's maintaining our base for us."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.74",
+   "en": "Mebius, will you lend us your strength too?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.75",
+   "en": "Right now, he's kindly fixing up our base for us."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.76",
+   "en": "Mebius... Would you fight alongside us too?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.78",
+   "en": "Of course! The enemy has gathered from all sorts of different worlds."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.79",
+   "en": "We have to pool our own knowledge and strength to take them on, too...!!"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.80",
+   "en": "Everyone! I'm counting on you all!!"
+  },
+  {
+   "key": "MainEventMess0137.mbb#0.1",
+   "en": "There's a key lying here."
+  },
+  {
+   "key": "MainEventMess0138.mbb#0.1",
+   "en": "Hm? There's something lying here."
+  },
+  {
+   "key": "MainEventMess0138.mbb#0.2",
+   "en": "This is... from the Siamese Cat Yummy that got away..."
+  },
+  {
+   "key": "MainEventMess0138.mbb#0.3",
+   "en": "Hm? There's something lying here."
+  },
+  {
+   "key": "MainEventMess0138.mbb#0.4",
+   "en": "Is this... a medal from the Siamese Cat Yummy that got away?"
+  },
+  {
+   "key": "MainEventMess0138.mbb#0.5",
+   "en": "Hm? There's something lying here."
+  },
+  {
+   "key": "MainEventMess0138.mbb#0.6",
+   "en": "Is this... a medal from the Siamese Cat Yummy that got away?"
+  },
+  {
+   "key": "MainEventMess0138.mbb#0.7",
+   "en": "Hm? Is something lying there...?"
+  },
+  {
+   "key": "MainEventMess0138.mbb#0.8",
+   "en": "Is this... a medal from the Siamese Cat Yummy that got away?"
+  },
+  {
+   "key": "MainEventMess0138.mbb#0.9",
+   "en": "Hm? There's something lying here."
+  },
+  {
+   "key": "MainEventMess0138.mbb#0.10",
+   "en": "Is this... a medal from the Siamese Cat Yummy that got away?"
+  },
+  {
+   "key": "MainEventMess0138.mbb#0.11",
+   "en": "What was lying there was a Cell Medal."
+  },
+  {
+   "key": "MainEventMess0139.mbb#0.1",
+   "en": "Gyaaaaaaaaaaah!!!"
+  },
+  {
+   "key": "MainEventMess0140.mbb#0.1",
+   "en": "There are Cell Medals lying here."
+  },
+  {
+   "key": "MainEventMess0140.mbb#0.2",
+   "en": "...Cell Medals."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.1",
+   "en": "...What the hell is this!?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.2",
+   "en": "A huge number of Cell Medals are scattered across the floor."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.3",
+   "en": "This many Cell Medals... That Yummy probably got destroyed right here."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.4",
+   "en": "Fufufufu... What brilliant deduction."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.5",
+   "en": "Bogal!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.6",
+   "en": "Bogal!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.7",
+   "en": "Bogal!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.8",
+   "en": "Bogal!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.9",
+   "en": "Bogal!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.10",
+   "en": "Bogal!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.11",
+   "en": "It breathed its last right here. Who knew it was just a lump of medals? Good thing I didn't eat it."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.12",
+   "en": "What did you say!?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.13",
+   "en": "You lot, on the other hand, look delicious, don't you?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.14",
+   "en": "Still, Yummies aren't fit to eat. They're nothing but lumps of medals."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.15",
+   "en": "They're hard and as disgusting as it gets!! Ahahahaha!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.16",
+   "en": "What a monster..."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.17",
+   "en": "I'm already starving, you know? I can't hold back any longer!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.18",
+   "en": "Bogal, wait."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.19",
+   "en": "Well, well. The mastermind himself shows up!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.20",
+   "en": "One of our test subjects has been taken from us. Capture them!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.21",
+   "en": "Weather Dopant! Where did you take Methuss!?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.22",
+   "en": "Weather Dopant! Where did you take Methuss!?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.23",
+   "en": "Weather Dopant! Where did you take Methuss!?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.24",
+   "en": "Weather Dopant! Where did you take Methuss!?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.25",
+   "en": "Weather Dopant! Where did you take Methuss!?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.26",
+   "en": "Weather Dopant! Where did you take Methuss!?"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.27",
+   "en": "Why, she's right here."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.28",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.29",
+   "en": "She is in the grip of the \"fear\" that swirls throughout this world."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.30",
+   "en": "Studying the mechanism of the \"fear\" that you all feel..."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.31",
+   "en": "...holds great meaning for us. Especially for that person!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.32",
+   "en": "Watching Bogal devour you all should make Methuss's fear swell even further!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.33",
+   "en": "Are you all right!? Methuss!! Answer me!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.34",
+   "en": "Are you all right!? Methuss!! Answer me!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.35",
+   "en": "Are you all right!? Methuss!! Answer me!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.36",
+   "en": "Are you all right!? Methuss!! Please answer me!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.37",
+   "en": "Are you all right!? Methuss!! Answer me!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.38",
+   "en": "Are you all right!? Methuss!! Please answer me!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.39",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.40",
+   "en": "Trembling with fear, Methuss couldn't even get a single word out."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.41",
+   "en": "Kuhahahaha!! Bogal! Finish them off!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.42",
+   "en": "It's only a matter of time before she can't bear it any longer and loses her life."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.43",
+   "en": "Bogal! Finish them off!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.44",
+   "en": "Fufufu... Ahahaha... Aaaahahahahahahahahaaa!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.47",
+   "en": "I... I... still want to eat more, more, more, moooore...!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.48",
+   "en": "...Ngh. You people..."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.49",
+   "en": "Because of you, Methuss wasn't given nearly enough fear!!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.50",
+   "en": "...Well, no matter. There will be other chances."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.51",
+   "en": "And with that, I'll take my leave...!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.52",
+   "en": "Hold it!!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.53",
+   "en": "Damn it!! I was one step too late again!!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.54",
+   "en": "Accel...!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.55",
+   "en": "No kidding. That bastard's only fast when he's running away..."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.56",
+   "en": "Accel...!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.57",
+   "en": "No kidding. Looks like that guy's only fast when he's running away."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.58",
+   "en": "Accel...!"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.59",
+   "en": "Tell me about it. The only thing that enemy's fast at is running away."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0136.mbb#0.73",
+   "note": "Zeta Gundam's and OOO's (0.75) answer to Mebius asking whether Hikari is safe (story_012); 'he' = Hikari (g=m). OOO's version uses a polite 'doing it for us' form, rendered 'kindly'."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.80",
+   "note": "yoroshiku onegai shimasu: Mebius (newly joining) asking the team for their support, rendered as 'I'm counting on you all' to keep the direction (Mebius asking the others)."
+  },
+  {
+   "key": "MainEventMess0138.mbb#0.2",
+   "note": "OOO's variant deliberately trails off before 'medal'; kept unfinished."
+  },
+  {
+   "key": "MainEventMess0138.mbb#0.11",
+   "note": "Singular 'a Cell Medal' chosen since the heroes ask about 'a medal'; the source does not mark number."
+  },
+  {
+   "key": "MainEventMess0139.mbb#0.1",
+   "note": "No speaker. Off-screen scream, almost certainly the fleeing Siamese Cat Yummy being killed by Bogal (0141.11 confirms Bogal finished it off). Spelling follows the earlier 'Gyaaaaah!!' with the source's longer length."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.11",
+   "note": "Bogal killed the Yummy here but, finding it was only medals, did not eat it. 'It breathed its last' keeps the source's 'ran out of strength'."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.14",
+   "note": "0.14-0.15 have no speaker; Bogal's voice (same mixed speech, same topic), probably an alternate version of 0.11/0.13. 0.16 'What a monster...' is an unidentified hero or Ankh reacting; kept speaker-neutral."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.20",
+   "note": "'One test subject taken' most likely refers to Mebius, freed in story_012. 'Capture them' kept ambiguous: the order could mean recapture the subject or capture the party; the source omits the object."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.31",
+   "note": "'that person' = the honorific 'ano okata', an unnamed superior. Philip quotes it later (story_014, 0141 #0.133); keep the wording consistent there. Gender-neutral on purpose."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.29",
+   "note": "\"fear\" kept in quotation marks as in the source; Weather Dopant speaks with cold formal politeness, as in earlier slices."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.42",
+   "note": "No speaker; Weather Dopant variant line (0.42-0.43 parallel 0.41). 'She' = Methuss, dying from the fear."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.47",
+   "note": "Bogal's dying words after the (unscripted) battle; the source writes 'I/want to eat' in katakana to sound broken, rendered with stammer and stretched vowels."
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.55",
+   "note": "0.55/0.57/0.59 have no speaker. Each follows a party member's 'Accel...!' and matches that member's voice (Shotaro 'ano yarou', OOO 'aitsu', Nu Gundam 'ano teki'), so read as the same party member agreeing with Accel's 'too late again'. Story_014 continues the pattern. 'He' for Weather Dopant (g=m)."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.73",
+   "note": "proofread: identical Japanese to 0136 #0.67/#0.71 (story_012); matched their English"
+  },
+  {
+   "key": "MainEventMess0138.mbb#0.4",
+   "note": "proofread: identical Japanese in leader-variant block (0.6/0.8/0.10); unified English and restored the verb"
+  },
+  {
+   "key": "MainEventMess0138.mbb#0.6",
+   "note": "proofread: identical Japanese in leader-variant block (0.4/0.8/0.10); unified English"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.15",
+   "note": "proofread: restored dropped subject (the Yummies)"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.26",
+   "note": "proofread: identical Japanese to OOO's 0.24; unified English"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.53",
+   "note": "proofread: source is a self-reproaching exclamation, not a question; restored subject and !! punctuation"
+  },
+  {
+   "key": "MainEventMess0141.mbb#0.59",
+   "note": "proofread: identical Japanese to 0141 #0.61 (story_014); matched its English"
+  }
+ ],
+ "report": "80/80 rows examined. Unlabelled rows inferred: 0139.1 scream (Siamese Cat Yummy, off-screen), 0141.14-0.16 (Bogal alternate lines + unknown reaction), 0141.42-0.43 (Weather Dopant variants), 0141.55/0.57/0.59 (party member agreeing with Accel). 'that person' (ano okata, 0141.31) is quoted by Philip in story_014; keep consistent. No names or terms outside the glossary."
+}

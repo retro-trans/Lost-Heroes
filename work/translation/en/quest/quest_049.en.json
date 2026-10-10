@@ -1,0 +1,329 @@
+{
+ "slice": "quest_049",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.194",
+   "en": "Then let's take God Gundam along when we go to the room!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.195",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.196",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.197",
+   "en": "Then let's bring God Gundam along with us when we go to the room."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.198",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.199",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.200",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.201",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.202",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.203",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.204",
+   "en": "Yeah."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.205",
+   "en": "By the way, you'd better have some idea where you dropped the key."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.206",
+   "en": "Yes. We were fighting in an open area at the bottom of a pitfall."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.207",
+   "en": "I remember light leaking through the cracks in a nearby wall."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.208",
+   "en": "With that much to go on, we'll manage. We'll go find it for you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.209",
+   "en": "Sorry for the trouble. We're counting on you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.212",
+   "en": "Hey! Look at this!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.213",
+   "en": "There's a key lying on the ground."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.215",
+   "en": "Obtained \"Exhibit Room Key\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.217",
+   "en": "This must be it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.218",
+   "en": "This must be it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.219",
+   "en": "This must be it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.220",
+   "en": "This must be it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.221",
+   "en": "This must be it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.222",
+   "en": "This has gotta be it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.223",
+   "en": "This must be it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.224",
+   "en": "This must be it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.225",
+   "en": "I'm sure this must be it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.226",
+   "en": "This must be it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.227",
+   "en": "This must be it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.228",
+   "en": "This must be it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.229",
+   "en": "This must be it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.230",
+   "en": "This must be it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.231",
+   "en": "This must be it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.232",
+   "en": "All right, we found the key. Come to think of it, we never asked which room it opens..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.233",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.234",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.235",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.236",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.237",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.238",
+   "en": "I'm pretty sure it was somewhere around the Gaia Memory exhibit room!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.239",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.240",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.241",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room does seem suspicious."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.242",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.243",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.244",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.245",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.246",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.247",
+   "en": "A locked exhibit room, huh... The area near the Gaia Memory exhibit room looks suspicious."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.248",
+   "en": "Right, let's search that area for a locked room."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.252",
+   "en": "\"Ba-dump... ba-dump...\""
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.253",
+   "en": "What is this thing!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.254",
+   "en": "This is...! Bullton, the Fourth-Dimension Kaiju!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.255",
+   "en": "This is...! Bullton, the Fourth-Dimension Kaiju!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.256",
+   "en": "This is...! Bullton, the Fourth-Dimension Kaiju!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.257",
+   "en": "This is...! Bullton, the Fourth-Dimension Kaiju!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.258",
+   "en": "This is...! Bullton, the Fourth-Dimension Kaiju!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.259",
+   "en": "Be careful!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.260",
+   "en": "Be careful!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.261",
+   "en": "This thing is freakin' creepy!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.262",
+   "en": "Be careful!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.263",
+   "en": "Be careful!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.264",
+   "en": "Be careful!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.265",
+   "en": "Be careful!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.266",
+   "en": "Be careful!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.267",
+   "en": "Be careful!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.268",
+   "en": "Be careful!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.269",
+   "en": "\"Ba-dump... ba-dump...\""
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.270",
+   "en": "Here it comes!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.273",
+   "en": "Okay, let's examine the display case."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.275",
+   "en": "Obtained \"Rusty Sword\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.276",
+   "en": "This is..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.277",
+   "en": "Ask this sword just how great your own skill truly is."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.278",
+   "en": "This sword's all rusted! How the hell are you supposed to use it?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.279",
+   "en": "No. It's good precisely because it's rusted."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.280",
+   "en": "Huh? What kind of idiotic crap are you spouting?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.281",
+   "en": "A dull blade like that couldn't even cut through a tree!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.282",
+   "en": "What I cut isn't objects. It's evil thoughts."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.284",
+   "en": "Obtained \"Rusty Sword\"."
+  }
+ ],
+ "notes": [],
+ "report": "filled from the DG_QUEST twin rows / translation memory"
+}

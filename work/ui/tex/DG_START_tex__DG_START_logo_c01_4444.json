@@ -1,0 +1,38 @@
+{
+ "tpc": "Graph/Dg/Start/DG_START_tex.tpc",
+ "page": "DG_START_logo_c01_4444.tga",
+ "note": "Dungeon start card Cube logo (Begins Cube). Original: black glyphs with a coloured outline and translucent glow; drawn here as bold text in the outline colour (the tool draws opaque single-colour text, so the glow is not reproduced).",
+ "defaults": {
+  "size": 25,
+  "bold": false,
+  "align": "center",
+  "color": [
+   10,
+   10,
+   10
+  ],
+  "stroke": [
+   34,
+   221,
+   255
+  ],
+  "stroke_width": 2
+ },
+ "clear": [
+  [
+   0,
+   0,
+   256,
+   32
+  ]
+ ],
+ "boxes": [
+  {
+   "x": 33,
+   "y": 3,
+   "w": 192,
+   "h": 26,
+   "text": "Begins Cube"
+  }
+ ]
+}

@@ -1,0 +1,329 @@
+{
+ "slice": "quest_056",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.94",
+   "en": "Damn! I can't move like this!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.95",
+   "en": "Damn! I can't move like this!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.96",
+   "en": "Damn! I can't move like this!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.97",
+   "en": "Ugh! I can't move like this!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.98",
+   "en": "Blast! I cannot move like this!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.99",
+   "en": "Blast! I cannot move like this!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.100",
+   "en": "Blast! I cannot move like this!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.101",
+   "en": "Damn! I can't move like this!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.102",
+   "en": "Damn! I can't move like this!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.103",
+   "en": "Damn! I can't move like this!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.104",
+   "en": "Damn! I can't move like this!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.105",
+   "en": "Damn! I can't move like this!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.106",
+   "en": "Well, that's funny. What happened to all that bravado from a minute ago?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.107",
+   "en": "Like that, you won't beat anyyybody, y'know? Hahahahaha!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.108",
+   "en": "Hey, that's enough. I'll take it from here."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.110",
+   "en": "Gaoh! So you were here too, you bastard!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.111",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.112",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.113",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.114",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.115",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.116",
+   "en": "Gaoh! So you were here as well!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.117",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.118",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.119",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.120",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.121",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.122",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.123",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.124",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.125",
+   "en": "You can still talk, huh? Shut up for a while."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.127",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.128",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.129",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.130",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.131",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.132",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.133",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.134",
+   "en": "Gwoh...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.135",
+   "en": "Gwoh...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.136",
+   "en": "Gwoh...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.137",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.138",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.139",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.140",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.141",
+   "en": "Uwaaaaaah!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.142",
+   "en": "Fancy you waltzing right into a place like this. Saves me the trouble of coming after you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.143",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.144",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.145",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.146",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.147",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.148",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.149",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.150",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.151",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.152",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.153",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.154",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.155",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.156",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.157",
+   "en": "Wh-What do you mean!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.158",
+   "en": "Everyone here is a crew I gathered to take you lot down."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.159",
+   "en": "Wh-Whaaat?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.160",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.161",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.162",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.163",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.164",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.165",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.166",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.167",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.168",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.169",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.170",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.171",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.172",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.173",
+   "en": "Wh-What?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.174",
+   "en": "I've got no interest in petty treasure. I want something truly amazing."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.175",
+   "en": "So I decided to make this Cube my own."
+  }
+ ],
+ "notes": [],
+ "report": "filled from the DG_QUEST twin rows / translation memory"
+}

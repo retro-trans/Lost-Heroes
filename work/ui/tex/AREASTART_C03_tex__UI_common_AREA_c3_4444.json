@@ -1,0 +1,70 @@
+{
+ "tpc": "Graph/Dg/Start/Area/AREASTART_C03_tex.tpc",
+ "page": "UI_common_AREA_c3_4444.tga",
+ "note": "Area-start card name pieces (rects from AREASTART_C03.gtx GFUV; the GTSH shapes place them side by side: Cube name, then area pieces). Cube names are right-aligned so they sit next to the area pieces. Shapes: Hideout Cube + Lab B1/B2 (B1/B2 are Latin, kept), Quarry S/N. Lab rects 1 and 4 overlap; label drawn in their intersection.",
+ "boxes": [
+  {
+   "x": 0,
+   "y": 1,
+   "w": 89,
+   "h": 11,
+   "text": "Hideout Cube",
+   "align": "right"
+  },
+  {
+   "x": 58,
+   "y": 14,
+   "w": 33,
+   "h": 10,
+   "text": "Lab",
+   "align": "right"
+  },
+  {
+   "x": 25,
+   "y": 13,
+   "w": 32,
+   "h": 12,
+   "text": "Quarry",
+   "align": "right"
+  },
+  {
+   "x": 1,
+   "y": 13,
+   "w": 11,
+   "h": 11,
+   "text": "S",
+   "align": "center"
+  },
+  {
+   "x": 12,
+   "y": 14,
+   "w": 11,
+   "h": 10,
+   "text": "N",
+   "align": "center"
+  }
+ ],
+ "defaults": {
+  "size": 9,
+  "bold": false,
+  "color": [
+   255,
+   255,
+   255
+  ]
+ },
+ "clear": [
+  [
+   0,
+   0,
+   90,
+   13
+  ],
+  [
+   0,
+   13,
+   128,
+   19
+  ]
+ ]
+}

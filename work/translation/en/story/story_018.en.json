@@ -1,0 +1,386 @@
+{
+ "slice": "story_018",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0146.mbb#0.204",
+   "en": "Weather Dopant!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.205",
+   "en": "Weather Dopant!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.206",
+   "en": "Weather Dopant!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.207",
+   "en": "Weather Dopant!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.208",
+   "en": "Weather Dopant!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.209",
+   "en": "Weather Dopant!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.210",
+   "en": "This place will be your grave, you know?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.211",
+   "en": "Haaah!!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.212",
+   "en": "Waaaaah!!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.213",
+   "en": "Waaaaah!!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.214",
+   "en": "Waaaaah!!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.215",
+   "en": "Waaaaah!!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.216",
+   "en": "Waaaaah!!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.217",
+   "en": "Waaaaah!!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.218",
+   "en": "Fufuhahahahaha!!! You walked right into our trap!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.219",
+   "en": "You bastard, you lured us here on purpose!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.220",
+   "en": "Just how much meddling will it take before you're satisfied? I'd like to put an end to this soon."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.221",
+   "en": "This is the Invisible Memory. I had it planted inside Methuss's body."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.222",
+   "en": "Its power has grown on her fear, you see. Now, if I insert it into myself, what will happen..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.224",
+   "en": "\"INVISIBLE!!\""
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.225",
+   "en": "What!? I can't see him anywhere!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.226",
+   "en": "Whoaaa--whoa, whoa..."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.227",
+   "en": "I've tried every Memory there is, and even I am amazed by this one!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.228",
+   "en": "Hahahahahaha...!!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.229",
+   "en": "You think a kiddie trick like that's gonna work on me!? Henshin!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.230",
+   "en": "\"SWORD FORM\""
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.231",
+   "en": "I'll hit you with \"My Special Attack, Part 2\"!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.233",
+   "en": "Whoa!! That's dirty!! You bastard!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.235",
+   "en": "Fufuhahahahaha!!! Looks like you can't even get close to us!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.236",
+   "en": "Damn it!!! This lightning's too fierce, I can't do a thing!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.237",
+   "en": "We're getting nowhere like this! Fall back for now!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.239",
+   "en": "This is bad... We've got to do something about the Weather Dopant."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.240",
+   "en": "This is bad... We've got to do something about the Weather Dopant first."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.241",
+   "en": "This is bad... We've got to do something about the Weather Dopant first."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.242",
+   "en": "This is bad... We've got to do something about the Weather Dopant first."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.243",
+   "en": "This is bad... We've got to do something about the Weather Dopant first."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.244",
+   "en": "This is bad... We've got to do something about the Weather Dopant first."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.245",
+   "en": "...Yeah, but you got any way to pull that off?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.246",
+   "en": "...That's it!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.247",
+   "en": "The Denden Sensor! With that, we might be able to see him!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.248",
+   "en": "...That's it!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.249",
+   "en": "The Denden Sensor! With that, we might be able to see him!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.250",
+   "en": "...That's it!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.251",
+   "en": "The Denden Sensor! With that, we might be able to see him!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.252",
+   "en": "...That's it!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.253",
+   "en": "The Denden Sensor! With that, we might be able to see him!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.254",
+   "en": "...That's it!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.255",
+   "en": "The Denden Sensor! With that, we might be able to see him!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.256",
+   "en": "...That's it!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.257",
+   "en": "The Denden Sensor! With that, we might be able to see him!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.258",
+   "en": "No clue what that is, but let's bet on it!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.259",
+   "en": "Hikari's repairing it for us! Let's hurry back to base!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.260",
+   "en": "Hikari is repairing it for us! Let's hurry back to the base!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.261",
+   "en": "Hikari's repairing it for us! Let's hurry back to base!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.262",
+   "en": "Hikari's repairing it for us! Let's hurry back to base!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.263",
+   "en": "Hikari's repairing it for us! Let's hurry back to base!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.264",
+   "en": "Hikari is repairing it for us! Let's hurry back to the base!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.268",
+   "en": "There's something lying on the ground!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.269",
+   "en": "Whoa there! I'll be takin' that spare Rider Pass back!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.270",
+   "en": "So that's the spare Rider Pass, huh? I'll be taking it back."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.271",
+   "en": "So that's the spare Rider Pass. I'll be taking it back, okay?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.272",
+   "en": "So that's the spare Rider Pass, huh? I'm taking it back!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.273",
+   "en": "So that's the spare Rider Pass. I'm taking it back!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.274",
+   "en": "So that's the spare Rider Pass. I'm taking it back!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.275",
+   "en": "That's the spare Rider Pass, isn't it? I'm taking it back!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.276",
+   "en": "Obtained the \"Spare Rider Pass\"."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.278",
+   "en": "Just how much meddling will it take before you're satisfied, you Lost Heroes!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.279",
+   "en": "Lost Heroes?"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.280",
+   "en": "Indeed. You are heroes who have \"lost\" your power."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.281",
+   "en": "With no real power in this world, you are mere beings who just squawk \"Justice! Justice!\""
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.282",
+   "en": "Now, let's bring this to an end."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.283",
+   "en": "With the special Memory bestowed upon me by the one I serve!!!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.285",
+   "en": "W (Shotaro) used the Denden Sensor!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.286",
+   "en": "Den-O Sword Form used the Denden Sensor!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.287",
+   "en": "OOO used the Denden Sensor!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.288",
+   "en": "Nu Gundam used the Denden Sensor!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.289",
+   "en": "Zero used the Denden Sensor!"
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.290",
+   "en": "Zeta Gundam used the Denden Sensor!"
+  },
+  {
+   "key": "MainEventMess0147.mbb#0.1",
+   "en": "(So the weather still hasn't cleared up...)"
+  },
+  {
+   "key": "MainEventMess0147.mbb#0.2",
+   "en": "(So the weather still hasn't cleared up...)"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0146.mbb#0.204",
+   "note": "204-209 and 212-217: no speaker recovered; party-leader variants (six). Same line for every variant."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.210",
+   "note": "210-211, 220-222, 227-228, 278-283: Weather Dopant (polite, mocking desu/masu speech), inferred from content (Invisible Memory planted in Methuss)."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.218",
+   "note": "218 and 235: no speaker; inferred Negataros (rough speech, 'us', same laugh as his earlier lines). 'our trap' restores the dropped subject."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.219",
+   "note": "219, 225, 229, 231, 233, 236, 245, 258: no speaker; inferred Momotaros/Den-O Sword Form from his rough speech, Henshin and his signature attack. 'Henshin!!' kept as the recognisable Den-O cry."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.226",
+   "note": "Stumbling cry with no speaker; likely one of the Imagin being knocked about. Rendered as a sound only."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.231",
+   "note": "Momotaros' named attack rendered \"My Special Attack, Part 2\" (Ore no Hissatsu Waza Part 2), not in glossary."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.237",
+   "note": "No speaker recovered; 'fall back' order kept neutral."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.239",
+   "note": "239 lacks 'first' (no 'mazu wa') unlike 240-244; kept that difference."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.247",
+   "note": "Denden Sensor: W's Memory Gadget, spelled as on Kamen Rider Wiki; not in glossary. 'him' = Weather Dopant (glossary g=m)."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.260",
+   "note": "260 and 264 are the polite variants (likely OOO/Mebius), rendered slightly more formally."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.280",
+   "note": "Source glosses the loanword 'lost' with the native word for it in parentheses; collapsed into one quoted \"lost\" since the gloss is redundant in English."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.283",
+   "note": "'ano kata' (an honoured superior, unnamed) rendered gender-neutral as 'the one I serve'."
+  },
+  {
+   "key": "MainEventMess0146.mbb#0.285",
+   "note": "285-290: names kept as the source writes them, glossary spellings (W (Shotaro), Den-O Sword Form)."
+  },
+  {
+   "key": "MainEventMess0147.mbb#0.1",
+   "note": "Thought line; parentheses kept as in source."
+  }
+ ],
+ "report": "All 80 rows translated. Speakers inferred for most of event 0146 (Weather Dopant, Negataros, Momotaros) from content. Terms not in glossary: Denden Sensor, \"My Special Attack, Part 2\", Spare Rider Pass, Henshin."
+}

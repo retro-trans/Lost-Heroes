@@ -1,0 +1,114 @@
+{
+ "slice": "talk_012",
+ "rows_in_slice": 18,
+ "rows_examined": 18,
+ "rows": [
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.697",
+   "en": "Exactly. Believe in your own sense of justice."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.707",
+   "en": "Looks like the Cube's merging has stopped. That should mean all the Gundam Heads are gone."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.708",
+   "en": "Still, you sure get sent off to all kinds of places, don't you?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.709",
+   "en": "Why not try searching all kinds of places? You might find something."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.719",
+   "en": "To think such a powerful kaiju has been revived... Be careful, okay?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.720",
+   "en": "As you are now, you're sure to win. But don't let your guard down."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.730",
+   "en": "Light is streaming from the stone pillars? It could be a trap."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.731",
+   "en": "Still, we can't move forward without defeating them. Stay on your guard."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.742",
+   "en": "So you defeated Zetton. That leaves only \"Tyrant.\""
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.743",
+   "en": "If things get dangerous, come back to base, all right?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.754",
+   "en": "You defeated all the kaiju!! But this is no time to be resting."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.755",
+   "en": "Hurry!! The erosion is spreading!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.765",
+   "en": "So Zamsha died... Somehow it makes me sad..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.766",
+   "en": "But thanks to him, you've got Belial cornered. Don't let his death be in vain!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.767",
+   "en": "Exactly. We have to protect the world too."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.777",
+   "en": "What does this mean...? Wasn't \"Regis\" the name of this world?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.778",
+   "en": "I don't know. But one thing's certain: we have to stop Regis."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.779",
+   "en": "I'm counting on you. The future of the world rests in your hands."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.697",
+   "note": "SPEAKERS from tools/talkspk.py Shop (Talk01_62-69); slice labels were all missing. Hikari = #0.697/707/720/730/731/742/767/778/779; Methuss = #0.708/709/719/743/754/755/765/766/777. #0.697 answers Methuss's #0.696 (don't be swayed by the enemy; you have no negative emotions)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.719",
+   "note": "'Kaiju' used for revived Ultra monsters, matching talk_008/009 base talk. Singular kaiju (number not marked in source)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.730",
+   "note": "Stone pillars plural: the story has three pillars guarded by King Pandon, Zetton and Tyrant; source does not mark number."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.731",
+   "note": "Inferred object: 'them' = the kaiju guarding the pillars (source drops the object). Subject 'we' restored."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.742",
+   "note": "Tyrant kept in quotes as the source brackets it."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.766",
+   "note": "Subject of 'cornered Belial' restored as 'you' (the heroes); Methuss stays at base."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.777",
+   "note": "Follows story MainEventMess0733 ('Isn't Regis what this world is called!?')."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.778",
+   "note": "Source says 'that one/him' (yatsu); rendered as 'Regis' since 'it' would read as 'this world' after #0.777. Regis g=n."
+  }
+ ],
+ "report": "18/18 rows. Speakers from tools/talkspk.py Shop (Hikari/Methuss); all slice labels were missing. Inferred: #0.731 object = pillar-guarding kaiju; #0.766 subject 'you'; #0.778 'yatsu' rendered as 'Regis'. No new glossary names."
+}

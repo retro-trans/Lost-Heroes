@@ -1,0 +1,386 @@
+{
+ "slice": "story_064",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0358.mbb#0.51",
+   "en": "Where are they?"
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.52",
+   "en": "Where are they?"
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.53",
+   "en": "Where are they?"
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.54",
+   "en": "Where are they?"
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.55",
+   "en": "Deeper in lies the heart of this Cube. They're most likely there..."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.64",
+   "en": "...I'd love to storm in right now, but we'd better regroup first."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.65",
+   "en": "...The final battle is close. But before that, we need to regroup..."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.66",
+   "en": "...At last, it's time to settle this. But before that, let's regroup."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.67",
+   "en": "...At last, it's time to settle this. But before that, let's regroup."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.68",
+   "en": "...I'd like to attack at once, but for now, let's stay calm and regroup."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.69",
+   "en": "...I'd like to attack right away, but we'd better regroup first!"
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.70",
+   "en": "...I wanna finish this in one go, but first we gotta get ready."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.71",
+   "en": "...I'd like to attack at once, but for now, let's stay calm and regroup."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.72",
+   "en": "...I want to charge in right away, but it'd be better to regroup for now."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.73",
+   "en": "I see. So it's finally time to settle this. But before that, let's regroup."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.74",
+   "en": "I see. So it's finally time to settle this. But before that, let's regroup."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.75",
+   "en": "...The final battle is close. But before that, let's regroup."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.76",
+   "en": "...The final battle is close. But before that, let's regroup."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.78",
+   "en": "A wise choice. We mustn't be hasty."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.79",
+   "en": "Zoffy, I'll take you to the base."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.80",
+   "en": "Brother Zoffy, I'll show you to our base."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.81",
+   "en": "Brother Zoffy, to the base."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.82",
+   "en": "Brother Zoffy, let's head to the base."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.83",
+   "en": "Zoffy, I'll take you to our base."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.84",
+   "en": "All right, then let's go to the base."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.85",
+   "en": "All right, then let's head back to base for now."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.86",
+   "en": "All right, then let's head back to base for now."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.87",
+   "en": "All right, then let's head back to base for now."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.88",
+   "en": "All right. To the base, then."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.89",
+   "en": "All right. To the base, then."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.90",
+   "en": "All right. To the base, then."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.91",
+   "en": "All right. To the base, then."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.92",
+   "en": "{8074} and the others headed for the base with Zoffy."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.97",
+   "en": "Upon arriving at the base, Zoffy was welcomed as commander."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.98",
+   "en": "His seasoned, well-informed battle judgment will surely be a great help to the heroes."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.99",
+   "en": "Zoffy told them everything he knew."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.106",
+   "en": "Yes... In other words, a fourth Cube exists beyond this point."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.107",
+   "en": "But to get there, we have to destroy that wall..."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.108",
+   "en": "Exactly."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.109",
+   "en": "Seravee, what wall?"
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.110",
+   "en": "Yes. There was a wall in the Ride Dungeon that we simply couldn't break."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.111",
+   "en": "You couldn't break it at all...? ...Then we need a more powerful drill."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.112",
+   "en": "Hey, speaking of drills... We've got that one we picked up earlier, right?"
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.113",
+   "en": "What is it?"
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.114",
+   "en": "Ankh and the others handed over the \"Broken Zeroliner Drill\" they had found at the quarry."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.115",
+   "en": "Oh... It's the Zeroliner's drill. Which means it's made of Den-Metal, right?"
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.116",
+   "en": "All right, I'll try repairing it. If it works out, we can equip it on the Ride Machine."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.117",
+   "en": "Give me a little time."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.119",
+   "en": "As for us, we'll deal with the enemy in front of us first."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.120",
+   "en": "Yapool and Ikadevil, huh..."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.121",
+   "en": "This is unconfirmed, but it seems Ikadevil has already moved to another Cube."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.122",
+   "en": "To the fourth Cube?"
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.123",
+   "en": "That, I don't know."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.124",
+   "en": "Well, that's good news, ain't it! For now, we only gotta focus on Yapool!"
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.125",
+   "en": "Hmm... But this is Yapool we're talking about. He must be hiding some trump card."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.126",
+   "en": "Be careful when you take him on."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.136",
+   "en": "Yes... In other words, a fourth Cube exists beyond this point."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.137",
+   "en": "But to get there, we have to destroy that wall..."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.138",
+   "en": "Exactly."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.139",
+   "en": "Seravee, what wall?"
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.140",
+   "en": "Yes. There was a wall in the Ride Dungeon that we simply couldn't break."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.141",
+   "en": "In that case, the \"Zeroliner Drill\" that Ankh and the others brought back earlier might work."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.142",
+   "en": "That is, once I've finished repairing it..."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.143",
+   "en": "How long will it take?"
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.144",
+   "en": "I'll be as quick as I can... I'll get started on it right away!"
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.145",
+   "en": "As for us, we'll deal with the enemy in front of us first."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.146",
+   "en": "Yapool and Ikadevil, huh..."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.147",
+   "en": "This is unconfirmed, but it seems Ikadevil has already moved to another Cube."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.148",
+   "en": "To the fourth Cube?"
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.149",
+   "en": "That remains unknown."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.150",
+   "en": "Well, hey, that's good news, ain't it! For now, we only gotta focus on Yapool!"
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.151",
+   "en": "Hmm... But this is Yapool we're talking about. He must be hiding some trump card."
+  },
+  {
+   "key": "MainEventMess0359.mbb#0.1",
+   "en": "Fuhaaaaa..."
+  },
+  {
+   "key": "MainEventMess0359.mbb#0.2",
+   "en": "Ace Killer!! You've been revived!?"
+  },
+  {
+   "key": "MainEventMess0359.mbb#0.3",
+   "en": "Ace Killer!! So you went and came back to life!?"
+  },
+  {
+   "key": "MainEventMess0359.mbb#0.4",
+   "en": "Ace Killer!! You've been revived!?"
+  },
+  {
+   "key": "MainEventMess0359.mbb#0.5",
+   "en": "Ace Killer!! You've been revived!?"
+  },
+  {
+   "key": "MainEventMess0359.mbb#0.6",
+   "en": "Ace Killer!! You've been revived!?"
+  },
+  {
+   "key": "MainEventMess0359.mbb#0.7",
+   "en": "Ace Killer!! You've been revived!?"
+  },
+  {
+   "key": "MainEventMess0359.mbb#0.8",
+   "en": "Huh!? You're Ace Killer!! So you went and came back to life!?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0358.mbb#0.51",
+   "note": "#0.51-0.54 finish the 13-slot block from story_063 (Nu, Zeta, Wing Zero, 00); identical source -> 'Where are they?' as in 063."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.64",
+   "note": "#0.64-0.76 and #0.79-0.91 follow the 0358.bla Pt_Chara_Check order 15,14,11,12,1,2,3,4,5,6,7,9,10: Zero, Mebius, Ultraman, Seven, Rider 1, RX, Den-O (Momotaros), W, OOO, Nu, Zeta, Wing Zero, 00. Wording fits (#0.65 polite Mebius, #0.69 exclaiming RX, #0.70 rough Momotaros, #0.72 polite OOO). 'Taisei wo totonoeru' = regroup. Source pairs differing only by a comma (#0.68/#0.71, #0.88-0.91) share one English line."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.79",
+   "note": "Zero (#0.79) and slot 5 (#0.83, Rider 1 by the order, though the casual 'ze' is unusual for him) call him plain 'Zoffy'; Mebius, Ultraman and Seven say 'Zoffy-niisan' = 'Brother Zoffy' as in story_063. #0.79 lacks 'our', #0.83 has it; kept that difference."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.97",
+   "note": "#0.97-0.151 are not played by 0358.bla (script ends at #0.92). Speakers taken from the parallel base scene MainEventMess0913 (speakers.json): #0.106 Zoffy, #0.107 Seravee, #0.108 Zoffy, #0.109 Hikari, #0.110 Seravee, #0.111/113/115-117 Hikari, #0.112 Ankh, #0.119 Nu Gundam, #0.120/122 W (Shotaro), #0.121/123/125/126 Zoffy, #0.124 Den-O Sword (Momotaros). Second variant #0.136-0.151 assumed to mirror it (0913 labels #0.141/142/144 Hikari, #0.143 Zoffy, #0.150 Momotaros)."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.98",
+   "note": "Narration 'darou' kept as a prediction: 'will surely be'. 'Based on knowledge and experience' compressed to 'seasoned, well-informed' to fit two lines. Zoffy is male per glossary ('His')."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.112",
+   "note": "Ankh means the drill found at the quarry in story_060 (0342), which Momotaros picked up."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.114",
+   "note": "Item name matches story_060 0343 #0.2: \"Broken Zeroliner Drill\"."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.115",
+   "note": "Same line as 0343 #0.4 (story_060); same English, incl. 'Den-Metal' (not in glossary)."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.119",
+   "note": "Nu Gundam (Amuro): 'we' = the heroes in the field, as opposed to Hikari working on the drill; subject and verb restored."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.125",
+   "note": "Yapool referred to as 'he' (glossary Giant Yapool g=m)."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.126",
+   "note": "Zoffy; 'kakatte kure' = go at the enemy; 'him' = Yapool from the previous line."
+  },
+  {
+   "key": "MainEventMess0358.mbb#0.149",
+   "note": "'Fumei da' (vs 'wakaranai' in #0.123) rendered more formally: 'That remains unknown.'"
+  },
+  {
+   "key": "MainEventMess0359.mbb#0.1",
+   "note": "Ace Killer's exhaled breath/groan, not a laugh."
+  },
+  {
+   "key": "MainEventMess0359.mbb#0.2",
+   "note": "0359 leader order (per story_065): Mebius, Zero, Ultraman, Seven, Rider 1, RX, Den-O (Momotaros), W... #0.3 Zero and #0.8 Momotaros use the rough 'yagatta' form; identical rows match story_065's 'You've been revived!?'."
+  }
+ ],
+ "report": "80/80 examined. Base-scene rows #0.97-0.151 (not played by 0358.bla) voiced from the MainEventMess0913 parallel speakers; second variant #0.136-0.151 assumed to mirror it. #0.83 slot 5 (Rider 1) uses casual 'ze'. 'Den-Metal' and 'Zeroliner Drill' not in glossary (follow story_060)."
+}

@@ -1,0 +1,342 @@
+{
+ "slice": "system_008",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Graph/Dg/Fld/NC03/A04/DungeonMess.mbb#0.41",
+   "en": "This wall feels a bit unnatural..."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC03/A04/DungeonMess.mbb#0.42",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC03/A04/DungeonMess.mbb#0.43",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC03/A04/DungeonMess.mbb#0.44",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC03/A04/DungeonMess.mbb#0.45",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC03/A04/DungeonMess.mbb#0.46",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC03/A04/DungeonMess.mbb#0.47",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.1",
+   "en": "Dummy message"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.2",
+   "en": "Obtained {8069}"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.3",
+   "en": "Obtained {806A}M"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.4",
+   "en": "You can move to another area.\nMove there?"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.5",
+   "en": "Return to base?"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.6",
+   "en": "You can warp to another area.\nWarp there?"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.7",
+   "en": "Can't take {8069}.\nInventory is full!"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.8",
+   "en": "You can't get through from this side."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.9",
+   "en": "Save your game?"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.11",
+   "en": "For some reason, the door won't open..."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.12",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.13",
+   "en": "It won't open. C01_3"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.14",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.15",
+   "en": "It won't open. C02_2"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.16",
+   "en": "It won't open. C02_3"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.17",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.18",
+   "en": "It won't open. C03_2"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.19",
+   "en": "It won't open. C03_3"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.20",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.21",
+   "en": "It won't open. C04_2"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.22",
+   "en": "It won't open. C04_3"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.23",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.24",
+   "en": "It won't open. C05_2"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.25",
+   "en": "It won't open. C05_3"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.26",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.27",
+   "en": "It won't open. C06_2"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.28",
+   "en": "It won't open. C06_3"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.29",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.30",
+   "en": "It won't open. C07_2"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.31",
+   "en": "It won't open. C07_3"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.32",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.33",
+   "en": "It won't open. C08_2"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.34",
+   "en": "It won't open. C08_3"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.35",
+   "en": "It won't open. RIDE_1"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.36",
+   "en": "It won't open. RIDE_2"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.37",
+   "en": "It won't open. RIDE_3"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.38",
+   "en": "It won't open. Random"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.39",
+   "en": "The shutter is closed.\nA switch needs to be operated."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.40",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.41",
+   "en": "This wall feels a bit unnatural..."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.42",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.43",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.44",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.45",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.46",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.47",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.1",
+   "en": "Dummy message"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.2",
+   "en": "Obtained {8069}"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.3",
+   "en": "Obtained {806A}M"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.4",
+   "en": "You can move to another area.\nMove there?"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.5",
+   "en": "Return to base?"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.6",
+   "en": "You can warp to another area.\nWarp there?"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.7",
+   "en": "Can't take {8069}.\nInventory is full!"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.8",
+   "en": "You can't get through from this side."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.9",
+   "en": "Save your game?"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.11",
+   "en": "For some reason, the door won't open..."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.12",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.13",
+   "en": "It won't open. C01_3"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.14",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.15",
+   "en": "It won't open. C02_2"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.16",
+   "en": "It won't open. C02_3"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.17",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.18",
+   "en": "It won't open. C03_2"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.19",
+   "en": "It won't open. C03_3"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.20",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.21",
+   "en": "It won't open. C04_2"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.22",
+   "en": "It won't open. C04_3"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.23",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.24",
+   "en": "It won't open. C05_2"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.25",
+   "en": "It won't open. C05_3"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.26",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.27",
+   "en": "It won't open. C06_2"
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A02/DungeonMess.mbb#0.28",
+   "en": "It won't open. C06_3"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.3",
+   "note": "{806A} is a number variable followed by unit letter M (likely money); kept as {806A}M, same as system_002."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.5",
+   "note": "Hub rendered as base, same as system_002."
+  },
+  {
+   "key": "Graph/Dg/Fld/NC04/A01/DungeonMess.mbb#0.13",
+   "note": "Debug-style door rows with trailing IDs (C01_3, RIDE_1, Random): translated literally, IDs kept; identical Japanese gets identical English, matching system_002."
+  }
+ ],
+ "report": "80/80 translated. Wording matches system_002 for identical Japanese. Uncertain: base vs camp; {806A}M unit. No new glossary terms."
+}

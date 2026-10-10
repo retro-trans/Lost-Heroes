@@ -1,0 +1,329 @@
+{
+ "slice": "quest_045",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.47",
+   "en": "That's just ego! We won't be beaten by the likes of you!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.48",
+   "en": "We won't be beaten for your selfishness!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.49",
+   "en": "Then I'll kill you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.50",
+   "en": "That distortion of yours! I will sever it myself!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.52",
+   "en": "Ngh... My particle reserves are nearly spent!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.53",
+   "en": "I shall say it boldly, Gundam! Remember this well!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.56",
+   "en": "00 must be in the party to progress this quest."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.58",
+   "en": "Completed the quest \"Veda Classified Data\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.1",
+   "en": "Pigmon has come to the base again. It seems to have information on Alien Baltan."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.4",
+   "en": "Just like before, Maganac and Pigmon were there."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.5",
+   "en": "Au-au!! Au-au!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.6",
+   "en": "This again? Hey, get out that Pan-Space Interpreter from last time."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.7",
+   "en": "I've been waiting for you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.8",
+   "en": "It seems Pigmon has gotten hold of new information again."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.9",
+   "en": "Looks like Alien Baltan is moving ahead with a plan to invade the base this time-pi."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.10",
+   "en": "Alien Baltan? Them again?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.11",
+   "en": "But this time there's not just one. It sounds like there are lots of Alien Baltans-pi."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.12",
+   "en": "Pigmon, where are the Alien Baltans?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.13",
+   "en": "North of the quarry in Hideout Cube-pi."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.14",
+   "en": "Ah. Where the Ultra Warriors were crucified, huh."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.15",
+   "en": "IF YOU GO, YOU MUST NOT FORGET TO GO TOGETHER WITH ULTRA WARRIORS."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.16",
+   "en": "Thank you for the information, Pigmon."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.17",
+   "en": "This time, multiple Alien Baltans have been confirmed."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.18",
+   "en": "Be careful heading north of the quarry-pi."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.19",
+   "en": "Ultraman must be in the party to progress this quest."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.21",
+   "en": "Please bring the Ultra Warriors with you. This request concerns them as well."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.24",
+   "en": "Fo, fo, fo, fo, fo..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.25",
+   "en": "So you've shown up again!! Alien Baltan!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.26",
+   "en": "So you've shown up again!! Alien Baltan!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.27",
+   "en": "So you've shown up again!! Alien Baltan!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.28",
+   "en": "So you've shown up again!! Alien Baltan!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.29",
+   "en": "So you've shown up again!! Alien Baltan!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.30",
+   "en": "Ultraman, we are not the same as before."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.32",
+   "en": "This time, we will destroy you all and conquer your base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.33",
+   "en": "Come on, Alien Baltan! I'll take you on as many times as it takes!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.34",
+   "en": "Come on, Alien Baltan! I'll take you on as many times as it takes!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.35",
+   "en": "Come on, Alien Baltan! I'll take you on as many times as it takes!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.36",
+   "en": "Come on, Alien Baltan! I'll take you on as many times as it takes!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.37",
+   "en": "Come on, Alien Baltan! I'll take you on as many times as it takes!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.38",
+   "en": "Now learn the true extent of our power!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.40",
+   "en": "Curse you...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.41",
+   "en": "As long as our brethren remain... we will invade... again and again...!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.42",
+   "en": "Remember this!! Ultra Warriors!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.44",
+   "en": "...No matter how many times you appear, we Ultra Warriors will protect the peace."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.45",
+   "en": "...However many times you show up, we Ultra Warriors will protect the peace."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.46",
+   "en": "...However many times you show up, we Ultra Warriors will protect the peace."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.47",
+   "en": "...However many times you show up, we Ultra Warriors will protect the peace."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.48",
+   "en": "...However many times you show up, we Ultra Warriors will protect the peace."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.49",
+   "en": "Au-au-au!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.50",
+   "en": "YOU DID WELL TO DEFEAT ALIEN BALTAN."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.51",
+   "en": "We stopped it before it happened thanks to your information, Pigmon."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.52",
+   "en": "We stopped it before it happened thanks to your information, Pigmon."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.53",
+   "en": "We stopped it before it happened thanks to your information, Pigmon."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.54",
+   "en": "We stopped it before it happened thanks to the info you gave us, Pigmon."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.55",
+   "en": "We stopped it before it happened thanks to your information, Pigmon."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.56",
+   "en": "I AM GLAD I COULD BE OF USE ONCE AGAIN."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.57",
+   "en": "NOW, I WILL RETURN TO INVESTIGATING THE CUBES."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.59",
+   "en": "Pigmon went off somewhere."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.61",
+   "en": "Obtained \"Pencil Bomb\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.63",
+   "en": "Completed the quest \"Alien Baltan Strikes Back\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.64",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.66",
+   "en": "Fo, fo, fo, fo, fo..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.67",
+   "en": "...!? So you've shown up, Alien Baltan!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess016.mbb#0.68",
+   "en": "Bring me Ultraman. I have no business with anyone else."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess017.mbb#0.1",
+   "en": "We've learned someone in Shocker Cube is searching for RX. Take RX and go investigate."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess017.mbb#0.3",
+   "en": "Black Sun, listen well."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess017.mbb#0.4",
+   "en": "Who's there!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess017.mbb#0.6",
+   "en": "That voice... Shadow Moon!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess017.mbb#0.7",
+   "en": "You will face me, Black Sun."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess017.mbb#0.8",
+   "en": "Wait! Please, wait!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess017.mbb#0.9",
+   "en": "Are you really Shadow Moon!? You're alive!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess017.mbb#0.10",
+   "en": "Come, Black Sun. Fight me, Black Sun."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess017.mbb#0.11",
+   "en": "Answer me, Shadow Moon! Shadow Moon!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess017.mbb#0.13",
+   "en": "Hey, RX, who was that just now?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess017.mbb#0.14",
+   "en": "...His name is Shadow Moon."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess017.mbb#0.15",
+   "en": "And he's my best friend."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess017.mbb#0.16",
+   "en": "Your best friend!? Then isn't he on our side?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess017.mbb#0.17",
+   "en": "The Crisis Empire controlled him, and he and I became enemies."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess017.mbb#0.18",
+   "en": "And in the end, I fought him... and I defeated him."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess017.mbb#0.19",
+   "en": "But Shadow Moon is alive. I have to meet him and see for myself."
+  }
+ ],
+ "notes": [],
+ "report": "filled from the DG_QUEST twin rows / translation memory"
+}

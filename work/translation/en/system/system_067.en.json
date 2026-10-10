@@ -1,0 +1,338 @@
+{
+ "slice": "system_067",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.124",
+   "en": "Sub-Quest 23 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.125",
+   "en": "Sub-Quest 24 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.126",
+   "en": "Sub-Quest 25 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.127",
+   "en": "Sub-Quest 26 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.128",
+   "en": "Sub-Quest 27 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.129",
+   "en": "Sub-Quest 28 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.130",
+   "en": "Sub-Quest 29 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.131",
+   "en": "Sub-Quest 30 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.151",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.152",
+   "en": "Request Location: [Begins Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.153",
+   "en": "Request Location: [Begins Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.154",
+   "en": "Request Location: [Begins Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.155",
+   "en": "Request Location: [Desert Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.156",
+   "en": "Request Location: [Desert Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.157",
+   "en": "Request Location: [Desert Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.158",
+   "en": "Request Location: [Desert Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.159",
+   "en": "Request Location: [Desert Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.160",
+   "en": "Request Location: [Desert Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.161",
+   "en": "Request Location: [Hideout Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.162",
+   "en": "Request Location: [Begins Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.163",
+   "en": "Request Location: [Hideout Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.164",
+   "en": "Request Location: [Ultra Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.165",
+   "en": "Request Location: [Ultra Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.166",
+   "en": "Request Location: [Shocker Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.167",
+   "en": "Request Location: [Hideout Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.168",
+   "en": "Request Location: [Shocker Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.169",
+   "en": "Request Location: [Ultra Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.170",
+   "en": "Request Location: [Desert Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.171",
+   "en": "Request Location: [Veda Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.172",
+   "en": "Request Location: [Veda Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.173",
+   "en": "Request Location: [Ultra Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.174",
+   "en": "Request Location: [Ultra Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.175",
+   "en": "Request Location: [Veda Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.176",
+   "en": "Request Location: [Ultra Cube]"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.177",
+   "en": "Client 26"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.178",
+   "en": "Client 27"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.179",
+   "en": "Client 28"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.180",
+   "en": "Client 29"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.181",
+   "en": "Client 30"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.201",
+   "en": "Reward:"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.202",
+   "en": "Smooth Hide x3"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.203",
+   "en": "Batta Candroid"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.204",
+   "en": "Silver Whisker x3"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.205",
+   "en": "None"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.206",
+   "en": "Spider Silk / Unbreakable Sticky Thread"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.207",
+   "en": "None"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.208",
+   "en": "Planet Defensor"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.209",
+   "en": "None"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.210",
+   "en": "None"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.211",
+   "en": "None"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.212",
+   "en": "None"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.213",
+   "en": "None"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.214",
+   "en": "None"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.215",
+   "en": "Feilong Flag"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.216",
+   "en": "None"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.217",
+   "en": "Zero-G Bullet"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.218",
+   "en": "None"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.219",
+   "en": "Gold Nugget x3"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.220",
+   "en": "None"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.221",
+   "en": "Shiranui / Unryu"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.222",
+   "en": "Shenlong Shield"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.223",
+   "en": "Moto Crystal"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.224",
+   "en": "None"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.225",
+   "en": "AZ2006, etc."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.226",
+   "en": "Agility Crystal / Magic Crystal / Luck Crystal"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.227",
+   "en": "Reward 26"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.228",
+   "en": "Reward 27"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.229",
+   "en": "Reward 28"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.230",
+   "en": "Reward 29"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.231",
+   "en": "Reward 30"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.301",
+   "en": "Explore the Dungeon"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.302",
+   "en": "Find Zeta Gundam!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.303",
+   "en": "Chase Spider Man!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.304",
+   "en": "What Lies Beyond the Locked Door?"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.305",
+   "en": "Defeat Seamons & Seagorath!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.306",
+   "en": "Where Is Hikari?"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.307",
+   "en": "Save Mebius!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.308",
+   "en": "What Waits Deep Inside...?"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.309",
+   "en": "Chase Negataros!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.310",
+   "en": "Defeat the Weather Dopant!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.152",
+   "note": "Original uses full-width bracket quotes around the cube name; rendered with ASCII brackets."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.225",
+   "note": "'AZ2006 and others'; abbreviated to 'etc.'"
+  }
+ ],
+ "report": "All 80 rows examined. Placeholder rows (Sub-Quest N Long Desc, Client N, Reward N, Dummy) translated literally. Item names reused from system_057-060 and 063. Uncertain: 'Request Location' label wording. Not in glossary: none new."
+}

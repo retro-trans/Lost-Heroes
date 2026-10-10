@@ -1,0 +1,350 @@
+{
+ "slice": "system_049",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Common/DungeonName.mbb#1.30",
+   "en": "Three Pillars of Despair"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.31",
+   "en": "Desert Cube Outer Wall"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.32",
+   "en": "Hideout Cube Outer Wall"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.33",
+   "en": "Ultra Cube Outer Wall"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.34",
+   "en": "Shocker Cube Outer Wall"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.35",
+   "en": "Veda Cube Outer Wall"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.36",
+   "en": "Genocide Cube Outer Wall"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.37",
+   "en": "Path to Regis Core"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.38",
+   "en": "Ride Area 8"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.39",
+   "en": "Ride Area 9"
+  },
+  {
+   "key": "Table/CutScene/Caption_pcG03_FIN_01.mbb#0.1",
+   "en": "G Gundam Line Test"
+  },
+  {
+   "key": "Table/CutScene/Caption_pcG03_FIN_01.mbb#0.2",
+   "en": "Count up "
+  },
+  {
+   "key": "Table/CutScene/Caption_pcG03_FIN_01.mbb#0.3",
+   "en": "your sins!"
+  },
+  {
+   "key": "Table/CutScene/Caption_pcG03_FIN_01.mbb#0.4",
+   "en": "Going all out!"
+  },
+  {
+   "key": "Table/CutScene/Caption_pcG03_FIN_01.mbb#0.5",
+   "en": "This'll end it!"
+  },
+  {
+   "key": "Table/CutScene/Caption_pcR03_FIN_01.mbb#0.1",
+   "en": "Den-O Line Test"
+  },
+  {
+   "key": "Table/CutScene/Caption_pcR03_FIN_01.mbb#0.2",
+   "en": "Count up "
+  },
+  {
+   "key": "Table/CutScene/Caption_pcR03_FIN_01.mbb#0.3",
+   "en": "your sins!"
+  },
+  {
+   "key": "Table/CutScene/Caption_pcR03_FIN_01.mbb#0.4",
+   "en": "Going all out!"
+  },
+  {
+   "key": "Table/CutScene/Caption_pcR03_FIN_01.mbb#0.5",
+   "en": "This'll end it!"
+  },
+  {
+   "key": "Table/CutScene/Caption_pcR04_FIN_01.mbb#0.1",
+   "en": "Now,"
+  },
+  {
+   "key": "Table/CutScene/Caption_pcR04_FIN_01.mbb#0.2",
+   "en": "Count up "
+  },
+  {
+   "key": "Table/CutScene/Caption_pcR04_FIN_01.mbb#0.3",
+   "en": "your sins!"
+  },
+  {
+   "key": "Table/CutScene/Caption_pcR04_FIN_01.mbb#0.4",
+   "en": "Going all out!"
+  },
+  {
+   "key": "Table/CutScene/Caption_pcR04_FIN_01.mbb#0.5",
+   "en": "This'll end it!"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.1",
+   "en": "Dummy message"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.2",
+   "en": "Obtained {8069}"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.3",
+   "en": "Obtained {806A}M"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.4",
+   "en": "You can move to another area.\nMove there?"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.5",
+   "en": "Return to base?"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.6",
+   "en": "You can warp to another area.\nWarp there?"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.7",
+   "en": "{8069}\nInventory full! Can't take it!"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.8",
+   "en": "You can't pass from this side."
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.9",
+   "en": "Save your game?"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.11",
+   "en": "For some reason, the door won't open..."
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.12",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.13",
+   "en": "It won't open. C01＿3"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.14",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.15",
+   "en": "It won't open. C02＿2"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.16",
+   "en": "It won't open. C02＿3"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.17",
+   "en": "It seems to be sealed."
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.18",
+   "en": "It won't open. C03＿2"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.19",
+   "en": "It won't open. C03＿3"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.20",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.21",
+   "en": "It won't open. C04＿2"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.22",
+   "en": "It won't open. C04＿3"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.23",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.24",
+   "en": "It won't open. C05＿2"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.25",
+   "en": "It won't open. C05＿3"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.26",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.27",
+   "en": "It won't open. C06＿2"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.28",
+   "en": "It won't open. C06＿3"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.29",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.30",
+   "en": "It won't open. C07＿2"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.31",
+   "en": "It won't open. C07＿3"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.32",
+   "en": "It seems to be locked."
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.33",
+   "en": "It won't open. C08＿2"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.34",
+   "en": "It won't open. C08＿3"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.35",
+   "en": "It won't open. RIDE＿1"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.36",
+   "en": "It won't open. RIDE＿2"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.37",
+   "en": "It won't open. RIDE＿3"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.38",
+   "en": "It won't open. Random"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.39",
+   "en": "The shutter is closed.\nA switch must be operated."
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.40",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.41",
+   "en": "This wall feels a bit unnatural..."
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.42",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.43",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.44",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.45",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.46",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.47",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "Table/Enemy/EnemyInfo.mbb#0.1",
+   "en": "I'm Ultraman.<br>My limit is 3 minutes.<br>"
+  },
+  {
+   "key": "Table/Enemy/EnemyInfo.mbb#0.2",
+   "en": "I'm a Rider.<br>I can do kicks.<br>I always ride my bike."
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.1",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.2",
+   "en": "Zaku"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.3",
+   "en": "Gouf"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.4",
+   "en": "Zgok"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.5",
+   "en": "Death Army"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.6",
+   "en": "Geara Doga"
+  },
+  {
+   "key": "Table/Enemy/EnemyName.mbb#0.7",
+   "en": "Jagd Doga"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Enemy/EnemyInfo.mbb#0.1",
+   "note": "Source has mis-decoded control-code garbage between sentences (no Japanese tag form); dropped. Debug text."
+  },
+  {
+   "key": "Table/Enemy/EnemyInfo.mbb#0.2",
+   "note": "Same mis-decoded control garbage dropped. Debug text."
+  },
+  {
+   "key": "Table/CutScene/Caption_pcR04_FIN_01.mbb#0.2",
+   "note": "Caption split of the W catchphrase; trailing space kept as in source. English cut as Now, / Count up / your sins!"
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.17",
+   "note": "Electronic lock wording; rendered as sealed to differ from key-locked rows."
+  },
+  {
+   "key": "Table/Dungeon/DungeonMess.mbb#0.13",
+   "note": "Debug door-ID suffixes (C01_3 etc., full-width underscore) kept as-is after the translated message."
+  }
+ ],
+ "report": "80/80 rows. Uncertain: G Gundam / Den-O test captions (dev text), Geara Doga spelling, Outer Wall for the cube exterior names, sealed vs locked. Not in glossary: Three Pillars of Despair, Outer Wall names, Path to Regis Core, Ride Area, Geara Doga, Zaku, Gouf, Zgok."
+}

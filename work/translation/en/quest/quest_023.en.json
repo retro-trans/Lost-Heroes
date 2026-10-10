@@ -1,0 +1,394 @@
+{
+ "slice": "quest_023",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.66",
+   "en": "[00] 00...\n[Susanowo] Susanowo..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.67",
+   "en": "[00] The target...\n[Susanowo] Fair and square..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.68",
+   "en": "[00] ...will be eliminated!\n[Susanowo] ...let us duel!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.74",
+   "en": "Fight, Gundam! Cut me down and show me you can seize victory with your own hands!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.76",
+   "en": "Why!? Why do you not finish me!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.77",
+   "en": "I will live. I will live, and seize tomorrow."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.78",
+   "en": "That is my fight. Fight in order to live."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.79",
+   "en": "Kh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.80",
+   "en": "Bushido... is found... in death... Bushido is..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.82",
+   "en": "Obtained \"Unryu\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.84",
+   "en": "Completed the quest \"A Challenge Letter for 00\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.85",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.1",
+   "en": "Altron is reportedly under attack. Hear details from Maganac at the Veda Cube Upper Layer entrance."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.5",
+   "en": "We've been waiting for you. If you'll permit me, I'll get straight to the point."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.6",
+   "en": "We've lost contact with Altron Gundam, who has been fighting battle after battle on his own."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.7",
+   "en": "According to the others, he most likely headed for the deepest part of Veda Cube."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.8",
+   "en": "Please find Altron Gundam and back him up."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.9",
+   "en": "Mission accepted."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.12",
+   "en": "Please come again, and bring Wing Zero with you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.16",
+   "en": "This is the area. Commencing operation."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.17",
+   "en": "Why the hell is Altron Gundam running around on his own?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.18",
+   "en": "...He's always been like that. Even we rarely fought alongside him."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.19",
+   "en": "He acts on his own convictions. No one can tie him down."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.20",
+   "en": "Hah, what's that supposed to mean?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.21",
+   "en": "That's just the kind of guy he is."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.22",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.23",
+   "en": "Combat level, target confirmed. Commencing elimination."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.24",
+   "en": "Outta the way, outta the way! The God of Death is comin' through!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.26",
+   "en": "Sorry, but I'm cuttin' in~"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.27",
+   "en": "Deathscythe... What are you doing here?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.28",
+   "en": "I heard about Altron."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.29",
+   "en": "So I figured I'd lend you a hand and came all the way out here."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.30",
+   "en": "Are your wounds all right?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.31",
+   "en": "I've rested plenty already."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.32",
+   "en": "Altron's got a habit of pushin' himself way too far."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.33",
+   "en": "We can't afford to sit around!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.34",
+   "en": "Anyway, leave this place to me and hurry on over to him."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.36",
+   "en": "...Understood."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.39",
+   "en": "Hey, you seriously plan to go ahead with this job without Wing Zero?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.43",
+   "en": "Confirmed: Altron, and an enemy mobile doll unit of Virgos."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.46",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.47",
+   "en": "I am Altron! I will neither run nor hide!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.50",
+   "en": "Not yet... I'll keep fighting until I've crushed every last evil!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.51",
+   "en": "Altron!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.52",
+   "en": "There he is! Hey! Let's hurry!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.53",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.54",
+   "en": "Them again!? Get out of my way!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.56",
+   "en": "...At this rate, we'll lose sight of Altron!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.57",
+   "en": "Leave this to us!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.59",
+   "en": "Looks like we can't afford to rest up after all."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.61",
+   "en": "Now, go on ahead!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.62",
+   "en": "You two as well..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.63",
+   "en": "Don't worry about us. Hurry to Altron!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.64",
+   "en": "We'll catch up with you later!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.65",
+   "en": "Got it. I'll leave this to you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.67",
+   "en": "Hey! Wing Zero's not here!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.71",
+   "en": "Puppets controlled by an evil will! I'll wipe out every last one of you myself!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.73",
+   "en": "Target acquired... Destroying it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.74",
+   "en": "You're... Wing Zero! What do you think you're doing!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.75",
+   "en": "I came to help you... That's all."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.76",
+   "en": "Help me, you say!? Don't get the wrong idea. We are not comrades!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.77",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.78",
+   "en": "We don't have time to argue."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.79",
+   "en": "Tch..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.80",
+   "en": "Target acquired... There!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.81",
+   "en": "Stay out of my way!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.86",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.87",
+   "en": "Fresh reinforcements!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.90",
+   "en": "Kh! How dare you...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.91",
+   "en": "Fall back, Altron. I'll handle the rest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.92",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.96",
+   "en": "Mission complete."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.101",
+   "en": "Everyone!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.103",
+   "en": "Looks like you're safe."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.104",
+   "en": "Hey, you guys! I caught up with... huh?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.105",
+   "en": "What, looks like you didn't even need us to come."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.107",
+   "en": "Still, trying to take on that many by yourself... You haven't changed a bit."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.108",
+   "en": "I'm glad you're safe. It's been a long time, Altron."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.110",
+   "en": "And you lot are as softhearted as ever, I see."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.111",
+   "en": "...Altron. Do you still intend to act alone?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.66",
+   "note": "Rows 66-68: simultaneous two-column battle cry, 00 (Setsuna's 'eliminating the target') and Susanowo (Mr. Bushido's 'Susanowo, let us duel fair and square'). Bracket labels kept as [ ] (as ItemNameFormal renders the same brackets); deliberate 2-line layout kept with \\n. Cut at the Japanese row points, so 00's line runs passive: 'The target... will be eliminated!'"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.74",
+   "note": "Speakers for 020 rows 74-80 from Quest020.bla (mapping N+1, verified on the 00/Susanowo exchange rows 47-68). 74/76/79/80 Susanowo, 77-78 00. Formal Mr. Bushido register as in earlier Masurao lines."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.80",
+   "note": "Susanowo quoting the Hagakure maxim (Mr. Bushido's signature): rendered 'Bushido... is found... in death...', trailing off as in the source."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.82",
+   "note": "OkWin item message. Item name Unryu from QuestMess#0.221/0.521."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.84",
+   "note": "Quest title reused from QuestMess#0.21 'A Challenge Letter for 00'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.1",
+   "note": "Quest description row (no speaker). Location wording follows QuestMess#0.72. Compressed to fit 2 lines (335/336 px): 'waiting at' folded into 'at'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.5",
+   "note": "Speakers for DG_QUEST021 from Quest021.bla, mapping N+1 (TextIdOffset+4 -> row 5 etc., consistent through row 131). 5-8, 12 Maganac; 9/16/18/19/21/23 Wing Zero; 17/20/39/52/67 Ankh (fixed party member in this event)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.12",
+   "note": "Maganac's line when Wing Zero is not in the party. Maganac attach -sama to Wing Zero; 'Master' is reserved for their own leader Sandrock, so the honorific is dropped and politeness carried by tone."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.24",
+   "note": "Name shown as ??? (CHARA_NAME 30); it is Deathscythe Hell arriving (named in row 26). 'God of Death is comin' through!!' matches earlier Deathscythe lines."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.30",
+   "note": "Wing Zero asking after Deathscythe's earlier injuries; Deathscythe answers he has rested enough."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.39",
+   "note": "Ankh, played when Wing Zero is not in the party (addressed to the party)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.51",
+   "note": "Not referenced by any MessWinSet in Quest021.bla (unused row); speaker unknown, likely Wing Zero or Ankh."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.57",
+   "note": "Name shown as ???; Sandrock (polite first-person plural, named on his next line 61). 59/63/103/107 Heavyarms; 61/64/101/108 Sandrock."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.62",
+   "note": "Said to Heavyarms and Sandrock after Deathscythe already stayed behind: 'You two as well...'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.73",
+   "note": "Source writes the homophone 'hosoku' (supplement) for 'capture'; read as target acquired. Same in row 80."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.104",
+   "note": "Deathscythe Hell; subject restored as 'I' since he was fighting separately and arrives last. Line breaks off as he sees the fight is over."
+  }
+ ],
+ "report": "All 80 rows translated. Speakers from Quest020.bla / Quest021.bla (both N+1). Row 021#51 unused in the script (speaker guessed). Rows 020#66-68 two-column battle cry kept as a 2-line layout with [ ] labels. No new names."
+}

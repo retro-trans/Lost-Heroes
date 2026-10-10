@@ -1,0 +1,386 @@
+{
+ "slice": "quest_006",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.15",
+   "en": "Altron! What on earth happened?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.16",
+   "en": "Altron! What on earth happened?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.17",
+   "en": "Altron! What on earth happened?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.18",
+   "en": "Altron! What on earth happened?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.19",
+   "en": "While searching this military base, I found two new-model mobile dolls."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.20",
+   "en": "New-model mobile dolls!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.21",
+   "en": "Mobile dolls!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.22",
+   "en": "Mobile dolls!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.23",
+   "en": "Mobile dolls!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.24",
+   "en": "Mobile dolls!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.25",
+   "en": "Mobile dolls!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.26",
+   "en": "Mobile dolls!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.27",
+   "en": "Mobile dolls!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.28",
+   "en": "Mobile dolls!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.29",
+   "en": "Mobile dolls!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.30",
+   "en": "Mobile dolls!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.31",
+   "en": "Mobile dolls!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.32",
+   "en": "Mobile dolls!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.33",
+   "en": "Mobile dolls!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.34",
+   "en": "Mobile dolls!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.35",
+   "en": "That's right. And those mobile dolls are further inside."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.36",
+   "en": "If you salvage their equipment, it should make you all stronger."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.37",
+   "en": "If you need it, defeat them and take it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.38",
+   "en": "Mission accepted. You're not joining the fight?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.39",
+   "en": "Thanks for the report. You're not going to help us?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.40",
+   "en": "Thanks for the report. You're not going to help us?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.41",
+   "en": "Thanks for the report. You're not going to help us?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.42",
+   "en": "Thanks for the report. You're not going to help us?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.43",
+   "en": "Thank you for the report. Won't you help us, Altron?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.44",
+   "en": "Thanks for letting us know. Won't you help us?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.45",
+   "en": "Thanks for the heads-up! So you ain't helpin' us out?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.46",
+   "en": "Thanks for the report. Won't you help us out?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.47",
+   "en": "Thanks for the report. Won't you help us out?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.48",
+   "en": "Thank you so much for the report. Aren't you going to help us, Altron?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.49",
+   "en": "Thanks for the heads-up! You're not gonna help us, Altron?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.50",
+   "en": "Thanks for the report. Won't you help us out?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.51",
+   "en": "Thanks for the report. Won't you help us out?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.52",
+   "en": "Thanks for the report. Won't you help us out?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.53",
+   "en": "Hmph. What a foolish thing to say."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.54",
+   "en": "Fighting mobile dolls goes against my principles."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.55",
+   "en": "Leaving a battle of life and death to machines is what the degenerate do."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.56",
+   "en": "Now then, it's time I headed off on another mission."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.58",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.59",
+   "en": "With that, Altron Gundam departed."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.60",
+   "en": "What's with that guy!? Smug bastard."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.61",
+   "en": "Commencing operation."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.62",
+   "en": "Don't mind him. Anyway, we're taking down those mobile dolls."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.63",
+   "en": "Don't mind him. Anyway, we're taking down those mobile dolls."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.64",
+   "en": "Don't mind him. Anyway, we're taking down those mobile dolls."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.65",
+   "en": "Don't mind him. Anyway, we're taking down those mobile dolls."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.66",
+   "en": "Don't mind him, Ankh. Anyway, let's take down the mobile dolls."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.67",
+   "en": "Don't mind him. Anyway, let's take down the mobile dolls."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.68",
+   "en": "Don't sweat it! We're smashin' those mobile dolls, period!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.69",
+   "en": "Don't mind him. Anyway, we're taking down those mobile dolls."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.70",
+   "en": "Don't mind him. Anyway, we're taking down those mobile dolls."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.71",
+   "en": "Please don't mind him. Anyway, let's defeat the mobile dolls."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.72",
+   "en": "Don't mind him. Anyway, we're taking down those mobile dolls."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.73",
+   "en": "Don't mind him. Anyway, we're taking down those mobile dolls."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.74",
+   "en": "Don't mind him. Anyway, we're taking down those mobile dolls."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.75",
+   "en": "Don't mind him. Anyway, we're taking down those mobile dolls."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.80",
+   "en": "This is the place Altron was talking about, right? So where the hell are they?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.81",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.82",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.83",
+   "en": "They're here!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.84",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.85",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.86",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.87",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.88",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.89",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.90",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.91",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.92",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.93",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.94",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.95",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.96",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.97",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.100",
+   "en": "Obtained \"Planet Defensor\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.101",
+   "en": "Mission complete. Returning to base."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.15",
+   "note": "Speakers verified in Quest007.bla (table QuestEventMess007 = same text as DG_QUEST007_pk; TextIdOffset unset). MessWinSet(TextIdOffset+N) plays row N+1 with no shift: +2 -> row 3 (??? = Altron, CHARA_NAME 30 with Altron's portrait), +3 -> row 4 Wing Zero, +18/19 -> 19/20, +34-37 -> 35-38, +52-55 -> 53-56, +58 -> 59 (narration after CharaNameOut; empty row 57 is skipped without shifting, content confirms), +59 Ankh -> 60, +60 Wing Zero -> 61, +79-82 -> 80-83, +100 -> 101."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.16",
+   "note": "Pt_Chara_Check(9): Wing Zero is required and the script names CHARA_NAME 9 for every party line, so the 15-row leader blocks (4-18, 20-34, 38-52, 61-75, 83-97) only ever play their first row (Wing Zero). Other rows are unused variants voiced from wording. Wording fits the order Wing Zero, 00, God, Zeta, Nu, OOO, W, Den-O, RX, Rider 1, Mebius, Zero, Taro, Seven, Ultraman (OOO slot 66 names Ankh; Den-O slots 11/45/68 rough; Mebius slots 14/48/71 polite with -san) - inferred, not read from a script."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.17",
+   "note": "Rows 15-18 share the Japanese of rows 6/7/10/12/13 in quest_005; keep 'Altron! What on earth happened?' identical there."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.19",
+   "note": "Altron (Wufei voice, proud). 'Shingata' rendered 'new-model'; Wing Zero's reply 20 echoes it."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.36",
+   "note": "'Ryuuyou' = repurpose/salvage the dolls' gear; 'you all' = the party (omae-tachi)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.39",
+   "note": "Rows 39-52: 'omae' variants (39-42) and 'kimi' variants (46-47, 50-52) given slightly different English; identical Japanese kept identical. 43 OOO and 48 Mebius use Altron's name (-san dropped per honorifics rule); 45 Den-O and 49 Zero rough."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.55",
+   "note": "Wufei's stance: entrusting the exchange of lives to machines is what fallen/degenerate people do. Kept the full force."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.58",
+   "note": "Unused (script jumps from +55 to +58 -> row 59). Likely a silent reaction; rendered '...'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.59",
+   "note": "Narration (CharaNameOut). Source uses the full 'Altron Gundam' here, so kept."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.60",
+   "note": "Ankh (CHARA_NAME 36). 'Sukashita yarou' = smug/stuck-up bastard; not softened."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.62",
+   "note": "'Ki ni suru na' answers Ankh's complaint about Altron, so 'Don't mind him'. -zo variants (we're taking down) vs -ou variants 66/67/71 (let's) kept distinct. 68 has a source typo (nae for nee), read as rough Momotaros."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.81",
+   "note": "81 and 82: ??? (CHARA_NAME 30) with Mercurius and Vayeate portraits - the two mobile dolls."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.83",
+   "note": "Wing Zero 'Kita ka!!' -> 'They're here!!'; the unused variants 84-97 'Kita zo!!' -> 'Here they come!!'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.100",
+   "note": "Same Japanese as QuestMess#0.508, reused verbatim: 'Obtained \"Planate Defenser\".' Not referenced by MessWinSet (the OkWinIn calls point at +115-117). Note the corpus also uses 'Planet Defenser' (ChipLib, SkillMessage) for the same term - item/skill/QuestMess use 'Planate'; needs a glossary decision."
+  }
+ ],
+ "report": "80/80 rows examined. Speakers from Quest007.bla (row = TextIdOffset+N+1, no shift): Altron 19/35-37/53-56, Wing Zero 20/38/61/83/101, narration 59, Ankh 60/80, Mercurius/Vayeate (???) 81-82. Wing Zero is the required, script-fixed speaker, so the leader-variant rows 15-18, 21-34, 39-52, 62-75, 84-97 and row 58 are unused; voiced from wording. Row 100 reuses QuestMess wording; 'Planate Defenser' vs 'Planet Defenser' is inconsistent across the corpus. No new names."
+}

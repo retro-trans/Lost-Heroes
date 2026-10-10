@@ -1,0 +1,362 @@
+{
+ "slice": "story_120",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0631.mbb#0.70",
+   "en": "Yeah!! We just go there and blast the enemies away, right!?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.71",
+   "en": "Understood."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.72",
+   "en": "Understood."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.73",
+   "en": "Understood!!"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.74",
+   "en": "Understood!!"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.75",
+   "en": "Finally, Cherudim, Arios and I, the three of us, will head for Veda itself."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.76",
+   "en": "Gundam Team, Hero Team: I want you to move as flashily as you can and draw the enemy's eyes."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.77",
+   "en": "So basically, we're decoys?"
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.78",
+   "en": "No. If any one of the three operations succeeds, we can stop the launch."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.79",
+   "en": "Give priority to your own objectives."
+  },
+  {
+   "key": "MainEventMess0632.mbb#0.1",
+   "en": "Past this point is the Gundam Team's job."
+  },
+  {
+   "key": "MainEventMess0632.mbb#0.2",
+   "en": "We've got Area 3. We're searching for the spot with the high energy readings."
+  },
+  {
+   "key": "MainEventMess0632.mbb#0.3",
+   "en": "Check the MAP. First, we head for the stairs."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.1",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.2",
+   "en": "...A Death Army!!"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.3",
+   "en": "Death Army?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.4",
+   "en": "Death Army?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.5",
+   "en": "Death Army?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.6",
+   "en": "Death Army?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.7",
+   "en": "Death Army?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.8",
+   "en": "Death Army?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.9",
+   "en": "Death Army?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.10",
+   "en": "Death Army?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.11",
+   "en": "Death Army?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.12",
+   "en": "Death Army?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.13",
+   "en": "Death Army?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.14",
+   "en": "Death Army?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.15",
+   "en": "Death Army?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.16",
+   "en": "Death Army?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.17",
+   "en": "It's a mobile weapon spawned by the Devil Gundam."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.18",
+   "en": "If this thing is here, that means the Devil Gundam is nearby!!"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.19",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.20",
+   "en": "What's going on...? Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.21",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.22",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.23",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.24",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.25",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.26",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.27",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.28",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.29",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.30",
+   "en": "Hey, what's the deal...!! Ain't ya gonna come at us!?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.31",
+   "en": "Strange, though... Isn't it going to attack...?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.32",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.33",
+   "en": "Right, if it won't come to us, we'll make the first move! Death Army!!"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.34",
+   "en": "Fight the Death Army?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.38",
+   "en": "...Fine. Let's avoid a pointless fight."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.42",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.43",
+   "en": "What is this? It looks like a mobile suit, but..."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.44",
+   "en": "What is this thing... Is it a mobile suit?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.45",
+   "en": "What is this... Can this really be a mobile suit?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.46",
+   "en": "What is this... It looks like a mobile suit..."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.47",
+   "en": "What is this? It's an enemy I don't recognize..."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.48",
+   "en": "What is this? It's an enemy I don't recognize..."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.49",
+   "en": "What is this? It's an enemy I don't recognize..."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.50",
+   "en": "What are you...!! You don't seem to be a kaiju or an alien..."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.51",
+   "en": "What are you...!! You don't seem to be a kaiju or an alien, but..."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.52",
+   "en": "You...!! What are you!!"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.53",
+   "en": "You...!! What are you!!"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.54",
+   "en": "The hell are you... You sure don't look like an Imagin!!"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.55",
+   "en": "What? This enemy... It doesn't seem to be a Dopant, though..."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.56",
+   "en": "What is this? It doesn't look like a Yummy, though..."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.57",
+   "en": "...That thing's what they call a Death Army. I've seen it in the base's database."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.58",
+   "en": "If I remember right, it's a mobile suit spawned by the Devil Gundam's Self-Multiplication ability..."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.59",
+   "en": "...I see! That means the Devil Gundam is somewhere nearby...!!"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.61",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.62",
+   "en": "What's going on...? Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.63",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.64",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.65",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.66",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.67",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.68",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.69",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.70",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.71",
+   "en": "Strange, though... Isn't it going to attack?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.72",
+   "en": "Hey, what's the deal...!! Ain't ya gonna come at us!?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.73",
+   "en": "Strange, though... Isn't it going to attack...?"
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.74",
+   "en": "Strange, though... Isn't it going to attack?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0631.mbb#0.70",
+   "note": "#0.60-74 leader block (TextIdOffset+59+k); second Pt_Chara_Check chain in 0631.bla gives k order: Wing Zero, God, 00, Zeta, Nu, Zero, Mebius, OOO, W, Taro, Den-O Sword (Momotaros), Seven, Ultraman, Rider 1, RX. So #0.70 = Momotaros (wording fits), #0.71 Seven, #0.72 Ultraman, #0.73 Rider 1, #0.74 RX. Same order fits #0.43-57 (desu-ne = Mebius/OOO, da-ne = W)."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.75",
+   "note": "#0.75-76 and #0.78-79 = Seravee (CHARA_NAME 73, boku = Tieria); #0.77 = Ankh (CHARA_NAME 36). 'Gundam Team' = the Sandrock/Deathscythe/Heavyarms/Birth group Seravee named in #0.40."
+  },
+  {
+   "key": "MainEventMess0632.mbb#0.1",
+   "note": "Ankh at the split point: read as 'past here is the Gundam Team's assignment' (their area), the Hero Team going to Area 3."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.3",
+   "note": "0635 chain (no God Gundam; God has his own path): Nu, Zeta, 00, Wing Zero, Ultraman, Seven, Taro, Mebius, Zero, Rider 1, RX, Den-O Sword, W, OOO. Applies to #0.3-16, #0.19-32, #0.43-56, #0.61-74; wording confirms (#0.54 Imagin = Momotaros, #0.55 Dopant = W, #0.56 Yummy = OOO, #0.30/#0.72 rough = Momotaros)."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.2",
+   "note": "Script branches: God Gundam in party -> God explains (#0.2, #0.17-18, #0.33), leader reacts; no God -> Ankh explains (#0.57-59). #0.1 and #0.42 silent '...' = the Death Army (??? / no label). 'Death Army' not pluralised (G Gundam usage)."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.33",
+   "note": "'kochira kara shikakeyou' -> 'we'll make the first move'; 'Death Army!!' read as Domon calling out the enemy."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.59",
+   "note": "Script gives #0.59 to Ankh too (CharaNameIn 36 for #0.57-59), though the 'I see!' realisation reads like another speaker; kept as Ankh."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.50",
+   "note": "Mebius (#0.50) and Zero (#0.51) differ only by final particle (na vs ga); kaijuu -> 'kaiju' as in earlier slices. 'nanimono da' to a machine -> 'What are you'."
+  }
+ ],
+ "report": "80/80 rows. Leader blocks mapped via each script's second Pt_Chara_Check chain (0631 and 0635 orders differ). Uncertain: #0632 0.1 'Gundam Team's job' (area vs task); #0635 0.59 assigned to Ankh by script though it reads like a separate realisation. Not in glossary: Gundam Team, Area 3, Veda (used before), mobile weapon."
+}

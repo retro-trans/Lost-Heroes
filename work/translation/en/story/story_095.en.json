@@ -1,0 +1,382 @@
+{
+ "slice": "story_095",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0533.mbb#0.5",
+   "en": "\"YESTERDAY!!\""
+  },
+  {
+   "key": "MainEventMess0533.mbb#0.7",
+   "en": "And then..."
+  },
+  {
+   "key": "MainEventMess0533.mbb#0.8",
+   "en": "\"CLANG!!\""
+  },
+  {
+   "key": "MainEventMess0533.mbb#0.9",
+   "en": "An especially loud metallic clang rang out, and the door bearing the medal crest quietly swung open."
+  },
+  {
+   "key": "MainEventMess0533.mbb#0.10",
+   "en": "...That did it! Let's go!"
+  },
+  {
+   "key": "MainEventMess0534.mbb#0.1",
+   "en": "\"Arms Memory\"\nThe Gaia Memory of weapons"
+  },
+  {
+   "key": "MainEventMess0534.mbb#0.2",
+   "en": "The letter \"A\" is marked in the center of the Memory."
+  },
+  {
+   "key": "MainEventMess0534.mbb#0.3",
+   "en": "There's a switch. Press it?"
+  },
+  {
+   "key": "MainEventMess0534.mbb#0.4",
+   "en": "{8074} pressed the switch."
+  },
+  {
+   "key": "MainEventMess0534.mbb#0.5",
+   "en": "\"ARMS!!\""
+  },
+  {
+   "key": "MainEventMess0534.mbb#0.6",
+   "en": "\"Click...\""
+  },
+  {
+   "key": "MainEventMess0534.mbb#0.7",
+   "en": "There was a faint sound from over by the door."
+  },
+  {
+   "key": "MainEventMess0534.mbb#0.9",
+   "en": "And then..."
+  },
+  {
+   "key": "MainEventMess0534.mbb#0.10",
+   "en": "\"CLANG!!\""
+  },
+  {
+   "key": "MainEventMess0534.mbb#0.11",
+   "en": "An especially loud metallic clang rang out, and the door bearing the medal crest quietly swung open."
+  },
+  {
+   "key": "MainEventMess0534.mbb#0.12",
+   "en": "...That did it! Let's go!"
+  },
+  {
+   "key": "MainEventMess0535.mbb#0.1",
+   "en": "\"Puppeteer Memory\"\nThe Gaia Memory of the puppeteer"
+  },
+  {
+   "key": "MainEventMess0535.mbb#0.2",
+   "en": "The letter \"P\" is marked in the center of the Memory."
+  },
+  {
+   "key": "MainEventMess0535.mbb#0.3",
+   "en": "There's a switch. Press it?"
+  },
+  {
+   "key": "MainEventMess0535.mbb#0.4",
+   "en": "{8074} pressed the switch."
+  },
+  {
+   "key": "MainEventMess0535.mbb#0.5",
+   "en": "\"PUPPETEER!!\""
+  },
+  {
+   "key": "MainEventMess0535.mbb#0.7",
+   "en": "And then..."
+  },
+  {
+   "key": "MainEventMess0535.mbb#0.8",
+   "en": "\"CLANG!!\""
+  },
+  {
+   "key": "MainEventMess0535.mbb#0.9",
+   "en": "An especially loud metallic clang rang out, and the door bearing the medal crest quietly swung open."
+  },
+  {
+   "key": "MainEventMess0535.mbb#0.10",
+   "en": "...That did it! Let's go!"
+  },
+  {
+   "key": "MainEventMess0551.mbb#0.1",
+   "en": "Look! They've got Cell Medals on display!"
+  },
+  {
+   "key": "MainEventMess0551.mbb#0.3",
+   "en": "\"Bird-type Core Medals\"\n\"Taka, Kujaku, Condor\""
+  },
+  {
+   "key": "MainEventMess0551.mbb#0.4",
+   "en": "But there was nothing on display there."
+  },
+  {
+   "key": "MainEventMess0551.mbb#0.5",
+   "en": "Tch! Why the hell isn't the real thing here!? The bird Cores are mine!"
+  },
+  {
+   "key": "MainEventMess0552.mbb#0.1",
+   "en": "\"Bird-type Core Medals\"\n\"Taka, Kujaku, Condor\""
+  },
+  {
+   "key": "MainEventMess0552.mbb#0.2",
+   "en": "But there was nothing on display there."
+  },
+  {
+   "key": "MainEventMess0553.mbb#0.1",
+   "en": "\"Aquatic-type Core Medals\"\n\"Shachi, Unagi, Tako\""
+  },
+  {
+   "key": "MainEventMess0553.mbb#0.2",
+   "en": "But there was nothing on display there."
+  },
+  {
+   "key": "MainEventMess0554.mbb#0.1",
+   "en": "\"Insect-type Core Medals\"\n\"Kuwagata, Kamakiri, Batta\""
+  },
+  {
+   "key": "MainEventMess0554.mbb#0.2",
+   "en": "But there was nothing on display there."
+  },
+  {
+   "key": "MainEventMess0555.mbb#0.1",
+   "en": "\"Heavy-type Core Medals\"\n\"Sai, Gorilla, Zou\""
+  },
+  {
+   "key": "MainEventMess0555.mbb#0.2",
+   "en": "But there was nothing on display there."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.1",
+   "en": "\"Cat-type Core Medals\"\n\"Lion, Tora, Cheetah\""
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.2",
+   "en": "The actual medals were on display there."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.3",
+   "en": "Kazari's Core Medals, huh. Right, I'll be taking these."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.4",
+   "en": "Whoops, I can't let you do that!?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.5",
+   "en": "Suddenly, someone cut in and snatched the three Core Medals from Ankh."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.6",
+   "en": "...!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.9",
+   "en": "These are my Cores, after all. Sorry, but I'll be taking them, okay?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.10",
+   "en": "Then Kazari pushed the Core Medals in his hand into his body, one by one."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.11",
+   "en": "Kazari, you...!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.12",
+   "en": "Uuuooooooooooooooohhh!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.13",
+   "en": "Kazari...!? What's wrong with him!?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.14",
+   "en": "Kazari...!? What's happening!?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.15",
+   "en": "Kazari...!? Damn you, hogging the spotlight!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.16",
+   "en": "Kazari...!? What on earth is happening!?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.17",
+   "en": "Kazari...!? Hey, Ankh, what on earth is...?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.18",
+   "en": "Kazari...!? What on earth is happening!?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.19",
+   "en": "Kazari...!? What on earth is happening!?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.20",
+   "en": "Kazari...!? What on earth is happening!?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.21",
+   "en": "Kazari...!? What on earth is going on!?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.22",
+   "en": "Kazari...!? What on earth has happened!?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.23",
+   "en": "Kazari...!? What on earth has happened!?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.24",
+   "en": "Kazari!? So this is what a Greeed is!? What on earth is going on!?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.25",
+   "en": "Kazari...!? What on earth is happening!?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.26",
+   "en": "Kazari...!? What on earth is happening!?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.27",
+   "en": "Kazari...!? What on earth is happening!?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.29",
+   "en": "Tch... He's absorbed the Cores."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.30",
+   "en": "Haaaaah!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.31",
+   "en": "Whoa!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.32",
+   "en": "Ngh...!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.33",
+   "en": "Whoaaa!! Whoops... I let my guard down."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.34",
+   "en": "Uagh!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.35",
+   "en": "Whoa...!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.36",
+   "en": "What...!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.37",
+   "en": "Whoa...!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.38",
+   "en": "What...!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.39",
+   "en": "Gah...!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.40",
+   "en": "Gwah...!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.41",
+   "en": "Gwah...!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.42",
+   "en": "Gah...!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.43",
+   "en": "Gaaah!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.44",
+   "en": "Ngh...!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.45",
+   "en": "Hnn...!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.47",
+   "en": "Ngh...!! What power...!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0533.mbb#0.5",
+   "note": "Continues the G-A-I-A Memory door puzzle from story_094; captions, voice calls, door text and Ankh's 'That did it!' reuse story_094's wording for consistency."
+  },
+  {
+   "key": "MainEventMess0534.mbb#0.6",
+   "note": "Faint 'Click...' only for Arms (A), matching the G-A-I-A puzzle as in story_094; Puppeteer gets none."
+  },
+  {
+   "key": "MainEventMess0535.mbb#0.1",
+   "note": "Puppeteer Memory: official W name; not in glossary."
+  },
+  {
+   "key": "MainEventMess0551.mbb#0.1",
+   "note": "Source says Cell Medals although the exhibits that follow are Core Medal cases; kept as written (possibly a source slip for Core Medals)."
+  },
+  {
+   "key": "MainEventMess0551.mbb#0.3",
+   "note": "Core Medal exhibit captions keep the two-line layout. Medal names use the established romanized OOO names (Taka/Kujaku/Condor, Shachi/Unagi/Tako, Kuwagata/Kamakiri/Batta, Sai/Gorilla/Zou, Lion/Tora/Cheetah), in line with the glossary's 'Taka Candroid'. Not in glossary. 'X-type' mirrors the source suffix and the earlier 'bird-type Greeed'. Source has 'electric eel'; given as the usual medal name Unagi."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.4",
+   "note": "??? = Kazari (revealed at #0.9). Teasing 'sou wa ikanai yo' kept with the source's !?."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.10",
+   "note": "Glossary g=m for Kazari, so 'his'."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.13",
+   "note": "#0.13-27 = 15 leader variants (TextIdOffset+12+k). Order from the second Pt_Chara_Check chain in 0560.bla (ids 5,4,3,2,1,6,15,7,14,12,11,13,8,9,10): OOO, W, Den-O, RX, Rider 1, Nu, Zero, Zeta, Mebius, Seven, Ultraman, id 13 (unidentified, Ultra-like), God, Wing Zero, 00. Confirmed by wording: Momotaros taunt at k2, 'nanoda' (Seven/Ultraman) at k9-10, Ultras' Gah/Gwah cluster at k8-11 in #0.31-45. Identical Japanese kept identical."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.15",
+   "note": "Momotaros: 'medachi-yagatte' = showing off / stealing the spotlight, kept rude."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.17",
+   "note": "Rider 1 slot by chain order; trailing-off question kept unfinished."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.24",
+   "note": "Slot k11 = chara id 13 (unidentified; an Ultra by the #0.42 cry), reacting to a Greeed for the first time."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.29",
+   "note": "Subject 'he' restored (Kazari absorbed the Cores)."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.33",
+   "note": "Momotaros slot: surprised yell then 'let my guard down'; subject 'I' restored."
+  }
+ ],
+ "report": "80/80 rows. Memory-door rows reuse story_094 wording. Leader-variant order for #0.13-27 and #0.31-45 from 0560.bla second Pt_Chara_Check chain; slot k11 (chara id 13) unidentified. 0551 #0.1 source says Cell Medals before Core Medal exhibits (kept). Not in glossary: Arms/Puppeteer/Yesterday Memory, Core Medal names (romanized OOO names)."
+}

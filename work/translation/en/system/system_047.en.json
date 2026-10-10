@@ -1,0 +1,350 @@
+{
+ "slice": "system_047",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Common/CharacterName.mbb#3.177",
+   "en": "Tyrant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.178",
+   "en": "Tyrant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.179",
+   "en": "Shocker Greeed"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.180",
+   "en": "Zone Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.181",
+   "en": "Bogal Monst"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.182",
+   "en": "Virgo"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.183",
+   "en": "Isoginjaguar"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.184",
+   "en": "Jewel Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.185",
+   "en": "Arms Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.186",
+   "en": "Alien Metron"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.187",
+   "en": "Woo"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.188",
+   "en": "Haro"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.189",
+   "en": "Jagd Doga"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.190",
+   "en": "Lunaticks"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.191",
+   "en": "Snowgon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.192",
+   "en": "Kemjila"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.193",
+   "en": "Lodora"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.194",
+   "en": "Dada"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.198",
+   "en": "W (Shotaro & Philip)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.199",
+   "en": "W (Philip)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.200",
+   "en": "00's Voice"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.201",
+   "en": "Gaddess"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.202",
+   "en": "Gadessa"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.203",
+   "en": "Garazzo"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.204",
+   "en": "Regnant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.205",
+   "en": "Gundam Epyon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.206",
+   "en": "Jark Midora"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.207",
+   "en": "Devil Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.208",
+   "en": "Reborns Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.209",
+   "en": "Ahead Smultron"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.210",
+   "en": "Gaga"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.214",
+   "en": "Masurao"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.215",
+   "en": "GM II"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.216",
+   "en": "Tieren"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.217",
+   "en": "Seravee's Voice"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.218",
+   "en": "Skull (Dummy Dopant)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.219",
+   "en": "Momo, Ura, Kin & Ryu"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.220",
+   "en": "Bemstar"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.222",
+   "en": "Pteranodon Yummy (M)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.223",
+   "en": "Pteranodon Yummy (F)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.224",
+   "en": "Dinosaur Greeed"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.225",
+   "en": "Birdon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.226",
+   "en": "Gundam Head"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.227",
+   "en": "Grand Master Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.228",
+   "en": "Geronimon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.229",
+   "en": "Regis"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.230",
+   "en": "Devil Gundam Final"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.231",
+   "en": "Beryudora"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.232",
+   "en": "Kamen Rider Core"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.235",
+   "en": "U-Killersaurus Neo"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.236",
+   "en": "Sazabi"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.237",
+   "en": "Gel-Shocker Leader"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.239",
+   "en": "Masquerade Dopant A"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.240",
+   "en": "Masquerade Dopant B"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.241",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.242",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.243",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.244",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.245",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.246",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.247",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.248",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.249",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.250",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.251",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.252",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.253",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.254",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.255",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.256",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.257",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.258",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.259",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.260",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.261",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.262",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.263",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.264",
+   "en": "Unnamed (Comms)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.265",
+   "en": "Cross"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.266",
+   "en": "Rider"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Common/CharacterName.mbb#3.183",
+   "note": "Isoginjaguar (Kamen Rider Black RX kaijin, sea anemone + jaguar); not in glossary, rendered descriptively."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.230",
+   "note": "Final-form label shortened to fit 168 px."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.241",
+   "note": "Dev label for unnamed comms speaker; same for rows 241-264."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.265",
+   "note": "Literally 'cross' (crucifix); likely a dev/test entry."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.235",
+   "note": "Ultraman Mebius movie monster; romanized, not in glossary."
+  }
+ ],
+ "report": "Enemy/speaker name table. Glossary names used verbatim. New terms not in glossary: Sea Anemone Jaguar, U Killersaurus Neo, Unnamed (Comms), Cross, Rider (labels), Devil Gundam Final, Sazabi."
+}

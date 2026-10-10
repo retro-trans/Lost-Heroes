@@ -1,0 +1,386 @@
+{
+ "slice": "story_062",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0356.mbb#0.136",
+   "en": "...Ace! It's too dangerous in your condition. Let's get you to the base!!"
+  },
+  {
+   "key": "MainEventMess0356.mbb#0.137",
+   "en": "...Ace! It's too dangerous in your condition. Please, let's get you to the base!!"
+  },
+  {
+   "key": "MainEventMess0356.mbb#0.138",
+   "en": "...Ace! It's too dangerous in your condition. Let's get you to the base!!"
+  },
+  {
+   "key": "MainEventMess0356.mbb#0.139",
+   "en": "...Ace! It's too dangerous in your condition. Please, let's get you to the base!!"
+  },
+  {
+   "key": "MainEventMess0356.mbb#0.140",
+   "en": "...Ace, it's dangerous in your condition. Let's go to the base."
+  },
+  {
+   "key": "MainEventMess0356.mbb#0.141",
+   "en": "...Ace, it's dangerous in your condition. Let's go to the base."
+  },
+  {
+   "key": "MainEventMess0356.mbb#0.142",
+   "en": "The base? He can be treated there!? Good, then I'll take on the job of carrying Ace."
+  },
+  {
+   "key": "MainEventMess0356.mbb#0.144",
+   "en": "The badly wounded Ace was carried to the base by Ultraman."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.1",
+   "en": "That's...!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.2",
+   "en": "That's...!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.3",
+   "en": "That's...!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.4",
+   "en": "That's...!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.5",
+   "en": "That's...!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.6",
+   "en": "That's...!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.7",
+   "en": "That's...!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.8",
+   "en": "That's...!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.9",
+   "en": "That's...!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.10",
+   "en": "That's...!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.11",
+   "en": "That's...!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.12",
+   "en": "That's...!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.17",
+   "en": "Ultraseven and Ultraman Jack have been crucified on the crosses!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.21",
+   "en": "Dad...!! And Jack too!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.22",
+   "en": "...So it's you, Zero."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.23",
+   "en": "You made it all the way here... That's my son."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.24",
+   "en": "What're you doing...!! Getting yourself caught like that!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.25",
+   "en": "To think I'd be saved by you once again..."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.26",
+   "en": "Never mind that!! Let's get outta here, quick!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.27",
+   "en": "Wait...! ...It's them!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.28",
+   "en": "...!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.29",
+   "en": "Heh heh heh heh."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.30",
+   "en": "This place will be your graveyard."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.31",
+   "en": "Where are you!? Where the hell are you hiding!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.35",
+   "en": "Brother Seven!! And Brother Jack!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.36",
+   "en": "Seven! Jack!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.37",
+   "en": "Ultraseven! Ultraman Jack!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.38",
+   "en": "Ultraseven and Ultraman Jack!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.39",
+   "en": "You're Seven and Jack, if I remember right! Hang on, I'll get you outta there!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.40",
+   "en": "Ultraseven! And Ultraman Jack!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.41",
+   "en": "Ultraseven! And Ultraman Jack!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.42",
+   "en": "Ultraseven! Ultraman Jack!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.43",
+   "en": "Ultraseven! Ultraman Jack!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.44",
+   "en": "Seven and Jack..."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.45",
+   "en": "Seven and Jack..."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.46",
+   "en": "Heh heh heh heh."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.47",
+   "en": "This place will be your graveyard."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.48",
+   "en": "Huh? Who's there!?"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.56",
+   "en": "We are the invincible Alien Guts, never once defeated in any battle."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.57",
+   "en": "We have already analyzed your ability data from your battles so far."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.58",
+   "en": "First, Ultraman Zero..."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.59",
+   "en": "A young Ultra Warrior whose father is Seven. His main weapons are the two \"Zero Sluggers\"."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.60",
+   "en": "Next, OOO..."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.61",
+   "en": "A Kamen Rider powered by O Medals, he uses various combos to suit the situation."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.62",
+   "en": "00 is a Gundam equipped with two GN Drives."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.63",
+   "en": "The power generated by its \"Twin Drive System\" is immeasurable."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.64",
+   "en": "And then, Ultraman Mebius..."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.65",
+   "en": "His special attack is the \"Mebium Shoot\". That heat ray could pierce any metal."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.66",
+   "en": "Furthermore, Kamen Rider W..."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.67",
+   "en": "Oi! How long are you planning to keep this up?"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.68",
+   "en": "By the power of the Earth's memories, the Gaia Memories..."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.69",
+   "en": "Tch! Knock it off!! We're making the first move!!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.71",
+   "en": "Obtained the \"Execution Ground Key (Right)\"."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.72",
+   "en": "Ultraman Zero and the others rescued Ultraseven and Ultraman Jack."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.73",
+   "en": "Dad!! Are you okay!?"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.74",
+   "en": "It'll take more than this to bring me down."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.75",
+   "en": "Figures. That's my dad for ya!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.76",
+   "en": "But Zero... you did well to defeat a formidable foe like Alien Guts."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.77",
+   "en": "I didn't do it on my own. It's all thanks to my friends."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.78",
+   "en": "Heh... You've become someone I can rely on, Zero."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.79",
+   "en": "Cut it out, Dad... Right now, all of us have to bring our strength together as one."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.80",
+   "en": "Indeed... We intend to fight alongside you as well. But in the battle before Jack was crucified..."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.81",
+   "en": "Wait, Brother Seven. A wound like this..."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.82",
+   "en": "Jack! Don't push yourself! You've taken heavy damage."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.83",
+   "en": "Then you should get treated at the base. It's well equipped, so you'll be fine."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.84",
+   "en": "Very well, I'll carry Jack. Tell me where it is."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.85",
+   "en": "The badly wounded Ultraman Jack was carried to the base by Ultraseven."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.86",
+   "en": "Ultraseven joined the party!"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.89",
+   "en": "{8074} and the others rescued Ultraseven and Ultraman Jack."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.90",
+   "en": "Brother Seven, Brother Jack, are you all right!?"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.91",
+   "en": "Seven! Jack, are you okay!?"
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.92",
+   "en": "Seven, Jack! Are you both okay!?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0356.mbb#0.136",
+   "note": "#0.136-0.141 continue the 11 leader variants begun at #0.131 (story_061). Same slot pattern as the 0357 blocks: #0.135 rough, #0.137/#0.139 polite (desu/masu) -> 'Please,'; #0.140-0.141 curt, no exclamation. Identical Japanese kept identical."
+  },
+  {
+   "key": "MainEventMess0356.mbb#0.142",
+   "note": "No speaker recovered; Ultraman by context (same line is labelled Ultraman at #0.96 in story_061, and #0.144 says Ultraman carried Ace). 'He' = Ace."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.1",
+   "note": "#0.1-0.12 twelve leader variants, all identical -> identical English."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.21",
+   "note": "Zero's 'oyaji' for Seven rendered 'Dad' throughout (#0.21, #0.73, #0.75, #0.79); no earlier English precedent found."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.29",
+   "note": "Speaker '???' = Alien Guts (named at #0.56). Laugh 'fu fu fu fu' as 'Heh heh heh heh.'; #0.46-0.47 repeat it identically (only a comma differs in #0.30 vs #0.47)."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.31",
+   "note": "Labelled Ultraman, but the rough 'iyagaru' doesn't fit Ultraman's voice; likely Zero (this is Zero's branch). Text written speaker-neutral, label left to the extractor; please verify."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.35",
+   "note": "#0.35-0.45 eleven leader variants: #0.35 Mebius ('niisan' -> 'Brother', per 'Brother Hikari' precedent), #0.39 rough (Momotaros-type), #0.44-0.45 curt."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.56",
+   "note": "Alien Guts speaks as 'we' (wareware); kept plural. #0.56-0.68 is its ability rundown, interrupted by Ankh."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.59",
+   "note": "'Zero Slugger' and 'Twin Drive System' (#0.63) and 'O Medals' (#0.61) are not in the glossary; used the franchise English names. Quoted as in the source brackets."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.62",
+   "note": "Taiyouro -> 'GN Drive' per glossary (never 'Solar Furnace')."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.71",
+   "note": "Key item name not yet in a translated item table; rendered 'Execution Ground Key (Right)'. Check against ItemNameFormal when items are translated (the Left key appears in story_061 #0.82)."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.78",
+   "note": "Seven's 'tanomoshiku natta na' = Zero has become dependable; not a request."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.81",
+   "note": "Jack's 'kore gurai no kizu...' trails off as in the source (he means he can still fight)."
+  },
+  {
+   "key": "MainEventMess0357.mbb#0.89",
+   "note": "Non-Zero branch begins: {8074} = party leader. #0.90-0.92 leader variants continue into story_063 (#0.90 Mebius, polite)."
+  }
+ ],
+ "report": "80/80 rows. Uncertain: #0357 0.31 labelled Ultraman but voiced like Zero; #0356 0.142 speaker inferred (Ultraman). Not in glossary: Zero Slugger, O Medals, Twin Drive System, Execution Ground Key (Right) item; 'Dad' for Zero's oyaji."
+}

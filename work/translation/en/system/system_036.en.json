@@ -1,0 +1,338 @@
+{
+ "slice": "system_036",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.29",
+   "en": "Also known as the \"Poison Gas Kaiju.\" Breathes deadly poison gas and fires a destructive beam from the tip of its tail. Its extremely tough hide gives it high DEF."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.30",
+   "en": "A soldier of the Crisis Empire. Color and weaponry differ by unit."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.31",
+   "en": "Poorly armed with only a chain rifle or missile pod, but shows extremely high ability in aerial combat."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.32",
+   "en": "Armed with a 155mm 50-caliber smoothbore gun and a carbon spear. Known for high firepower and armor."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.33",
+   "en": "Armed with a beam cannon, laser gun and beam rifle. Its speed overwhelms all others."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.34",
+   "en": "Armed with a beam rifle and cannon. Good at shelling distant enemies."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.35",
+   "en": "Masters many weapons, including a 105mm rifle, Dover Gun and beam rifle."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.36",
+   "en": "Armed with a 200mm 25-caliber smoothbore gun and a 30mm cannon. Known for high firepower and armor."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.37",
+   "en": "A cat-type Yummy created by Kazari. Slashes foes with its quick movements and fingertips tipped with scalpel-like blades."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.38",
+   "en": "Armed with a 30mm machine gun, a 200mm 25-caliber smoothbore gun and a carbon blade. With thrusters and propellant tanks fitted, it can fight in space too."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.39",
+   "en": "Its official name is Helion Velvetum. Armed with many weapons, including a linear rifle, sonic blade and defense rod."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.40",
+   "en": "Also known as the \"Regeneration Kaiju.\" Said to be able to regenerate as long as even a single cell remains. Breathes scorching flame, and its tough hide withstands beam attacks such as lasers."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.41",
+   "en": "A sea lion-type cyborg. Blasts a freezing jet at 300 degrees below zero from its mouth, instantly freezing foes."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.42",
+   "en": "An aquatic Yummy made by Mezool. Individually weak, but they attack in swarms and give foes no time to rest. Also good at powerful bite attacks."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.43",
+   "en": "The Titans' general-purpose mass-produced mobile suit. Armed with a beam rifle, Vulcan pod, beam saber and more."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.44",
+   "en": "Known as the \"Sea Beast.\" It normally lives in the sea but is just as active on land. Its charge, thrusting out its sharp, pointed nose, is powerful."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.45",
+   "en": "An aquatic Yummy created by Mezool. Besides swimming, it can temporarily liquefy its surroundings to burrow underground. Water it spits from its mouth is highly compressed and very destructive."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.46",
+   "en": "A commander mobile suit with different coloring from the Aries. Other than its looks, there is not much difference."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.47",
+   "en": "A Kaima Robot of the Crisis Empire. Can fight freely even in 1,000-degree heat. Despite its heavy build, it uses both arms nimbly in hand-to-hand combat."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.48",
+   "en": "An Imagin that took shape from the image of the snowman in the story \"The Snowman.\" Good at breathing -180 degree air to freeze and shatter foes, and at gliding down from high places to jab with its cane."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.49",
+   "en": "A Dopant containing the Ice Age memory. Emits absolute-zero supercold from its whole body to freeze foes. It can also freeze water into ice arrows and form ice duplicates of itself."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.50",
+   "en": "A Kaima Robot of the Crisis Empire. Its main weapons are sharp steel claws and rapid-fire beams. It can lock onto enemy positions with its sight and analyze their performance."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.51",
+   "en": "A kaiju resembling an antlion. Digs a giant sand pit in the desert to ambush prey. Boasts high combat ability with its huge jaws and a magnetic ray that pulls in everything."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.52",
+   "en": "A Greeed with an aquatic form and powers. Caring and gentle, it keeps the Greeed together. Controls water at will, shooting high-pressure jets from its arms or liquefying itself to bewilder foes."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.53",
+   "en": "A member of Team Trinity. Equipped with the \"GN Drive Tau,\" a GN Drive Tau that generates GN particles, and fights in a style specialized for shelling."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.54",
+   "en": "A member of Team Trinity. Good at melee combat, and also wields the remote-guided special weapon \"GN Fangs.\""
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.55",
+   "en": "A member of Team Trinity. Has much support-oriented gear, such as the \"GN Stealth Field\" that jams a wide area. Mainly backs up Eins and Zwei."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.56",
+   "en": "Armed with a Bio-Sensor (a kind of Psycommu), beam sword and beam rifle. Despite its looks, it has high agility and mobility."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.57",
+   "en": "A mantis cyborg. Its left hand is a huge sickle, but it also carries a chain sickle as a weapon."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.58",
+   "en": "A cat-type Yummy created by Kazari. Besides body slams and blows using its weight, it can fire Cell Medal power as energy bullets. Thick fat absorbs impacts, so ordinary attacks barely hurt it."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.59",
+   "en": "Called the \"Three-Faced Kaijin\" because it has three faces. Good at teleporting and walking through walls. Carries a \"Micronizer\" used to capture targets."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.60",
+   "en": "A bird-like \"Great Space Kaiju.\" Its weapons are the huge claws on both arms and a beam fired from its horn. Its most notable feature is the \"mouth\" on its belly, which absorbs every attack."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.61",
+   "en": "Yapool's first Choju. True to its nickname \"Missile Choju,\" it fires many missiles from protrusions all over its body, and also breathes flame from its mouth."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.62",
+   "en": "A bird-like alien, also called the \"Space Birdman.\" Flies with its huge wings and fires powerful energy bolts from its mouth."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.63",
+   "en": "A heavy Yummy created by Gamel, with monstrous strength. Slamming its fists shakes the area violently. Its fists and toes, covered in a hard exoskeleton, produce tremendous destructive power."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.64",
+   "en": "A \"Robot Kaiju\" developed to steal iron. Pulls its limbs into its body to fly through the air, and fires laser beams from its head."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.65",
+   "en": "Armed with a linear rifle, sonic blade, defense rod and more. Its DEF is also very high."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.66",
+   "en": "Armed with a GN Drive Tau, GN Beam Saber, GN Claw and other varied weapons. Often acts in swarms."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.67",
+   "en": "Armed with a mega particle cannon and beam saber. Fitted with thrusters, it shows high melee ability and acceleration."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.68",
+   "en": "A Dopant containing the Virus memory. A powerful virus body that can possess anything. But being a virus, it is weak to high heat."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.69",
+   "en": "A Dopant containing the Cockroach memory. Secretes blue slime from its arms to pin foes down. Extremely resilient, and its high-speed movement bewilders enemies."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.70",
+   "en": "A Dopant containing the Anomalocaris memory. Fires its teeth like bullets, sniping targets from underwater. An amphibious Dopant, it can amplify its power even further in water."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.71",
+   "en": "Armed with a beam rifle, mega particle scatter cannon, arm claws and leg claws, and also handles a \"Psycommu.\""
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.72",
+   "en": "A salamander-type cyborg. Spews flames from its mouth and turns its body into foam to move anywhere."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.73",
+   "en": "Armed with a wide variety of weapons, including two kinds of beam machine guns and a beam sword axe."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.74",
+   "en": "A heavy Yummy created by Gamel. A bit slow, but fights well in melee using its great power. Its greatest weapon is a spinning body slam with its limbs retracted into its shell."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.75",
+   "en": "The commander unit of the Geara Doga, armed with two kinds of beam machine guns, a beam sword axe and more."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.76",
+   "en": "A condor-type cyborg. Built by selecting the best traits of kaijin defeated by the Riders. Thin membranes extending from both sides let it fly, and it excels at martial arts."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.77",
+   "en": "A Choju made by Yapool by fusing a horseshoe crab with a space kaiju. Spits dissolving foam from its mouth that melts even iron, and fires the Crab Ray, a scorching flame beam, from its forehead."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.78",
+   "en": "A \"Super Soldier,\" a soldier strengthened by special treatment. Highly agile, it leaves opponents no opening."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.79",
+   "en": "A bee-type cyborg. Skilled in swift movement and swordsmanship, with high combat ability. It also serves as a commander leading other kaijin."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.80",
+   "en": "Bemstar as modified by Giant Yapool. Absorbs energy with the mouth on its belly, and fires energy bolts and destructive beams from its eyes."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.81",
+   "en": "Sabotendar as modified by Giant Yapool. Bewilders foes with quick movements and is good at stabbing with its sharp, thick thorns."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.82",
+   "en": "Verokron as modified by Giant Yapool. A Choju sent in to back up the modified Bemstar and modified Sabotendar when they were in trouble."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.83",
+   "en": "In aerial combat it overwhelms all others, using a variety of attacks such as \"Heaven's Dart,\" \"Wind Flare\" and \"Tornado.\""
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.84",
+   "en": "A kaijin that becomes complete by absorbing the Scorpion, Crab and Shrimp Core Medals. Wields a cross-shaped sword that fires lightning to cut distant objects. Full-body armor gives it high DEF."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.85",
+   "en": "A Kamen Rider known for his hat and scarf, and W's mentor. His body is enhanced by a memory, giving him high combat ability. The \"Skull Punisher,\" fired from his \"Skull Magnum,\" is powerful."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.86",
+   "en": "The form Alien Zarab takes when imitating Ultraman. Slanted eyes and ears give it a villainous look. It fights only with brute force and cannot fire beams."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.87",
+   "en": "A Dopant containing the Dummy memory. Can read the memory of anything and mimic it. It copies abilities as well as appearance, but its combat ability is low when it is not mimicking anything."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.88",
+   "en": "An alien with advanced intelligence and science. Can transform into others, but only the appearance changes, not the abilities. So it prefers psychological warfare using its transformation to direct combat."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.89",
+   "en": "The form created when Mezool absorbed and fused with Gamel, who had gone berserk from the concentration of O Medals. Out of control, its power is tremendous, and it devours every object around it."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.90",
+   "en": "The strongest superhuman from another dimension, created by Yapool to destroy Ultraman Ace. Implanted with the Ultra Brothers' four finishing moves, its tough body shrugs off beams."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.91",
+   "en": "An undefeated invader. Skilled at analyzing an opponent's abilities beforehand, and favors tactics that use its own special abilities, such as duplicates and teleportation, to bewilder and exhaust foes."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.92",
+   "en": "A superhuman from another dimension, customized by Yapool to fight Ultraman Mebius. When Gadiva merges with the crystal on its chest, it becomes the complete Mebius Killer."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.93",
+   "en": "The ultimate kaijin born when Dummy Dopant evolved. Fires the \"Ultimate Bomb,\" a superheated destructive energy blast, from its hands."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.94",
+   "en": "An evil superhuman born when all the Yapool merged. Extremely vindictive and cunning, it can create \"Choju,\" and fights with telekinesis, beam techniques and martial arts, all highly varied and powerful."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.95",
+   "en": "Uses varied and unusual techniques befitting its nickname \"Space Ninja,\" such as duplicates, beams and barriers. Weak against Specium material."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.96",
+   "en": "Pursues attack power to the extreme. Its main weapon, the beam cannon, has high destructive power and rapid fire. The counterpart of Mercurius, which pursues defense."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.97",
+   "en": "Pursues defense to the extreme. Deploys the Planet Defensor on its back to block enemy attacks. The counterpart of Vayeate, which pursues attack."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.98",
+   "en": "A Choju born from fusing a caterpillar with a space kaiju, also called the \"Unicorn Choju.\" Has various weapons, such as fireballs, missiles from its nose tip and a horn missile on its head."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.99",
+   "en": "Chief of the Crisis Empire's Kaima Beastman Ninja Squad. Wields Kaima ninja arts and an extendable staff. Its \"Kaima Ninpo: Face Copying\" ability, which turns it into its opponent's double, is a threat."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.100",
+   "en": "An alien from \"Planet Shapley\" in the Dark Nebula. Besides ray gun attacks, it excels at melee combat. Very intelligent, it sometimes commands other kaiju."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.101",
+   "en": "A kaiju that burrows deep underground and stores \"Ultonium ore\" in its body. By making its horn, jaw, back and more glow, it can control the weather at will."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.102",
+   "en": "A cobra-type cyborg. Sprays dissolving gas from its extendable right arm."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.103",
+   "en": "Armed with a linear rifle, sonic blade and defense rod. Each unit's combat ability is fairly high too."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.104",
+   "en": "Armed with a large beam rifle, and good at aerial combat."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.105",
+   "en": "Armed with a linear rifle, sonic blade, defense rod and more. Each unit's combat ability is high too."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.106",
+   "en": "The \"Freezing Kaiju\" controlled by Alien Pol. Flies with huge wings and freezes objects with a freezing ray from its mouth. It can also dig through the ground at 70 km/h."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.107",
+   "en": "A kaiju said to be a survivor of ancient dinosaurs. Good at body slams using its sturdy body and horn attacks, and has a finisher that makes skilled use of its tail (Megaton Tail)."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.108",
+   "en": "A kaiju good at cold attacks, also called the \"Snow Woman Kaiju.\" Savage and cruel, it freezes foes with its brute strength and freezing gas, then tears them apart."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.39",
+   "note": "Formal name romanized as written; unit not identified. Row text matches the linear rifle/sonic blade/defense rod unit family."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.83",
+   "note": "Attack names translated literally; owner unit not identified."
+  }
+ ],
+ "report": "All 80 library entries done. New terms not in glossary: Aries, Geara Doga, Vayeate, Mercurius, Planet Defenser, Alien Pol, Planet Shapley, Ultonium ore, Helion Velvetum (uncertain), Heaven's Dart/Wind Flare/Tornado, Bio-Sensor, Psycommu, GN Drive [T], Titans."
+}

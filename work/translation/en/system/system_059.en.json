@@ -1,0 +1,334 @@
+{
+ "slice": "system_059",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.71",
+   "en": "GUYS Tough Book{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.72",
+   "en": "Tector Gear Zero{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.73",
+   "en": "Planet Defensor{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.74",
+   "en": "Super Gun{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.75",
+   "en": "Mars 133{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.76",
+   "en": "AZ2006{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.81",
+   "en": "+1"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.82",
+   "en": "+2"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.83",
+   "en": "+3"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.84",
+   "en": "+4"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.1",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.2",
+   "en": "Bone Fragment"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.3",
+   "en": "Sharp Bone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.4",
+   "en": "Fine Bone"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.5",
+   "en": "Broken Fang"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.6",
+   "en": "Giant Fang"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.7",
+   "en": "Keen Beast Fang"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.8",
+   "en": "Rare Horn"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.9",
+   "en": "Long Curled Horn"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.10",
+   "en": "Shattered Horn"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.11",
+   "en": "Razor Claw"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.12",
+   "en": "Black Beast Claw"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.13",
+   "en": "King's Long Claw"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.14",
+   "en": "Hard Scale"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.15",
+   "en": "Dry Scale"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.16",
+   "en": "Pale Red Scale"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.17",
+   "en": "Kaiju's Reverse Scale"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.18",
+   "en": "Glowing Scale"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.19",
+   "en": "Silver Whisker"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.20",
+   "en": "Fine Thread"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.21",
+   "en": "Spider Silk"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.22",
+   "en": "Unbreakable Sticky Thread"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.23",
+   "en": "Magma Fluid"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.24",
+   "en": "Jet-Black Fur"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.25",
+   "en": "Pure White Fur"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.26",
+   "en": "King's Fur"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.27",
+   "en": "Eerie Antenna"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.28",
+   "en": "Crimson Mane"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.29",
+   "en": "Antibacterial Film"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.30",
+   "en": "Supple Feather"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.31",
+   "en": "Tough Plumage"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.32",
+   "en": "Iron Hair"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.33",
+   "en": "Wind-Wreathed Wing"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.34",
+   "en": "Rainbow Feather"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.35",
+   "en": "Azure Cilia"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.36",
+   "en": "Galaxy Feather"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.37",
+   "en": "Cracked Carapace"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.38",
+   "en": "Heavy Carapace"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.39",
+   "en": "Spiked Shell"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.40",
+   "en": "Adamant Shell"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.41",
+   "en": "Hard Pincer"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.42",
+   "en": "Fresh Tentacle"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.43",
+   "en": "Shining Dust"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.44",
+   "en": "Shiny Hide"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.45",
+   "en": "Smooth Hide"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.46",
+   "en": "Sticky Hide"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.47",
+   "en": "Heat-Resistant Shell"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.48",
+   "en": "Fine Tail"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.49",
+   "en": "Limber Tail"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.50",
+   "en": "Spiky Tail"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.51",
+   "en": "Strange Antenna"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.52",
+   "en": "Mysterious Part"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.53",
+   "en": "Scrap Iron"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.54",
+   "en": "Large Scrap Iron"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.55",
+   "en": "Broken Bit"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.56",
+   "en": "Small Armor Shard"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.57",
+   "en": "Large Armor Shard"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.58",
+   "en": "Honeycomb Armor Shard"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.59",
+   "en": "Iron Spike"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.60",
+   "en": "Mighty Curved Iron Spike"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.61",
+   "en": "Charred CPU"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.62",
+   "en": "Torn Fuel Tube"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.63",
+   "en": "Discarded Fuel Cell"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.64",
+   "en": "Dead Battery"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.65",
+   "en": "Cracked Generator Plate"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.66",
+   "en": "Vacuum Tube"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.67",
+   "en": "Stretched Spring"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.68",
+   "en": "Iron Whisker"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.69",
+   "en": "Missile Wing"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#3.70",
+   "en": "Camera Lens"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.71",
+   "note": "Trailing {808F} kept as tag only (padding dropped) on the key-item rows 2.71-2.76."
+  }
+ ],
+ "report": "80/80 translated. Item names for Ultra/GUYS gear (Planate Defenser, Tector Gear Zero, Mars 133, AZ2006) are romanized/unverified; monster-drop materials use plain descriptive names."
+}

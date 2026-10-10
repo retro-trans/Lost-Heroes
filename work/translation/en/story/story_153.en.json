@@ -1,0 +1,366 @@
+{
+ "slice": "story_153",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0711.mbb#0.323",
+   "en": "...All right. Ankh and Seravee are right."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.324",
+   "en": "...All right. Ankh and Seravee are right."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.325",
+   "en": "...All right. Ankh and Seravee are right."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.326",
+   "en": "...All right. Ankh and Seravee are right."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.327",
+   "en": "...All right. Ankh and Seravee are right."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.328",
+   "en": "...All right. Ankh and Seravee are right."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.329",
+   "en": "...Understood. You're both right. This is no time to be showing the enemy an opening."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.330",
+   "en": "...Fine, I get it! Let's join forces and do this!!"
+  },
+  {
+   "key": "MainEventMess0712.mbb#0.1",
+   "en": "Gyurururururu...!!!"
+  },
+  {
+   "key": "MainEventMess0712.mbb#0.2",
+   "en": "Gundam Heads...!! And there are even more of them now...!!"
+  },
+  {
+   "key": "MainEventMess0712.mbb#0.3",
+   "en": "Fight the Gundam Head?"
+  },
+  {
+   "key": "MainEventMess0713.mbb#0.1",
+   "en": "What the...? I sense powerful Minus Energy coming from the other side of this wall..."
+  },
+  {
+   "key": "MainEventMess0713.mbb#0.2",
+   "en": "There's something over there...?"
+  },
+  {
+   "key": "MainEventMess0713.mbb#0.3",
+   "en": "There's something over there...?"
+  },
+  {
+   "key": "MainEventMess0713.mbb#0.4",
+   "en": "There's something over there...?"
+  },
+  {
+   "key": "MainEventMess0713.mbb#0.5",
+   "en": "There's something over there...?"
+  },
+  {
+   "key": "MainEventMess0713.mbb#0.6",
+   "en": "There's something over there...?"
+  },
+  {
+   "key": "MainEventMess0713.mbb#0.7",
+   "en": "There's something over there...?"
+  },
+  {
+   "key": "MainEventMess0713.mbb#0.8",
+   "en": "There's something over there...?"
+  },
+  {
+   "key": "MainEventMess0713.mbb#0.9",
+   "en": "There's something over there...?"
+  },
+  {
+   "key": "MainEventMess0713.mbb#0.10",
+   "en": "There's something over there...?"
+  },
+  {
+   "key": "MainEventMess0713.mbb#0.11",
+   "en": "There's something over there...?"
+  },
+  {
+   "key": "MainEventMess0713.mbb#0.12",
+   "en": "There's something over there...?"
+  },
+  {
+   "key": "MainEventMess0713.mbb#0.13",
+   "en": "There's something over there...?"
+  },
+  {
+   "key": "MainEventMess0713.mbb#0.14",
+   "en": "There's something over there...?"
+  },
+  {
+   "key": "MainEventMess0713.mbb#0.15",
+   "en": "There's something over there...?"
+  },
+  {
+   "key": "MainEventMess0713.mbb#0.16",
+   "en": "There's something over there...?"
+  },
+  {
+   "key": "MainEventMess0713.mbb#0.17",
+   "en": "Let's go take a look."
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.1",
+   "en": "Grrrr..."
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.2",
+   "en": "You're the Monster Chief, Geronimon!!"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.3",
+   "en": "You're the Monster Chief, Geronimon!!"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.4",
+   "en": "You're the Monster Chief, Geronimon!!"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.5",
+   "en": "You're the Monster Chief, Geronimon!!"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.6",
+   "en": "You're the Monster Chief, Geronimon!!"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.8",
+   "en": "What are you...!?"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.9",
+   "en": "What are you...!?"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.10",
+   "en": "What are you...!?"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.11",
+   "en": "What are you...!?"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.12",
+   "en": "What are you...!?"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.13",
+   "en": "What are you...!?"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.14",
+   "en": "What are you...!?"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.15",
+   "en": "What are you...!?"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.16",
+   "en": "What are you...!?"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.17",
+   "en": "What are you...!?"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.18",
+   "en": "That's Geronimon, the Monster Chief."
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.19",
+   "en": "I am Geronimon, the Monster Chief."
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.23",
+   "en": "Grrrr..."
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.24",
+   "en": "I've been itching to cut loose!"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.25",
+   "en": "Red King! Gomora!"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.27",
+   "en": "Gugaaaaaah...!!"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.28",
+   "en": "Gwoooooooh...!!"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.29",
+   "en": "Why are these guys here!? Where the hell did they come from!?"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.30",
+   "en": "Gwahahahaha!! Surprised!?"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.31",
+   "en": "I have the power to revive monsters too!! Lord Belial thinks very highly of me for it!!"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.32",
+   "en": "I can't let you lot go any further than this."
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.33",
+   "en": "Now, boys, get 'em!! Go wild all you like!!"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.35",
+   "en": "Damn... To think I'd lose... But all that waits for you up ahead is hell..."
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.36",
+   "en": "You lot are... finished... too..."
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.38",
+   "en": "Geronimon can use psychic powers to revive monsters. It must have revived those two as well!"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.39",
+   "en": "Grrrr..."
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.40",
+   "en": "Here they come!"
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.43",
+   "en": "Sheesh! The damn things sure gave us a hard time."
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.1",
+   "en": "This is it... Sure enough, the Minus Energy concentration is high here..."
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.2",
+   "en": "This is it... Sure enough, the Minus Energy concentration is high here..."
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.3",
+   "en": "This is it... Sure enough, the Minus Energy concentration is high here..."
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.4",
+   "en": "This is it... Sure enough, the Minus Energy concentration is high here..."
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.5",
+   "en": "This is it... Sure enough, the Minus Energy concentration is high here..."
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.6",
+   "en": "This is it... Sure enough, the Minus Energy concentration is high here..."
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.7",
+   "en": "This is it... Sure enough, the Minus Energy concentration is high here..."
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.8",
+   "en": "This is it... Sure enough, the Minus Energy concentration is high here..."
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.9",
+   "en": "This is it... Sure enough, the Minus Energy concentration is high here..."
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.10",
+   "en": "This is it... Sure enough, the Minus Energy's damn thick around here..."
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.11",
+   "en": "This is it... Sure enough, the Minus Energy concentration is high here..."
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.12",
+   "en": "This is it... Sure enough, the Minus Energy concentration is high here..."
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.13",
+   "en": "This is it... Sure enough, the Minus Energy concentration is high here..."
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.14",
+   "en": "This is it... Sure enough, the Minus Energy concentration is high here..."
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.15",
+   "en": "This is it... Sure enough, the Minus Energy concentration is high here..."
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.16",
+   "en": "There's nothing here... Did we guess wrong!?"
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.17",
+   "en": "Just then!!"
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.18",
+   "en": "With a violent tremor, a gigantic object appeared before their eyes!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0711.mbb#0.323",
+   "note": "#0.316-#0.330 is a 15-variant leader block that 0711.bla never displays (script ends at #0.279), so no Pt_Chara_Check order applies; voiced from wording. Identical Japanese (#0.323-#0.328) kept identical. #0.329 polite (Mebius/OOO-style), #0.330 casual/rough."
+  },
+  {
+   "key": "MainEventMess0712.mbb#0.2",
+   "note": "0712.bla only shows #0.1 (Gundam Head roar); #0.2 speaker not recovered (unused or set elsewhere). Kept speaker-neutral; plural 'Gundam Heads' from 'their number is increasing'. #0.3 is the Yes/No battle prompt."
+  },
+  {
+   "key": "MainEventMess0713.mbb#0.2",
+   "note": "Leader block #0.2-#0.16 (15 variants, all identical Japanese, identical English). The '?party' label is right; the trace's last constant name (Black RX) is just the last variant loaded."
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.2",
+   "note": "0715.bla: Pt_Chara_Check 11-15 (Ultraman, Seven, Taro, Mebius, Zero) say this line - the Ultras recognise Geronimon; ids 1-10 get #0.8-#0.17 'What are you...!?'. Label shift: slice puts '?party' on #0.9 but the block starts at #0.8 (#0.7 is empty); all ten identical anyway."
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.19",
+   "note": "Unused alternate (no MessWinSet hits #0.19-#0.22, #0.24-#0.25, #0.30-#0.36). Geronimon's self-introduction/boasts/defeat lines; speaker inferred as Geronimon from content (uses ore, calls Belial 'Lord'). Glossary gives Geronimon g=n, so Seravee's #0.38 uses 'it'."
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.27",
+   "note": "New roars, no prior English for this Japanese: Red King 'Gugaaaaaah...!!', Gomora 'Gwoooooooh...!!'; Geronimon growl 'Grrrr...' (#0.1/#0.23/#0.39 identical)."
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.40",
+   "note": "Ankh's 'kuru zo' rendered 'Here they come!' since Geronimon plus the two revived monsters attack together."
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.10",
+   "note": "0716.bla Pt_Chara_Check order 8,7,6,10,9,2,1,5,4,3,12,11,15,14,13 = God, Zeta, Nu, 00, Wing Zero, RX, Rider 1, OOO, W, Den-O, Seven, Ultraman, Zero, Mebius, Taro. #0.10 (only variant with rough 'takee') = Den-O Sword Form/Momotaros, confirming the order; the rest identical."
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.18",
+   "note": "Narration; 'me no mae' rendered 'before their eyes' (third person, matching narration style)."
+  }
+ ],
+ "report": "80/80 rows. Speakers verified against 0711/0712/0713/0715/0716 bytecode. Unused alternates: 0711 #0.323-0.330 (whole block after #0.279 never shown), 0715 #0.19, #0.24-0.25, #0.30-0.36 (Geronimon lines, speaker inferred). 0715 label shift: second leader block starts at #0.8, not #0.9. New roars: Red King 'Gugaaaaaah...!!', Gomora 'Gwoooooooh...!!', Geronimon 'Grrrr...'. New term: 'Monster Chief' (Geronimon's title, not in glossary)."
+}

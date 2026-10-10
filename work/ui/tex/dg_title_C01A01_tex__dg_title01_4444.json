@@ -1,0 +1,12 @@
+{
+ "tpc": "Graph/Dg/Start/C01/dg_title_C01A01_tex.tpc",
+ "page": "dg_title01_4444.tga",
+ "note": "Begins Cube area 1 title card subtitle, three copies (outlined top-right, solid middle, glitch/blur copy bottom). START MISSION is Latin and kept.",
+ "defaults": {"bold": true, "align": "center", "color": [255, 255, 255]},
+ "clear": [[131, 0, 125, 26], [10, 58, 124, 28], [8, 94, 124, 30]],
+ "boxes": [
+  {"x": 137, "y": 1, "w": 118, "h": 24, "text": "Ominous Skies"},
+  {"x": 12, "y": 60, "w": 119, "h": 24, "text": "Ominous Skies"},
+  {"x": 10, "y": 96, "w": 120, "h": 26, "text": "Ominous Skies"}
+ ]
+}

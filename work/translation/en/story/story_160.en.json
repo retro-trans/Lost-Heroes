@@ -1,0 +1,366 @@
+{
+ "slice": "story_160",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0729.mbb#0.91",
+   "en": "...This is bad!! The erosion is spreading all at once!!"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.92",
+   "en": "What...!?"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.93",
+   "en": "What...!?"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.94",
+   "en": "What...!?"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.95",
+   "en": "What...!?"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.96",
+   "en": "What did you say...!?"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.97",
+   "en": "What...!?"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.98",
+   "en": "What...!?"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.99",
+   "en": "What...!?"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.100",
+   "en": "What...!?"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.101",
+   "en": "What...!?"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.102",
+   "en": "What...!?"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.103",
+   "en": "What...!?"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.104",
+   "en": "What...!?"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.105",
+   "en": "What...!?"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.106",
+   "en": "What...!?"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.107",
+   "en": "Belial and Dinosaur Greeed...!! We're out of time! We have to defeat them as fast as we can!!"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.108",
+   "en": "Belial and Dinosaur Greeed...!! We're out of time! We have to defeat them as fast as we can!!"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.109",
+   "en": "Belial and Dinosaur Greeed...!! We're out of time! We have to defeat them as fast as we can!!"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.110",
+   "en": "Belial and Dinosaur Greeed...!! We're out of time! We have to defeat them as fast as we can!!"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.111",
+   "en": "Belial and Dinosaur Greeed...!! We're out of time! We have to defeat them as fast as we can!!"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.112",
+   "en": "Belial and Dinosaur Greeed...!! We're out of time! We have to defeat them as fast as we can!!"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.113",
+   "en": "Belial and Dinosaur Greeed...!! We ain't got time! We gotta take 'em down, and quick!!"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.114",
+   "en": "Belial and Dinosaur Greeed...!! We're out of time! We have to defeat them as fast as we can!!"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.115",
+   "en": "Belial and Dinosaur Greeed...!! We're out of time! We have to defeat them as fast as we can!!"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.116",
+   "en": "Belial and Dinosaur Greeed...!! We're out of time! We've gotta beat them as fast as we can!!"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.117",
+   "en": "Belial and Dinosaur Greeed...!! We're out of time! We have to defeat them as fast as we can!!"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.118",
+   "en": "Belial and Dinosaur Greeed...!! We're out of time! We have to defeat them as fast as we can!!"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.119",
+   "en": "Belial and Dinosaur Greeed...!! We're out of time! We need to beat them as fast as we can!!"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.120",
+   "en": "Belial and Dinosaur Greeed...!! We're outta time! We have to defeat them as fast as we can!!"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.121",
+   "en": "Belial and Dinosaur Greeed...!! We're out of time! We have to defeat them as fast as we can!!"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.122",
+   "en": "Seravee! They're still where they were, right?"
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.123",
+   "en": "...Yes. The \"Memory Memory\" is still in the same position."
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.1",
+   "en": "So you've come, huh?"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.2",
+   "en": "Heh..."
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.3",
+   "en": "Belial! Dinosaur Greeed! We've finally got you cornered!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.4",
+   "en": "Now you're finished too!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.5",
+   "en": "Belial! Dinosaur Greeed! We've finally got you cornered!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.6",
+   "en": "Now you're finished too!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.7",
+   "en": "Belial! Dinosaur Greeed! We've finally got you cornered!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.8",
+   "en": "Now you're finished too!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.9",
+   "en": "Belial! Dinosaur Greeed! We've finally got you cornered!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.10",
+   "en": "Now you're finished too!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.11",
+   "en": "Belial! Dinosaur Greeed! We've finally got you cornered!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.12",
+   "en": "Now you're finished too!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.13",
+   "en": "Belial! Dinosaur Greeed! We've finally got you cornered!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.14",
+   "en": "Now you two are done for too!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.15",
+   "en": "Belial! Dinosaur Greeed! We've finally got you cornered!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.16",
+   "en": "Now you're finished too!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.17",
+   "en": "Belial! Dinosaur Greeed! We've finally got you cornered!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.18",
+   "en": "Now you're finished too!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.19",
+   "en": "Belial! Dinosaur Greeed! We've finally got you cornered!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.20",
+   "en": "Now you're finished too!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.21",
+   "en": "Belial! Dinosaur Greeed! We've finally got you cornered!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.22",
+   "en": "Now you're finished too!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.23",
+   "en": "Belial! Dinosaur Greeed! We've finally got you cornered!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.24",
+   "en": "Now you're finished too!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.25",
+   "en": "Belial! Dinosaur Greeed! We've finally got you cornered!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.26",
+   "en": "Now you're finished too!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.27",
+   "en": "Belial! Dinosaur Greeed! We've finally got you cornered!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.28",
+   "en": "Now you're finished too!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.29",
+   "en": "Belial! Dinosaur Greeed! We've finally got you cornered!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.30",
+   "en": "Now you're finished too!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.31",
+   "en": "Belial! Dinosaur Greeed! We've finally got you cornered!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.32",
+   "en": "Now you're finished too!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.34",
+   "en": "Haah!? Quit talking in your sleep!! You've got us cornered, you say?"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.35",
+   "en": "Who's the one who came waltzing in here to die? As you wish, I'll bury you with my own hands!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.36",
+   "en": "For the finishing touch to our plan, your presence is ideal as well."
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.37",
+   "en": "...Yeah? We'll see about that. You're the ones who'll be getting buried."
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.38",
+   "en": "And I'll smash those ambitions of yours right along with you!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.39",
+   "en": "...We'll see about that. You're the ones who'll be defeated."
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.40",
+   "en": "Along with your ambitions!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.41",
+   "en": "...We won't go down!! You're the ones who'll be buried."
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.42",
+   "en": "Along with your ambitions!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.43",
+   "en": "...Yeah? We'll see about that. You're the ones who'll be defeated."
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.44",
+   "en": "Along with those ambitions of yours!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.45",
+   "en": "...We'll see about that. You're the ones who'll be buried."
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.46",
+   "en": "Along with those ambitions of yours!!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.47",
+   "en": "...Ohh? You've got some nerve, huh!? Just so you know, you're the ones who're gonna get beat!"
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.48",
+   "en": "Ambitions and all, ya hear!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0729.mbb#0.91",
+   "note": "Extractor labels in 0729 are shifted one row late. Per 0729.bla: #0.91 = Seravee's Voice (Seravee holding the base), #0.122 = Ankh, #0.123 = Seravee's Voice. 'Erosion' follows the earlier 'erosion of Veda' rendering."
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.92",
+   "note": "#0.92-#0.106 and #0.107-#0.121 are 15-row party-leader variant blocks (the 'Seravee's Voice'/'00'/'?party' labels inside them are shifted mislabels). 0729 second-scene Pt_Chara_Check order: Rider 1, Ultraman, Nu, Black RX, Seven, Zeta, Den-O, Taro, God, W, Mebius, Wing Zero, OOO, Zero, 00 (confirmed by #0.113 rough = Momotaros, #0.116 = Shotaro, #0.120 = Zero)."
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.96",
+   "note": "Only polite variant in the block. By the scene-2 order this slot is Seven; the scene-1 order would make it Mebius, which fits the politeness better. Either way it is rendered as the more formal 'What did you say...!?'; the rest stay identical."
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.107",
+   "note": "Subject of 'have to defeat' restored as 'we' (the party). 'Belial and Dinosaur Greeed' = the two being located via the Memory Memory."
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.123",
+   "note": "'Memory Memory' in quotes as in story_146. Seravee (Tieria) kept cool and clipped."
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.3",
+   "note": "0731 labels are correct. Pairs #0.3-#0.32 and #0.37-#0.66 follow Pt_Chara_Check order Zero, OOO, Mebius, W, Taro, Den-O, Seven, Black RX, Ultraman, Rider 1, Nu, Zeta, God, Wing Zero, 00 (confirmed: #0.14 and #0.47-48 rough = Momotaros, #0.37-38 = Zero, #0.43-44 = Shotaro)."
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.4",
+   "note": "'Too' keeps the source's mo: they are finished like the monsters already beaten. 'You' is plural (Belial and Dinosaur Greeed)."
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.36",
+   "note": "Dinosaur Greeed (Dr. Maki), polite: the heroes are ideal material for the final stage of the plan. 'As well' keeps the mo."
+  },
+  {
+   "key": "MainEventMess0731.mbb#0.37",
+   "note": "Each pair is one sentence split across two rows: '...you're the ones who'll be buried / along with your ambitions!!'. Word choice per variant follows the source (buried vs defeated, sono-itsu vs sore)."
+  }
+ ],
+ "report": "80/80 rows. Speakers verified against 0729.bla and 0731.bla: 0729 labels shifted one row late (#0.91/#0.123 are Seravee's Voice, #0.122 is Ankh; in-block labels are mislabels); 0731 labels correct. Uncertain: #0.96 polite variant attributed to Seven or Mebius depending on which Pt_Chara_Check chain applies. No new names or terms."
+}

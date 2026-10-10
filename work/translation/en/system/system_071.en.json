@@ -1,0 +1,338 @@
+{
+ "slice": "system_071",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.39",
+   "en": "Not enough free space on the SD card.\n00 KB or more is required."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.40",
+   "en": "Save failed.\nThe card is not formatted."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.41",
+   "en": "Save failed.\nAn unexpected error occurred."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.42",
+   "en": "Mount failed.\nAn unexpected error occurred."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.43",
+   "en": "File commit failed.\nAn unexpected error occurred."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.44",
+   "en": "Failed to write data.\nTurn off the power and\nreinsert the card."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.45",
+   "en": "Failed to write data.\nTurn off the power and\nreinsert the card."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.46",
+   "en": "Failed to load the file.\nAn unexpected error occurred.\nThis message should never appear."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.51",
+   "en": "No SD card inserted."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.52",
+   "en": "Failed to initialize the data title."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.53",
+   "en": "Startup may take a while.\nPlease wait."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.105",
+   "en": "Writing data.\nDo not turn off the power\nor touch the card."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.106",
+   "en": "Press ＜ｈｏｍｅ＿ｂｔｎ＞ to\nreturn to the HOME menu."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.107",
+   "en": "Creating new add-on data\non the SD card."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.108",
+   "en": "The SD card could not be recognized."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.109",
+   "en": "Writing data.\nDo not turn off the power\nor touch the SD card."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.110",
+   "en": "Extra data saved."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.116",
+   "en": "Checking the storage media.\nDo not remove the media\nor turn off the power."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.117",
+   "en": "Loading suspend data.\nDo not remove the media\nor turn off the power."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.118",
+   "en": "Deleting suspend data.\nDo not remove the media\nor turn off the power."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.131",
+   "en": "Overwrite DATA1 and save?\nAre you sure?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.132",
+   "en": "Delete DATA1?\nAre you sure?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.133",
+   "en": "Suspend data found. Load it?\nSuspend data will be deleted after\nloading suspend data or save data."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.134",
+   "en": "Suspend data found. Load it?\nSuspend data will be deleted after loading."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.135",
+   "en": "Suspend data found.\nDelete it and start the game?\nAre you sure?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.136",
+   "en": "Delete DATA2?\nAre you sure?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.137",
+   "en": "Overwrite DATA2 and save?\nAre you sure?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.139",
+   "en": "No storage media inserted."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.140",
+   "en": "Start the game without loading data?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.141",
+   "en": "Cancel saving?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.142",
+   "en": "No save data found.\nCreate new save data?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.143",
+   "en": "Not enough free space on the storage media.\nNew save data needs at least\n{806B} KB of free space.\nChoose unneeded data to delete?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.144",
+   "en": "Not enough free space on the storage media.\nSaving suspend data needs another\n{806B} KB or more.\nChoose unneeded data to delete?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.145",
+   "en": "There is no save data to delete."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.146",
+   "en": "Delete failed.\nThe storage media is locked."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.147",
+   "en": "Load failed."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.148",
+   "en": "The system resumed from sleep mode."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.149",
+   "en": "Game data installation was interrupted.\n"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.150",
+   "en": "The install data is corrupted."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.151",
+   "en": "Failed to load the install data."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.152",
+   "en": "\nThe install data could not be loaded, so\nloading from install data is disabled.\n\nData Install has been set to \"OFF\"."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.153",
+   "en": "No storage media inserted.\nNew save data needs {806B} KB or more,\nand suspend data needs another\n{806A} KB or more of free space.\nStart a new game?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.154",
+   "en": "Not enough free space on the storage media.\nNew save data needs {806B} KB or more,\nand suspend data needs another\n{806A} KB or more.\nChoose unneeded data to delete?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.155",
+   "en": "Start a new game as is?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.156",
+   "en": "Creating install data requires\n818 MB or more of free space\non the storage media.\nAlso mind the remaining battery."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.157",
+   "en": "Not enough free space on the storage media.\nInstalling requires 818 MB or more.\nChoose unneeded data to delete?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.158",
+   "en": "Install data already exists.\nTo reinstall, the existing install data\nwill be deleted first, then installed again.\nReinstall?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.159",
+   "en": "Choose unneeded data to delete?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.160",
+   "en": "Install data found.\nData Install has been set to \"ON\"."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.161",
+   "en": "The install data could not be loaded, so\nloading from install data is disabled.\nData Install has been set to \"OFF\"."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.162",
+   "en": "Load DATA1?\nSuspend data will be deleted. Are you sure?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.163",
+   "en": "Load DATA2?\nSuspend data will be deleted. Are you sure?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.164",
+   "en": "Suspend data found.\nDelete it and start the game?\nAre you sure?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.166",
+   "en": "End saving and return to the title screen?"
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.168",
+   "en": "Failed to load the bonus data.\nPlease download the bonus data again.\nReturning to the title screen."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.171",
+   "en": "The file name is too long.\nKeep it under {806B} bytes."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.172",
+   "en": "Choose the character to apply the custom sound to."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.173",
+   "en": "There is no \"/MUSIC\" folder on the storage media."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.201",
+   "en": "Failed to create the custom soundtrack folder."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.202",
+   "en": "Failed to create the custom soundtrack folder.\nThe storage media is locked."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.203",
+   "en": "Not enough free space on the storage media.\nCreating the custom soundtrack folder needs\n{806A} KB or more of free space.\nChoose unneeded data to delete?"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.1",
+   "en": "Deals Physical damage to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.2",
+   "en": "Deals Ranged damage to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.3",
+   "en": "Deals Slash damage to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.4",
+   "en": "Deals Ranged damage to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.15",
+   "en": "Guard to take less damage."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.16",
+   "en": "Use an item."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.17",
+   "en": "Punches one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.18",
+   "en": "Kicks one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.19",
+   "en": "Wind-element kick with a chance to Stun one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.20",
+   "en": "Kicks all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.21",
+   "en": "Lightning-element kick on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.22",
+   "en": "Chop with a chance to Stun one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.23",
+   "en": "Raises the party's Wind-element ATK."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.24",
+   "en": "Chance to inflict Pressure on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.25",
+   "en": "Makes enemies more likely to target you."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.26",
+   "en": "Unleashes a super-powerful combo on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.27",
+   "en": "Unleashes a super-powerful kick on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.28",
+   "en": "Punches one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.29",
+   "en": "Kicks one enemy."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.106",
+   "note": "The home-button token is kept verbatim as in the source (a literal marker, not a {XXXX} tag)."
+  },
+  {
+   "key": "Table/SaveLoad/SaveLoadMess.mbb#0.39",
+   "note": "The '00' is a placeholder digit pair in the source; kept as-is."
+  }
+ ],
+ "report": "All 80 rows translated. Used 'storage media' for the generic media term and 'suspend data' for mid-quest saves. Terms: Stun, Pressure, Physical, Ranged, Slash from glossary ui section."
+}

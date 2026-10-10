@@ -1,0 +1,329 @@
+{
+ "slice": "system_087",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillName.mbb#2.77",
+   "en": "Ice Element ATK Up"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.78",
+   "en": "Wind Element ATK Up"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.79",
+   "en": "Light Element ATK Up"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.80",
+   "en": "Hero Gauge Up"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.81",
+   "en": "Hero Gauge Up 2"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.82",
+   "en": "SP Cost 2/3"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.83",
+   "en": "SP Cost 1/2"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.84",
+   "en": "ATK +20% When Near Death"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.85",
+   "en": "DEF +20% When Near Death"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.86",
+   "en": "Evasion +20% When Near Death"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.87",
+   "en": "Recover 15% HP on Kill"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.88",
+   "en": "Recover 3% SP on Kill"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.89",
+   "en": "Target Rate Up"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.90",
+   "en": "Target Rate Down"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.91",
+   "en": "HP Recovery Each Turn"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.92",
+   "en": "HP Recovery Boost"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.93",
+   "en": "HP Drain"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.94",
+   "en": "Near Death: Null Physical"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.95",
+   "en": "Near Death: Null Ranged"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.96",
+   "en": "Near Death: Null Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.97",
+   "en": "Vanguard"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.98",
+   "en": "HP Recovery Every 3 Turns"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.99",
+   "en": "Indomitable"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.100",
+   "en": "Hero Spirits"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.101",
+   "en": "HP Recovery After Battle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.102",
+   "en": "Big Swing"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.103",
+   "en": "Step"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.104",
+   "en": "Step Heal HP"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.105",
+   "en": "Step Heal SP"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.106",
+   "en": "Slow Start"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.107",
+   "en": "Peerless Iron Will"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.108",
+   "en": "Chip Drop Rate Up"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.109",
+   "en": "Weak Up"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.110",
+   "en": "Weak Up 2"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.111",
+   "en": "Critical Power"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.112",
+   "en": "Critical Power 2"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.113",
+   "en": "Super Evasion"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.114",
+   "en": "All-Out Blow"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.115",
+   "en": "Ultra Spark"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.116",
+   "en": "EXP Gain Up"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.117",
+   "en": "AP Gain Up"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.118",
+   "en": "Money Gain Up"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.119",
+   "en": "Item Drop Rate Up"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.120",
+   "en": "No EXP"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.121",
+   "en": "Charge"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.122",
+   "en": "Brace"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.123",
+   "en": "Step Counter"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.124",
+   "en": "Spirit in Adversity"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.1",
+   "en": "Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.2",
+   "en": "Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.3",
+   "en": "Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.4",
+   "en": "Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.5",
+   "en": "Critical Normal (Physical"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.6",
+   "en": "Critical Normal (Ranged"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.7",
+   "en": "Critical Normal (Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.8",
+   "en": "Critical Normal (Gundam-Type"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.9",
+   "en": "Enemy Normal Attack (Physical"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.10",
+   "en": "Enemy Normal Attack (Ranged"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.11",
+   "en": "Enemy Normal Attack (Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.12",
+   "en": "Enemy Crit Normal (Physical"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.13",
+   "en": "Enemy Crit Normal (Ranged"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.14",
+   "en": "Enemy Crit Normal (Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.15",
+   "en": "Defend"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.16",
+   "en": "Item"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.17",
+   "en": "One-Trillion-Degree Fireball"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.18",
+   "en": "Zetton Final Beam"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.19",
+   "en": "Light Bullet"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.20",
+   "en": "Sharp Claws"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.21",
+   "en": "Sharp Fangs"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.22",
+   "en": "Club-Type Beam Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.23",
+   "en": "Heat Hawk"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.24",
+   "en": "Heat Rod"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.25",
+   "en": "Body Slam"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.26",
+   "en": "Intense Flame"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.27",
+   "en": "Blue Heat Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.28",
+   "en": "Heat Punch"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.29",
+   "en": "Enemy Status Attack (Poison"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.30",
+   "en": "Enemy Status Attack (Stun"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.31",
+   "en": "Cool Gas"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.32",
+   "en": "Head Horn"
+  }
+ ],
+ "notes": [],
+ "report": "Names reused from system_081-085 (Hero Gauge, Normal Attack, Zetton/kaiju attack names). Passive names follow system_075 help text. Uncertain: Vanguard (first-move passive), Indomitable, Peerless Iron Will, Big Swing, Weak Up, Spirit in Adversity, Money Gain Up. No new glossary terms."
+}

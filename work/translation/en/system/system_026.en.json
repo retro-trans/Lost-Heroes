@@ -1,0 +1,338 @@
+{
+ "slice": "system_026",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.25",
+   "en": "Harass with machine guns or attack with the drill."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.26",
+   "en": "Head to the bridge and use a HERO Skill."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.27",
+   "en": "Use healing, repairs and support devices."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.28",
+   "en": "Fire the main cannon. Low chance to make the enemy flinch."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.29",
+   "en": "Charge the main cannon."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.30",
+   "en": "Attack with the drill and wipe out enemy buffs."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.31",
+   "en": "Attack with machine guns and boost EN absorption efficiency."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.32",
+   "en": "Lay down a barrage with a set chance to make enemies flinch and cancel their actions."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.33",
+   "en": "Weaken the enemy with a special device."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.34",
+   "en": "Restores armor."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.35",
+   "en": "Repairs damaged parts."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.36",
+   "en": "Performs support and defense."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.37",
+   "en": "But you couldn't escape!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.38",
+   "en": "There's nowhere to run, so you can't retreat!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.39",
+   "en": "Defeated {806E}!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.40",
+   "en": "{806E} collapsed!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.41",
+   "en": "{806D} ran out of energy!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.42",
+   "en": "{806D}'s energy was restored!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.43",
+   "en": "{806E} ended up infected!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.44",
+   "en": "{806E} ended up stunned!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.45",
+   "en": "{806E} fell into a panic!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.46",
+   "en": "{806E}'s vision was impaired!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.47",
+   "en": "{806E} ended up unconscious!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.48",
+   "en": "{806E} ended up under pressure!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.49",
+   "en": "{806E} fell into Negative!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.50",
+   "en": "{806E} got infected!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.51",
+   "en": "{806E} got stunned!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.52",
+   "en": "{806E} panicked!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.53",
+   "en": "{806E}'s vision was impaired!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.54",
+   "en": "{806E} lost consciousness!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.55",
+   "en": "Put pressure on {806E}!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.56",
+   "en": "It had no effect on {806E}!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.57",
+   "en": "{806D} is infected!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.58",
+   "en": "{806D} is stunned!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.59",
+   "en": "{806D} is panicking!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.60",
+   "en": "{806D} is unconscious!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.61",
+   "en": "{806D} is under pressure and can't activate skills!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.62",
+   "en": "{806D}'s infection was cured!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.63",
+   "en": "{806D} is no longer stunned!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.64",
+   "en": "{806D} snapped out of the panic!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.65",
+   "en": "{806D}'s vision returned!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.66",
+   "en": "{806D} woke up!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.67",
+   "en": "{806D} was freed from the pressure!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.68",
+   "en": "{806D} recovered from Negative!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.69",
+   "en": "{806D} stood back up!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.70",
+   "en": "The main cannon was repaired!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.71",
+   "en": "The gun turret was repaired!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.72",
+   "en": "The support device was repaired!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.73",
+   "en": "The shield was repaired!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.74",
+   "en": "The capacitor was repaired!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.75",
+   "en": "The main cannon was damaged!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.76",
+   "en": "The gun turret was damaged!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.77",
+   "en": "The support device was damaged!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.78",
+   "en": "The shield was damaged!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.79",
+   "en": "The capacitor was damaged!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.80",
+   "en": "{806E} ended up flinching!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.81",
+   "en": "{806E} flinched!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.82",
+   "en": "{806E} is flinching!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.83",
+   "en": "{806E} is flinching!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.84",
+   "en": "{806E} was afflicted with Acid!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.85",
+   "en": "{8074} was destroyed..."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.86",
+   "en": "{806D} tried to use equipment, but doesn't have enough EN!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.87",
+   "en": "{806D} pulled the main cannon's trigger, but the charge ran out and it can't fire!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.88",
+   "en": "{806E} went Berserk!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.89",
+   "en": "{806D} didn't know what was happening and made a normal attack!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.90",
+   "en": "{806D}'s Berserk was cured!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.91",
+   "en": "Team up with {808E} to use a Crossover Skill."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.92",
+   "en": "But there wasn't enough SP!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.93",
+   "en": "But the Hero Gauge wasn't full enough!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.94",
+   "en": "The teamwork failed and the Crossover Skill couldn't be used!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.96",
+   "en": "Select a target.\n"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.97",
+   "en": "Targets all enemies."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.98",
+   "en": "Targets all allies."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.101",
+   "en": "A physical-resistance barrier enveloped {806E}!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.102",
+   "en": "Indirect attacks on {806E} are nullified for a while!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.103",
+   "en": "A slash-resistance barrier enveloped {806E}!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.104",
+   "en": "{806E}'s physical ATK went up!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.105",
+   "en": "{806E}'s indirect ATK went up!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.106",
+   "en": "{806E}'s ATK went up!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.107",
+   "en": "{806E}'s physical ATK went down!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.96",
+   "note": "Kept the trailing line break from the source."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.47",
+   "note": "Status names used consistently: Infected, Stunned, Panic, vision impaired, unconscious, Pressure, Negative, Flinch, Acid, Berserk."
+  }
+ ],
+ "report": "Status names (infection, stun, panic, impaired vision, unconscious, pressure, negative, flinch, acid, berserk) and ship parts (main cannon, gun turret, support device, shield, capacitor) are not in the glossary; chosen here."
+}

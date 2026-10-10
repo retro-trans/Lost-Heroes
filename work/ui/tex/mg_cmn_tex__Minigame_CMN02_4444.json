@@ -1,0 +1,107 @@
+{
+ "tpc": "Graph/Minigame/Cmn/mg_cmn_tex.tpc",
+ "page": "Minigame_CMN02_4444.tga",
+ "note": "Poker result banners (boxes = sprite rects from Minigame_CMN.gtx). Flat gold replaces the original black-fill/gold-glow style (tex_edit draws one colour).",
+ "defaults": {
+  "size": 24,
+  "bold": true,
+  "color": [
+   255,
+   204,
+   51
+  ],
+  "align": "center"
+ },
+ "boxes": [
+  {
+   "x": 0,
+   "y": 0,
+   "w": 144,
+   "h": 32,
+   "text": "Flush",
+   "stroke": [
+    255,
+    204,
+    51
+   ],
+   "color": [
+    10,
+    10,
+    10
+   ],
+   "stroke_width": 2,
+   "bold": false
+  },
+  {
+   "x": 1,
+   "y": 34,
+   "w": 143,
+   "h": 34,
+   "text": "Straight",
+   "stroke": [
+    255,
+    204,
+    51
+   ],
+   "color": [
+    10,
+    10,
+    10
+   ],
+   "stroke_width": 2,
+   "bold": false
+  },
+  {
+   "x": 144,
+   "y": 32,
+   "w": 110,
+   "h": 36,
+   "text": "Two Pair",
+   "stroke": [
+    255,
+    204,
+    51
+   ],
+   "color": [
+    10,
+    10,
+    10
+   ],
+   "stroke_width": 2,
+   "bold": false
+  },
+  {
+   "x": 2,
+   "y": 69,
+   "w": 195,
+   "h": 32,
+   "text": "Three of a Kind",
+   "stroke": [
+    255,
+    204,
+    51
+   ],
+   "color": [
+    10,
+    10,
+    10
+   ],
+   "stroke_width": 2,
+   "bold": false
+  }
+ ],
+ "clear": [
+  [
+   0,
+   32,
+   144,
+   1
+  ],
+  [
+   154,
+   68,
+   2,
+   1
+  ]
+ ]
+}

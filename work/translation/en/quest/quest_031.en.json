@@ -1,0 +1,329 @@
+{
+ "slice": "quest_031",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.153",
+   "en": "Alien Metron...!! It was you!! You're the one who's been making the smoke!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.154",
+   "en": "Alien Metron...!! So it was you!! You're the one who's been making the smoke!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.155",
+   "en": "Alien Metron...!! So it was you!! You're the one who's been making the smoke!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.156",
+   "en": "Alien Metron...!! So it was you!! You're the one who's been making the smoke!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.157",
+   "en": "Alien Metron...!! You're the one who's been producing that smoke."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.158",
+   "en": "Alien Metron...!! You're the one who's been producing that smoke."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.161",
+   "en": "Indeed. This was all my doing."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.162",
+   "en": "Inhale the red crystal's smoke and you lose reason and feeling; all around you look like foes."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.163",
+   "en": "Why would you do such a thing!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.164",
+   "en": "Why would you do such a thing!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.165",
+   "en": "Why would you do such a thing!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.166",
+   "en": "How could you do such a thing!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.167",
+   "en": "Why would you do such a thing!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.168",
+   "en": "Why would you do such a thing!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.169",
+   "en": "Why would you do such a thing!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.170",
+   "en": "You bastard, that's one hell of a dirty trick you're pullin'!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.171",
+   "en": "Why would you do such a thing!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.172",
+   "en": "Why would you do such a thing!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.173",
+   "en": "Why would you do such a thing!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.174",
+   "en": "Why would you do such a thing!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.175",
+   "en": "Why would you do such a thing!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.176",
+   "en": "Why would you do such a thing!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.177",
+   "en": "Why would you do such a thing!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.179",
+   "en": "We set our sights on the trust that you heroes place in one another."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.180",
+   "en": "Break that bond, and you'll see each other as foes, hurt each other, and destroy yourselves."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.181",
+   "en": "We can wipe you out without ever lifting a finger."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.182",
+   "en": "And what's more, a truly fine wind blows through this Cube."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.183",
+   "en": "With it, I can fill the entire Cube evenly with the red crystal's smoke."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.184",
+   "en": "Using this wind for something like that!! I won't forgive you!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.185",
+   "en": "I won't let you do that!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.186",
+   "en": "That distortion of yours... I will destroy it!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.187",
+   "en": "I won't let you do that!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.188",
+   "en": "I won't let you do that!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.189",
+   "en": "I won't let you do that!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.190",
+   "en": "Like hell I'll let you do that!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.191",
+   "en": "I'll smash that wicked scheme of yours myself!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.192",
+   "en": "Something like that... I will never forgive!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.193",
+   "en": "Like I'd ever let you get away with that, huh!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.194",
+   "en": "I'll never let you do that!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.195",
+   "en": "As if I'd let you do that!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.196",
+   "en": "Like I'd ever let you do that...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.197",
+   "en": "You won't get away with that!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.198",
+   "en": "I won't let that happen!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.200",
+   "en": "Obtained \"Smooth Hide\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.202",
+   "en": "Completed the quest \"The Targeted Town\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess002.mbb#0.1",
+   "en": "Help Birth collect Cell Medals: defeat White Yummies in Begins Cube and gather 100."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess002.mbb#0.3",
+   "en": "Collected 10 Cell Medals."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess002.mbb#0.4",
+   "en": "Collected 20 Cell Medals."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess002.mbb#0.5",
+   "en": "Collected 30 Cell Medals."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess002.mbb#0.6",
+   "en": "Collected 40 Cell Medals."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess002.mbb#0.7",
+   "en": "Collected 50 Cell Medals."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess002.mbb#0.8",
+   "en": "Collected 60 Cell Medals."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess002.mbb#0.9",
+   "en": "Collected 70 Cell Medals."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess002.mbb#0.10",
+   "en": "Collected 80 Cell Medals."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess002.mbb#0.11",
+   "en": "Collected 90 Cell Medals."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess002.mbb#0.12",
+   "en": "Collected 100 Cell Medals."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess002.mbb#0.15",
+   "en": "Obtained 10 Cell Medals."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess002.mbb#0.18",
+   "en": "Oh, you brought me 10 Cell Medals? Now I can push on with my research into medal tech."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess002.mbb#0.19",
+   "en": "First off, go file your completion report over there."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess002.mbb#0.20",
+   "en": "It's not much of a thank-you, but I left some items I repaired for you. Go pick them up."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess002.mbb#0.23",
+   "en": "Completed the quest \"Cell Medal Collection\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.0",
+   "en": "{F000}"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.1",
+   "en": "Word is a mystery kaiju is in Begins Cube's Central District. Investigate with the Ultra Warriors now."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.5",
+   "en": "Gaaaaah~~~~~!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.6",
+   "en": "That's... the Legendary Monster Woo...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.7",
+   "en": "Woo should be hiding in the snowy mountains... So why is it in a town like this!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.8",
+   "en": "I see!! It was drawn here by this snow!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.10",
+   "en": "That's... the Legendary Monster Woo...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.11",
+   "en": "Woo should be hiding in the snowy mountains... So why is it in a town like this!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.12",
+   "en": "I see!! It was drawn here by this snow!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.14",
+   "en": "That's... the Legendary Monster Woo...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.15",
+   "en": "Woo should be hiding in the snowy mountains... So why is it in a town like this!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.16",
+   "en": "I see!! It was drawn here by this snow!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.18",
+   "en": "That's... the Legendary Monster Woo...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.19",
+   "en": "Woo should be hiding in the snowy mountains... So why is it in a town like this!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.20",
+   "en": "I see!! It was drawn here by this snow!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.22",
+   "en": "That's... the Legendary Monster Woo...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.23",
+   "en": "Woo should be hiding in the snowy mountains... So why is it in a town like this!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.24",
+   "en": "I get it!! So this snow's what led it here!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.27",
+   "en": "Gwaaaaaargh!!"
+  }
+ ],
+ "notes": [],
+ "report": "filled from the DG_QUEST twin rows / translation memory"
+}

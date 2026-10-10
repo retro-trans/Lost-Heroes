@@ -1,0 +1,342 @@
+{
+ "slice": "system_031",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Camp/CampMess.mbb#1.12",
+   "en": "Custom soundtrack folder not found. Create the folder?"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#1.13",
+   "en": "Creating folder...\nDo not turn off the power"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#1.14",
+   "en": "Custom soundtrack folder created"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#1.15",
+   "en": "Recording media not found"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.1",
+   "en": "???"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.2",
+   "en": "Welcome to Lost Heroes"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.3",
+   "en": "A Moment of Peace"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.4",
+   "en": "Mission Issued"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.5",
+   "en": "Into the Unseen Labyrinth"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.6",
+   "en": "Never Keep Cash Overnight"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.7",
+   "en": "Request Q"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.8",
+   "en": "Shadow of the Wind-Dancing City"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.9",
+   "en": "Thundercloud over the Wind-Dancing City"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.10",
+   "en": "A Changing World"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.11",
+   "en": "Racing Across the Desert"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.12",
+   "en": "Malice Rises"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.13",
+   "en": "Secret Base of Terror"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.14",
+   "en": "Land of the Cross"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.15",
+   "en": "Land of Ice"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.16",
+   "en": "Hurry to the Ring"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.17",
+   "en": "Heroes in Peril! Terrifying Invasion!"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.18",
+   "en": "Creeping Despair"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.19",
+   "en": "Beyond"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.20",
+   "en": "Negative Wind"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.21",
+   "en": "Malicious Maelstrom"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.22",
+   "en": "Forbidden Land"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.23",
+   "en": "Voyage of Defiance"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.24",
+   "en": "Garden of Chaos"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.25",
+   "en": "Fight!"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.26",
+   "en": "Fight More!"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.27",
+   "en": "And Survive!"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.28",
+   "en": "Inescapable Battle"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.29",
+   "en": "Heroes Die Twice!"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.30",
+   "en": "Guardian"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.31",
+   "en": "Battleship Brawl"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.32",
+   "en": "Decisive Battle! Hero Alliance!!"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.33",
+   "en": "Summit War: Core!"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.34",
+   "en": "Vanquishing Countless Malice"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.35",
+   "en": "Unease"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.36",
+   "en": "Tension"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.37",
+   "en": "Fervor"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.38",
+   "en": "Bewilderment"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.39",
+   "en": "Onslaught"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.40",
+   "en": "Sorrow"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.41",
+   "en": "Repentance"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.42",
+   "en": "Outing"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.43",
+   "en": "Refreshing"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.44",
+   "en": "Quickening"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.45",
+   "en": "Parting of Heroes"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.46",
+   "en": "Staff Roll"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.47",
+   "en": "Let's Go!! Rider Kick"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.48",
+   "en": "Kamen Rider BLACK RX"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.49",
+   "en": "Double-Action"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.50",
+   "en": "W-B-X ~W-Boiled Extreme~"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.51",
+   "en": "Anything Goes!"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.52",
+   "en": "MAIN TITLE"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.53",
+   "en": "Mobile Suit in the Flash"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.54",
+   "en": "My Heart Is Still Water, Yet My Palm Burns Like Wildfire"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.55",
+   "en": "Burn, Fighting Spirit - Beyond the Cursed Fate"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.56",
+   "en": "Wings of the Boy Who Killed His Adolescence"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.57",
+   "en": "FIGHT"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.58",
+   "en": "The Ultraman Song"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.59",
+   "en": "The Ultra Seven Song"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.60",
+   "en": "Ultraman Taro"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.61",
+   "en": "Ultraman Mebius"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.62",
+   "en": "Main Title"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.1",
+   "en": "???"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.2",
+   "en": "Gavadon"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.3",
+   "en": "Hi-Zack"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.4",
+   "en": "Fly Man"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.5",
+   "en": "Masquerade Dopant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.6",
+   "en": "Alien Kool"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.7",
+   "en": "Marasai"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.8",
+   "en": "Galbaldy Beta"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.9",
+   "en": "Bemular"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.10",
+   "en": "Spider Man"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.11",
+   "en": "Sweets Dopant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.12",
+   "en": "Alien Metron"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.13",
+   "en": "Baricane"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.14",
+   "en": "Waste Yummy"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Camp/CampMess.mbb#2.8",
+   "note": "Camp #2 rows look like sound-test BGM titles; wind-dancing city = Fuuto."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.54",
+   "note": "Song/track title; rendered as a loose translation."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#2.55",
+   "note": "Source has a stray full-width quote mark as separator; rendered as a dash."
+  }
+ ],
+ "report": "80 rows. Camp options messages, sound-test BGM titles, ChipLib enemy names (first 14). New terms not in glossary: Gavadon, Marasai, Galbaldy Beta, Bemular, Baricane, Fly Man. Uncertain: BGM title renderings (2.6, 2.33, 2.34, 2.53-2.56), Baricane/Gavadon spelling."
+}

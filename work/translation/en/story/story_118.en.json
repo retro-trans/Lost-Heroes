@@ -1,0 +1,402 @@
+{
+ "slice": "story_118",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0629.mbb#0.117",
+   "en": "Reborns Gundam...!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.118",
+   "en": "We can even create Innovators as we please..."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.119",
+   "en": "...beings with the power to transform the world, surpassing even Super Soldiers and Newtypes!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.120",
+   "en": "...You're saying they're beyond Newtypes!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.121",
+   "en": "...They're beyond Newtypes!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.122",
+   "en": "Well then! It'd be a waste to leave all the fun to Regnant."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.123",
+   "en": "Let us enjoy ourselves too!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.124",
+   "en": "Whoaaah!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.125",
+   "en": "Ugh!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.126",
+   "en": "Gwaaah!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.127",
+   "en": "Guhah!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.128",
+   "en": "Waaaah!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.129",
+   "en": "Uoh!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.130",
+   "en": "Uwaaagh!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.131",
+   "en": "Kuhah!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.132",
+   "en": "Waaaah!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.133",
+   "en": "Gwaaaaah!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.134",
+   "en": "Gwaaaaah!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.135",
+   "en": "Gwaaaaah!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.136",
+   "en": "Gwaaaaah!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.137",
+   "en": "Gwaaaaah!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.138",
+   "en": "Nwaaaah!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.139",
+   "en": "Heh... That was easier than I expected. I'll be more than happy to finish you off myself, okay?"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.140",
+   "en": "...Fangs!!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.142",
+   "en": "What!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.143",
+   "en": "Whoa, that's far enough!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.144",
+   "en": "We won't let you do as you please any longer!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.145",
+   "en": "Gundam reinforcements, huh..."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.146",
+   "en": "The tables have turned!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.147",
+   "en": "I've come to repay the favor!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.148",
+   "en": "If you thought it'd only be Gundams, you're dead wrong!?"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.149",
+   "en": "You guys...!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.150",
+   "en": "You guys...!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.151",
+   "en": "...Thanks, you saved us!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.152",
+   "en": "...You saved us."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.153",
+   "en": "You lot...!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.154",
+   "en": "...You saved us."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.155",
+   "en": "Hey, you guys!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.156",
+   "en": "You're a lifesaver!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.157",
+   "en": "Thank you, that really helps!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.158",
+   "en": "You all... You've saved us!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.159",
+   "en": "...I owe you!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.160",
+   "en": "...I owe you!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.161",
+   "en": "...I owe you!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.162",
+   "en": "Everyone...!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.163",
+   "en": "I owe you!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.164",
+   "en": "...Damn it!! Regnant!! Crush them all at once!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.165",
+   "en": "So many heroes... Lost Heroes!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.166",
+   "en": "Not so fast!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.167",
+   "en": "There were more of you...!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.168",
+   "en": "Hiding happens to be my specialty!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.169",
+   "en": "No matter how many of you vermin gang up...!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.170",
+   "en": "Hold it!! Garazzo!! The odds really are against us now."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.171",
+   "en": "Let's pull back for now."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.172",
+   "en": "Tch... Fine, whatever. But you'd better assume your base is already gone."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.173",
+   "en": "...Huh? Ahahahahahahahaha!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.174",
+   "en": "Ohh, too bad for you!! We already wrecked that particle cannon, y'know?"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.175",
+   "en": "Heh, you think that was our only giant weapon?"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.176",
+   "en": "What!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.177",
+   "en": "Hahahaha!!! Didn't you know? Memento Mori, the Barge Cannon, the Libra Cannon, and..."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.178",
+   "en": "The Colony Laser!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.179",
+   "en": "Th-there's that many of them...!?"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.180",
+   "en": "Hahaha, there are so many it's hard to keep track of them all."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.181",
+   "en": "If even one of them fires, there won't be a trace of your base left, you know?"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.182",
+   "en": "Hm...? The Libra Cannon...? Is that true!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.183",
+   "en": "...Heh heh heh heh. Hey, you lot? Speak of the devil, as they say."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.185",
+   "en": "What!? ...Don't tell me!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.186",
+   "en": "The Libra Cannon has just fired!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.187",
+   "en": "What did you say!! What about the base...!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.191",
+   "en": "\"Beep, beep, beep, beep...\""
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.192",
+   "en": "\"...We took a direct hit. ...The Capture Cube shielded us somewhat, but...\""
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.193",
+   "en": "\"If we take another direct hit, it really will be the end.\""
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.194",
+   "en": "That was a Libra Cannon test shot. 30% power. Heh heh heh heh... You got lucky, didn't you?"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.195",
+   "en": "But that wraps up the final adjustments. I'm looking forward to the next shot! Hahahaha...!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.197",
+   "en": "Damn... We'd better assume the other giant weapons can fire too, not just the Libra Cannon."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.198",
+   "en": "Yeah. We can't just sit around...!!"
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.199",
+   "en": "Wait! Seravee isn't back yet."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.200",
+   "en": "Wait! Seravee isn't back yet."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.201",
+   "en": "Wait! Seravee isn't back yet."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.202",
+   "en": "Wait! Seravee isn't back yet."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0629.mbb#0.117",
+   "note": "0629.bla gives this line CHARA_NAME.3 (Den-O label), the same id the tracer shows for leader blocks; may actually be the party leader. Wording is speaker-neutral."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.118",
+   "note": "0.118-119 one sentence split across rows; Gadessa (Revive) explaining Ribbons made Regnant an Innovator. 'Super Soldiers' per glossary."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.124",
+   "note": "Leader block 0.124-138 (TextIdOffset+123+k). First Pt_Chara_Check chain in 0629.bla: 10,6,9,8,7,1,2,4,5,11,12,13,15,14,3 = 00, Nu, Wing Zero, God, Zeta, Rider 1, RX, W, OOO, Ultraman, Seven, Taro, Zero, Mebius, Den-O. Fits the wording: Ultras 0.133-137 share the katakana scream, 0.138 'nuaaa' = Momotaros. Same chain checks out against story_117 blocks (0.94/0.114 rough = Momotaros, 0.92 'chii' = Zero). Different JP spellings kept as slightly different screams; identical JP -> identical EN."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.140",
+   "note": "Gaddess (Hiling) launches her GN Fangs; 0.141 (offset+140) is absent from the table."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.144",
+   "note": "Sandrock (Quatre): subject 'we' restored for the arriving group."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.147",
+   "note": "Arios: 'kari wo kaeshi ni kita' read as repaying the favour to the heroes (friendly yo-ending; he stayed behind for them in 0603). Could also mean getting even with the Innovators. Subject 'I' restored."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.149",
+   "note": "Leader block 0.149-163 (separate MessWinSet calls offset+148..162); extractor labels them all Den-O Sword Form. Assumed the same first chain (00, Nu, Wing Zero, God, Zeta, Rider 1, RX, W, OOO, Ultraman, Seven, Taro, Zero, Mebius, Den-O): W 'tasukaru ze', OOO 'tasukarimasu', Mebius 'minna' fit. Uncertain: 0.155 rough 'omee-ra' lands on RX and 0.163 'sumanai' on Den-O; English kept voice-neutral so either mapping works."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.165",
+   "note": "Regnant (glossary g=n) - no pronouns used."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.168",
+   "note": "Duo's 'I run, I hide' self-image."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.169",
+   "note": "Garazzo counts them with the animal counter; rendered 'you vermin'."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.173",
+   "note": "No speaker; offset+172 is NOT called by 0629.bla (script goes from Garazzo +171 to Duo +173), so this row is likely unused. Translated as Duo's laugh, which leads into 0.174."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.177",
+   "note": "Superweapons: Memento Mori (00), Barge Cannon (Wing; official English 'Barge'), Libra Cannon (Wing), Colony Laser (glossary). Only Colony Laser is in the glossary."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.182",
+   "note": "Gadessa (Revive) receiving a brainwave message from Ribbons (polite desu-ka); the verb after 'Libra Cannon' is omitted in the source and kept omitted - the next rows reveal it was fired."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.183",
+   "note": "'Uwasa wo sureba nantoyara' = speak of the devil."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.191",
+   "note": "Comm beeps and Zoffy's transmission in double quotes, following the announcement precedent for these brackets."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.192",
+   "note": "Speaker CHARA_NAME.128 = Zoffy at the base. 'We' restored."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.194",
+   "note": "'Inochibiroi shita ne' = 'You cheated death'."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.199",
+   "note": "0.199-213 block uses a NEW chain right before it: 10,9,6,7,4,5,3,15,14,8,13,12,11,2,1 = 00, Wing Zero, Nu, Zeta, W, OOO, Den-O, Zero, Mebius, God, Taro, Seven, Ultraman, RX, Rider 1 (confirmed by 0.205 Momotaros 'terminal-whatsit', 0.207 polite Mebius in story_119). 0.199-202 = 00, Wing Zero, Nu, Zeta; identical JP -> identical EN."
+  }
+ ],
+ "report": "80/80 rows. Uncertain: 0.155/0.163 voice in leader block 0.149-163 (order assumed from first chain; English kept neutral); 0.173 unused line, speaker assumed Duo; 0.147 'repay the favor' direction; 0.117 speaker label Den-O may be the leader. Not in glossary: Memento Mori, Barge Cannon, Libra Cannon; Capture Cube and Terminal Unit follow precedent."
+}

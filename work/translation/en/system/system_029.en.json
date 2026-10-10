@@ -1,0 +1,346 @@
+{
+ "slice": "system_029",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.76",
+   "en": "All Null"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#1.77",
+   "en": "Lock"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#2.1",
+   "en": "Main Cannon"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#2.2",
+   "en": "Gun Turret"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#2.3",
+   "en": "Reinforce"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#2.4",
+   "en": "Charge"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#2.5",
+   "en": "Fire"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#2.6",
+   "en": "Strafe"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#2.7",
+   "en": "Barrage"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#2.8",
+   "en": "Drill"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#2.9",
+   "en": "Armor Repair"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#2.10",
+   "en": "Part Repair"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#2.11",
+   "en": "Main Cannon"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#2.12",
+   "en": "Gun Turret"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#2.13",
+   "en": "Shield"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#2.14",
+   "en": "Support Unit"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.1",
+   "en": "Use items."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.2",
+   "en": "Use skills."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.3",
+   "en": "Spend AP to learn and upgrade skills."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.4",
+   "en": "Check status."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.5",
+   "en": "Set equipment and Forces."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.6",
+   "en": "Open the database."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.7",
+   "en": "Check quests."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.8",
+   "en": "Change game options."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.9",
+   "en": "Save and suspend the game."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.10",
+   "en": "Return to base."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.11",
+   "en": "Check Forces."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.12",
+   "en": "Browse the chip catalog."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.13",
+   "en": "Check various records."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.14",
+   "en": "Review the tutorials."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.21",
+   "en": "Save your current state and suspend the game.\nAre you sure?"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.22",
+   "en": "Return to base.\nAre you sure?"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.23",
+   "en": "Discard this item.\nAre you sure?"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.24",
+   "en": "Sort your items.\nAre you sure?"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.25",
+   "en": "Your inventory is full, so it can't be removed."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.26",
+   "en": "Another ally has this equipped.\nRemove it and swap?"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.27",
+   "en": "Use this item.\nAre you sure?"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.31",
+   "en": "Steps"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.32",
+   "en": "Battles Won"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.33",
+   "en": "Gear Upgrades"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.34",
+   "en": "Chip Types Collected"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.35",
+   "en": "Max Damage"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.36",
+   "en": "HERO Skills Used"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.37",
+   "en": "Crossover Skills Used"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.38",
+   "en": "Total Casino Coins Won"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.39",
+   "en": "Total Material Value Gained"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.40",
+   "en": "{8078} steps"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.41",
+   "en": "{8079} times"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.42",
+   "en": "{8091} times"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.43",
+   "en": "{807B} types"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.44",
+   "en": "{807C}"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.45",
+   "en": "{807D} times"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.46",
+   "en": "{807E} times"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.47",
+   "en": "{807F} coins"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.48",
+   "en": "{8080}M"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.49",
+   "en": "Overall Completion"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.50",
+   "en": "Cube 1"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.51",
+   "en": "Cube 2"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.52",
+   "en": "Cube 3"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.53",
+   "en": "Cube 4"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.54",
+   "en": "Cube 5"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.55",
+   "en": "Cube 6"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.56",
+   "en": "Cube 7"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.57",
+   "en": "Cube 8"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.58",
+   "en": "Ride Dungeon"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.59",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.60",
+   "en": "{8081}%"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.61",
+   "en": "{8082}%"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.62",
+   "en": "{8083}%"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.63",
+   "en": "{8084}%"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.64",
+   "en": "{8085}%"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.65",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.66",
+   "en": "Area 1"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.67",
+   "en": "Area 2"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.68",
+   "en": "Area 3"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.69",
+   "en": "Area 4"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.70",
+   "en": "Ride Dungeon 1"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.71",
+   "en": "Ride Dungeon 2"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.72",
+   "en": "Ride Dungeon 3"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.73",
+   "en": "Ride Dungeon 4"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Camp/CampMess.mbb#0.5",
+   "note": "Force (the Japanese loanword for the equippable force item) used as-is, matching 'Force Bonus' in AwardName; not in glossary."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.39",
+   "note": "Describes the lifetime total money obtained from Materials; wording is a guess."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.49",
+   "note": "Overall exploration/clear rate across cubes; rendered as Overall Completion."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.59",
+   "note": "Dev placeholder row (Dummy), translated literally; same for #0.65."
+  }
+ ],
+ "report": "All 80 rows translated. Short battle-label forms (All Null, Lock, Main Cannon...) match system_028. Uncertain: Force wording, row 0.39 wording, 0.49 'Overall Completion'. No new glossary names."
+}

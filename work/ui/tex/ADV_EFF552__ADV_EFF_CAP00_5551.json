@@ -1,0 +1,22 @@
+{
+ "tpc": "Graph/Adv/eff/552/ADV_EFF.tpc",
+ "exact": true,
+ "page": "ADV_EFF_CAP00_5551.tga",
+ "note": "",
+ "boxes": [
+  {
+   "x": 492,
+   "y": 4,
+   "w": 18,
+   "h": 6,
+   "text": "Drill",
+   "bg": [
+    2,
+    0,
+    1
+   ],
+   "size": 6,
+   "weight": 0.25
+  }
+ ]
+}

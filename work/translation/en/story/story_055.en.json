@@ -1,0 +1,382 @@
+{
+ "slice": "story_055",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0331.mbb#0.55",
+   "en": "Wait!!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.56",
+   "en": "Hey! Wait!!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.57",
+   "en": "...Tch, they got away. But what the hell was that Core Medal!!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.58",
+   "en": "Ankh! Forget that for now. Saving Rider 1 and Rider 2 comes first!!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.59",
+   "en": "Ankh! Never mind that, let's hurry up and get Rider 1 and Rider 2 out of there!!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.60",
+   "en": "Ankh! Forget that for now. Saving Rider 1 and Rider 2 comes first!!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.61",
+   "en": "Ankh! Right now, lives matter more than Medals!! First, let's save our seniors, Rider 1 and Rider 2!!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.62",
+   "en": "Ankh! Forget that, Rider 1 and Rider 2 come first, right!? Let's hurry and save 'em, OK!?"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.63",
+   "en": "Ankh! Saving Rider 1 and Rider 2 has to come first right now!!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.64",
+   "en": "Ankh, Rider 1 and Rider 2 are the priority. Commencing rescue operation!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.65",
+   "en": "Ankh! We've confirmed where Rider 1 and Rider 2 are. Rescuing them is our top priority now."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.66",
+   "en": "Ankh! Forget that for now. Saving Rider 1 and Rider 2 comes first!!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.67",
+   "en": "Ankh! Forget that for now. Saving Rider 1 and Rider 2 comes first!!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.68",
+   "en": "Hmph, don't give me orders!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.70",
+   "en": "In the next room were two operating tables, with Rider 1 and Rider 2 strapped down on them."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.72",
+   "en": "We'll save you right now!! Ankh, I need you on that control panel."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.73",
+   "en": "We're gonna get you outta there!! Hey, you handle that control panel, got it?"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.74",
+   "en": "Hang on, we're getting you out!! Ankh, I need you on that control panel."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.75",
+   "en": "We'll get you out right now!! Ankh, I need you on that control panel."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.76",
+   "en": "Hang on, we're getting you out!! Ankh, I need you on that control panel."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.77",
+   "en": "We'll get you out right now!! Ankh, please, I need you on that control panel!!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.78",
+   "en": "We'll free you now... Ankh, I need you on that control panel."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.79",
+   "en": "We'll free you now... Ankh, I need you on that control panel."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.80",
+   "en": "We'll get you out now! Ankh, I need you on that control panel."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.81",
+   "en": "We'll save you! Ankh, I need you on that control panel."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.82",
+   "en": "Don't give me orders!!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.83",
+   "en": "...Tch, just this once, got it?"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.84",
+   "en": "Ankh worked the machine, and the restraints holding Rider 1 and Rider 2 came loose."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.86",
+   "en": "Thank you, you saved us!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.87",
+   "en": "I owe you one!!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.88",
+   "en": "We came this close to being remodeled all over again."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.89",
+   "en": "That was a close one!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.90",
+   "en": "I'm glad we made it in time!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.91",
+   "en": "Good thing we made it in time."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.92",
+   "en": "Glad we made it in time."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.93",
+   "en": "I'm so glad we made it in time!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.94",
+   "en": "Good thing we made it in time."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.95",
+   "en": "I'm so glad we made it in time!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.96",
+   "en": "Glad we made it in time."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.97",
+   "en": "Glad we made it in time."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.98",
+   "en": "I'm glad we made it in time."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.99",
+   "en": "I'm glad we made it in time!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.101",
+   "en": "Kamen Rider 1 joined the party!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.102",
+   "en": "Hey, there's no reason to hang around a place like this. We're heading back to base!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.105",
+   "en": "Welcome, Kamen Rider 1! And the real Rider 2!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.106",
+   "en": "Whew, you really saved our lives."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.107",
+   "en": "...I never knew a place like this existed."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.108",
+   "en": "I'm Seravee Gundam. I handle the strategy side of things."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.109",
+   "en": "I'm Methuss. If you need treatment, leave it to me."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.110",
+   "en": "I'm Hikari. You could say I'm in charge of the technical side."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.113",
+   "en": "The heroes discussed a plan for their next objective: rescuing the Ultra Brothers."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.115",
+   "en": "...So the path to the place with the cross is blocked by boulders?"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.116",
+   "en": "A small but powerful bomb would do the trick... Unfortunately, we have nothing suitable here."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.117",
+   "en": "A small bomb, huh..."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.118",
+   "en": "Then let's just swipe one from the enemy!?"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.119",
+   "en": "I doubt the enemy would be so convenient as to have one, though."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.120",
+   "en": "No, the enemy researches weapons and ammo too. They must be storing them somewhere."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.121",
+   "en": "My suspicion is the area even further in from where we were being held."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.122",
+   "en": "Ikadevil was coming and going from there a lot, too."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.123",
+   "en": "See!? You hear that, you lot!? If the great Rider 1 says so, it's gotta be true!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.124",
+   "en": "Understood. Then investigate that area."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.126",
+   "en": "A mysterious Shocker kaijin was born from the Neo-Organism's body!!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.127",
+   "en": "...Ohh!!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.129",
+   "en": "Rider 1! Rider 2!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.130",
+   "en": "Rider 1! Rider 2!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.131",
+   "en": "Rider 1! Rider 2!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.132",
+   "en": "Rider 1! Rider 2!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.133",
+   "en": "Rider 1! Rider 2!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.134",
+   "en": "Rider 1! Rider 2!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.135",
+   "en": "Rider 1! Rider 2!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.136",
+   "en": "Rider 1! Rider 2!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.137",
+   "en": "Rider 1! Rider 2!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.138",
+   "en": "Kamen Rider 1! Kamen Rider 2!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.146",
+   "en": "Gwoooooooh!! Who was iiiiiiit!!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.147",
+   "en": "Hey!! Stop thrashing around!!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.148",
+   "en": "Grrrgh... Wooooaaaaaagh!! Who was it that killed meeee!!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.149",
+   "en": "Someone!! Give me a hand!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.150",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.151",
+   "en": "Hold down that side!!"
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.152",
+   "en": "Yeah, got it."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0331.mbb#0.55",
+   "note": "Slot 10 of the leader-variant 'Wait!!' block begun in story_054 (#0.46-0.55)."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.57",
+   "note": "'Nigeyagatta' subject restored as 'they' (Ikadevil left with the child-voiced being, story_054 #0.44-45)."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.58",
+   "note": "#0.58-0.67, #0.72-0.81, #0.90-0.99, #0.129-0.138 are 10-slot leader-variant blocks. Pt_Chara_Check order in the 0331 script: 1 Black RX, 2 Den-O Sword Form, 3 W (Shotaro), 4 OOO, 5 Zero, 6 Mebius, 7 00, 8 Wing Zero, 9 Zeta Gundam, 10 Nu Gundam. Wording matches (slot 4 'sempai'/lives over Medals, slot 6 'Ankh-san'). Identical Japanese given identical English."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.61",
+   "note": "OOO's 'senpai' for the Riders rendered 'our seniors' per glossary; dropped in the short shout at #0.132 (and Mebius' '-san' at #0.134)."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.72",
+   "note": "'Tanomu' is the leader asking Ankh: rendered 'I need you on that control panel' to keep the direction. #0.73 (Momotaros) says 'oi' instead of Ankh's name."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.82",
+   "note": "Unlabelled; follows the 10 variants (#0.72-0.81), so read as Ankh's retort before his labelled #0.83."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.88",
+   "note": "'Saikaizou' = being cyborg-modified again; 'remodeled all over again'."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.105",
+   "note": "Rows #0.105-0.127 have no recovered speaker. #0.105 is a base member's greeting, kept neutral; #0.106 read as Rider 2 (easygoing), #0.107 as Rider 1."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.115",
+   "note": "Unlabelled. 'The cross' kept singular to match story_046 ('area with the cross')."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.116",
+   "note": "Unlabelled; likely Hikari (tech). #0.118 and #0.123 read as the same rough-spoken hero, who calls Rider 1 'dai-senpai' -> 'the great Rider 1'. #0.119 sceptic and #0.124 planner (Seravee-type) unidentified."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.121",
+   "note": "Source has 'tachi ga' with no word before it (likely a dropped pronoun); read as Rider 1 talking about where he and Rider 2 were held, so 'we'."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.126",
+   "note": "'Neo seimeitai' rendered 'Neo-Organism' (Kamen Rider ZO's English name); not in glossary. Align with story_054 if it chose otherwise."
+  },
+  {
+   "key": "MainEventMess0331.mbb#0.146",
+   "note": "??? is the Armored Samurai Kaijin (named in story_056 #0.158). 'Dare da' tied to #0.148 'the one who killed me' -> 'Who was it'. New roar 'Gwoooooooh!!'."
+  }
+ ],
+ "report": "80/80 rows. Leader-variant blocks voiced from the script's Pt_Chara_Check order (RX, Den-O, W, OOO, Zero, Mebius, 00, Wing Zero, Zeta, Nu). #0.121 source lacks the word before 'tachi'; read as 'we'. Speakers of #0.105-0.127 not recovered; inferred. Not in glossary: Neo-Organism; new Armored Samurai Kaijin roar."
+}

@@ -1,0 +1,358 @@
+{
+ "slice": "quest_027",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.40",
+   "en": "It's the other way 'round! We came here to take you guys down!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.41",
+   "en": "It's the opposite!! We came here to defeat you!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.42",
+   "en": "It's the opposite!! We came here to defeat you!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.43",
+   "en": "It's the opposite!! We came here to defeat you!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.44",
+   "en": "It's the opposite!! We came here to defeat you!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.45",
+   "en": "It's the opposite!! We came here to defeat you!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.46",
+   "en": "It's the opposite!! We've come to defeat you!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.47",
+   "en": "It's the opposite!! We came here to defeat you!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.48",
+   "en": "It's the opposite!! We came here to defeat you!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.49",
+   "en": "It's the opposite!! We came here to defeat you!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.50",
+   "en": "It's the opposite!! We came here to defeat you!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.51",
+   "en": "It's the opposite!! We came here to defeat you!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.52",
+   "en": "It's the opposite!! We came here to defeat you!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.53",
+   "en": "The opposite. We came to defeat you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.54",
+   "en": "The opposite. We came to defeat you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.55",
+   "en": "Came to defeat us? Hahahaha!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.56",
+   "en": "What's so funny!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.57",
+   "en": "What's so funny!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.58",
+   "en": "What's so funny!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.59",
+   "en": "What's so funny!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.60",
+   "en": "What's so funny!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.61",
+   "en": "What's so funny!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.62",
+   "en": "What's so funny!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.63",
+   "en": "What's so funny!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.64",
+   "en": "What's so funny!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.65",
+   "en": "What's so funny!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.66",
+   "en": "What's so funny!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.67",
+   "en": "What's so funny!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.68",
+   "en": "What's so funny!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.69",
+   "en": "What's so funny!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.70",
+   "en": "What's so funny!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.71",
+   "en": "Take a look around! You think you can beat this many all by yourselves?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.72",
+   "en": "Fine by me. Go ahead and try, if you think you can."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.74",
+   "en": "Waah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.75",
+   "en": "Waah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.76",
+   "en": "Waah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.77",
+   "en": "Waah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.78",
+   "en": "Waah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.79",
+   "en": "Waah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.80",
+   "en": "Waah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.81",
+   "en": "Waah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.82",
+   "en": "Waah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.83",
+   "en": "Waah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.84",
+   "en": "Waah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.85",
+   "en": "Waah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.86",
+   "en": "Waah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.87",
+   "en": "Waah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.88",
+   "en": "Waah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.89",
+   "en": "What's the matter? I'm over here."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.91",
+   "en": "Dammit! I can't move like this!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.92",
+   "en": "Damn! I can't move like this!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.93",
+   "en": "Damn! I can't move like this!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.94",
+   "en": "Damn! I can't move like this!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.95",
+   "en": "Damn! I can't move like this!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.96",
+   "en": "Damn! I can't move like this!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.97",
+   "en": "Ugh! I can't move like this!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.98",
+   "en": "Blast! I cannot move like this!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.99",
+   "en": "Blast! I cannot move like this!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.100",
+   "en": "Blast! I cannot move like this!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.101",
+   "en": "Damn! I can't move like this!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.102",
+   "en": "Damn! I can't move like this!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.103",
+   "en": "Damn! I can't move like this!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.104",
+   "en": "Damn! I can't move like this!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.105",
+   "en": "Damn! I can't move like this!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.106",
+   "en": "Well, that's funny. What happened to all that bravado from a minute ago?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.107",
+   "en": "Like that, you won't beat anyyybody, y'know? Hahahahaha!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.108",
+   "en": "Hey, that's enough. I'll take it from here."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.110",
+   "en": "Gaoh! So you were here too, you bastard!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.111",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.112",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.113",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.114",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.115",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.116",
+   "en": "Gaoh! So you were here as well!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.117",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.118",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.119",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.120",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.121",
+   "en": "Gaoh! So you were here too!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.122",
+   "en": "Gaoh! So you were here too!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.40",
+   "note": "Speakers from Quest024.bla, row = TextIdOffset+N+1 (calibrated: +2 Ankh -> 0.3, +4 narration -> 0.5, +38 Arms Dopant -> 0.39). Leader blocks follow Pt_Chara_Check order: Momotaros, Shotaro, OOO, RX, Rider 1, Zero, Mebius, Taro, Seven, Ultraman, Nu, Zeta, God, Wing Zero, 00 (k=0 rough, k=6 polite, k=7-9 formal, k=13-14 curt all match). Blocks here: 0.40-54, 0.56-70, 0.74-88, 0.91-105, 0.110-124."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.55",
+   "note": "Arms Dopant (CHARA_NAME 184), answering the leader's 'we came to defeat you'. Laugh written 'Hahahaha!!'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.71",
+   "note": "0.71 and 0.72 are both Arms Dopant (two consecutive MessWinSet, no reply between); 0.72 is him inviting the attack, followed by a beam SE hitting the leader."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.89",
+   "note": "Arms Dopant taunt after the hit; 0.106-0.107 also Arms Dopant. 'da-re-mo' drawn out rendered as 'anyyybody'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.98",
+   "note": "Ultra variants (Taro/Seven/Ultraman, 0.98-0.100) use the stiffer 'kore de wa': rendered 'Blast! I cannot move like this!'; Mebius (0.97) has a pained grunt instead of a curse."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.108",
+   "note": "Speaker '???' (CHARA_NAME 30) before Gaoh steps on screen (CHARA_PIC 161 enters right after); it is Kamen Rider Gaoh, stopping Arms Dopant."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.110",
+   "note": "Momotaros's variant uses 'temee' -> 'you bastard'; Mebius's (0.116) is polite."
+  }
+ ],
+ "report": "80/80 rows examined. Speakers from Quest024.bla, row = TextIdOffset+N+1; leader blocks in Pt_Chara_Check order (Momotaros first, Mebius k=6). 0.108 '???' = Gaoh before entering. No new names."
+}

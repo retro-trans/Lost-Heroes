@@ -1,0 +1,398 @@
+{
+ "slice": "story_019",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0147.mbb#0.3",
+   "en": "(So the weather still hasn't cleared up...)"
+  },
+  {
+   "key": "MainEventMess0147.mbb#0.4",
+   "en": "(So the weather still hasn't cleared up...)"
+  },
+  {
+   "key": "MainEventMess0147.mbb#0.5",
+   "en": "(So the weather still hasn't cleared up...)"
+  },
+  {
+   "key": "MainEventMess0147.mbb#0.6",
+   "en": "(So the weather still hasn't cleared up...)"
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.1",
+   "en": "Something's wrong...!! Rider 1 and Rider 2 are gone...!!"
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.2",
+   "en": "The Kamen Riders are gone!? That's strange..."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.3",
+   "en": "Something's wrong...!! Our seniors, Rider 1 and Rider 2, are gone...!!"
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.4",
+   "en": "That's weird... Rider 1 and Rider 2 are gone..."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.5",
+   "en": "Something's wrong... Rider 1 and Rider 2 are gone..."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.6",
+   "en": "There aren't any Kamen Riders here at all... This is supposed to be the place, isn't it...?"
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.7",
+   "en": "Huh? Rider 1 and Rider 2 ain't even here..."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.8",
+   "en": "The frozen Kamen Rider 1 and Kamen Rider 2 had vanished."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.9",
+   "en": "There was no sign that the ice had melted."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.10",
+   "en": "In their place stood an unfamiliar device."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.12",
+   "en": "What the...? What is that...?"
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.13",
+   "en": "It looks like some kind of gate."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.14",
+   "en": "It looks like some kind of gate."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.15",
+   "en": "It looks like some kind of gate."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.16",
+   "en": "Looks like some kind of gate."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.17",
+   "en": "Looks like some kind of gate."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.18",
+   "en": "It looks like some kind of gate."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.19",
+   "en": "Looks kinda like a gate."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.21",
+   "en": "Obtained Accel's chip."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.22",
+   "en": "Obtained Trial's chip."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.23",
+   "en": "Obtained Methuss's chip."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.24",
+   "en": "Obtained Hikari's chip."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.25",
+   "en": "Obtained Ankh's chip."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.26",
+   "en": "Obtained Momotaros's chip."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.27",
+   "en": "Obtained Urataros's chip."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.28",
+   "en": "Obtained Kintaros's chip."
+  },
+  {
+   "key": "MainEventMess0151.mbb#0.1",
+   "en": "You bastards... You chased me all the way here? You're a persistent bunch!!"
+  },
+  {
+   "key": "MainEventMess0151.mbb#0.2",
+   "en": "I'll deal with you plenty later!! You'll pay for this!!"
+  },
+  {
+   "key": "MainEventMess0160.mbb#0.1",
+   "en": "Would you like to view the tutorial on chips?"
+  },
+  {
+   "key": "MainEventMess0160.mbb#0.2",
+   "en": "You can view tutorials at any time from the Camp Menu."
+  },
+  {
+   "key": "MainEventMess0161.mbb#0.1",
+   "en": "Would you like to view the tutorial on checkpoints?"
+  },
+  {
+   "key": "MainEventMess0161.mbb#0.2",
+   "en": "You can view tutorials at any time from the Camp Menu."
+  },
+  {
+   "key": "MainEventMess0163.mbb#0.1",
+   "en": "Seamons's corpse lies here."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.1",
+   "en": "...!? You guys...!!"
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.2",
+   "en": "Ah! ...W!!"
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.3",
+   "en": "OOO!! You were here too!!"
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.4",
+   "en": "Yes."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.5",
+   "en": "OOO, do you know him?"
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.6",
+   "en": "Let me introduce you. This is Kamen Rider W (Double)."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.7",
+   "en": "Just call me W. Nice to meet you."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.8",
+   "en": "I see, W. I'm Nu Gundam. Good to meet you."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.9",
+   "en": "I'm Ultraman Zero. Nice to meet ya!"
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.10",
+   "en": "Yeah, likewise!!"
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.11",
+   "en": "Getting right to it, W: if you know anything about this world, I'd like you to tell us."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.12",
+   "en": "Let's see... That giant windmill you can see over there is a dead ringer for \"Fuuto Tower\"..."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.13",
+   "en": "Fuuto Tower?"
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.14",
+   "en": "It's a building that's kind of the symbol of \"Fuuto,\" the city where we lived."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.15",
+   "en": "So you're saying this place is that Fuuto?"
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.16",
+   "en": "Nah, the streets look pretty different. Plus, it's creepy that there's no wind blowing."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.17",
+   "en": "Fuuto means \"Wind City,\" and true to its name, the wind blows there all year round."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.18",
+   "en": "I see..."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.19",
+   "en": "W, we plan to explore for a while. Would you come with us?"
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.20",
+   "en": "Sure, I don't mind, but are the other two okay with that?"
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.21",
+   "en": "You bet we are!!"
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.22",
+   "en": "Riders help each other out, right!?"
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.23",
+   "en": "Okay! Got it. Let's join forces and get moving!!"
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.24",
+   "en": "Kamen Rider W joined the party!"
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.32",
+   "en": "Allow me to say it as well: nice to meet you."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.33",
+   "en": "...?"
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.34",
+   "en": "Who's that? Is there another one of you?"
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.35",
+   "en": "Ah, sorry, sorry. This is my partner, Philip."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.36",
+   "en": "Shotaro, that doesn't explain anything."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.37",
+   "en": "What do you mean?"
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.38",
+   "en": "The two of us are one Kamen Rider."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.39",
+   "en": "So you mean you look like one person, but there are two minds inside?"
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.40",
+   "en": "Yeah, yeah, that's it."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.41",
+   "en": "Well, to be precise..."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.42",
+   "en": "Philip, skip the complicated stuff. That's more or less how it is, so nice to meet you!"
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.43",
+   "en": "...Well, this world's full of stuff I don't know. Nothing that shows up is gonna surprise me."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.44",
+   "en": "I'm Ultraman Zero. Nice to meet ya."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.1",
+   "en": "What is this place...? The atmosphere's different from before."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.3",
+   "en": "Looks like we got teleported here in an instant."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.4",
+   "en": "What do we do, Ankh?"
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.5",
+   "en": "How the hell should I know?"
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.6",
+   "en": "Whatever. We're gonna walk around and look."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.8",
+   "en": "These ruins... Doesn't look like this is Fuuto."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0147.mbb#0.3",
+   "note": "0147 #0.3-0.6 are party-variant copies of the same thought line (Weather Dopant stole the wind earlier); rendered as a realization, not a question."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.3",
+   "note": "OOO calls them '1-go senpai / 2-go senpai' (respect for senior Riders). Rendered 'Our seniors, Rider 1 and Rider 2' rather than a Sempai honorific (glossary 'Sempai' is for Imagin addressing Momotaros)."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.10",
+   "note": "Source has a typo (a kanji meaning 'indignant' instead of 'accustomed'); read as 'unfamiliar device'."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.12",
+   "note": "Ankh, curt. Restored 'What is that'."
+  },
+  {
+   "key": "MainEventMess0148.mbb#0.21",
+   "note": "Chip rows 0.21-0.28: the game's character chips. 0.22 says only 'Trial' (not 'Accel Trial'); kept 'Trial's chip' to match source. Possessive format chosen; no prior translated chip lines to match."
+  },
+  {
+   "key": "MainEventMess0151.mbb#0.2",
+   "note": "'Oboete yagare' (stock villain parting line) rendered 'You'll pay for this!!' rather than literal 'Remember this'."
+  },
+  {
+   "key": "MainEventMess0161.mbb#0.1",
+   "note": "Term 'chuukei chiten' (dungeon heal/save/warp points) rendered 'checkpoints'. Not in glossary; system slices use the same term (tutorial title) and should match."
+  },
+  {
+   "key": "MainEventMess0163.mbb#0.1",
+   "note": "Inspect text, no speaker."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.5",
+   "note": "Nu Gundam asks OOO whether he knows W; 'him' used since W (Shotaro/Philip) is male per glossary."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.8",
+   "note": "No speaker recovered; content (self-introduction as Nu Gundam) settles it. #0.9 likewise Zero."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.14",
+   "note": "Dropped the furigana gloss for Fuuto."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.17",
+   "note": "Added the gloss 'Wind City' so 'true to its name' makes sense to English readers (the name is written with the kanji for wind + city)."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.20",
+   "note": "'The other two' = Zero and OOO, Nu Gundam's party members."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.21",
+   "note": "Zero answering for himself and OOO; 'You bet we are!!' (source just 'Of course!!')."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.32",
+   "note": "Philip; source ends with a playful question mark, rendered as a mannered declarative."
+  },
+  {
+   "key": "MainEventMess0165.mbb#0.43",
+   "note": "Zero; subject of 'don't know' unstated in source, rendered 'I' (could be 'we'). #0.44 repeats his intro (likely another branch)."
+  },
+  {
+   "key": "MainEventMess0201.mbb#0.6",
+   "note": "Ankh bossy: 'We're gonna walk around' keeps the volitional command tone."
+  }
+ ],
+ "report": "80/80 rows examined. Unlabelled rows 0165 #0.8/#0.9 inferred from self-introductions (Nu Gundam, Zero). 0148 #0.10 source typo read as 'unfamiliar'. Terms not in glossary: 'chip' (character chips), 'checkpoint' (chuukei chiten), 'Camp Menu', 'Wind City' gloss for Fuuto. 'Trial's chip' kept literal (Accel Trial?)."
+}

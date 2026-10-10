@@ -1,0 +1,25 @@
+{
+ "tpc": "Graph/Adv/eff/999/ADV_EFF.tpc",
+ "page": "OP_moji02_4444.tga",
+ "note": "Opening title card: Despair Strikes (rect 0 is a separator line, kept).",
+ "defaults": {
+  "color": [
+   185,
+   185,
+   191
+  ],
+  "weight": 0.8,
+  "align": "center"
+ },
+ "clear": [],
+ "boxes": [
+  {
+   "x": 0,
+   "y": 0,
+   "w": 128,
+   "h": 36,
+   "text": "DESPAIR STRIKES"
+  }
+ ],
+ "exact": true
+}

@@ -1,0 +1,390 @@
+{
+ "slice": "story_032",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0238.mbb#0.1",
+   "en": "So this is the reservoir..."
+  },
+  {
+   "key": "MainEventMess0238.mbb#0.2",
+   "en": "So this is the reservoir..."
+  },
+  {
+   "key": "MainEventMess0238.mbb#0.3",
+   "en": "So this is the reservoir..."
+  },
+  {
+   "key": "MainEventMess0238.mbb#0.4",
+   "en": "So this is the reservoir..."
+  },
+  {
+   "key": "MainEventMess0238.mbb#0.5",
+   "en": "So this is the reservoir..."
+  },
+  {
+   "key": "MainEventMess0238.mbb#0.6",
+   "en": "So this is the reservoir..."
+  },
+  {
+   "key": "MainEventMess0238.mbb#0.7",
+   "en": "So this is the reservoir..."
+  },
+  {
+   "key": "MainEventMess0238.mbb#0.8",
+   "en": "So this is the reservoir..."
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.1",
+   "en": "This is...!?"
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.2",
+   "en": "What is it, Ankh?"
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.3",
+   "en": "What's wrong?"
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.4",
+   "en": "What is it?"
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.5",
+   "en": "What's the matter?"
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.6",
+   "en": "What's wrong, Ankh?"
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.7",
+   "en": "What?"
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.8",
+   "en": "What is it?"
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.9",
+   "en": "...?"
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.10",
+   "en": "...?"
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.11",
+   "en": "Take a good look around... These are Yummy eggs."
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.12",
+   "en": "These are Yummy eggs."
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.13",
+   "en": "Yummy eggs...!? ...Then that means... Ankh!!"
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.14",
+   "en": "Yummy eggs...!?"
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.15",
+   "en": "Yummy eggs...!?"
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.16",
+   "en": "Yummy eggs...!? Ankh, what are you trying to say?"
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.17",
+   "en": "Yummy eggs...!? ...Then that means!!"
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.18",
+   "en": "So this creepy gunk is Yummy eggs! And? What's your point?"
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.19",
+   "en": "Yummy eggs...!?"
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.20",
+   "en": "Yummy eggs...!?"
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.21",
+   "en": "Yummy eggs...!?"
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.22",
+   "en": "If we leave them like this, Yummies will just keep on hatching, with no end to it."
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.23",
+   "en": "This is dangerous..."
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.24",
+   "en": "This is dangerous..."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.1",
+   "en": "Looks like this is about as deep as it goes..."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.2",
+   "en": "My precious little eggs..."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.3",
+   "en": "Hurry up and grow big and strong now..."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.4",
+   "en": "Ufufufufu..."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.5",
+   "en": "...!!"
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.6",
+   "en": "...Who's there!?"
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.7",
+   "en": "Who dares get in the way of my desire!?"
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.8",
+   "en": "Mezool!!"
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.9",
+   "en": "Oh my... Ankh? This is no place for little boys like you, you know?"
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.10",
+   "en": "You!! What are you scheming!!"
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.11",
+   "en": "Lovely place, isn't it? Kazari found it for me, you know."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.12",
+   "en": "I was here, taking my time and enjoying watching my Yummies hatch..."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.13",
+   "en": "...And then you lot barged in and got in my way."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.14",
+   "en": "I'll never forgive you for this!! Get out of here!!!"
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.17",
+   "en": "As Mezool fell, several Core Medals scattered from her body."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.18",
+   "en": "Mezool! I'm taking those Core Medals!"
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.19",
+   "en": "Whoa there! Not so fast, okay?"
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.20",
+   "en": "Kazari!! Move!! Those Core Medals are mine!"
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.21",
+   "en": "Outta my way!! Those Core Medals are mine!"
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.22",
+   "en": "A little too late, weren't you? I already helped myself to all of Mezool's Core Medals."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.23",
+   "en": "You...!!"
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.24",
+   "en": "Well, you really helped me out there. You saved me the trouble of beating her."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.25",
+   "en": "You betrayed Mezool... your own comrade?"
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.26",
+   "en": "Comrade...? Sure, we're both Greeed, but that doesn't make us comrades, you know?"
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.27",
+   "en": "I felt like trying a little experiment of my own, see. And for that, I need Mezool's Core Medals."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.28",
+   "en": "But she's a Greeed too. I couldn't just take them from her that easily..."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.29",
+   "en": "So, to save time, I figured I'd have you guys take her down for me."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.30",
+   "en": "And for that, I needed Mezool and you lot to end up as enemies."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.31",
+   "en": "There's someone in this world who's interested in medal technology, you see."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.32",
+   "en": "When I offered them Mezool and her Yummies, they even set up a place like this for me."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.33",
+   "en": "That's right. For Mezool, this is the perfect place to raise Yummies."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.34",
+   "en": "And Mezool, none the wiser, fell for it hook, line and sinker..."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.35",
+   "en": "Her desire is maternal love, after all... Fufufu! ...She must've really wanted to raise those eggs!"
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.36",
+   "en": "Haaahahahahaha!!"
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.37",
+   "en": "K-Kazari, you... you sold me out... Next time we meet... y-you'll pay for this..."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.38",
+   "en": "N-next time we meet... y-you'll pay for this..."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.39",
+   "en": "Hmm... Where do you think you're going? In that state, I doubt you'll ever revive again, you know?"
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.40",
+   "en": "In that state, I doubt you'll ever revive again."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.41",
+   "en": "Hahahahaha!! Well then, I'm a busy guy myself, so..."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.42",
+   "en": "Well then, I'm a busy guy myself, so..."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.43",
+   "en": "...Hey! Wait!!"
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.1",
+   "en": "Obtained \"Gundanium alloy\"."
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.2",
+   "en": "All right!"
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.3",
+   "en": "We did it."
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.4",
+   "en": "00, mission complete."
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.5",
+   "en": "Mission... complete."
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.6",
+   "en": "Good."
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.7",
+   "en": "That should do it."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0238.mbb#0.1",
+   "note": "0238 #0.1-0.8: identical line for each possible party partner; kept identical. 'Chosuijou' = the reservoir Deathscythe Hell mentioned in story_031 (0233 #0.3)."
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.2",
+   "note": "0239 #0.2-0.10 and #0.13-0.21: no speaker except #0.2/#0.13 (00); party-partner variants reacting to Ankh. Voiced by register only: #0.5/#0.16 polite (likely Mebius or OOO; '-san' on Ankh dropped), #0.18 rough (Momotaros/Zero style), #0.9-0.10 silent '...?' (terse pilots). Variant order not verified."
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.13",
+   "note": "'...tte koto wa, Ankh!!' read as the speaker realising what the eggs imply (a Greeed nearby) and turning to Ankh; kept as an unfinished realisation. #0.17 is the same without the name."
+  },
+  {
+   "key": "MainEventMess0239.mbb#0.22",
+   "note": "Ankh: subject 'we' restored for 'if (we) leave them'; 'umaretsuzukeru' rendered 'keep on hatching'."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.2",
+   "note": "Mis-decoded kanji (the same stand-in for 'ai' seen in earlier slices): 'kawaii' -> 'precious'. Speaker '???' is Mezool (named at #0.7)."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.7",
+   "note": "#0.6-0.7 are one sentence cut across two rows ('Who!? / ...is it that gets in the way of my desire!!'); #0.7 rendered as its own question so the cut reads naturally."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.9",
+   "note": "Mezool's 'bouya-tachi' (motherly, condescending to Ankh and the party) -> 'little boys like you'."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.21",
+   "note": "No speaker: rougher alternate of Ankh's #0.20 ('ore n da'); likely Ankh in another branch."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.25",
+   "note": "No speaker; a party member (probably the leader, 00) challenging Kazari. #0.26 has no speaker but is clearly Kazari's reply."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.32",
+   "note": "Kazari's unnamed backer ('someone in this world interested in medal tech'): gender unknown -> 'they'."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.35",
+   "note": "Mis-decoded kanji again: 'bosei-ai' = maternal love (Mezool's desire in OOO canon)."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.37",
+   "note": "'Oboete-rasshai' (feminine 'you'll remember this') -> 'you'll pay for this', stammer kept."
+  },
+  {
+   "key": "MainEventMess0240.mbb#0.41",
+   "note": "'Boku mo hima ja nai n de ne' is an exit line; kept trailing. #0.38/#0.40/#0.42 are shorter alternates of #0.37/#0.39/#0.41."
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.1",
+   "note": "Item-get message follows story_010 format ('Obtained the \"Rider Pass\".'); glossary spelling 'Gundanium alloy' kept, no article for a material."
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.3",
+   "note": "0241 #0.3-0.7: no speaker; party-partner variants of the item-get reaction (#0.4 is 00 by self-naming; #0.5 terse, Wing Zero style). Continues into story_033."
+  }
+ ],
+ "report": "80/80 rows. Mis-decoded kanji in 0240 #0.2 (kawaii) and #0.35 (bosei-ai) inferred from context. Speakers inferred: 0240 #0.2-0.6 Mezool, #0.21 Ankh alt, #0.25 party member (likely 00), #0.26 Kazari. Party-variant rows in 0238/0239/0241 voiced by register only; variant order unverified. Kazari's backer kept gender-neutral. Not in glossary: 'reservoir' (facility)."
+}

@@ -1,0 +1,329 @@
+{
+ "slice": "quest_048",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.93",
+   "en": "Gyaaaaaaaah!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.94",
+   "en": "Red King goes for iiit!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.95",
+   "en": "Pikiiiiiiiih!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.96",
+   "en": "But Eleking hits right back, swinging its giant tail in an electric attaaaaack!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.97",
+   "en": "Gyuaaaaagh!!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.98",
+   "en": "Kiiiiiiiiiiiiiiiiih!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.99",
+   "en": "Gwaah..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.100",
+   "en": "Whoa there, Red King is paralyzed and can't move!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.101",
+   "en": "Kiiiiiih!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.102",
+   "en": "And Eleking! In one smooth motion, it follows up with a Discharge Raaaaaaaaaay!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.103",
+   "en": "Gu... Gwah..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.104",
+   "en": "Red King is dooooown! Will it get up!? Red King, will it get up!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.105",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.106",
+   "en": "Red King is completely knocked ouuut!! The winner iiis... Eleeekiiing!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.107",
+   "en": "\"DING-DING-DIIING!\""
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.111",
+   "en": "Tch!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.112",
+   "en": "Huh? Did you say something?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.113",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.114",
+   "en": "Huh? Did you say something?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.115",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.116",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.117",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.118",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.119",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.120",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.121",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.122",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.123",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.124",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.125",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.126",
+   "en": "Did you say something?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.127",
+   "en": "...No, nothing."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.128",
+   "en": "Very well, then. You won the bet, so you shall receive your prize money!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.130",
+   "en": "Obtained \"Gold Nugget\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.133",
+   "en": "Completed the quest \"Money Dopant's Challenge\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.137",
+   "en": "Too bad! You lost the bet!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.138",
+   "en": "Now you'll pay the price. In full."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.139",
+   "en": "What price!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.140",
+   "en": "What price!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.141",
+   "en": "What price!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.142",
+   "en": "What price!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.143",
+   "en": "What price!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.144",
+   "en": "What price!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.145",
+   "en": "What price!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.146",
+   "en": "What price!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.147",
+   "en": "What price!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.148",
+   "en": "What price!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.149",
+   "en": "What price!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.150",
+   "en": "What price!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.151",
+   "en": "What price!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.152",
+   "en": "What price!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.153",
+   "en": "What price!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.154",
+   "en": "Isn't it obvious? Your lives!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.157",
+   "en": "Not yet... Next time... Next time, my luck will... come around..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.160",
+   "en": "Obtained \"Gold Nugget\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.162",
+   "en": "Completed the quest \"Money Dopant's Challenge\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.163",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.166",
+   "en": "Our other unit in Shocker Cube found a mystery key but lost it in a fierce battle. Investigate the site."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.168",
+   "en": "We've been waiting for you. Let's get right to our request."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.169",
+   "en": "We of the Maganac Corps have been carrying out an investigation here, inside Shocker Cube."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.170",
+   "en": "And in the course of that investigation, we found a mysterious key."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.171",
+   "en": "A key? A key to what?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.172",
+   "en": "Yes. Our investigation revealed that it's the key to one of the exhibit rooms here in Shocker Cube."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.173",
+   "en": "We're told an old sword is on display inside."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.176",
+   "en": "A sword!? Don't tell me that sword is on display here!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.177",
+   "en": "Hey, when you go to that room, you're taking me with you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.178",
+   "en": "Is something on your mind?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.179",
+   "en": "If I use that sword, I might be able to get my lost power back."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.180",
+   "en": "I'm counting on you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.181",
+   "en": "Can't be helped. But first we've gotta find the key."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.182",
+   "en": "Do you have any idea where you dropped the key?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.183",
+   "en": "Yes. We were fighting in an open area at the bottom of a pitfall."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.184",
+   "en": "I remember light leaking through the cracks in a nearby wall."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.185",
+   "en": "I see. With that much to go on, we should be able to manage."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.186",
+   "en": "Sorry for the trouble. We're counting on you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.189",
+   "en": "A sword? Couldn't God Gundam use it?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.190",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.191",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.192",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess018.mbb#0.193",
+   "en": "Then I guess we'll take God Gundam along when we go to the room."
+  }
+ ],
+ "notes": [],
+ "report": "filled from the DG_QUEST twin rows / translation memory"
+}

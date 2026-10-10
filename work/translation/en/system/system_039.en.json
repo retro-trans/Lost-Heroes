@@ -1,0 +1,346 @@
+{
+ "slice": "system_039",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.279",
+   "en": "Armed with a wide range of weapons, including GN Sub Machine Guns, a GN Shield that serves for both defense and offense, and a GN Twin Beam Rifle."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.280",
+   "en": "Armed with heavy weapons like the GN Bazooka II and GN Cannons, it excels at bombardment. It can also deploy a GN Field around its whole body for high DEF."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.281",
+   "en": "Its silhouette resembles the Grim Reaper, and it excels at stealth thanks to the Hyper Jammer. Armed with the scythe-like Twin Beam Scythe and an Active Cloak that reflects beam attacks."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.282",
+   "en": "Boasts high offensive power with many weapons, including vulcans, machine cannons, homing missiles, micro missiles, a twin beam Gatling, chest Gatling guns and an army knife."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.283",
+   "en": "Its main weapon is the Heat Shotels. Good at ground melee combat, it especially shines in dry terrain such as deserts."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.284",
+   "en": "Armed with Dragon Hangs on both arms and two beam cannons on its backpack, it can handle both close-range and long-range combat."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.285",
+   "en": "A Kamen Rider powered by Cell Medals. Drawing out their power gives him abilities rivaling the Greeed and OOO. Fights hand-to-hand and with close-range fire from the \"Birth Buster.\""
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.286",
+   "en": "Fought the Choju controlled by Yapool, the being from another dimension. Has mastered more ray techniques than any other Ultra Brother, such as the \"Metalium Ray\" fired with arms crossed in an L."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.287",
+   "en": "One of the \"6 Ultra Brothers.\" Finishers include the Specium Ray and the wide-range \"Cinerama Shot.\" Wields the all-purpose \"Ultra Bracelet\" given by Ultraseven."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.288",
+   "en": "Captain of the Space Garrison and the first of the \"Ultra Brothers.\" With outstanding leadership and drive, he has the great trust of every Space Garrison member."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.289",
+   "en": "An Imagin born from the red oni of \"Momotaro.\" Possessing the \"Plat Form,\" he becomes \"Kamen Rider Den-O Sword Form.\" Short-tempered and quick to fight, but also easily moved to tears. Hard to hate."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.290",
+   "en": "An Imagin born from the sea turtle of \"Urashima Taro.\" Possessing the \"Plat Form,\" he becomes \"Kamen Rider Den-O Rod Form.\" A quick-witted brainy type, but also a cocky show-off."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.291",
+   "en": "An Imagin born from the bear of \"Kintaro.\" Possessing the \"Plat Form,\" he becomes \"Kamen Rider Den-O Ax Form.\" Proud of his strength and warm-hearted, but his meddling can cause trouble."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.292",
+   "en": "An Imagin who took form from the image of a dragon. By possessing the \"Plat Form,\" he transforms into \"Kamen Rider Den-O Gun Form.\" Childish, selfish and moody."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.293",
+   "en": "A Kamen Rider with a heart of justice despite being a grasshopper cyborg. Wind-powered; his \"Rider Kick\" can shatter rock. Uses so many finishers he is called \"Waza no Ichigo\" (Technique No. 1)."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.294",
+   "en": "BLACK's powered-up form, born when sunlight and life energy poured into the \"King Stone\" in his body. Can change into \"Robo Rider\" and \"Bio Rider.\" Finisher: \"Revolcrash.\""
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.295",
+   "en": "Transforms by touching the Rider Pass to the Den-O Belt. The possessing Imagin's power fills the Plat Form, forming the Den-Mask and Aura Armor. Momotaros's Sword Form fights with headlong charges."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.296",
+   "en": "A two-in-one Kamen Rider who transforms with the Double Driver. Combines 6 Gaia Memories into 9 forms. The basic form is Cyclone Joker, using the Joker Memory and Cyclone Memory."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.297",
+   "en": "Inserting Core Medals into the OOO Driver changes him into various forms. Scanning medals of one attribute triggers a Combo with unique abilities. The basic form is \"Tatoba Combo.\""
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.298",
+   "en": "Equipped with 6 \"Fin Funnels\" on its left rear, it excels at offense such as all-range attacks, and can also deploy a defensive shield."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.299",
+   "en": "Besides excelling at long-range sniping with the powerful \"Hyper Mega Launcher,\" its overwhelming agility makes it effective in close-range combat too."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.300",
+   "en": "Gifted with natural martial arts instincts. His finishers include the \"Erupting God Finger\" and the \"Sekiha Tenkyoken,\" which amplifies his ki and fires it out."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.301",
+   "en": "Equipped with the high-output \"Twin Buster Rifle,\" capable of destroying even a space colony, and the \"Zero System,\" which is programmed for \"perfect victory.\""
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.302",
+   "en": "Its greatest feature is the Twin Drive System with two GN Drives, which yields the square of the GN particle output of a single drive."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.303",
+   "en": "The first Ultraman to fight vicious kaiju, and one of the \"6 Ultra Brothers.\" A kaiju-fighting expert who has mastered every technique, yet kind to innocent kaiju. Finisher: \"Specium Ray\" and many more."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.304",
+   "en": "Fought alien invaders as Constant Observer No. 340 of Nebula M78. Finishers: the \"Emerium Ray,\" \"Wide Shot\" and more, plus skilled use of the \"Eye Slugger,\" the space boomerang on his head."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.305",
+   "en": "True son of the Father and Mother of Ultra, and among the strongest of the Brothers. Finishers: the \"Storium Ray\" and the \"King Bracelet\" from the Mother of Ultra. Mentor of Ultraman Mebius."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.306",
+   "en": "A warrior who faces mighty foes with the great power of light filling his body. Rose from Space Garrison rookie to Ultra Brother. Finishers: \"Mebium Blade\" and \"Mebium Shoot.\""
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.307",
+   "en": "A young Ultra warrior of the Land of Light, Nebula M78, and Ultraseven's son. Immense power and mastery of space martial arts. Finishers: the \"Zero Twin Shoot\" with two Zero Sluggers, and more."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.308",
+   "en": "Transforms by touching the Rider Pass to the Den-O Belt. The possessing Imagin's power fills the Plat Form, forming the Den-Mask and Aura Armor. Urataros's Rod Form corners foes coolly."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.309",
+   "en": "Transforms by touching the Rider Pass to the Den-O Belt. The possessing Imagin's power fills the Plat Form, forming the Den-Mask and Aura Armor. Kintaros's Ax Form excels at brute-force attacks."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.1",
+   "en": "???"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.2",
+   "en": "Ultra Galaxy Mega Monster Battle"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.3",
+   "en": "Ultraseven"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.4",
+   "en": "Ultraman"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.5",
+   "en": "Ultraman 80"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.6",
+   "en": "Ultraman Ace"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.7",
+   "en": "Ultraman Taro"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.8",
+   "en": "Ultraman Mebius"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.9",
+   "en": "Ultraman Mebius &\nthe Ultra Brothers"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.10",
+   "en": "Ultraman Leo"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.11",
+   "en": "Return of Ultraman"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.12",
+   "en": "Mega Monster Battle: Ultra Galaxy Legend\nThe Movie"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.13",
+   "en": "Decisive Battle! The Super 8 Ultra Brothers"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.14",
+   "en": "Kamen Rider"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.15",
+   "en": "Kamen Rider Black RX"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.16",
+   "en": "Kamen Rider V3"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.17",
+   "en": "Kamen Rider W"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.18",
+   "en": "Kamen Rider OOO"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.19",
+   "en": "Kamen Rider Den-O"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.20",
+   "en": "OOO, Den-O, All Riders:\nLet's Go Kamen Rider"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.21",
+   "en": "Kamen Rider x Kamen Rider\nW & Decade\nMovie War 2010"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.22",
+   "en": "Kamen Rider x Kamen Rider\nOOO & W feat. Skull\nMovie War Core"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.23",
+   "en": "Kamen Rider Decade: The Movie\nAll Riders vs. Dai-Shocker"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.24",
+   "en": "Kamen Rider Den-O: The Movie\nI'm Born!"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.25",
+   "en": "Kamen Rider Den-O & Kiva:\nClimax Deka"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.26",
+   "en": "Mobile Suit Zeta Gundam"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.27",
+   "en": "Mobile Suit Gundam: Char's Counterattack"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.28",
+   "en": "Mobile Suit Gundam 00"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.29",
+   "en": "Mobile Fighter G Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#0.1",
+   "en": "Rider 1"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#0.2",
+   "en": "Black RX"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#0.3",
+   "en": "Den-O"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#0.4",
+   "en": "W"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#0.5",
+   "en": "OOO"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#0.6",
+   "en": "Nu Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#0.7",
+   "en": "Zeta Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#0.8",
+   "en": "God Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#0.9",
+   "en": "Wing Zero"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#0.10",
+   "en": "00"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#0.11",
+   "en": "Ultraman"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#0.12",
+   "en": "Seven"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#0.13",
+   "en": "Taro"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#0.14",
+   "en": "Mebius"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#0.15",
+   "en": "Zero"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.1",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.2",
+   "en": "Zaku"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.3",
+   "en": "Gouf"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.4",
+   "en": "Zgok"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.5",
+   "en": "Death Army"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.286",
+   "note": "Inferred from content (Metalium Ray, Yapool's Choju): Ultraman Ace."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.287",
+   "note": "Inferred: Ultraman Jack (Cinerama Shot, Ultra Bracelet)."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.293",
+   "note": "Technique nickname rendered as Waza no Ichigo (Technique No. 1)."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#2.23",
+   "note": "Title uses a star symbol and 'Great Shocker'; rendered as official 'All Riders vs. Dai-Shocker' (no star)."
+  }
+ ],
+ "report": "80/80 rows. Uncertain: Plat Form spelling (official English), Storium Ray, Dai-Shocker title. New terms not in glossary: Plat Form, Den-Mask, Aura Armor, Birth Buster, Cinerama Shot, Metalium Ray, Storium Ray, Eye Slugger, Death Army, Zaku, Gouf, Zgok, Dai-Shocker."
+}

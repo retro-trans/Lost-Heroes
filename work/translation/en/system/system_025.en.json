@@ -1,0 +1,362 @@
+{
+ "slice": "system_025",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Base/BaseMess.mbb#1.28",
+   "en": "Demonic"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.29",
+   "en": "Calamitous"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.30",
+   "en": "Doomed"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.31",
+   "en": "Desolate"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.32",
+   "en": "Dark"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.33",
+   "en": "Extreme-Realm"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.34",
+   "en": "Putrid-Realm"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.35",
+   "en": "Chaotic"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.36",
+   "en": "Abyssal"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.37",
+   "en": "Fathomless"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.38",
+   "en": "Netherworld"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.39",
+   "en": "Hellish"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.40",
+   "en": "Underworld"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.41",
+   "en": "Asura"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.42",
+   "en": "Wicked"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.43",
+   "en": "Lawless"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.44",
+   "en": "Annihilating"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.45",
+   "en": "Exterminating"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.46",
+   "en": "Slaughtering"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.47",
+   "en": "Conquering"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.48",
+   "en": "Sovereign"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.49",
+   "en": "Dominant"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.50",
+   "en": "Undefeated"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.51",
+   "en": "Despairing"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.52",
+   "en": "Worst"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.53",
+   "en": "Ultimate"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.54",
+   "en": "Supreme"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.55",
+   "en": "Limit-Breaking"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.56",
+   "en": "Dummy 1"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.57",
+   "en": "Dummy 2"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.58",
+   "en": "Dummy 3"
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.59",
+   "en": "Dummy 4"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.1",
+   "en": "Full-HP Finish"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.2",
+   "en": "4+ Foes at Once"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.3",
+   "en": "3 Foes at Once"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.4",
+   "en": "2 Foes at Once"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.5",
+   "en": "HERO Skill Finish"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.6",
+   "en": "1-Turn Clear"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.7",
+   "en": "2-Turn Clear"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.8",
+   "en": "Normal Attacks Only"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.9",
+   "en": "Weakness Hits Only"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.10",
+   "en": "Weakness Hit Finish"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.11",
+   "en": "Foes Never Acted"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.12",
+   "en": "Overkill"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.13",
+   "en": "No-Damage Kill"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.14",
+   "en": "Force Bonus EXP"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.15",
+   "en": "Force Bonus AP"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.16",
+   "en": "Force Bonus M"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.17",
+   "en": "Force Bonus DROP"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.18",
+   "en": "Co-op Skill Finish"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.19",
+   "en": "EX Skill Finish"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.20",
+   "en": "Matching-Digit Dmg"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.21",
+   "en": "Great Comeback"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.22",
+   "en": "Narrow Victory"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.23",
+   "en": "Matador"
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.24",
+   "en": "Max Charge Cannon Finish"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.1",
+   "en": "Dummy message"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.2",
+   "en": "A horde of enemies attacked!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.3",
+   "en": "{8073} attacked!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.4",
+   "en": "Defeated {8073}!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.5",
+   "en": "{8074} and the team got the first strike!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.6",
+   "en": "{8073} launched a surprise attack!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.7",
+   "en": "The enemy horde launched a surprise attack!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.8",
+   "en": "Defeated the enemy horde!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.9",
+   "en": "{8074} and the team were defeated..."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.10",
+   "en": "{806D} and the team fled!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.11",
+   "en": "But there was no escape!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.12",
+   "en": "We can't run away here!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.13",
+   "en": "Perform a normal attack"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.14",
+   "en": "Use a skill"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.15",
+   "en": "Use a HERO Skill"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.16",
+   "en": "Defend"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.17",
+   "en": "Use an item"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.18",
+   "en": "Flee"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.19",
+   "en": "Spend 1 Hero Gauge to power up a skill"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.20",
+   "en": "Team up with allies to use a Crossover Skill"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.21",
+   "en": "Spend 3 Hero Gauges to use a HERO Skill"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.22",
+   "en": "Attack"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.23",
+   "en": "Flee"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.24",
+   "en": "Charge and fire the main cannon"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Base/BaseMess.mbb#1.33",
+   "note": "Realm-of-extremes title prefix; guessed as a hyphenated adjective."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.34",
+   "note": "Rotten-realm title prefix; guessed."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.37",
+   "note": "Title prefix meaning of the deep abyss; guessed adjective."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.49",
+   "note": "Great powers; rendered Dominant."
+  },
+  {
+   "key": "Table/Base/BaseMess.mbb#1.55",
+   "note": "Extreme/limit prefix; guessed."
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.18",
+   "note": "Cooperation-skill finish; may be the same thing as Crossover Skill, kept literal Co-op."
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.20",
+   "note": "Repdigit damage (e.g. 777); wording guessed."
+  },
+  {
+   "key": "Table/Battle/AwardName.mbb#0.19",
+   "note": "EX Skill assumed to be the in-game English abbreviation."
+  }
+ ],
+ "report": "Title-prefix rows (BaseMess 1.28-55) are guessed adjectives; award names are short labels; no new glossary terms beyond Hero Gauge, Force, main cannon."
+}

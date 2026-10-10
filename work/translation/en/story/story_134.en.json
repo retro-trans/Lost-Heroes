@@ -1,0 +1,370 @@
+{
+ "slice": "story_134",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0655.mbb#0.9",
+   "en": "Out of the way! We don't have time to deal with you."
+  },
+  {
+   "key": "MainEventMess0655.mbb#0.10",
+   "en": "Mind steppin' aside? We ain't got time to waste on you."
+  },
+  {
+   "key": "MainEventMess0655.mbb#0.11",
+   "en": "Outta the way, outta the way!! We ain't got time to mess with you lot!!"
+  },
+  {
+   "key": "MainEventMess0655.mbb#0.12",
+   "en": "Stand aside!! We have no time to waste on you."
+  },
+  {
+   "key": "MainEventMess0655.mbb#0.13",
+   "en": "Stand aside!! We have no time to waste on you."
+  },
+  {
+   "key": "MainEventMess0655.mbb#0.14",
+   "en": "Stand aside!! We have no time to waste on you."
+  },
+  {
+   "key": "MainEventMess0655.mbb#0.15",
+   "en": "Get out of the way!! We have no time to deal with you!!"
+  },
+  {
+   "key": "MainEventMess0655.mbb#0.16",
+   "en": "Stand aside!! We have no time to deal with you!!"
+  },
+  {
+   "key": "MainEventMess0655.mbb#0.17",
+   "en": "As if I'd back down! We Super Soldiers show our true power when GN particles are dispersed!!"
+  },
+  {
+   "key": "MainEventMess0655.mbb#0.19",
+   "en": "Why...!? I'm supposed to be a perfect Super Soldier...!! Beaten... by the likes of you..."
+  },
+  {
+   "key": "MainEventMess0656.mbb#0.1",
+   "en": "A Smultron...!? Tch! There's still more of these things!?"
+  },
+  {
+   "key": "MainEventMess0656.mbb#0.2",
+   "en": "So you made it this far!!"
+  },
+  {
+   "key": "MainEventMess0656.mbb#0.3",
+   "en": "With Veda backing us, we'll meet you with tactics designed to finish you off for certain!!"
+  },
+  {
+   "key": "MainEventMess0656.mbb#0.5",
+   "en": "That took more effort than I expected. So this is Veda's power..."
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.1",
+   "en": "There you aaare!! Lost Heroes scuuum!!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.2",
+   "en": "Regnant...!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.3",
+   "en": "Regnant...!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.4",
+   "en": "Regnant...!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.5",
+   "en": "Regnant...!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.6",
+   "en": "Regnant...!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.7",
+   "en": "Regnant...!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.8",
+   "en": "Regnant...!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.9",
+   "en": "Regnant...!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.10",
+   "en": "Regnant...!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.11",
+   "en": "Regnant...!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.12",
+   "en": "Regnant...!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.13",
+   "en": "Regnant...!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.14",
+   "en": "Regnant...!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.15",
+   "en": "Regnant...!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.16",
+   "en": "Regnant...!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.17",
+   "en": "If I remember right... this one's an Innovator too!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.18",
+   "en": "I will fight!! And I will defeat you all!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.23",
+   "en": "Target destroyed... Let's go. The Colony Laser is further in."
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.24",
+   "en": "Target destroyed... Let's go. The Colony Laser is further in."
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.25",
+   "en": "Regnant... That was a tough opponent. Let's go. The Colony Laser is further in."
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.26",
+   "en": "All right, let's go! The Colony Laser's base is further in!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.27",
+   "en": "All right, let's go! The Colony Laser's base is further in!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.28",
+   "en": "So the enemy's tightened up its defenses. But the Colony Laser's base is just up ahead!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.29",
+   "en": "We did it... Let's go! The Colony Laser is right in front of us!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.30",
+   "en": "Looks like the enemy's tightened its defenses, but the Colony Laser's base is right in front of us."
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.31",
+   "en": "Looks like the enemy's tightened its defenses, but the Colony Laser's base is right in front of us, huh."
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.32",
+   "en": "All right, let's hurry! That great big space thingy's right in front of us, ain't it!?"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.33",
+   "en": "The enemy is reinforcing its defenses. So the Colony Laser's base really is further in!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.34",
+   "en": "The enemy is reinforcing its defenses. So the Colony Laser's base really is further in!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.35",
+   "en": "The enemy is reinforcing its defenses. So the Colony Laser's base really is further in!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.36",
+   "en": "The enemy is reinforcing its defenses...!? But the Colony Laser's base is right before us!!"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.1",
+   "en": "Huh? This is the huge space...?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.2",
+   "en": "There doesn't seem to be any equipment of that kind... Is this just a room...?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.3",
+   "en": "No equipment of that kind confirmed... Is this just a room...?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.4",
+   "en": "There's no equipment like that at all!?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.5",
+   "en": "Forget a laser oscillator... There's no machinery of any kind!?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.6",
+   "en": "If this is the Colony Laser's base, there should be some kind of machinery here, but..."
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.7",
+   "en": "There's no equipment of that kind... Is this just a room...?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.8",
+   "en": "There's no equipment of that kind... Could this just be an ordinary room...?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.9",
+   "en": "There's no equipment of that kind..."
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.10",
+   "en": "That's strange... There's no equipment of that kind..."
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.11",
+   "en": "There's nothin' here!! I figured it'd be a place crammed with machines!!"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.12",
+   "en": "There's no equipment of that kind... Is this just a room...?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.13",
+   "en": "There's no equipment of that kind... Is this just a room...?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.14",
+   "en": "There's no equipment of that kind... Is this just a room...?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.15",
+   "en": "There's no equipment of that kind... Is this just a room...?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.16",
+   "en": "There's no equipment of that kind... Is this just a room...?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.24",
+   "en": "Hahahaha...!! Did you think this was the Colony Laser's base?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.25",
+   "en": "Too bad. The Colony Laser isn't in this Cube, you know?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.26",
+   "en": "What!! Are you saying it's in another Cube!?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.27",
+   "en": "What!! Are you saying it's in another Cube!?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.28",
+   "en": "What!! Are you saying it's in another Cube!?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.29",
+   "en": "What!! Are you saying it's in another Cube!?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.30",
+   "en": "What!! Are you saying it's in another Cube!?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.31",
+   "en": "What!! Are you saying it's in another Cube!?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.32",
+   "en": "What!! Are you saying it's in another Cube!?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.33",
+   "en": "What!! ...Are you saying it's in another Cube!?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.34",
+   "en": "What!! ...Are you saying it's in another Cube!?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.35",
+   "en": "What'd you say!? Another Cube? Gimme a break!!"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.36",
+   "en": "What!! Are you saying it's in another Cube!?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.37",
+   "en": "What!! Are you saying it's in another Cube!?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.38",
+   "en": "What!! Are you saying it's in another Cube!?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.39",
+   "en": "What!! Are you saying it's in another Cube!?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.40",
+   "en": "What!! Are you saying it's in another Cube!?"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.41",
+   "en": "No, it's outside this Cube. It's floating in the space outside."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0655.mbb#0.9",
+   "note": "#0.9-16 are the tail of the 15-slot leader block #0.2-16 (TextIdOffset+1+k). 0655.bla chain 10,9,8,6,7,15,14,5,4,3,13,12,11,2,1 = 00, Wing Zero, God, Nu, Zeta, Zero, Mebius, OOO, W, Den-O (Momotaros), Taro, Seven, Ultraman, RX, Rider 1; wording confirms (#0.10 Shotaro 'nee', #0.11 Momotaros 'doita doita'). So #0.9 OOO, #0.12-14 Taro/Seven/Ultraman (identical JP), #0.15 RX, #0.16 Rider 1. Dropped subject of 'no time' restored as 'we' (the party)."
+  },
+  {
+   "key": "MainEventMess0655.mbb#0.17",
+   "note": "Tieren Taozi = Soma Peries (g=f) refusing to retreat. 'Chouhei' = 'Super Soldier(s)' as in earlier slices."
+  },
+  {
+   "key": "MainEventMess0656.mbb#0.1",
+   "note": "Ankh to the arriving Ahead Smultron; 'mada iyagaru' = there are still more of them (Smultrons met earlier). Smultron is g=n -> 'these things'."
+  },
+  {
+   "key": "MainEventMess0656.mbb#0.5",
+   "note": "Ankh after the fight; dropped subject read as the battle ('That took more effort')."
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.2",
+   "note": "#0.2-16 leader block, all identical JP -> identical EN."
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.17",
+   "note": "Not called by 0658.bla (TextIdOffset+16 unused); speaker unknown, kept neutral. 'Koitsu' = Regnant (g=n) -> 'this one'; precedent: Ribbons made Regnant an Innovator."
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.23",
+   "note": "#0.23-36 leader block (TextIdOffset+22+k), same chain order as 0655: 00, Wing Zero, God (#0.25 'tough opponent'), Nu, Zeta, Zero (#0.28 'yagatta'), Mebius (#0.29 polite), OOO, W (#0.31 'ne'), Momotaros (#0.32), Taro/Seven/Ultraman, RX (#0.36). Rider 1's slot (#0.37) does not exist in the table. 'Kibu' rendered 'the Colony Laser's base' (base section of the weapon), not the hideout sense of 'base' (kyoten)."
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.2",
+   "note": "#0.2-16 leader block, same chain order: 00 ('you da na'), Wing Zero ('kakunin dekinai'), God, Nu ('laser oscillator'), Zeta, Zero, Mebius (desu ne), OOO (#0.9), W (#0.10), Momotaros (#0.11), then 5 identical. 'Sorerashii setsubi' = equipment you'd expect for a Colony Laser -> 'equipment of that kind'."
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.24",
+   "note": "Reborns Gundam (Ribbons): mocking, casual 'kai/yo/sa' -> light taunting tone."
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.26",
+   "note": "#0.26-40 leader block (TextIdOffset+25+k), same order. 'Da to iu no ka!!' rendered as a question 'Are you saying...!?'. #0.33-34 (OOO, W) add a pause, kept as '...'. #0.35 Momotaros 'ii kagen ni shiro yo' -> 'Gimme a break!!'."
+  }
+ ],
+ "report": "80/80 rows. Leader blocks mapped via 0655/0658/0659 Pt_Chara_Check chain (00, Wing Zero, God, Nu, Zeta, Zero, Mebius, OOO, W, Den-O, Taro, Seven, Ultraman, RX, Rider 1), confirmed by wording. Uncertain: 0658 #0.17 unused line, speaker unknown; 0658 block lacks Rider 1's slot; 'kibu' -> 'the Colony Laser's base'. Not in glossary: Super Soldier and Innovator (both used earlier), Smultron as short form of Ahead Smultron, laser oscillator."
+}

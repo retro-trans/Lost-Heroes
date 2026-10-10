@@ -1,0 +1,390 @@
+{
+ "slice": "story_046",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0312.mbb#0.30",
+   "en": "Look! It's a monitor!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.31",
+   "en": "I never thought it would go this easily."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.32",
+   "en": "Heh heh heh, hahahaha!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.33",
+   "en": "The Weather Dopant!?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.34",
+   "en": "The Weather Dopant!?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.35",
+   "en": "The Weather Dopant!?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.36",
+   "en": "The Weather Dopant!?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.37",
+   "en": "The Weather Dopant!?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.38",
+   "en": "The Weather Dopant!?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.39",
+   "en": "The Weather Dopant!?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.40",
+   "en": "The Weather Dopant!?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.41",
+   "en": "The Weather Dopant!?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.42",
+   "en": "The Weather Dopant!?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.43",
+   "en": "Surprised? But the truth is..."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.44",
+   "en": "Heh heh heh, hahahaha!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.45",
+   "en": "The Dummy Dopant!?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.46",
+   "en": "The old man, the Weather Dopant... You were posing as both of them!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.47",
+   "en": "Kamen Rider Skull, the Weather Dopant... So it was you posing as both of them!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.48",
+   "en": "Kamen Rider Skull, the Weather Dopant... You were posing as both of them!?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.49",
+   "en": "Kamen Rider Skull, the Weather Dopant... You were posing as both of them!?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.50",
+   "en": "Kamen Rider Skull, the Weather Dopant... You bastard, you were posing as both of them!?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.51",
+   "en": "Kamen Rider Skull, the Weather Dopant... You were posing as both of them!?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.52",
+   "en": "Kamen Rider Skull, the Weather Dopant... You were posing as both of them!?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.53",
+   "en": "Kamen Rider Skull, the Weather Dopant... Both of 'em were you all along!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.54",
+   "en": "Kamen Rider Skull, the Weather Dopant... You were the one posing as them!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.55",
+   "en": "Kamen Rider Skull, the Weather Dopant... You were the one posing as them!?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.56",
+   "en": "That's right! I can become anything! The power of the Dummy Memory is truly great!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.57",
+   "en": "Damn it...!! You dragged the old man's name through the mud...!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.59",
+   "en": "Now then, now that the trick's been revealed, shall we get down to business?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.60",
+   "en": "Welcome to my laboratory, heroes."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.61",
+   "en": "You did well to make it this far!! I'll give you that much!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.62",
+   "en": "Ikadevil!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.63",
+   "en": "Yapool!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.64",
+   "en": "Yapool!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.65",
+   "en": "And... Yapool, the being from another dimension..."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.66",
+   "en": "Now then, first, let me show you this."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.68",
+   "en": "Kamen Rider 1 will be reborn as the Shocker kaijin he was always meant to be."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.69",
+   "en": "As soon as the thawing process is complete, we'll begin his re-modification surgery at once."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.71",
+   "en": "Next, take a look at this! Your comrades, the Ultra Warriors!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.72",
+   "en": "Right now, we're examining every inch of their bodies."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.73",
+   "en": "Once that's done, we'll finally carry out their execution."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.75",
+   "en": "How could you...!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.76",
+   "en": "How could you...!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.77",
+   "en": "How could you...!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.78",
+   "en": "How could you...!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.79",
+   "en": "You... How could you...!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.80",
+   "en": "How could you...!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.81",
+   "en": "How could you do something like this...!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.82",
+   "en": "Dammit!! You bastards are some real rotten villains!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.83",
+   "en": "How could you...!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.84",
+   "en": "How could you...!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.86",
+   "en": "You want to save them, don't you? Surely you do...?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.88",
+   "en": "Fufufufufu... Then I shall give you a chance!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.90",
+   "en": "Liar!! You want to save them, don't you?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.93",
+   "en": "Defeat the kaijin and Choju we have prepared, and make your way to them."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.94",
+   "en": "I want to test the powers our research has produced. A natural desire for a scientist, no?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.95",
+   "en": "It's a trap. We don't need to play along."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.96",
+   "en": "Silence! Don't think you have any choice in this! Ikadevil, begin the experiment!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.97",
+   "en": "Mm... Then let us proceed with the first experiment. Bee Woman! You're up!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.99",
+   "en": "Fufufufufu...!! My name is Bee Woman, and I have been ordered to wipe you out."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.100",
+   "en": "First, we'll have you taste the horror of our research."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.101",
+   "en": "We took only the strengths of the kaijin you heroes have beaten so far and fused them into one..."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.102",
+   "en": "Oh! Don't tell me you're bringing out that one!? The kaijin that's a match even for my Choju!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.103",
+   "en": "Yapool, let us sit back and watch from on high."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.105",
+   "en": "Yes, its name is Gebacondor!! Now, prepare yourselves!! Heroes!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.107",
+   "en": "Curses... But next time, I will defeat you for sure...!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.108",
+   "en": "Wait!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.109",
+   "en": "...Damn that Bee Woman! She sure is quick to run."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.110",
+   "en": "...All right, everyone. From here on, how about I take the lead and clear the way?"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.111",
+   "en": "I didn't get captured for nothing, you know? I've got a rough map of this place in my head."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.112",
+   "en": "I've marked the exit to the area with the cross on your MAP."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.113",
+   "en": "Let's head there together!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.114",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.116",
+   "en": "Grrr... They actually defeated Gebacondor!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.117",
+   "en": "What does it matter, Ikadevil? It'd be a bore if they went down that easily."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.118",
+   "en": "Now it's my turn to have some fun! Hahahahaha!!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.120",
+   "en": "Oh, you made it! I've been waiting for you!"
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.121",
+   "en": "Thanks for all your trouble... From here on, I'll make things easy for you."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.123",
+   "en": "{8074} and the others lost consciousness."
+  },
+  {
+   "key": "MainEventMess0313.mbb#0.1",
+   "en": "A powerful stench of rot stings the nose!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0312.mbb#0.33",
+   "note": "#0.33-0.42 are party-leader variants of the same shout; all rendered identically."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.46",
+   "note": "Labelled Wing Zero, but the content (oyassan = Skull, his mentor, cf. 0311 #0.52) makes it W (Shotaro); the W-leader branch is consistently mislabelled Wing Zero in 0311/0312. 'Oyassan' rendered 'the old man' (affectionate); not in glossary, no precedent in corpus."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.47",
+   "note": "#0.47-0.55 are leader variants: #0.50 uses harsh kisama -> 'You bastard'; #0.53 rough speech (Momotaros-type); #0.54-0.55 drop 'both'. Variants ending in a hard accusing question rendered '!?', the rest '!!'."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.57",
+   "note": "W (Shotaro) again despite Wing Zero label. Subject restored: 'You dragged...'."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.59",
+   "note": "??? speaker; the next line is Ikadevil, so most likely Ikadevil before appearing on screen. Kept neutral."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.63",
+   "note": "#0.63-0.64 leader variants (presumably an Ultra-side leader recognising Yapool)."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.65",
+   "note": "Ijigenjin = Yapool's epithet, rendered 'the being from another dimension'. Rider 2 continuing from #0.62."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.79",
+   "note": "koitsu read as an exclamation at the villains ('You...'), not about a third party."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.86",
+   "note": "No speaker recovered; archaic koyatsu suggests Ikadevil (who answers at #0.88) or Yapool. Neutral villain voice."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.90",
+   "note": "Answers a choice row (#0.89, not in slice) where the party apparently refuses; 'Liar!!' kept."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.95",
+   "note": "Labelled Ankh; source tone is plain rather than rude, kept plain."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.111",
+   "note": "Tada ja tsukamaranai = he didn't get caught without gaining something; rendered 'I didn't get captured for nothing'."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.117",
+   "note": "Trailing full-width space in source dropped (padding, not a tag)."
+  },
+  {
+   "key": "MainEventMess0312.mbb#0.121",
+   "note": "Labelled Skull (presumably the Dummy Dopant again) right before the party is knocked out. 'Raku ni ikasete yarou' is ambiguous (make it easy for you / send you off painlessly); kept ambiguous."
+  },
+  {
+   "key": "MainEventMess0313.mbb#0.1",
+   "note": "Narration; leads into story_047 (kaijin corpses on the floor)."
+  }
+ ],
+ "report": "80/80 rows. W (Shotaro) lines #0.46/#0.57 mislabelled Wing Zero; 'oyassan' rendered 'the old man' (not in glossary). #0.86 speaker unrecovered (villain). #0.121 fake Skull's ambiguous line kept ambiguous. Ijigenjin (Yapool epithet) rendered 'the being from another dimension'."
+}

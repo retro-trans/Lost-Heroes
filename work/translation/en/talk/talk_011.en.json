@@ -1,0 +1,410 @@
+{
+ "slice": "talk_011",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.495",
+   "en": "...the Capture Cube won't be able to block all of it."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.496",
+   "en": "I see..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.497",
+   "en": "In other words, there won't be a next time. Make sure you silence that particle cannon!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.506",
+   "en": "This is terrible!! The lab equipment got wrecked by that bombardment just now!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.507",
+   "en": "Rider 2 is doing emergency repairs right now, but..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.508",
+   "en": "If they fire on us one more time, the base will be wiped out!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.510",
+   "en": "That bombardment just now took out the Capture Cube. It's unusable..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.511",
+   "en": "That leaves us no way to block their fire from our end... You're our only lifeline."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.512",
+   "en": "Yeah! Leave it to us!! We won't let them fire ever again!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.513",
+   "en": "Heh, full of fight as always, Zero. ...By the way, where's Seravee?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.514",
+   "en": "Uh, Seravee's..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.515",
+   "en": "He went into the Terminal Unit, didn't he?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.516",
+   "en": "Oh, right. That's it."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.517",
+   "en": "Isn't he defenseless while he's accessing it? What are you doing? Hurry back to him."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.524",
+   "en": "A place giving off a high-energy reading... So you figured the power reactor is there?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.525",
+   "en": "But a place that important is sure to be guarded by powerful enemies."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.526",
+   "en": "Seravee, Cherudim and Arios, the three of them, head for Veda covertly..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.527",
+   "en": "You on the Hero Team cut off the power source. And the remaining members..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.528",
+   "en": "...take the control rooms of the giant weapons one by one. ...That's the plan, right?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.529",
+   "en": "Veda, the power source, the control rooms... I see. Hitting three places at once. Smart thinking."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.530",
+   "en": "...So? Should you really be loafing around here?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.537",
+   "en": "The Zero System...?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.538",
+   "en": "Yeah."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.539",
+   "en": "I don't really understand the technical side of things."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.540",
+   "en": "But was Epyon one of your comrades?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.541",
+   "en": "No, he wasn't. But he's certainly someone who could become a comrade."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.542",
+   "en": "He had something in common with us, and yet he ended up serving the enemy."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.543",
+   "en": "I don't know what happened to him, but if he's an enemy, there's no choice but to destroy him."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.552",
+   "en": "So the high-energy reading was the Devil Gundam."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.553",
+   "en": "...But you beat it, right?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.554",
+   "en": "...We did beat it, but we didn't confirm it was wiped out."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.555",
+   "en": "It's still alive?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.556",
+   "en": "Can't say. But the DG Cells have the power to regenerate themselves."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.557",
+   "en": "Then we can't rest easy."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.558",
+   "en": "Zamsha became the Devil Gundam's Life Core!?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.559",
+   "en": "Yes, it surprised me. To think someone with his strength of will could be absorbed..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.561",
+   "en": "So what happened to Zamsha after that?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.562",
+   "en": "He vanished somewhere, but I don't know where he went."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.563",
+   "en": "...I see. He may come to challenge you again someday."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.570",
+   "en": "I heard the Gundam Team is having a hard time!? I'm worried..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.571",
+   "en": "What are you doing? Go rescue them at once!! You're the only ones who can move right now!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.578",
+   "en": "I see... So Epyon had been swallowed by the Zero System."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.579",
+   "en": "The enemy makes every kind of \"power\" its own... I wonder what it's after in the end..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.585",
+   "en": "So you couldn't stop the Libra Cannon from the control room..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.586",
+   "en": "No. But we did confirm who this Cube's boss is."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.587",
+   "en": "Reborns Gundam... that's its name, right? Gundams fighting each other, though..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.588",
+   "en": "He... Someone like him could never be a Gundam...!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.599",
+   "en": "Epyon sacrificed himself to destroy the reactor core for us?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.600",
+   "en": "Do you think he meant it as atonement?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.601",
+   "en": "The truth is unknown. But in the end, he regained his \"heart.\""
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.602",
+   "en": "That alone gave that battle meaning."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.610",
+   "en": "So you're finally going to stop the Colony Laser. The enemy's resistance will be fierce, too."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.611",
+   "en": "Make sure you're well prepared before you go."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.612",
+   "en": "...By the way, I wonder how Seravee and the others are doing."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.613",
+   "en": "They're heading for Veda covertly, right? I hope it's going smoothly..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.621",
+   "en": "I heard!! Seravee and the others are in danger!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.622",
+   "en": "If you go after Gaddess now, you should be able to reach Reborns."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.623",
+   "en": "Hurry!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.624",
+   "en": "So the enemy knew what Seravee's team was up to... I'd rather not think we were set up, but..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.625",
+   "en": "The odds are against us. We'll have to rely on your strength to break through this."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.632",
+   "en": "...I heard his voice. Did Seravee... die...!?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.633",
+   "en": "Oh, what I was afraid of has come true."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.634",
+   "en": "But don't let his resolve go to waste. You must not let Reborns get away, no matter what!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.635",
+   "en": "That's right. Seravee risked his life to take back Veda for us."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.636",
+   "en": "Isn't it our turn to risk our lives now?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.643",
+   "en": "The Gundams are recovering in the medical room. Don't worry, their lives aren't in danger."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.644",
+   "en": "With the Capture Cube destroyed, the base's defenses are thin."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.645",
+   "en": "If the enemy launches another attack on the base, strike them first."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.653",
+   "en": "Be careful. The revived monsters seem to have been powered up."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.654",
+   "en": "It looks like Belial brought the monsters back to life."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.656",
+   "en": "Make sure you're well prepared before you go."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.663",
+   "en": "The \"Ultimate Being,\" huh... That has a very dangerous smell to it."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.664",
+   "en": "All we know right now is that the \"Ultimate Being\" won't be anything good for us."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.665",
+   "en": "Right. We have to get our hands on it first."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.674",
+   "en": "So Birdon was revived, too."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.675",
+   "en": "Birdon is the monster that once defeated Zoffy and Taro."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.676",
+   "en": "Impressive. Keep pressing on like that."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.685",
+   "en": "So the Devil Gundam was still alive."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.686",
+   "en": "If we don't deal with it soon, things will get bad. Shouldn't you hurry on ahead?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.696",
+   "en": "Don't let what the enemy says confuse you! There's no way you have negative emotions!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.495",
+   "note": "SPEAKERS from tools/talkspk.py Shop (Talk01_45-62); slice labels were all missing. Hikari = #0.495/497/510/511/513/515/517/526-530/558/561/563/571/624/625/635/636/644/645/663/665/674-676/685/686; Mebius = #0.496/559/562; Zero = #0.512/514/516; Wing Zero = #0.538/541/543/601/602; 00 = #0.586/588; W (Philip) = #0.664; Methuss = her script-labelled rows. #0.495 continues Hikari's #0.494 ('if we take a direct hit of the same power...'), cut at the same point."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.506",
+   "note": "Unlabelled #0.506-508, #0.524/525, #0.552/553/555/557, #0.621-623 assigned to Methuss (shop NPC, feminine speech, her solo talk blocks)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.524",
+   "note": "Methuss, unlabelled; reacting to the plan Hikari spells out in #0.526-529. 'Douryokuro' = power reactor; 'douryokugen' = power source as in the story (#0.527/529)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.528",
+   "note": "'Kyodai heiki' = 'giant weapons' and hiiroo butai = 'Hero Team', matching the story slices."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.541",
+   "note": "Wing Zero (Heero). 'Doushi' = comrade; Epyon g=m."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.554",
+   "note": "Unlabelled #0.554/556 assigned to God Gundam (rough 'wakaran na', knows DG Cells, the team that fought the Devil Gundam). Inferred; could be another party member. Subject 'we' restored."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.556",
+   "note": "'Jiko saisei nouryoku' = 'the power to regenerate themselves' (the glossary set phrase Self-Regeneration is for the triple slogan)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.559",
+   "note": "Mebius per script, though his wording here and at #0.562 is plain rather than his usual polite tone with Hikari; kept earnest and neutral. Label not independently verifiable."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.562",
+   "note": "'I don't know' restores the subject; the source is subjectless (could be 'we')."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.563",
+   "note": "Listener 'you' = Mebius, whom Zamsha dueled before; 'shoubu wo idomu' = challenge."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.586",
+   "note": "00 answers Methuss's negative statement ('you couldn't stop it') with 'aa' = confirms it; English 'No.' agrees with the negative."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.588",
+   "note": "00, echoing his story line against Reborns ('Something like you could never be a Gundam!!'). Reborns g=m."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.601",
+   "note": "Quote marks around 'heart' kept as in the source."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.632",
+   "note": "'Koe wo kiita' read as heard his voice (Seravee's Voice through Veda in the story); could also mean 'heard the news'. Inferred."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.633",
+   "note": "Methuss per script; 'aa' read as a sigh ('Oh'), not agreement."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.653",
+   "note": "Unlabelled; assigned to Hikari (masculine commanding 'ki wo tsukero', paired with Methuss in Talk01_58)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.656",
+   "note": "Same Japanese as #0.611 apart from a comma; same English."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.663",
+   "note": "Source has a mis-typed kanji for 'nioi' (smell); read as 'smell'. 'Ultimate Being' per glossary."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.675",
+   "note": "Passive 'Zoffy and Taro were once defeated by Birdon' made active."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.696",
+   "note": "Methuss per script; 'aite no kaiwa' = what the enemy says. 'Negative emotions' as in the story (Minus Energy context)."
+  }
+ ],
+ "report": "80/80 rows. Speakers from tools/talkspk.py Shop; unlabelled rows assigned: Methuss (#0.506-508/524/525/552/553/555/557/621-623), God Gundam (#0.554/556, inferred), Hikari (#0.653). Uncertain: #0.559/562 Mebius label vs plain tone; #0.632 'heard his voice' reading; #0.554/556 speaker. No new glossary names; Capture Cube, particle cannon, giant weapons, Hero Team, power reactor follow story slices."
+}

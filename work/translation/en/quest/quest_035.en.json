@@ -1,0 +1,329 @@
+{
+ "slice": "quest_035",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.68",
+   "en": "Don't sweat it! We're smashin' those mobile dolls, period!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.69",
+   "en": "Don't mind him. Anyway, we're taking down those mobile dolls."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.70",
+   "en": "Don't mind him. Anyway, we're taking down those mobile dolls."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.71",
+   "en": "Please don't mind him. Anyway, let's defeat the mobile dolls."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.72",
+   "en": "Don't mind him. Anyway, we're taking down those mobile dolls."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.73",
+   "en": "Don't mind him. Anyway, we're taking down those mobile dolls."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.74",
+   "en": "Don't mind him. Anyway, we're taking down those mobile dolls."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.75",
+   "en": "Don't mind him. Anyway, we're taking down those mobile dolls."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.80",
+   "en": "This is the place Altron was talking about, right? So where the hell are they?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.81",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.82",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.83",
+   "en": "They're here!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.84",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.85",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.86",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.87",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.88",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.89",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.90",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.91",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.92",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.93",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.94",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.95",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.96",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.97",
+   "en": "Here they come!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.100",
+   "en": "Obtained \"Planet Defensor\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.101",
+   "en": "Mission complete. Returning to base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.102",
+   "en": "Objective secured. Returning to base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.103",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.104",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.105",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.106",
+   "en": "We got what we came for. That completes the request, doesn't it?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.107",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.108",
+   "en": "We got what we came for! That's the job done, yeah!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.109",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.110",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.111",
+   "en": "We got what we came for. That completes the request, doesn't it?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.112",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.113",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.114",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.115",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.116",
+   "en": "Wing Zero must be in the party to progress this quest."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess007.mbb#0.117",
+   "en": "Completed the quest \"Two Mobile Dolls\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.1",
+   "en": "Enemy Crazygon hordes in Desert Cube seem to be digging up and taking something. Go see Maganac."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.5",
+   "en": "At last, you've come."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.6",
+   "en": "The truth is, a number of Crazygons have been sighted in the Quicksand Zone."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.7",
+   "en": "It seems they're there to dig something up and haul it away."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.8",
+   "en": "There's a chance it's an item that could give us \"power.\""
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.9",
+   "en": "Please defeat the Crazygons and find out what they're after."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.16",
+   "en": "It seems 00 isn't with you...? Please, let me speak with him."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.18",
+   "en": "I'll be waiting here, so once you've defeated them, please come back."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.23",
+   "en": "Crazygon...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.24",
+   "en": "Crazygon...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.25",
+   "en": "Crazygon...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.26",
+   "en": "Crazygon...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.27",
+   "en": "Crazygon...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.28",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.29",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.30",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.31",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.32",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.33",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.34",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.35",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.36",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.37",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.38",
+   "en": "What's it hauling off? Guess we'll take it down and see."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.40",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.41",
+   "en": "The Crazygon silently scraped away at the rock face, gathering something up into its belly."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.42",
+   "en": "...You're not coming?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.43",
+   "en": "Crazygon!! If you won't come to us, we'll come to you!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.44",
+   "en": "Crazygon!! If you won't come at us, then we're coming at you!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.45",
+   "en": "Crazygon!! If you won't come to us, we'll come to you!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.46",
+   "en": "Crazygon!! If you won't come to us, we'll come to you!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.47",
+   "en": "Crazygon!! If you won't come to us, we'll come to you!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.48",
+   "en": "Crazygon!! If you won't come to us, we'll come to you!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.49",
+   "en": "Crazygon!! If you won't come to us, then we'll come to you!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.50",
+   "en": "Hey! You piece-of-junk robot!! If you won't come at us, then we're comin' at you!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.51",
+   "en": "Crazygon!! If you won't come to us, we'll come to you!!"
+  }
+ ],
+ "notes": [],
+ "report": "filled from the DG_QUEST twin rows / translation memory"
+}

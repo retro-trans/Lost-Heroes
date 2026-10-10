@@ -1,0 +1,33 @@
+{
+ "tpc": "Graph/Minigame/Memory/mg_Memory_tex.tpc",
+ "page": "UI_Memory_4444.tga",
+ "note": "Memory game START and coin counter (boxes = sprite rects from UI_Memory.gtx). The coin counter 枚 is blanked (no English fits 10x10 legibly; the number reads on its own).",
+ "defaults": {
+  "size": 12,
+  "bold": false,
+  "color": [
+   255,
+   255,
+   255
+  ]
+ },
+ "boxes": [
+  {
+   "x": 0,
+   "y": 13,
+   "w": 55,
+   "h": 14,
+   "text": "START",
+   "align": "center",
+   "bold": true
+  },
+  {
+   "x": 0,
+   "y": 238,
+   "w": 12,
+   "h": 10,
+   "text": ""
+  }
+ ],
+ "clear": []
+}

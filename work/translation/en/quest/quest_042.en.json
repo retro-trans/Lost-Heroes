@@ -1,0 +1,329 @@
+{
+ "slice": "quest_042",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.30",
+   "en": "That's enough. Get out of here, now."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.31",
+   "en": "Like I'd ever listen to anything you say!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.32",
+   "en": "Don't get the wrong idea. I'm not asking."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.34",
+   "en": "Daah!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.35",
+   "en": "Listen. I'll say this just once more. Get out of my sight."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.36",
+   "en": "Ngh! He's strong!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.37",
+   "en": "Sempai, you okay?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.38",
+   "en": "What, Turtle!? I'm in the middle of a fight!! Don't talk to me!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.39",
+   "en": "That won't cut it, Sempai. Scoot over a sec."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.41",
+   "en": "What're you doin', Turtle!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.42",
+   "en": "I figured you couldn't win, Sempai. Hey you, how about you let me reel you in?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.43",
+   "en": "Hold it right there!! Leave this one to me!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.45",
+   "en": "Hey, Kin-chan!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.46",
+   "en": "I can't leave this to you lot. Leave it to me."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.47",
+   "en": "No fair, Bear! Let me have a go too!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.49",
+   "en": "I'm gonna beat you, okay? I don't care about your answer!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.50",
+   "en": "Ryuta!! Don't you go jumpin' in on your own..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.51",
+   "en": "But everyone looks like they're having so much fun. Of course I'm joining in too♪"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.52",
+   "en": "You snot-nosed brat! This ain't playtime!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.54",
+   "en": "You bastards!! Is this some cute little playtime for the four of you!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.56",
+   "en": "Huh?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.57",
+   "en": "Den-O can now use a new skill."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.58",
+   "en": "Oh!? What's this!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.59",
+   "en": "No way... Sempai, looks like we've turned into Climax Form."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.60",
+   "en": "Climax Form, ya say?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.61",
+   "en": "What? What the hell is going on?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.62",
+   "en": "Perfect timing!! I'll take ya on with this!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.63",
+   "en": "Let's go, you guys!! From here on out, it's our climax!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.66",
+   "en": "Damn it... Next time, I'll devour every last one of you, for sure..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.68",
+   "en": "Heh! Serves you right!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.71",
+   "en": "Completed the quest \"The Infamous Grand Bandit Gang\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess013.mbb#0.73",
+   "en": "Den-O must be in the party to progress this quest."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.1",
+   "en": "Word is there's a giant ice pop in the Ultra Cube. Please head there and look for it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.4",
+   "en": "Hey, what the hell is this? Was this thing here before?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.5",
+   "en": "There sat a giant, mysterious white object on a stick, placed as if to block the path."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.6",
+   "en": "What's this?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.7",
+   "en": "What is this?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.8",
+   "en": "What's this?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.9",
+   "en": "What is this?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.10",
+   "en": "What is this?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.11",
+   "en": "What's this?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.12",
+   "en": "What's this?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.13",
+   "en": "What is this?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.14",
+   "en": "What is this?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.15",
+   "en": "What is this?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.16",
+   "en": "What is this?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.17",
+   "en": "What is this?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.18",
+   "en": "What is this?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.19",
+   "en": "What is this?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.20",
+   "en": "What is this?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.22",
+   "en": "Ankh went up to the mysterious white object."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.23",
+   "en": "This is... It can't be!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.24",
+   "en": "No doubt about it. This is the giant ice pop from the rumors!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.25",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.26",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.27",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.28",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.29",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.30",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.31",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.32",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.33",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.34",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.35",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.36",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.37",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.38",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.39",
+   "en": "This is it!? Look at the size of it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.40",
+   "en": "A giant ice pop... So it really did exist."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.41",
+   "en": "Hahaha! This is the best!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.42",
+   "en": "I'm gonna devour every last bit of it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.44",
+   "en": "Whoa!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.45",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.46",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.47",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.48",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.49",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.50",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.51",
+   "en": "Ankh!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.52",
+   "en": "Ankh!"
+  }
+ ],
+ "notes": [],
+ "report": "filled from the DG_QUEST twin rows / translation memory"
+}

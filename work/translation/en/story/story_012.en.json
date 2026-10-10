@@ -1,0 +1,370 @@
+{
+ "slice": "story_012",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0131.mbb#0.21",
+   "en": "Kreeeee!!"
+  },
+  {
+   "key": "MainEventMess0131.mbb#0.22",
+   "en": "On hearing Ankh's order, the Taka Candroid flew off at once."
+  },
+  {
+   "key": "MainEventMess0131.mbb#0.23",
+   "en": "That'll do."
+  },
+  {
+   "key": "MainEventMess0131.mbb#0.24",
+   "en": "Once it finds out where the Yummy is, it'll come back and tell us."
+  },
+  {
+   "key": "MainEventMess0132.mbb#0.1",
+   "en": "Peeeep! Peeeep! Kreeeee!!"
+  },
+  {
+   "key": "MainEventMess0132.mbb#0.2",
+   "en": "You found out where the Yummy is?"
+  },
+  {
+   "key": "MainEventMess0133.mbb#0.1",
+   "en": "Peep!!! Kreee!!!"
+  },
+  {
+   "key": "MainEventMess0134.mbb#0.1",
+   "en": "Peep peep peep peep!!"
+  },
+  {
+   "key": "MainEventMess0134.mbb#0.2",
+   "en": "Huh? It's up ahead? Isn't that just a wall?"
+  },
+  {
+   "key": "MainEventMess0134.mbb#0.3",
+   "en": "Hey, go check it out."
+  },
+  {
+   "key": "MainEventMess0134.mbb#0.4",
+   "en": "{8074} examined the wall."
+  },
+  {
+   "key": "MainEventMess0134.mbb#0.5",
+   "en": "It was a fake wall, disguised with a hologram!"
+  },
+  {
+   "key": "MainEventMess0134.mbb#0.6",
+   "en": "It looked like they could walk right through to the other side."
+  },
+  {
+   "key": "MainEventMess0134.mbb#0.7",
+   "en": "Pulling stupid little tricks on us!!"
+  },
+  {
+   "key": "MainEventMess0134.mbb#0.8",
+   "en": "Come on, let's move it!"
+  },
+  {
+   "key": "MainEventMess0135.mbb#0.1",
+   "en": "Peep peep!!"
+  },
+  {
+   "key": "MainEventMess0135.mbb#0.2",
+   "en": "There are Cell Medals lying around..."
+  },
+  {
+   "key": "MainEventMess0135.mbb#0.3",
+   "en": "Did a Yummy fight here...?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.1",
+   "en": "Hm...? Wait. Past this door..."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.2",
+   "en": "Someone's in there... Can you tell?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.3",
+   "en": "{8074} peeked inside through the gap in the door."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.4",
+   "en": "Mebius was being held captive inside."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.5",
+   "en": "Mebius!!"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.6",
+   "en": "Ultraman Mebius!"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.7",
+   "en": "Look, it's Mebius!"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.8",
+   "en": "That's Mebius!"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.9",
+   "en": "That's Mebius!"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.10",
+   "en": "Is he one of your buddies?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.11",
+   "en": "Yeah. Let's get him out of there, right now!"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.12",
+   "en": "That's right. Let's rescue him at once!"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.13",
+   "en": "Yes! We have to help him right away!"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.14",
+   "en": "Yeah. Let's get him out of there, fast!"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.15",
+   "en": "That's right. Let's rescue him right away!"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.17",
+   "en": "(The more fighters we've got, the better...)"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.18",
+   "en": "Fine. I'll go along with it."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.20",
+   "en": "But the door wouldn't open. It seemed to be locked."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.21",
+   "en": "Tch! It won't open... The key to this door has to be around here somewhere. Let's look."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.23",
+   "en": "What are you doing? Use the key you picked up earlier."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.24",
+   "en": "{8074} used the key. The door opened."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.25",
+   "en": "Everyone!!"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.26",
+   "en": "Mebius, are you hurt?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.27",
+   "en": "I'm fine, Zero."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.28",
+   "en": "Ultraman Mebius, can you move?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.29",
+   "en": "I'm all right."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.30",
+   "en": "Mebius, you're not hurt, are you?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.31",
+   "en": "I'm all right."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.32",
+   "en": "Mebius, are you hurt?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.33",
+   "en": "I'm all right."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.34",
+   "en": "Mebius, are you injured?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.35",
+   "en": "I'm all right."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.36",
+   "en": "Save the chitchat for later. We're getting out of here!"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.37",
+   "en": "Right...!"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.38",
+   "en": "...Hold it. Somebody's coming."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.40",
+   "en": "...So? What's today's job again?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.41",
+   "en": "Just a nice, easy job: freezing the Ultraman Mebius we captured, you see?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.42",
+   "en": "I can handle that all by myself."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.43",
+   "en": "Ho ho ho ho. Then I shall let you have the credit this time."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.44",
+   "en": "...Hm?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.45",
+   "en": "What's wrong?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.46",
+   "en": "What's this? Who might you people be...?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.47",
+   "en": "Th-this is supposed to be a sealed-off area!"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.48",
+   "en": "Tough luck. Guess it's not such an easy job after all."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.49",
+   "en": "Don't you get smart with me!! Shut your mouth!!! You bastard!!"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.50",
+   "en": "But hey, this is our chance to score some credit instead, right?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.51",
+   "en": "Good point... All right! I'm putting the whole lot of you bastards in cold storage!!"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.52",
+   "en": "Listen to the sound of yourselves shattering!!"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.58",
+   "en": "Thank you, you saved me. That was careless of me, as an Ultra Warrior..."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.59",
+   "en": "You were this close to getting frozen solid. Be grateful."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.60",
+   "en": "Ah... What about Hikari!? Is Ultraman Hikari safe!?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.61",
+   "en": "Relax. We saved Hikari."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.62",
+   "en": "You can rest easy. We rescued Ultraman Hikari."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.63",
+   "en": "Don't worry. We rescued Ultraman Hikari."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.64",
+   "en": "Relax. We rescued Ultraman Hikari."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.65",
+   "en": "It's okay. We rescued Hikari."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.66",
+   "en": "...Thank goodness."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.67",
+   "en": "Right now, he's maintaining our base for us."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.68",
+   "en": "Ultraman Mebius, will you lend us your strength too?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.69",
+   "en": "Right now, he's back maintaining the base."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.70",
+   "en": "Hey, Mebius. We're both Ultra Warriors, so let's fight together, yeah!?"
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.71",
+   "en": "Right now, he's maintaining our base for us."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0131.mbb#0.21",
+   "note": "Taka Candroid cries: 'Peep' for the short cheep (as story_011 0131#0.19), 'Kree' for the shrill hawk screech."
+  },
+  {
+   "key": "MainEventMess0134.mbb#0.3",
+   "note": "Ankh ordering the player team to inspect the wall."
+  },
+  {
+   "key": "MainEventMess0134.mbb#0.6",
+   "note": "Narration with no subject in source; 'they' = the player team ({8074}), past tense to match surrounding narration."
+  },
+  {
+   "key": "MainEventMess0135.mbb#0.3",
+   "note": "'a Yummy' kept indefinite; likely the Siamese Cat Yummy being tracked, but source does not specify."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.7",
+   "note": "0.5-0.15, 0.26-0.35, 0.61-0.71: party-dependent variants (Zero/Nu Gundam/OOO/W/Zeta Gundam). OOO's polite -san on Mebius dropped; politeness carried by tone."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.10",
+   "note": "Ankh to the party about Mebius (glossary g=m, so 'he')."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.41",
+   "note": "Snowman Imagin's polite line echoes stock 'easy job' job-ad phrasing; Ankh throws 'easy job' back in 0.48."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.49",
+   "note": "Snowman Imagin snaps from polite to crude; kept at full rudeness ('bastard')."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.52",
+   "note": "Ice Age Dopant addressing the whole party; 'yourselves' plural."
+  },
+  {
+   "key": "MainEventMess0136.mbb#0.67",
+   "note": "'he' = Hikari (glossary g=m); 'base' as in story_011."
+  }
+ ],
+ "report": "80/80 rows examined. No over-length rows. Party-variant rows rendered per character voice. Taka Candroid cries rendered Peep/Kree. Names/terms not in glossary: none."
+}

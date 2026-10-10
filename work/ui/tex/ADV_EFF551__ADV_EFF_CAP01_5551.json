@@ -1,0 +1,60 @@
+{
+ "tpc": "Graph/Adv/eff/551/ADV_EFF.tpc",
+ "exact": true,
+ "page": "ADV_EFF_CAP01_5551.tga",
+ "note": "",
+ "boxes": [
+  {
+   "x": 22,
+   "y": 81,
+   "w": 22,
+   "h": 6,
+   "text": "W",
+   "bg": [
+    2,
+    8,
+    10
+   ],
+   "size": 6
+  },
+  {
+   "x": 127,
+   "y": 31,
+   "w": 56,
+   "h": 7,
+   "text": "Cyclone Blow",
+   "bg": [
+    9,
+    9,
+    9
+   ],
+   "size": 7
+  },
+  {
+   "x": 127,
+   "y": 42,
+   "w": 64,
+   "h": 7,
+   "text": "Assist: Accel",
+   "bg": [
+    10,
+    40,
+    45
+   ],
+   "size": 7
+  },
+  {
+   "x": 127,
+   "y": 52,
+   "w": 70,
+   "h": 7,
+   "text": "Assist: Trial",
+   "bg": [
+    7,
+    7,
+    7
+   ],
+   "size": 7
+  }
+ ]
+}

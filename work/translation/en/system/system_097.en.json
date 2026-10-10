@@ -1,0 +1,109 @@
+{
+ "slice": "system_097",
+ "rows_in_slice": 25,
+ "rows_examined": 25,
+ "rows": [
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#4.8",
+   "en": "A new prize has been added to the casino."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#5.1",
+   "en": "Idle members now earn more EXP."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#5.2",
+   "en": "Idle members now earn more EXP."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#5.3",
+   "en": "Idle members now earn more EXP."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#5.4",
+   "en": "Idle members now earn more EXP."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#5.5",
+   "en": "Idle members now earn more EXP."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#5.6",
+   "en": "Idle members now earn more EXP."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#5.7",
+   "en": "Idle members now earn more EXP."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#5.8",
+   "en": "Idle members now earn more EXP."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#6.1",
+   "en": "Money earned per person has increased."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#6.2",
+   "en": "Money earned per person has increased."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#6.3",
+   "en": "Money earned per person has increased."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#6.4",
+   "en": "Money earned per person has increased."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#6.5",
+   "en": "Money earned per person has increased."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#6.6",
+   "en": "Money earned per person has increased."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#6.7",
+   "en": "Money earned per person has increased."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#6.8",
+   "en": "Money earned per person has increased."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#7.1",
+   "en": "Rarer materials can now be found."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#7.2",
+   "en": "Rarer materials can now be found."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#7.3",
+   "en": "Rarer materials can now be found."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#7.4",
+   "en": "Rarer materials can now be found."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#7.5",
+   "en": "Rarer materials can now be found."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#7.6",
+   "en": "Rarer materials can now be found."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#7.7",
+   "en": "Rarer materials can now be found."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#7.8",
+   "en": "Rarer materials can now be found."
+  }
+ ],
+ "notes": [],
+ "report": "24 rows, all WaitAct result messages (tiers 4.8, 5.x, 6.x, 7.x). Idle members = standby party members; per-person money; rarer materials. Wording chosen to pair with system_096."
+}

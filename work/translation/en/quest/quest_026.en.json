@@ -1,0 +1,394 @@
+{
+ "slice": "quest_026",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.9",
+   "en": "Brother Jack!! Brother Ace!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.10",
+   "en": "These two are already beaten to a pulp! Here, have some!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.12",
+   "en": "Uwaah!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.13",
+   "en": "I'll fix you up just like these two!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.15",
+   "en": "Waaaaah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.16",
+   "en": "Mebius! Are you all right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.17",
+   "en": "You can still talk, huh! Keep quiet for a while!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.19",
+   "en": "Gwahh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.21",
+   "en": "Brother Jack!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.22",
+   "en": "What do I do... At this rate, everyone's going to be beaten..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.23",
+   "en": "Ultraman Mebius! Have a taste of this!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.25",
+   "en": "Mebius! Look out!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.27",
+   "en": "Gwahh!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.28",
+   "en": "Brother Ace!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.29",
+   "en": "Mebius... don't give up... Remember..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.30",
+   "en": "Remember? What are you telling me to remember!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.31",
+   "en": "...You, of all people, should be able to do it..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.33",
+   "en": "Brother!! Brotheeeeer!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.34",
+   "en": "So, what'll you do now, Mebius? You're the only one left!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.35",
+   "en": "As for you, we'll take our time tormenting you nice and slowly."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.36",
+   "en": "Brother Jack... Brother Ace..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.37",
+   "en": "...No matter what the situation!! I'll hold you off right here!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.38",
+   "en": "I'll protect the Plasma Spark... I'll protect everyone!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.39",
+   "en": "At that moment, Mebius's feelings called forth a miracle."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.40",
+   "en": "The Phoenix Nest appeared before Mebius and the others."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.41",
+   "en": "That's... the Phoenix Nest!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.58",
+   "en": "I remember now... This is the power of our bonds, \"Phoenix Brave\"!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.59",
+   "en": "I have... \"comrades\"... comrades who fight together and support each other..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.60",
+   "en": "(That's right... You're not alone!!)"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.61",
+   "en": "The way I am now... I'm not alone anymore!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.63",
+   "en": "Th-That's impossible!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.64",
+   "en": "Beaten again...!? Waaaaah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.66",
+   "en": "We did it... We won!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.67",
+   "en": "Brother Jack! Brother Ace! Are you all right!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.68",
+   "en": "Don't worry..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.69",
+   "en": "Something like this won't finish us off..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.70",
+   "en": "Please don't act tough! Hurry to the base!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.71",
+   "en": "We're fine... More importantly, Mebius, you truly did well..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.72",
+   "en": "You've grown strong, Mebius..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.73",
+   "en": "...Yes!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.74",
+   "en": "That's a good answer... Well then, we'll head back to the base..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.88",
+   "en": "Completed the quest \"The Alien Alliance's Obsession\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.89",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.1",
+   "en": "Enemies reportedly snuck into the Veda Cube we cleared and made it their lair. Please find and defeat them. The control room looks suspicious."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.3",
+   "en": "Hey!! What the hell is this room!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.5",
+   "en": "The room was swarming with Imagin and Dopants."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.6",
+   "en": "What the hell is goin' on!? Look at all these Imagin!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.7",
+   "en": "What!? Look at all these Dopants!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.8",
+   "en": "What!? Look at how many there are!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.9",
+   "en": "What!? Look at how many there are!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.10",
+   "en": "What!? Look at how many there are!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.11",
+   "en": "What!? Look at how many there are!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.12",
+   "en": "What!? Look at how many there are!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.13",
+   "en": "What!? Look at how many there are!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.14",
+   "en": "What!? Look at how many there are!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.15",
+   "en": "What!? Look at how many there are!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.16",
+   "en": "What!? Look at how many there are!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.17",
+   "en": "What!? Look at how many there are!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.18",
+   "en": "What!? Look at how many there are!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.19",
+   "en": "What!? Look at how many there are!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.20",
+   "en": "What!? Look at how many there are!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.21",
+   "en": "Looks like this is the lair from the request. Still, there are way too many of them."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.22",
+   "en": "Well, well, if it isn't the heroes! What're you doing in a place like this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.23",
+   "en": "Don't tell me you came to take us down?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.24",
+   "en": "Hey, you...! Arms Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.25",
+   "en": "You...! Arms Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.26",
+   "en": "You...! Arms Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.27",
+   "en": "You...! Arms Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.28",
+   "en": "You...! Arms Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.29",
+   "en": "You...! Arms Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.30",
+   "en": "You...! Arms Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.31",
+   "en": "You...! Arms Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.32",
+   "en": "You...! Arms Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.33",
+   "en": "You...! Arms Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.34",
+   "en": "You...! Arms Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.35",
+   "en": "You...! Arms Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.36",
+   "en": "You...! Arms Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.37",
+   "en": "You...! Arms Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.38",
+   "en": "You...! Arms Dopant!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.39",
+   "en": "Don't tell me... Hahaha!! You came here to get beaten by us?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.9",
+   "note": "Quest023.bla maps TextIdOffset+N to row N+1 (checked against empty rows 11/14/18/20/24/26/32 and the attack cues). Speakers: Mebius (14) 9,12,15,21,22,28,30,33,36-38,41,58,59,61,66,67,70,73; Alien Nackle (149) 10,13,17,34,63; Alien Guts (130) 23,35,64; Jack (127) 16,19,68,71,74; Ace (126) 25,27,29,31,69,72; narration 39,40."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.10",
+   "note": "Nackle taunts while attacking Mebius; 'hora' rendered as the attack taunt 'Here, have some!!'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.12",
+   "note": "Identical Japanese elsewhere in quest output is 'Uwaah!'; reused."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.13",
+   "note": "Speaker label is Alien Nackle (149) per script, although the portrait in that slot is Guts; followed by Nackle's attack on Mebius."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.35",
+   "note": "Alien Guts, polite-sadistic. Subject unstated (volitional 'agemashou'); rendered 'we' since Guts and Nackle act together."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.37",
+   "note": "'Kuitomete misemasu' = hold the enemy back/stop them here; Mebius addresses the two aliens."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.40",
+   "note": "Phoenix Nest = GUYS base from Ultraman Mebius (established English name); not in glossary."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.58",
+   "note": "Phoenix Brave = Mebius Phoenix Brave (established English name); kept in quotes as the source does. Not in glossary. Rows 42-57 are empty/unused (script jumps +40 to +57)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.60",
+   "note": "Speaker is Hikari (CHARA_NAME 35) per script; parenthesised voice kept in parentheses as in source."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.70",
+   "note": "Mebius to Jack and Ace: 'tsuyogaranai de' = don't put on a brave face; 'kyoten' = the base, as in the system line."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.1",
+   "note": "Event-table copy of the quest description; Veda Cube / lair / control room follow QuestMess#0.75. Wraps to 3 lines; the Japanese is also 3 lines (description window)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.3",
+   "note": "Quest024.bla maps +N to row N+1. Speakers: Ankh (36) 3, 21; narration 5; ??? (30) 22-23 = Arms Dopant before reveal; Arms Dopant (184) 39. Leader blocks 6-20 and 24-38 follow Pt_Chara_Check order: Den-O Sword (Momotaros), W (Shotaro), OOO, Black RX, Rider 1, Zero, Mebius, Taro, Seven, Ultraman, Nu, Zeta, God, Wing Zero, 00. Arms Dopant g=n; no pronouns used."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.5",
+   "note": "Source has an apparent kanji typo for 'afureteita' (overflowing); read as 'swarming with'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.6",
+   "note": "Momotaros variant (rough 'nan da tten da ... yo')."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.24",
+   "note": "Momotaros variant uses rough 'omee'; rendered 'Hey, you...!' to keep his voice, all other identical lines share 'You...! Arms Dopant!'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.39",
+   "note": "Arms Dopant (184, +38). 'Yarare ni kita' = came here to be beaten by us."
+  }
+ ],
+ "report": "All 80 rows translated. Speakers from Quest023.bla / Quest024.bla (N+1 mapping). Phoenix Nest and Phoenix Brave not in glossary (established franchise names). Row 0.60 speaker Hikari per script. DG_QUEST024 0.5 has a source typo (read as 'overflowing'). Guts' 'we' in 0.35 inferred."
+}

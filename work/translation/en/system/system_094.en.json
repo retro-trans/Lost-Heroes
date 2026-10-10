@@ -1,0 +1,335 @@
+{
+ "slice": "system_094",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.31",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.32",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.33",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.34",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.35",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.36",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.37",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.38",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.39",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.40",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.41",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.42",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.43",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.44",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.45",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.46",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.47",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.48",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.49",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.50",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.51",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.52",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.53",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.54",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.55",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.56",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.57",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.58",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.59",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.60",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.61",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.62",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.63",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.64",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.65",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.66",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.67",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.68",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.69",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.70",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.71",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.72",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.73",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.74",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.75",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.76",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.77",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.78",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.79",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.80",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.81",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.82",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.83",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.84",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.85",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.86",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.87",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.88",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.89",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.90",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.91",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.92",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.93",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.94",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.95",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.96",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.97",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.98",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.99",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.100",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.101",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.102",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.103",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.104",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.105",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.106",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.107",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.108",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.109",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.110",
+   "en": null
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.31",
+   "note": "All StaffRoll rows in this slice are glyph-index strings from FontStaff decoded with the Font14 charmap, so the text shows as meaningless kana/ASCII mixes (credit lines). The real characters need FontStaff.tpc decoded with its own glyph map. Not translated (null) except the pure-ASCII row copied unchanged."
+  },
+  "StaffRoll uses its own sequential font (FontStaff); credits are kept in Japanese (see docs/review_queue.md)."
+ ],
+ "report": "Staff roll table stored in FontStaff glyph order but decoded with Font14 charmap; text is unreadable mojibake. 1 ASCII row copied, rest null pending a FontStaff charmap."
+}

@@ -1,0 +1,390 @@
+{
+ "slice": "quest_007",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.102",
+   "en": "Objective secured. Returning to base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.103",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.104",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.105",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.106",
+   "en": "We got what we came for. That completes the request, doesn't it?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.107",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.108",
+   "en": "We got what we came for! That's the job done, yeah!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.109",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.110",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.111",
+   "en": "We got what we came for. That completes the request, doesn't it?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.112",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.113",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.114",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.115",
+   "en": "We got what we came for. That wraps up the request."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.116",
+   "en": "Wing Zero must be in the party to progress this quest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.117",
+   "en": "Completed the quest \"Two Mobile Dolls\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.1",
+   "en": "Enemy Crazygon hordes in Desert Cube seem to be digging up and taking something. Go see Maganac."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.5",
+   "en": "At last, you've come."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.6",
+   "en": "The truth is, a number of Crazygons have been sighted in the Quicksand Zone."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.7",
+   "en": "It seems they're there to dig something up and haul it away."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.8",
+   "en": "There's a chance it's an item that could give us \"power.\""
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.9",
+   "en": "Please defeat the Crazygons and find out what they're after."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.16",
+   "en": "It seems 00 isn't with you...? Please, let me speak with him."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.18",
+   "en": "I'll be waiting here, so once you've defeated them, please come back."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.23",
+   "en": "Crazygon...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.24",
+   "en": "Crazygon...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.25",
+   "en": "Crazygon...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.26",
+   "en": "Crazygon...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.27",
+   "en": "Crazygon...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.28",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.29",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.30",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.31",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.32",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.33",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.34",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.35",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.36",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.37",
+   "en": "So this is Crazygon...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.38",
+   "en": "What's it hauling off? Guess we'll take it down and see."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.40",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.41",
+   "en": "The Crazygon silently scraped away at the rock face, gathering something up into its belly."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.42",
+   "en": "...You're not coming?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.43",
+   "en": "Crazygon!! If you won't come to us, we'll come to you!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.44",
+   "en": "Crazygon!! If you won't come at us, then we're coming at you!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.45",
+   "en": "Crazygon!! If you won't come to us, we'll come to you!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.46",
+   "en": "Crazygon!! If you won't come to us, we'll come to you!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.47",
+   "en": "Crazygon!! If you won't come to us, we'll come to you!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.48",
+   "en": "Crazygon!! If you won't come to us, we'll come to you!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.49",
+   "en": "Crazygon!! If you won't come to us, then we'll come to you!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.50",
+   "en": "Hey! You piece-of-junk robot!! If you won't come at us, then we're comin' at you!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.51",
+   "en": "Crazygon!! If you won't come to us, we'll come to you!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.52",
+   "en": "Crazygon!! Come on! I'll be your opponent!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.53",
+   "en": "Eliminating the target!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.54",
+   "en": "Target confirmed. Annihilating it immediately!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.55",
+   "en": "Crazygon!! If you won't come to us, we'll come to you!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.56",
+   "en": "Crazygon!! If you won't come to us, we'll come to you!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.57",
+   "en": "Crazygon... So you won't come? Then we'll come to you!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.62",
+   "en": "So these things are here to collect \"Scrap Iron\"?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.63",
+   "en": "Where is it...!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.64",
+   "en": "True, it was originally an iron-collecting robot... but it looks like they're after something else."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.65",
+   "en": "No, looks like they're after something else."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.66",
+   "en": "...It looks like they're after something else."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.67",
+   "en": "True, it was originally an iron-collecting robot... but it looks like they're after something else."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.68",
+   "en": "True, it was originally an iron-collecting robot... but it looks like they're after something else."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.69",
+   "en": "Would they really deploy this many just to gather scrap iron...?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.70",
+   "en": "No, they're probably searching for something else... The scrap iron is camouflage."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.71",
+   "en": "Would they really send out this many just to scrounge up scrap iron?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.72",
+   "en": "Suspicious. Looks like they're after something else..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.73",
+   "en": "Suspicious. Looks like they're after something else..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.74",
+   "en": "Strange. I doubt they'd deploy this many for mere scrap iron."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.75",
+   "en": "Strange. I doubt they'd deploy this many for mere scrap iron."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.76",
+   "en": "No... I think they're after something else."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.77",
+   "en": "I don't think so. Aren't they after something else?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.78",
+   "en": "Strange. I doubt they'd deploy this many for mere scrap iron."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.79",
+   "en": "No choice, then. We'll take down every last one of 'em!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.81",
+   "en": "You idiot! You plan to go on without 00!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.84",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.88",
+   "en": "\"Iron Ore,\" huh... A bit better, but I doubt this is what they're after."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.91",
+   "en": "You idiot! You plan to go on without 00!?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.102",
+   "note": "Rows 102-115 are a 14-row party variant block that Quest007.bla never references (Event002/003 play only Wing Zero's row 101 after the battle). 102 voiced as Heero (military 'returning'); 106/111 polite (desu ne) = OOO/Mebius slots; 108 rough exclamation = Momotaros slot (same +4/+6/+9 positions as the verified polite/rough rows in the 39-52 and 62-75 blocks). Identical Japanese kept identical."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.116",
+   "note": "OkWin system message (Quest007 TextIdOffset+115, the no-Wing-Zero branch). Mapping in this table: TextIdOffset+N plays row N+1 (verified: +2 row 3 ???/Altron, +3 row 4 Wing Zero, +58 row 59 narration, +79 row 80 Ankh)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST007_pk#0.117",
+   "note": "Quest title from QuestMess 0.8 'Two Mobile Dolls'. Played via OkWinIn(TextIdOffset+116). The script's next OkWinIn(+117) points past the last row (118 entries, 0-117), and row 100 'Obtained Planate Defenser' (quest_006) is not referenced: the item-get message looks off by one in the original script. Not a translation issue."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.1",
+   "note": "Quest description row (no speaker). Quest 9 title in QuestMess is 'Crazygon Hunt'; place name follows QuestMess ('Desert Cube'), brackets dropped. Compressed to fit 2 lines ('go there and hear Maganac out' -> 'Go see Maganac')."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.5",
+   "note": "Rows 5-9 and 18: Maganac (CHARA_NAME 79), polite, verified in Quest008.bla (Event001 +4..+8, Event002 +17). 'Quicksand Zone' brackets dropped for a place name (glossary term)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.8",
+   "note": "The source sets 'power' in brackets (the heroes' lost power); kept in quotes, matching story usage ('take back the \"power\"')."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.16",
+   "note": "Not referenced by Quest008.bla (the no-00 path just shows the system OkWin). Speaker inferred: Maganac (polite, -san on 00 dropped). 00 g=m ('him' as in source 'kare')."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.23",
+   "note": "Rows 23-37 are an unreferenced 15-row leader block in the same order as the played 43-57 block: the first five slots (Seven, Zero, Mebius, Taro, Ultraman) recognise Crazygon (an Ultraseven robot), the rest see it for the first time. Row 38 also unreferenced; speaker unknown, voiced neutral-casual."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.40",
+   "note": "Rows 40-41: Crazygon name box (CHARA_NAME 97, Event003 +39/+40); 41 is narration shown under that box, past tense like other quest narration. Row 42 unreferenced, speaker unknown."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.43",
+   "note": "Leader block 43-57 = TextIdOffset+42+pt. Pt_Chara_Check order (Event003): Seven, Zero, Mebius, Taro, Ultraman, OOO, W (Shotaro), Den-O Sword (Momotaros), Black RX, Rider 1, 00, Wing Zero, God Gundam, Zeta, Nu (default). Wording matches: 44 Zero/49 Shotaro rough 'konee', 50 Momotaros 'ponkotsu robo', 52 Rider 1, 53 Setsuna 'mokuhyou wo kuchiku suru' (story form 'eliminating the target'), 54 Heero, 57 Amuro. 'Kochira kara iku' read as the leader speaking for the team ('we')."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.62",
+   "note": "Ankh (CHARA_NAME 36), Event003 +61. 'Scrap Iron' is the item name (ItemNameFormal 3.53) and is quoted in the source. Rows 64-78 (same leader order, TextIdOffset+63+pt) answer him: 64/67/68 Seven/Taro/Ultraman know Crazygon was an iron-collecting robot; 66 Mebius polite; 69 OOO; 70 Shotaro; 71 Momotaros; 76 God; 77 Zeta; 74/75/78 00/Wing Zero/Nu. 'They' = the enemy behind the Crazygons. Row 63 unreferenced, speaker unknown."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.79",
+   "note": "Ankh, Event003 +78."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.81",
+   "note": "Rows 81 and 91 are unreferenced (the no-00 path shows the system OkWin +164). Speaker inferred as Ankh (rough 'baka yarou'); subject 'you' restored for the party."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.84",
+   "note": "Crazygon, Event004 +83."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST008_pk#0.88",
+   "note": "Ankh, Event004 +87, after the battle. 'Iron Ore' is the item name (ItemNameFormal 3.98)."
+  }
+ ],
+ "report": "80/80 rows examined. Speakers from Quest007/008.bla (TextIdOffset+N = row N+1 in both tables). Quest007 102-115 unreferenced party variants (voiced from wording); its final OkWin +117 points past the table and row 100 is never shown (script off-by-one, not a translation issue). Quest008: Maganac 5-9/18, Crazygon 40-41/84, Ankh 62/79/88, leader blocks 43-57 and 64-78 in Pt_Chara_Check order. Unreferenced: 16, 23-38, 42, 63, 81, 91 (speakers inferred). Item names Scrap Iron / Iron Ore from ItemNameFormal. No new names."
+}

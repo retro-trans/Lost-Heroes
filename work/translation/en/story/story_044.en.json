@@ -1,0 +1,366 @@
+{
+ "slice": "story_044",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0308.mbb#0.8",
+   "en": "Hm? What is this...!?"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.9",
+   "en": "Hm? What is this...!?"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.10",
+   "en": "Hm? What is this...!?"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.11",
+   "en": "What's wrong?"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.12",
+   "en": "I stepped on something. It's like birdlime. It's super sticky!"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.13",
+   "en": "I stepped on something gooey. Feels like birdlime."
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.14",
+   "en": "Hey, I stepped in somethin' weird! Damn stuff's sticky as birdlime."
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.15",
+   "en": "I stepped on something sticky!! Birdlime? ...Is this a Crisis trap!?"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.16",
+   "en": "I stepped on something! It's like birdlime!"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.17",
+   "en": "I went and stepped in somethin' gooey. It's just like birdlime."
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.18",
+   "en": "I stepped on something sticky. Birdlime...?"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.19",
+   "en": "I stepped on something. It's gooey and nasty... Birdlime?"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.20",
+   "en": "I stepped on something sticky. Birdlime...?"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.21",
+   "en": "I stepped on something highly viscous. Birdlime...?"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.22",
+   "en": "B-Birdlime!?"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.23",
+   "en": "It doesn't look like a trap or anything."
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.24",
+   "en": "...Huh? Ankh, what's wrong?"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.25",
+   "en": "N-Nothing! I'm not scared or anything!"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.26",
+   "en": "(Ankh's a bird-type Greeed, after all...)"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.28",
+   "en": "Can you keep going?"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.29",
+   "en": "Yeah, I'm fine. It doesn't look like a trap."
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.30",
+   "en": "Yeah, this much is nothin'. Let's go."
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.31",
+   "en": "...Yeah. It doesn't seem to be a trap. I can keep going."
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.32",
+   "en": "...Yes. It doesn't seem to be anything serious."
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.33",
+   "en": "...Yeah. This much is no problem... Let's go!"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.34",
+   "en": "...Yeah. There's no particular problem."
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.35",
+   "en": "...Yeah. It doesn't look like a trap."
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.36",
+   "en": "...Yeah. It doesn't seem to be a trap... Let's go."
+  },
+  {
+   "key": "MainEventMess0309.mbb#0.1",
+   "en": "\"GYAAAAAAAAAAAGH...!!\""
+  },
+  {
+   "key": "MainEventMess0309.mbb#0.2",
+   "en": "Huh? What was that scream just now..."
+  },
+  {
+   "key": "MainEventMess0309.mbb#0.3",
+   "en": "{8074} and the team peeked into the room the scream was coming from."
+  },
+  {
+   "key": "MainEventMess0309.mbb#0.4",
+   "en": "A kaijin strapped down to a bed..."
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.1",
+   "en": "\"WHOOOOOOOOSH...\""
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.2",
+   "en": "Suddenly, a fierce cold wind began to rage, and the temperature all around started to plummet!"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.4",
+   "en": "Weather Dopant!!"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.5",
+   "en": "Hey, hey! What's going on here!? We already beat him!!"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.6",
+   "en": "The Weather Dopant...!?"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.7",
+   "en": "Wha...!? What's going on!? We already beat him!!"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.8",
+   "en": "Weather Dopant!!"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.9",
+   "en": "Why!? We already beat him!!"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.10",
+   "en": "Weather Dopant!!"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.11",
+   "en": "Why!? We already beat him!!"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.12",
+   "en": "Weather Dopant!!"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.13",
+   "en": "Why!? We already beat him!!"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.14",
+   "en": "Weather Dopant!!"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.15",
+   "en": "Why!? We already beat him!!"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.16",
+   "en": "Weather Dopant!!"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.17",
+   "en": "Hey, what's going on!? Didn't we beat him already?"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.18",
+   "en": "Weather Dopant!!"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.19",
+   "en": "Why!? We already beat him!!"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.20",
+   "en": "Were you surprised?"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.21",
+   "en": "Kuhahahahahahahaha!!"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.22",
+   "en": "Well then, I believe that will be all from me for now."
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.23",
+   "en": "I'd like you all to get a good, long taste of just how terrifying our science can be."
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.24",
+   "en": "Kuhahahahahahahaha...!!"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.25",
+   "en": "Ugh... ...Is he immortal?"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.26",
+   "en": "Ugh... Is that enemy immortal!?"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.27",
+   "en": "...Tch. ...Is that guy immortal?"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.28",
+   "en": "Gwoh... Is that guy immortal?"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.29",
+   "en": "Waah... That enemy can't seriously be immortal, can it...?"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.30",
+   "en": "Gwaaah... ...Is that enemy immortal?"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.31",
+   "en": "Ugh... Is that bastard immortal!?"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.32",
+   "en": "Ugh... What kind of monster is he...!!"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.33",
+   "en": "Ngh... What an enemy...!!"
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.34",
+   "en": "Waaah...!! What kind of monster is he...!!"
+  },
+  {
+   "key": "MainEventMess0311.mbb#0.1",
+   "en": "You're...!! ...Kamen Rider 2?"
+  },
+  {
+   "key": "MainEventMess0311.mbb#0.2",
+   "en": "You're safe!?"
+  },
+  {
+   "key": "MainEventMess0311.mbb#0.3",
+   "en": "Y-You're...!! ...Rider 2, sir!?"
+  },
+  {
+   "key": "MainEventMess0311.mbb#0.4",
+   "en": "You're safe!!"
+  },
+  {
+   "key": "MainEventMess0311.mbb#0.5",
+   "en": "Y-You're...!! ...Kamen Rider 2!!"
+  },
+  {
+   "key": "MainEventMess0311.mbb#0.6",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "MainEventMess0311.mbb#0.7",
+   "en": "You're... Could you be Kamen Rider 2!?"
+  },
+  {
+   "key": "MainEventMess0311.mbb#0.8",
+   "en": "You're safe!?"
+  },
+  {
+   "key": "MainEventMess0311.mbb#0.9",
+   "en": "Hm...!? You... Don't tell me you're Kamen Rider 2!?"
+  },
+  {
+   "key": "MainEventMess0311.mbb#0.10",
+   "en": "You're safe!?"
+  },
+  {
+   "key": "MainEventMess0311.mbb#0.11",
+   "en": "Y-You're...!! ...Could you be Kamen Rider 2!?"
+  },
+  {
+   "key": "MainEventMess0311.mbb#0.12",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "MainEventMess0311.mbb#0.13",
+   "en": "Y-You're...!! ...Could you be Kamen Rider 2!?"
+  },
+  {
+   "key": "MainEventMess0311.mbb#0.14",
+   "en": "You're safe, aren't you!?"
+  },
+  {
+   "key": "MainEventMess0311.mbb#0.15",
+   "en": "Wh-Whoa, you...!! ...Ain't you Kamen Rider 2!?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0308.mbb#0.8",
+   "note": "0308 #0.1-0.21 and #0.29-0.36, 0310 #0.4-0.19 and #0.25-0.34, 0311 #0.1-0.15 are party-leader variants (only the leader's line plays); labels 'Wing Zero'/'Black RX' on the first variant are not reliable. Tone set from each line's own register: #0.15 (mentions Crisis) is Black RX, #0.16/#0.32 polite (Mebius-type), #0.14/#0.30 rough."
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.12",
+   "note": "Torimochi rendered 'birdlime' throughout so the joke lands: Ankh is a bird Greeed and panics at it (#0.22, #0.25, #0.26)."
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.23",
+   "note": "Labelled OOO; kept as OOO's reassurance before he notices Ankh's reaction in #0.24."
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.28",
+   "note": "Ankh asking whoever stepped in it whether they can keep moving; the leader variants #0.29-0.36 answer."
+  },
+  {
+   "key": "MainEventMess0309.mbb#0.4",
+   "note": "Kaijin kept as 'kaijin' (used earlier in the script). Who is strapped down is not named here; left unidentified (story_045 has Rider 2 rescued from re-modification, but the kaijin may be someone else)."
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.4",
+   "note": "Labelled Ankh but #0.4-0.19 are leader-variant pairs (name, then reaction). 'taoshita hazu' = 'We already beat him!!' (Weather Dopant was defeated earlier in the W arc)."
+  },
+  {
+   "key": "MainEventMess0310.mbb#0.25",
+   "note": "'Fujimi' rendered 'immortal'. #0.25-0.31 and #0.32-0.34 are two sets of leader variants after being hit; the first label 'Black RX' is not reliable."
+  },
+  {
+   "key": "MainEventMess0311.mbb#0.3",
+   "note": "'2-gou senpai' from a junior Rider: per glossary, Sempai is Imagin-only, so the respect is carried by 'sir'."
+  },
+  {
+   "key": "MainEventMess0311.mbb#0.15",
+   "note": "Rough leader (Momotaros-style); line continues in story_045 #0.16."
+  }
+ ],
+ "report": "80/80 rows. Most rows are party-leader variants with unreliable speaker labels; tone set from each line's register. 'Torimochi' = 'birdlime' to keep the bird-Greeed joke. 'senpai' Rider address -> 'sir' (#0311 #0.3). No new names."
+}

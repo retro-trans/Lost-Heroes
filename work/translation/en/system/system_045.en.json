@@ -1,0 +1,342 @@
+{
+ "slice": "system_045",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Common/CharacterName.mbb#2.16",
+   "en": "King Joe Black"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.1",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.2",
+   "en": "Rider 1"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.3",
+   "en": "Black RX"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.4",
+   "en": "Den-O Sword Form"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.5",
+   "en": "W (Shotaro)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.6",
+   "en": "OOO"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.7",
+   "en": "Nu Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.8",
+   "en": "Zeta Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.9",
+   "en": "God Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.10",
+   "en": "Wing Zero"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.11",
+   "en": "00"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.12",
+   "en": "Ultraman"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.13",
+   "en": "Seven"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.14",
+   "en": "Taro"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.15",
+   "en": "Mebius"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.16",
+   "en": "Zero"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.17",
+   "en": "Den-O Rod Form"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.18",
+   "en": "Den-O Ax Form"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.19",
+   "en": "Den-O Gun Form"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.20",
+   "en": "Momotaros"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.21",
+   "en": "Urataros"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.22",
+   "en": "Kintaros"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.23",
+   "en": "Ryutaros"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.25",
+   "en": "00 Raiser"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.29",
+   "en": "Taka Candroid"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.30",
+   "en": "Invisible"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.31",
+   "en": "???"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.32",
+   "en": "Nemo A"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.33",
+   "en": "Nemo B"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.34",
+   "en": "Accel"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.35",
+   "en": "Methuss"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.36",
+   "en": "Hikari"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.37",
+   "en": "Ankh"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.38",
+   "en": "Rider 2"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.39",
+   "en": "Barabas"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.40",
+   "en": "Masquerade Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.41",
+   "en": "Weather Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.42",
+   "en": "Spider Man"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.43",
+   "en": "Hambrabi"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.44",
+   "en": "Bogal"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.45",
+   "en": "Seagorath"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.46",
+   "en": "Seamons"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.47",
+   "en": "Kazari"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.48",
+   "en": "Uva"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.49",
+   "en": "Waste Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.50",
+   "en": "Negataros"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.51",
+   "en": "Pink Rabbit Imagin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.52",
+   "en": "Siamese Cat Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.53",
+   "en": "Skullma"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.54",
+   "en": "Todogiller"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.55",
+   "en": "Jin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.56",
+   "en": "Snowman Imagin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.57",
+   "en": "Ice Age Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.58",
+   "en": "Twin Tail"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.59",
+   "en": "Nega Den-O"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.60",
+   "en": "Shadow Moon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.61",
+   "en": "Bat Man"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.62",
+   "en": "Magma Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.63",
+   "en": "Bat Man"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.64",
+   "en": "Mantis Man"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.65",
+   "en": "Rhino Imagin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.66",
+   "en": "T-Rex Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.67",
+   "en": "Accel Trial"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.68",
+   "en": "Pteranodon Yummy (M)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.72",
+   "en": "Cherudim"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.73",
+   "en": "Arios"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.74",
+   "en": "Seravee"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.75",
+   "en": "Deathscythe Hell"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.76",
+   "en": "Heavyarms"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.77",
+   "en": "Sandrock"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.78",
+   "en": "Altron"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.79",
+   "en": "Birth"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.80",
+   "en": "Maganac"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.81",
+   "en": "Maganac"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.82",
+   "en": "Kanegon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.83",
+   "en": "Leo"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.84",
+   "en": "Taurus"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.85",
+   "en": "Gundam Throne Eins"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.86",
+   "en": "Gundam Throne Zwei"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Common/CharacterName.mbb#3.55",
+   "note": "Unknown enemy name (short katakana, sits between Todogiller and Snowman Imagin); romanized as Jin."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.25",
+   "note": "Not in glossary as a full name; 00 Raiser per the glossary note on 00 Gundam."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.29",
+   "note": "Item/enemy name kept as Taka Candroid per glossary."
+  }
+ ],
+ "report": "80/80 rows. All names follow glossary. Uncertain: Jin (romanized). New term not in glossary: 00 Raiser (from glossary note), King Joe Black (matches system_035)."
+}

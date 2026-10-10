@@ -1,0 +1,374 @@
+{
+ "slice": "story_031",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0232.mbb#0.3",
+   "en": "Sneak in and retrieve it."
+  },
+  {
+   "key": "MainEventMess0232.mbb#0.4",
+   "en": "The enemy's deployed a GN-X squadron on defense. They're MS with GN Drive Taus."
+  },
+  {
+   "key": "MainEventMess0232.mbb#0.5",
+   "en": "They're mobile suits fitted with GN Drive Taus."
+  },
+  {
+   "key": "MainEventMess0232.mbb#0.6",
+   "en": "Pseudo or not, the enemy has finally assembled a force that can rival Gundams..."
+  },
+  {
+   "key": "MainEventMess0232.mbb#0.7",
+   "en": "Hey, Arios. Don't go stirring up that much worry."
+  },
+  {
+   "key": "MainEventMess0232.mbb#0.8",
+   "en": "Relax, we'll throw the enemy into disarray. Whoever they are, I'm aiming and firing!!"
+  },
+  {
+   "key": "MainEventMess0232.mbb#0.9",
+   "en": "Whatever the enemy is... I'm aiming and firing!!"
+  },
+  {
+   "key": "MainEventMess0232.mbb#0.10",
+   "en": "Sorry if we don't leave you guys anything to hunt!"
+  },
+  {
+   "key": "MainEventMess0232.mbb#0.11",
+   "en": "All right, guess it's about time we got started."
+  },
+  {
+   "key": "MainEventMess0232.mbb#0.12",
+   "en": "Cherudim, commencing operations!"
+  },
+  {
+   "key": "MainEventMess0232.mbb#0.13",
+   "en": "Arios, moving to disrupt the enemy!"
+  },
+  {
+   "key": "MainEventMess0233.mbb#0.1",
+   "en": "This is Operation Area B. Our objective is to recover the \"Gundanium alloy.\""
+  },
+  {
+   "key": "MainEventMess0233.mbb#0.2",
+   "en": "The enemy refines ore mined from the rubble at a facility deep inside to make Gundanium alloy."
+  },
+  {
+   "key": "MainEventMess0233.mbb#0.3",
+   "en": "There's a reservoir they need for that,"
+  },
+  {
+   "key": "MainEventMess0233.mbb#0.4",
+   "en": "and it looks like they're storing high-purity Gundanium alloy somewhere past it."
+  },
+  {
+   "key": "MainEventMess0233.mbb#0.5",
+   "en": "Sneak in and bring it back."
+  },
+  {
+   "key": "MainEventMess0233.mbb#0.6",
+   "en": "Hey, what are the enemies here?"
+  },
+  {
+   "key": "MainEventMess0233.mbb#0.7",
+   "en": "Kaima Robots, and Yummies."
+  },
+  {
+   "key": "MainEventMess0233.mbb#0.8",
+   "en": "Figured as much. This place reeks of Yummies."
+  },
+  {
+   "key": "MainEventMess0233.mbb#0.9",
+   "en": "Deep in there is where the most Yummies show up in this whole Cube."
+  },
+  {
+   "key": "MainEventMess0233.mbb#0.10",
+   "en": "It's perfect for raking in Medals! I wonder if there's a Yummy nest in there or something!"
+  },
+  {
+   "key": "MainEventMess0233.mbb#0.11",
+   "en": "I wonder if there's a Yummy nest in there or something!"
+  },
+  {
+   "key": "MainEventMess0233.mbb#0.12",
+   "en": "A Yummy nest...? It couldn't be..."
+  },
+  {
+   "key": "MainEventMess0233.mbb#0.13",
+   "en": "We'll go ahead and draw their attention. We're counting on you for the Gundanium alloy."
+  },
+  {
+   "key": "MainEventMess0233.mbb#0.14",
+   "en": "All right! Work time, work time!!"
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.1",
+   "en": "This is Operation Area C. Our objective is to seize the weapons the enemy has in storage."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.2",
+   "en": "There's a storehouse at the very back of this area. Let's grab any gear there we can use."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.3",
+   "en": "The enemies here are mobile dolls. Emotionless killing machines."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.4",
+   "en": "So what?"
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.5",
+   "en": "...To me, space mines are more of a pain than a single mobile doll."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.6",
+   "en": "Mobile dolls..."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.7",
+   "en": "What do they even fight for...?"
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.8",
+   "en": "We've fought Leos once already."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.9",
+   "en": "I believe I understand what mobile dolls are like."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.10",
+   "en": "We've fought Leos once already."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.11",
+   "en": "I know what mobile dolls are like."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.12",
+   "en": "We've fought Leos once already."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.13",
+   "en": "I believe I understand what mobile dolls are like!"
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.14",
+   "en": "We've fought one of those Leo things once already."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.15",
+   "en": "I understand what mobile dolls are like."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.16",
+   "en": "We've fought Leos once already."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.17",
+   "en": "I have a rough idea of what mobile dolls are like."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.18",
+   "en": "We've already fought Leos once, y'know?"
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.19",
+   "en": "Mobile dolls are a cakewalk!! A total cakewalk!!"
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.20",
+   "en": "We've fought Leos once already."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.21",
+   "en": "Mobile dolls are nothing to me!"
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.22",
+   "en": "Several MS have been spotted here too. They're all tough foes. Don't let your guard down."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.24",
+   "en": "The enemies here are a rank stronger than in the other operation areas."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.25",
+   "en": "We've also asked the Maganac Corps for reinforcements."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.26",
+   "en": "We of the Maganac Corps are honored to fight alongside Master Sandrock."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.27",
+   "en": "Thank you."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.28",
+   "en": "Even this might not be enough. So please don't let your guard down."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.29",
+   "en": "You'd better be prepared for the worst."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.30",
+   "en": "Of course. We are fully prepared."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.31",
+   "en": "All right, time we headed out."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.32",
+   "en": "Right."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.33",
+   "en": "We'll go on ahead as a diversion. Make sure you pull off your part too."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.34",
+   "en": "Make sure you pull off your part too, okay?"
+  },
+  {
+   "key": "MainEventMess0235.mbb#0.1",
+   "en": "So you've come..."
+  },
+  {
+   "key": "MainEventMess0235.mbb#0.2",
+   "en": "Now learn the true might of us, the GN-X squadron!"
+  },
+  {
+   "key": "MainEventMess0235.mbb#0.3",
+   "en": "We no longer have any reason to fear Gundams!!"
+  },
+  {
+   "key": "MainEventMess0235.mbb#0.4",
+   "en": "We won't let you go one step further!"
+  },
+  {
+   "key": "MainEventMess0235.mbb#0.5",
+   "en": "GN-X squadron, moving to attack!"
+  },
+  {
+   "key": "MainEventMess0236.mbb#0.1",
+   "en": "You obtained \"Emerium ore.\""
+  },
+  {
+   "key": "MainEventMess0236.mbb#0.2",
+   "en": "Hell yeah, we did it!"
+  },
+  {
+   "key": "MainEventMess0236.mbb#0.3",
+   "en": "We did it!"
+  },
+  {
+   "key": "MainEventMess0236.mbb#0.4",
+   "en": "We have completed the mission."
+  },
+  {
+   "key": "MainEventMess0236.mbb#0.5",
+   "en": "Mission... complete."
+  },
+  {
+   "key": "MainEventMess0236.mbb#0.6",
+   "en": "All right, operation complete. We're heading back now."
+  },
+  {
+   "key": "MainEventMess0236.mbb#0.7",
+   "en": "So this is Emerium ore..."
+  },
+  {
+   "key": "MainEventMess0236.mbb#0.8",
+   "en": "All right, we've got it."
+  },
+  {
+   "key": "MainEventMess0236.mbb#0.9",
+   "en": "So this is Emerium ore..."
+  },
+  {
+   "key": "MainEventMess0236.mbb#0.10",
+   "en": "Phew, and that's one job done!"
+  },
+  {
+   "key": "MainEventMess0236.mbb#0.11",
+   "en": "Heeey!"
+  },
+  {
+   "key": "MainEventMess0236.mbb#0.12",
+   "en": "Oh! You pulled it off, nice work."
+  },
+  {
+   "key": "MainEventMess0237.mbb#0.1",
+   "en": "So you've come, you lousy heroes!"
+  },
+  {
+   "key": "MainEventMess0237.mbb#0.2",
+   "en": "I am the Kaima Robot, Metaheavy!"
+  },
+  {
+   "key": "MainEventMess0237.mbb#0.3",
+   "en": "Beyond here lies the reservoir. It's a vital facility, so get out of here!!"
+  },
+  {
+   "key": "MainEventMess0237.mbb#0.6",
+   "en": "So you mean to defeat me, do you?"
+  },
+  {
+   "key": "MainEventMess0237.mbb#0.7",
+   "en": "Interesting!! But you lot..."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0232.mbb#0.4",
+   "note": "Pseudo GN Drive rendered 'pseudo-Solar Furnace' (literal Solar Furnace term; 'pseudo' kept since #0.6 plays on it); not in glossary. 'Operation Area A/B/C' used for the area labels (no earlier English yet; story_026-030 untranslated)."
+  },
+  {
+   "key": "MainEventMess0232.mbb#0.8",
+   "note": "Lockon catchphrase rendered 'I'm aiming and firing!!' to match story_022. #0.3, #0.5, #0.9 and other unlabelled near-duplicates are alternate variants of the labelled line before them."
+  },
+  {
+   "key": "MainEventMess0232.mbb#0.10",
+   "note": "Unlabelled; taken as Cherudim joking to the party (same scene, his voice)."
+  },
+  {
+   "key": "MainEventMess0233.mbb#0.3",
+   "note": "Sentence runs across #0.3-#0.4; cut at the matching point (comma, lowercase continuation)."
+  },
+  {
+   "key": "MainEventMess0233.mbb#0.13",
+   "note": "Direction: Deathscythe Hell asks the party -> 'We're counting on you for the Gundanium alloy.'."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.4",
+   "note": "Labelled Zero. Uncertain whether this is Ultraman Zero or Wing Zero (Heero): the space-mine remark suits Heero, and #0.14 ('one of those Leo things') looks like Ultraman Zero's own variant. Wording works for either."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.8",
+   "note": "#0.6-#0.21 are party-leader variant pairs; labels unreliable (#0.15 'W (Philip)'). Subject of 'fought Leos once' restored as 'we' (the party fought Leos together in story_021); the 'understand' lines kept first person. Voices by register: #0.12-13 polite, #0.18-19 Momotaros-style, #0.21 cocky."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.26",
+   "note": "Maganac honorific on Sandrock -> 'Master Sandrock', matching 'Master Deathscythe Hell' in story_025."
+  },
+  {
+   "key": "MainEventMess0234.mbb#0.29",
+   "note": "Unlabelled; read as Heavyarms warning the Maganac Corps, who answer in #0.30 (humble register). Could also be a party-leader line."
+  },
+  {
+   "key": "MainEventMess0236.mbb#0.2",
+   "note": "#0.2-#0.10 are party-leader variants of the mission-complete reaction; #0.11 '???' is Cherudim approaching (he speaks in #0.12)."
+  },
+  {
+   "key": "MainEventMess0237.mbb#0.3",
+   "note": "Unlabelled #0.3, #0.6, #0.7 taken as Metaheavy continuing; #0.7 trails off as in the source (scene continues past this file)."
+  }
+ ],
+ "report": "80/80 rows. Uncertain: 0234.4-5 'Zero' label may be Wing Zero rather than Ultraman Zero; 0234.29 speaker inferred as Heavyarms; leader-variant subjects in 0234.8-21 restored as 'we' (fought) / 'I' (understand). Not in glossary: pseudo-Solar Furnace, Operation Area A/B/C, Leo (as in story_021), Kaima Robot (from Kaima); 'MS' kept as abbreviation."
+}

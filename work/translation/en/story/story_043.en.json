@@ -1,0 +1,394 @@
+{
+ "slice": "story_043",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0256.mbb#0.169",
+   "en": "...\"Higher-ups\"? Wasn't Arche working for The O?"
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.170",
+   "en": "...\"Higher-ups\"? What on earth does that mean?"
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.171",
+   "en": "So that means Arche wasn't working for The O after all."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.172",
+   "en": "...\"Higher-ups\"? What does that mean?"
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.173",
+   "en": "Tch... That guy sure is quick to run away."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.174",
+   "en": "...Looks like someone's still pulling the strings behind this."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.175",
+   "en": "...Looks like someone's still pulling the strings behind this."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.176",
+   "en": "...Looks like someone's still pulling the strings behind this."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.177",
+   "en": "...Looks like someone's still pulling the strings behind this."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.178",
+   "en": "...Looks like someone's still behind all this, Ankh."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.179",
+   "en": "...Looks like someone's still behind all this."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.180",
+   "en": "...Looks like someone's still pulling the strings behind this."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.181",
+   "en": "...It seems someone is still behind all this, Ankh."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.182",
+   "en": "...Looks like someone's still pulling the strings behind this."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.183",
+   "en": "Hey, forget about that. We're heading back to base, now."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.184",
+   "en": "Yeah, you're right."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.185",
+   "en": "Yeah, you're right."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.186",
+   "en": "Yeah, you're right."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.187",
+   "en": "Yeah, you're right."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.188",
+   "en": "Oh, right. We should."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.189",
+   "en": "Yeah, let's."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.190",
+   "en": "Yeah! You got it!!"
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.191",
+   "en": "...You're right!!"
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.192",
+   "en": "You're right!"
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.195",
+   "en": "{8074} and the others rescued RX and headed for the base."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.196",
+   "en": "Apart from 00, Wing Zero and Seravee, the members of Celestial Being"
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.197",
+   "en": "stayed inside the Cube to continue the operation to take its unsecured areas."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.198",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.199",
+   "en": "As soon as they arrived at the base, RX went straight into the medical room."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.200",
+   "en": "So this is your base..."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.201",
+   "en": "This place seems to exist independently of the other Cubes."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.202",
+   "en": "That's about the size of it."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.203",
+   "en": "And every facility that got absorbed into it is something useful to us..."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.204",
+   "en": "Why on earth would that be...?"
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.205",
+   "en": "Alongside exploring the Cubes, I've also been investigating the base itself."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.206",
+   "en": "We should get to the bottom of the mystery sooner or later."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.207",
+   "en": "By the way, did you learn anything from striking their headquarters?"
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.208",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.209",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.210",
+   "en": "...I see. That's certainly worrying. Arche Gundam's last words..."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.211",
+   "en": "Whoever he meant by \"higher-ups,\" it apparently isn't The O..."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.212",
+   "en": "So there's a mastermind in another Cube, after all?"
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.213",
+   "en": "That's the natural conclusion."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.214",
+   "en": "Everyone...!!"
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.215",
+   "en": "RX!! Are you all right now!?"
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.216",
+   "en": "Yeah, I can move well enough now."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.217",
+   "en": "Besides, I can't just lie around in bed when Rider 1 and Rider 2 need saving."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.218",
+   "en": "Right. Our top priority now is rescuing those two."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.219",
+   "en": "If I remember right, it was the \"Hideout Cube,\" wasn't it?"
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.220",
+   "en": "That must be the Cube where they concentrate on experiments and modification..."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.221",
+   "en": "Yeah. The enemy said something like they'd \"re-modify\" them..."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.222",
+   "en": "...That settles it."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.223",
+   "en": "But hey, how do we even get to that Cube?"
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.224",
+   "en": "We should be able to find it by exploring the Ride Dungeon."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.225",
+   "en": "But it's walls everywhere in there. Was there even anywhere we could explore?"
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.226",
+   "en": "Heh..."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.227",
+   "en": "What?"
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.228",
+   "en": "I had a feeling something like this might come up..."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.229",
+   "en": "So I fitted the Ride Machine with the \"Pelucidar Drill\" you guys brought back."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.230",
+   "en": "With it, you should be able to break through the Ride Dungeon's walls."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.231",
+   "en": "Hikari...!! That's awesome!!!"
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.232",
+   "en": "We can always count on you!"
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.233",
+   "en": "I can't guarantee there's a Cube beyond those walls, but it may open up a path."
+  },
+  {
+   "key": "MainEventMess0301.mbb#0.1",
+   "en": "...This is one creepy-looking place."
+  },
+  {
+   "key": "MainEventMess0301.mbb#0.2",
+   "en": "Looks like some kind of research facility."
+  },
+  {
+   "key": "MainEventMess0301.mbb#0.3",
+   "en": "It seems to be some kind of research facility..."
+  },
+  {
+   "key": "MainEventMess0301.mbb#0.4",
+   "en": "Looks like some kinda research facility."
+  },
+  {
+   "key": "MainEventMess0301.mbb#0.5",
+   "en": "It seems to be some kind of research facility... Is this the Crisis Empire...!?"
+  },
+  {
+   "key": "MainEventMess0301.mbb#0.6",
+   "en": "It seems to be some kind of research facility..."
+  },
+  {
+   "key": "MainEventMess0301.mbb#0.7",
+   "en": "Looks like some kind of research facility, all right."
+  },
+  {
+   "key": "MainEventMess0301.mbb#0.8",
+   "en": "Looks like some kind of research facility."
+  },
+  {
+   "key": "MainEventMess0301.mbb#0.9",
+   "en": "Looks like some kind of research facility."
+  },
+  {
+   "key": "MainEventMess0301.mbb#0.10",
+   "en": "Looks like some kind of research facility."
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.1",
+   "en": "Whoa! What's this?"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.2",
+   "en": "Hm? What the heck is this?"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.3",
+   "en": "Hm? What the hell is THIS!!"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.4",
+   "en": "Hm? What is this!?"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.5",
+   "en": "Hm? What is this...!?"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.6",
+   "en": "Hm? What is this...!?"
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.7",
+   "en": "Hm? What is this...!?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0256.mbb#0.169",
+   "note": "#0.164-0.172 are 9 partner-variant slots of one reaction (slot 1 = Zero, labelled); this slice holds slots 6-9. 'Higher-ups' echoes Arche Gundam's line in story_042 #0.161 (untranslated when this was written); align if 042 picks another word (e.g. 'bigwigs')."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.171",
+   "note": "Polite slot 8 (Mebius, who calls Ankh with -san in #0.181); 'So that means' draws a conclusion from Arche's remark rather than asking."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.174",
+   "note": "#0.174-0.182 and #0.184-0.192 are the same 9 partner slots. Voiced by register: slot 5 (#0.178/#0.188) casual and addresses Ankh by name (OOO-like), slot 6 casual, slot 7 (#0.190) loud and gung-ho, slot 8 (#0.181/#0.191) polite Mebius ('-san' dropped per style). Speakers otherwise unconfirmed."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.183",
+   "note": "Ankh brushing the question aside; the variants that follow agree with him."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.188",
+   "note": "Read as 'oh right, I nearly forgot' (aa, sou datta); rendered 'Oh, right. We should.' so it still agrees with Ankh."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.195",
+   "note": "Name variable plus padding: tag only. Source says just 'RX' here (the 0912 parallel says 'Black RX'); kept 'RX'."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.196",
+   "note": "#0.196-0.197 are one sentence cut across two rows; English cut at the matching point."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.200",
+   "note": "Base-scene speakers taken from work/source/speakers.json (listed under the 0912 script, but the ids match these 0256 rows; the slice file shows them as missing): Seravee #0.200-201/203-204/211/213/220/224, Nu Gundam #0.202/218, Hikari #0.205/207/210/212/215/226/228-230/233, RX #0.214/216-217/221, W (Shotaro) #0.219/222, Zero #0.223/225/227/231, W (Philip) #0.232. Content fits every label."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.206",
+   "note": "No speaker entry; continues Hikari's #0.205 (the 0912 parallel puts both in one box)."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.212",
+   "note": "Labelled Hikari; a 'so after all...?' question that Seravee answers in #0.213."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.217",
+   "note": "'tame ni mo' rendered 'Besides... when they need saving'; subject 'I' restored."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.228",
+   "note": "Stock line 'sonna koto mo arou ka to' (I prepared for just this); #0.229 continues it with 'So I fitted...'."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.229",
+   "note": "'Pelucidar Drill': Pelucidar is the Ultra Guard drill tank from Ultraseven (established English spelling). Not in glossary; must match the item name in the system pass."
+  },
+  {
+   "key": "MainEventMess0256.mbb#0.232",
+   "note": "Labelled W (Philip) but uses the rough 'ze' ending; kept as short praise of Hikari that suits either half of W."
+  },
+  {
+   "key": "MainEventMess0301.mbb#0.2",
+   "note": "#0.2-0.10 are 9 leader/partner variants answering Ankh. #0.2 is labelled Wing Zero but its soft 'da ne' does not fit Heero; voiced neutrally. #0.5 suspects the Crisis Empire, so it is RX's slot; #0.4 rough, #0.6 polite."
+  },
+  {
+   "key": "MainEventMess0308.mbb#0.1",
+   "note": "Labelled Wing Zero, but the startled childlike 'waa!' (and its follow-up in story_044 #0.12) does not fit Heero; label likely shifted. #0.1-0.10 are variant slots running into story_044; #0.3 is the rough slot (Momotaros-like)."
+  }
+ ],
+ "report": "80/80 rows. Base-scene speakers (0256 #0.200-0.233) recovered from speakers.json under the 0912 script. Partner-variant slots voiced by register. 0301 #0.2 and 0308 #0.1 'Wing Zero' labels don't fit Heero. 'Higher-ups' must match story_042 #0.161. Not in glossary: 'Pelucidar Drill'."
+}

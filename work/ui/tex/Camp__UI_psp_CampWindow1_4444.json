@@ -1,0 +1,298 @@
+{
+ "tpc": "Graph/Camp/UI/Camp.tpc",
+ "page": "UI_psp_CampWindow1_4444.tga",
+ "note": "Camp Options / Sound Test labels. Boxes follow the sprite rects in Graph/Camp/UI/Camp.gtx (GFUV block UI_psp_CampWindow1_4444). Shared-glyph composites: BGM/SE + Vol; Sound + Test/Type; Prev = arrow + (blank) + Page, Next = arrow + (blank) + Page; Hero BGM values Play on (0-32) / Play + once (0-22 + 32-52). Type, Key Config and Track have no sprite rect (unused) but are relabelled anyway.",
+ "defaults": {
+  "size": 9,
+  "bold": false,
+  "color": [
+   255,
+   255,
+   255
+  ]
+ },
+ "clear": [
+  [
+   0,
+   0,
+   100,
+   11
+  ],
+  [
+   142,
+   0,
+   23,
+   12
+  ],
+  [
+   0,
+   11,
+   65,
+   11
+  ],
+  [
+   65,
+   11,
+   77,
+   11
+  ],
+  [
+   142,
+   12,
+   34,
+   10
+  ],
+  [
+   176,
+   11,
+   76,
+   12
+  ],
+  [
+   0,
+   23,
+   72,
+   10
+  ],
+  [
+   132,
+   22,
+   112,
+   12
+  ],
+  [
+   0,
+   33,
+   53,
+   11
+  ],
+  [
+   91,
+   33,
+   158,
+   11
+  ],
+  [
+   0,
+   45,
+   89,
+   11
+  ],
+  [
+   102,
+   45,
+   103,
+   11
+  ],
+  [
+   120,
+   64,
+   41,
+   12
+  ],
+  [
+   100,
+   114,
+   97,
+   12
+  ]
+ ],
+ "boxes": [
+  {
+   "x": 0,
+   "y": 0,
+   "w": 100,
+   "h": 11,
+   "text": "Message Speed"
+  },
+  {
+   "x": 143,
+   "y": 0,
+   "w": 21,
+   "h": 11,
+   "text": "Vol",
+   "align": "right"
+  },
+  {
+   "x": 0,
+   "y": 12,
+   "w": 65,
+   "h": 10,
+   "text": "Cursor Memory",
+   "size": 8
+  },
+  {
+   "x": 65,
+   "y": 11,
+   "w": 42,
+   "h": 10,
+   "text": "Sound"
+  },
+  {
+   "x": 107,
+   "y": 12,
+   "w": 35,
+   "h": 10,
+   "text": "Type",
+   "size": 8
+  },
+  {
+   "x": 143,
+   "y": 12,
+   "w": 31,
+   "h": 10,
+   "text": "Test"
+  },
+  {
+   "x": 176,
+   "y": 11,
+   "w": 76,
+   "h": 11,
+   "text": "Key Config"
+  },
+  {
+   "x": 0,
+   "y": 23,
+   "w": 72,
+   "h": 10,
+   "text": "Hero BGM"
+  },
+  {
+   "x": 132,
+   "y": 23,
+   "w": 80,
+   "h": 10,
+   "text": "Restore Defaults"
+  },
+  {
+   "x": 212,
+   "y": 22,
+   "w": 11,
+   "h": 11,
+   "text": "←",
+   "align": "center"
+  },
+  {
+   "x": 223,
+   "y": 22,
+   "w": 9,
+   "h": 10,
+   "text": "→",
+   "align": "center"
+  },
+  {
+   "x": 232,
+   "y": 22,
+   "w": 12,
+   "h": 11,
+   "text": ""
+  },
+  {
+   "x": 121,
+   "y": 66,
+   "w": 40,
+   "h": 10,
+   "text": "Page",
+   "size": 8
+  },
+  {
+   "x": 0,
+   "y": 34,
+   "w": 22,
+   "h": 10,
+   "text": "Play",
+   "size": 8
+  },
+  {
+   "x": 22,
+   "y": 34,
+   "w": 10,
+   "h": 10,
+   "text": "on",
+   "align": "left"
+  },
+  {
+   "x": 32,
+   "y": 34,
+   "w": 19,
+   "h": 10,
+   "text": "once",
+   "align": "left"
+  },
+  {
+   "x": 91,
+   "y": 33,
+   "w": 39,
+   "h": 10,
+   "text": "Always",
+   "size": 8
+  },
+  {
+   "x": 131,
+   "y": 33,
+   "w": 66,
+   "h": 10,
+   "text": "1 Battle Only",
+   "size": 8
+  },
+  {
+   "x": 198,
+   "y": 34,
+   "w": 51,
+   "h": 9,
+   "text": "Off",
+   "size": 8
+  },
+  {
+   "x": 0,
+   "y": 45,
+   "w": 46,
+   "h": 10,
+   "text": "Custom Track"
+  },
+  {
+   "x": 46,
+   "y": 45,
+   "w": 43,
+   "h": 11,
+   "text": ""
+  },
+  {
+   "x": 102,
+   "y": 45,
+   "w": 20,
+   "h": 11,
+   "text": "Play",
+   "size": 8
+  },
+  {
+   "x": 123,
+   "y": 45,
+   "w": 39,
+   "h": 10,
+   "text": "Pause"
+  },
+  {
+   "x": 164,
+   "y": 45,
+   "w": 20,
+   "h": 10,
+   "text": "Stop",
+   "size": 8
+  },
+  {
+   "x": 185,
+   "y": 45,
+   "w": 19,
+   "h": 10,
+   "text": "Back"
+  },
+  {
+   "x": 106,
+   "y": 114,
+   "w": 91,
+   "h": 12,
+   "text": "Data Install"
+  }
+ ]
+}

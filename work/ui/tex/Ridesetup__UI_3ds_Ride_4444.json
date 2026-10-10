@@ -1,0 +1,135 @@
+{
+ "tpc": "Graph/RideSetup/Ridesetup.tpc",
+ "page": "UI_3ds_Ride_4444.tga",
+ "note": "Ride Machine setup (Maintenance Bay) labels. Part names follow the ride battle text (Main Cannon, Gun Turret, Drill, Shield, Recovery Unit, Support Unit), shortened where the box is tiny. The decorative XML block on the left and the Latin M / ON / 1 2 3 are untouched.",
+ "defaults": {
+  "size": 8,
+  "bold": false,
+  "color": [
+   255,
+   255,
+   255
+  ]
+ },
+ "clear": [
+  [
+   143,
+   150,
+   31,
+   12
+  ]
+ ],
+ "boxes": [
+  {
+   "x": 138,
+   "y": 110,
+   "w": 80,
+   "h": 18,
+   "text": "Ride Machine",
+   "size": null,
+   "bold": true
+  },
+  {
+   "x": 169,
+   "y": 129,
+   "w": 46,
+   "h": 19,
+   "text": "Maint. Bay",
+   "size": null,
+   "bold": false
+  },
+  {
+   "x": 143,
+   "y": 128,
+   "w": 27,
+   "h": 11,
+   "text": "Armor"
+  },
+  {
+   "x": 143,
+   "y": 140,
+   "w": 27,
+   "h": 10,
+   "text": "Energy"
+  },
+  {
+   "x": 213,
+   "y": 175,
+   "w": 23,
+   "h": 11,
+   "text": "Cannon"
+  },
+  {
+   "x": 236,
+   "y": 175,
+   "w": 20,
+   "h": 11,
+   "text": "Turret"
+  },
+  {
+   "x": 214,
+   "y": 187,
+   "w": 33,
+   "h": 11,
+   "text": "Drill"
+  },
+  {
+   "x": 213,
+   "y": 198,
+   "w": 41,
+   "h": 11,
+   "text": "Shield"
+  },
+  {
+   "x": 214,
+   "y": 209,
+   "w": 42,
+   "h": 12,
+   "text": "Recovery Unit"
+  },
+  {
+   "x": 214,
+   "y": 221,
+   "w": 42,
+   "h": 11,
+   "text": "Support Unit"
+  },
+  {
+   "x": 213,
+   "y": 232,
+   "w": 42,
+   "h": 12,
+   "text": "Cost"
+  },
+  {
+   "x": 184,
+   "y": 243,
+   "w": 72,
+   "h": 13,
+   "text": "Item Search",
+   "size": 11
+  },
+  {
+   "x": 169,
+   "y": 220,
+   "w": 17,
+   "h": 10,
+   "text": "Back"
+  },
+  {
+   "x": 186,
+   "y": 219,
+   "w": 24,
+   "h": 11,
+   "text": "Change"
+  },
+  {
+   "x": 190,
+   "y": 231,
+   "w": 21,
+   "h": 10,
+   "text": "Upgrade",
+   "size": 7
+  }
+ ]
+}

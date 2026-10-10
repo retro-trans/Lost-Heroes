@@ -1,0 +1,402 @@
+{
+ "slice": "story_002",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.89",
+   "en": "Yeah. I also want to know what's happening back in the worlds we came from."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.90",
+   "en": "And to do that, we've got to unravel the mysteries of this world."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.91",
+   "en": "That's right."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.92",
+   "en": "Good. Then before we start investigating, let's settle one thing."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.93",
+   "en": "Fortunately, there are no threatening \"enemies\" in this place."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.94",
+   "en": "What's more, some of the facility's functions still work."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.95",
+   "en": "And we can treat our wounds in the regeneration capsules, too."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.96",
+   "en": "There's also equipment we could use if we repair it."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.97",
+   "en": "So I'm thinking we use this place as our \"base\"."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.98",
+   "en": "Agreed!"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.99",
+   "en": "I've got no objections."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.100",
+   "en": "I'll follow your lead."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.101",
+   "en": "Good. Then everyone, get yourselves ready for the investigation."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.102",
+   "en": "Once you're ready, gather at the \"Hangar\"."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.103",
+   "en": "Roger!!"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.104",
+   "en": "Right!"
+  },
+  {
+   "key": "MainEventMess0101.mbb#0.1",
+   "en": "What is this place...? Looks like some kind of city..."
+  },
+  {
+   "key": "MainEventMess0101.mbb#0.2",
+   "en": "Hong Kong City...? Dakar...?"
+  },
+  {
+   "key": "MainEventMess0101.mbb#0.3",
+   "en": "No, that's not it. This place is..."
+  },
+  {
+   "key": "MainEventMess0101.mbb#0.4",
+   "en": "Fuuto."
+  },
+  {
+   "key": "MainEventMess0101.mbb#0.5",
+   "en": "Fuuto?"
+  },
+  {
+   "key": "MainEventMess0101.mbb#0.6",
+   "en": "Yeah. The town I live in, the City of Wind."
+  },
+  {
+   "key": "MainEventMess0101.mbb#0.7",
+   "en": "There's the proof: Fuuto Tower. It's the symbol of the city."
+  },
+  {
+   "key": "MainEventMess0101.mbb#0.8",
+   "en": "But something's off... The wind isn't blowing..."
+  },
+  {
+   "key": "MainEventMess0101.mbb#0.9",
+   "en": "Um..."
+  },
+  {
+   "key": "MainEventMess0101.mbb#0.10",
+   "en": "Maybe it's just me, but it also kind of looks like the town I was living in..."
+  },
+  {
+   "key": "MainEventMess0101.mbb#0.11",
+   "en": "...It's just a hunch, though."
+  },
+  {
+   "key": "MainEventMess0101.mbb#0.12",
+   "en": "Anyway, let's explore a bit."
+  },
+  {
+   "key": "MainEventMess0102.mbb#0.1",
+   "en": "The shutter is closed."
+  },
+  {
+   "key": "MainEventMess0103.mbb#0.1",
+   "en": "It's a Ride Vendor...!"
+  },
+  {
+   "key": "MainEventMess0103.mbb#0.2",
+   "en": "This vending machine thing... If I recall, OOO's town is full of these."
+  },
+  {
+   "key": "MainEventMess0103.mbb#0.3",
+   "en": "...Which means this place combines features of both W's and OOO's cities?"
+  },
+  {
+   "key": "MainEventMess0103.mbb#0.4",
+   "en": "By the way, what can you buy from this thing?"
+  },
+  {
+   "key": "MainEventMess0103.mbb#0.5",
+   "en": "It sells handy items called Candroids, but unfortunately I don't have any Cell Medals on me..."
+  },
+  {
+   "key": "MainEventMess0103.mbb#0.6",
+   "en": "No, before we even get to that... it doesn't seem to be working..."
+  },
+  {
+   "key": "MainEventMess0103.mbb#0.7",
+   "en": "Same as that shutter earlier. It looks like the whole city has shut down."
+  },
+  {
+   "key": "MainEventMess0103.mbb#0.8",
+   "en": "Probably because the wind has stopped."
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.1",
+   "en": "...Hm?"
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.2",
+   "en": "Zero, what is it?"
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.3",
+   "en": "I sense an Ultra Warrior's presence beyond this shutter..."
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.4",
+   "en": "What...?"
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.5",
+   "en": "They might have been pulled in, just like us..."
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.6",
+   "en": "And there's one more... This is..."
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.7",
+   "en": "Ultraman Hikari...!"
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.8",
+   "en": "Those two probably got pulled into this world too."
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.9",
+   "en": "Then let's go over there and find out!"
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.10",
+   "en": "No... no good. It won't open. Looks like this one's shut down too."
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.11",
+   "en": "Then we'll just have to force it open!!"
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.12",
+   "en": "Seiyaaah!!!"
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.13",
+   "en": "......"
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.14",
+   "en": "But the shutter didn't open."
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.15",
+   "en": "Because of the anomaly, their true powers seem to have been severely weakened."
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.16",
+   "en": "It's no use... I can't get any strength into it..."
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.17",
+   "en": "If it's come to this, we'll just have to find some way to get the city running again."
+  },
+  {
+   "key": "MainEventMess0106.mbb#0.1",
+   "en": "A Nemo...!"
+  },
+  {
+   "key": "MainEventMess0106.mbb#0.2",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "MainEventMess0106.mbb#0.3",
+   "en": "Hang in there!!"
+  },
+  {
+   "key": "MainEventMess0106.mbb#0.4",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0106.mbb#0.5",
+   "en": "......"
+  },
+  {
+   "key": "MainEventMess0106.mbb#0.6",
+   "en": "But the Nemo was already dead."
+  },
+  {
+   "key": "MainEventMess0106.mbb#0.7",
+   "en": "There was a deep gash where something had slashed it. That must have been the fatal wound."
+  },
+  {
+   "key": "MainEventMess0106.mbb#0.8",
+   "en": "One of the Nemo squad... Back in our world, they were our side's main force..."
+  },
+  {
+   "key": "MainEventMess0106.mbb#0.9",
+   "en": "I wonder what happened to the other Nemos..."
+  },
+  {
+   "key": "MainEventMess0106.mbb#0.10",
+   "en": "They might be somewhere nearby..."
+  },
+  {
+   "key": "MainEventMess0106.mbb#0.11",
+   "en": "Then the enemy that killed this Nemo might still be around here too, right?"
+  },
+  {
+   "key": "MainEventMess0107.mbb#0.1",
+   "en": "Who's there!?"
+  },
+  {
+   "key": "MainEventMess0107.mbb#0.2",
+   "en": "W...!?"
+  },
+  {
+   "key": "MainEventMess0107.mbb#0.3",
+   "en": "...Accel!! So you ended up here too!!"
+  },
+  {
+   "key": "MainEventMess0107.mbb#0.4",
+   "en": "That's my line."
+  },
+  {
+   "key": "MainEventMess0107.mbb#0.5",
+   "en": "I got caught up in that anomaly, and by the time I came to, I was already in this world."
+  },
+  {
+   "key": "MainEventMess0107.mbb#0.6",
+   "en": "Oh, then it's the same for me."
+  },
+  {
+   "key": "MainEventMess0107.mbb#0.7",
+   "en": "I thought as much. Hm? ...And who are these people?"
+  },
+  {
+   "key": "MainEventMess0107.mbb#0.8",
+   "en": "Same deal with them. Looks like they got pulled in here from their own worlds."
+  },
+  {
+   "key": "MainEventMess0107.mbb#0.9",
+   "en": "So it wasn't just Fuuto... ...Well, whatever."
+  },
+  {
+   "key": "MainEventMess0107.mbb#0.10",
+   "en": "I'm Kamen Rider Accel. Nice to meet you."
+  },
+  {
+   "key": "MainEventMess0107.mbb#0.11",
+   "en": "Oh, right. Let me give you all a warning."
+  },
+  {
+   "key": "MainEventMess0107.mbb#0.12",
+   "en": "There's an invisible enemy lurking around here. I've been attacked by it a few times myself."
+  },
+  {
+   "key": "MainEventMess0107.mbb#0.13",
+   "en": "If you're going on ahead, you'd better be very careful."
+  },
+  {
+   "key": "MainEventMess0107.mbb#0.14",
+   "en": "Accel, aren't you coming?"
+  },
+  {
+   "key": "MainEventMess0107.mbb#0.15",
+   "en": "W... You do realize the wind isn't blowing at all, right?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.89",
+   "note": "OP rows 0.89-0.104 have no recovered speaker. From story_001 context: 0.89 likely Zero or W, 0.90 likely OOO, 0.92-0.97 and 0.101-0.102 Nu Gundam (the leader proposing the base), 0.98 likely OOO, 0.100 likely Zero (he calls Nu Gundam 'anta' earlier). 0.95 could be W or Nu. Lines written to work for any of these."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.89",
+   "note": "Source says 'the world (I/we) came from' with no possessor; rendered 'the worlds we came from' since each hero has a different world. If the speaker means only his own world, 'my world' would also fit."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.97",
+   "note": "'base' and 'Hangar' keep the source's quotation marks; they look like hub/menu terms. Check against the UI translation of the hub facility names (not in glossary)."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.95",
+   "note": "'regeneration capsules' for the regenerative-treatment capsule; check UI term for the healing facility."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.103",
+   "note": "Probably several party members in chorus; 'Roger!!' used. 0.104 'Right!' likewise a group/other member response."
+  },
+  {
+   "key": "MainEventMess0101.mbb#0.3",
+   "note": "No speaker recovered for 0101 #0.3-0.8; context (identifies Fuuto as his home town) makes it W (Shotaro). #0.5 'Fuuto?' is someone else, likely Zero or OOO."
+  },
+  {
+   "key": "MainEventMess0101.mbb#0.2",
+   "note": "Hong Kong City and Dakar are Zeta Gundam locations; Nu Gundam (Amuro) guessing places from his world."
+  },
+  {
+   "key": "MainEventMess0102.mbb#0.1",
+   "note": "No speaker; treated as examine/narration text."
+  },
+  {
+   "key": "MainEventMess0103.mbb#0.1",
+   "note": "'Ride Vendor' and 'Candroid' are the established Kamen Rider OOO English names; not in glossary terms (Taka Candroid is)."
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.5",
+   "note": "The first Ultra Warrior is unnamed here, so 'They' (gender-neutral) is kept. #0.6-0.8 have no speaker but continue Zero's line of thought (he names Hikari)."
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.12",
+   "note": "OOO's signature shout, kept as 'Seiyaaah!!!' for recognisability."
+  },
+  {
+   "key": "MainEventMess0104.mbb#0.13",
+   "note": "Silence row with no speaker; kept as an ellipsis."
+  },
+  {
+   "key": "MainEventMess0106.mbb#0.1",
+   "note": "Nemo is a mobile suit model treated as a person. Glossary g = n, so pronouns avoided; 'it' used in #0.7 for the body/wound. OOO uses the honorific '-san' in #0.11; rendered as 'this Nemo' rather than a gendered title."
+  },
+  {
+   "key": "MainEventMess0106.mbb#0.8",
+   "note": "'Nemo squad' for the Nemo unit (Nemo A / Nemo B in the speaker list)."
+  },
+  {
+   "key": "MainEventMess0107.mbb#0.1",
+   "note": "'???' speaker is Accel before he is revealed (W names him in #0.3)."
+  },
+  {
+   "key": "MainEventMess0107.mbb#0.10",
+   "note": "'yoroshiku na' here is a self-introduction greeting, not a request; 'Nice to meet you.'"
+  },
+  {
+   "key": "MainEventMess0103.mbb#0.6",
+   "note": "proofread: 'before that' read as temporal; source means 'never mind that, it isn't even working'."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.89",
+   "note": "proofread: OP script 1100.bla gives the speakers: 0.89 W (Shotaro), 0.90 OOO, 0.91-0.94 Nu Gundam, 0.95 W, 0.96 OOO, 0.97 Nu, 0.98 OOO, 0.99 W, 0.100 Zero, 0.101-0.102 Nu, 0.103 OOO, 0.104 W. English fits them; unchanged. 0101 #0.3-0.8 and 0104 #0.6-0.8 are never played by their scripts."
+  }
+ ],
+ "report": "80/80 rows examined. No rows over 100 chars. Uncertain: OP 0.89-0.104 speakers unrecovered (inferred from story_001); 0101 #0.3-0.8 and 0104 #0.6-0.8 speakers inferred (W Shotaro / Zero). Terms not in glossary: Ride Vendor, Candroid, Hong Kong City, Dakar, Nemo squad, regeneration capsule, base, Hangar."
+}

@@ -1,0 +1,406 @@
+{
+ "slice": "talk_005",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.93",
+   "en": "I'm in charge of managing the quests, so I'm busy."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.94",
+   "en": "Tch!! Hey, Bear!! Even you can brew a cup of coffee, right?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.95",
+   "en": "ZZZ..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.96",
+   "en": "Gaah!! You're sleepin' again!? Hey, Ryuta!! You'll do. Coffee..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.97",
+   "en": "Ahahaha!! Drawing is so much fun~"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.98",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.111",
+   "en": "When you can't find something, it's a good idea to retrace the places you've been through!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.112",
+   "en": "Hey, Bear!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.113",
+   "en": "ZZzzz..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.114",
+   "en": "Aww, he's asleep again."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.122",
+   "en": "A Polymer Plaster Bomb? Huh, so you toss that into the Modified Bemstar's belly."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.123",
+   "en": "ZZZ... Hm? Toss... tears... TEARS...!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.124",
+   "en": "You'll cry!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.125",
+   "en": "Where is it!! Is it the enemy!! Is it my turn!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.126",
+   "en": "Kin-chan!! Calm down!! No enemy's shown up!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.127",
+   "en": "What? Don't go scarin' me like that. Well then, ZZZZZ..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.133",
+   "en": "Yapool modifies monsters and Choju to make them stronger and keeps them under his command..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.134",
+   "en": "If he's still alive, he might send out even stronger monsters."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.148",
+   "en": "Oh, so you met that Gundam. Did they say anything about us?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.160",
+   "en": "Huh? What's that, DG Cells? Hmm, what are they? I dunno~"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.161",
+   "en": "Geez. This is why you're such a snot-nosed brat. Listen up. DG Cells means..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.162",
+   "en": "a (D)angerous, (G)reat hero like yours truly, that's what!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.163",
+   "en": "Hmm. ...I'm gonna get back to my drawing!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.164",
+   "en": "...Why, you!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.175",
+   "en": "Make sure you check the quest requests regularly, okay?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.176",
+   "en": "Huh? Believe it or not, I'm actually on the job right now."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.181",
+   "en": "This place sure is relaxing."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.182",
+   "en": "Shocker almost modified you, didn't they?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.183",
+   "en": "Yeah, it was a close shave."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.184",
+   "en": "Make yourself at home."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.185",
+   "en": "I might end up hanging around way too long, even with no business here."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.192",
+   "en": "Hey! We meet again! Huh? Even I take a break now and then, y'know?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.193",
+   "en": "Well then, time to go out and make some money!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.199",
+   "en": "Hey, glad you came. Did the smell hook you? Actually, I tried whipping up a little snack."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.200",
+   "en": "It's fried chicken. Want to try some?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.201",
+   "en": "B... Bird!?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.202",
+   "en": "Don't you have anything else?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.203",
+   "en": "...Let's see. Ice pops are about all there is..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.204",
+   "en": "...!! You! Why didn't you say that first!?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.205",
+   "en": "Ice pops are fine with you?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.206",
+   "en": "Bring me every last one you've got!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.211",
+   "en": "Make sure you check the quest requests regularly, okay?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.212",
+   "en": "Huh? Believe it or not, I'm actually on the job right now."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.218",
+   "en": "Make sure you check the quest requests regularly, okay?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.219",
+   "en": "Huh? Believe it or not, I'm actually on the job right now."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.226",
+   "en": "We've got more and more friends here at the base, huh."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.227",
+   "en": "Uh, Ultraman, Seven... Gaaaah! I already forgot!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.228",
+   "en": "How sloppy, Sempai. I've got them all memorized, you know?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.229",
+   "en": "Ultraman, Seven, Jack, Ace, and Zoffy."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.230",
+   "en": "Big talk... Then you go ahead and name every single Gundam!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.231",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.232",
+   "en": "...Well then, back to work, work."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.233",
+   "en": "Those are the five Ultra Brothers. Easy stuff."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.241",
+   "en": "What!? The \"Ultra Cube\" is frozen?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.242",
+   "en": "Don't tell me it's Todogiller's doing? His Freeze Shot gave me a rough time."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.243",
+   "en": "No, it must be Gander. That one nearly plunged Earth into an ice age."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.244",
+   "en": "Looks like we've both had our share of trouble with freezing attacks. Hahahahaha!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.250",
+   "en": "Where do you suppose that Belial guy ran off to?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.251",
+   "en": "He said the \"Monster Graveyard\"?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.252",
+   "en": "Sounds like a creepy place."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.253",
+   "en": "Don't you go gettin' scared on me! Bear!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.254",
+   "en": "I don't wanna hear that from you, after yer legs gave out at the test of courage!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.255",
+   "en": "Huh!? What'd you say!?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.256",
+   "en": "Well, anyway, it looks like we won't have to fight Belial for a while, so..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.257",
+   "en": "we can work out countermeasures in the meantime."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.258",
+   "en": "All right, if ya're prepared, there's nothin' to worry about! But before that..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.259",
+   "en": "I'll get some sleep. ...ZZZZZZZZ"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.260",
+   "en": "Why're you goin' to sleep!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.264",
+   "en": "Huh, so that Master Gundam guy is running the tournament."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.265",
+   "en": "...Yeah. Another Gundam."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.266",
+   "en": "There's way too many, no matter how ya slice it! Just how many Gundams are there!?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.267",
+   "en": "That makes nineteen."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.268",
+   "en": "You were countin'!?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.269",
+   "en": "...Geez, you are one hell of a Gundam nut!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.270",
+   "en": "...Thank you. That's the highest compliment."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.271",
+   "en": "Good grief..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.276",
+   "en": "...Give me a good cup of coffee."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.277",
+   "en": "Huh? Accel? Shouldn't you be resting in bed?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.278",
+   "en": "...W and the others are fighting. How could I just lie around sleeping..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.279",
+   "en": "...Accel!?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.93",
+   "note": "SPEAKERS from tools/talkspk.py Quest (Talk01_09-25): Urataros = #0.93/122/126/133/134/148/175/176/182/184/199/200/203/205/211/212/218/219/226/228/229/231-233/250/251/256/257/264/271/277; Momotaros = #0.94/96/98/161/162/164/227/230/253/255/260/266/269; Kintaros = #0.95/113/123-125/127/252/254/258/259/268; Ryutaros = #0.97/111/112/114/160/163; Rider 2 = #0.181/183/185/241/242/244; Birth = #0.192/193; Ankh = #0.201/202/204/206; Seven = #0.243; 00 = #0.265/267/270; Accel = #0.276/278; #0.279 '???' = Methuss offscreen (she speaks #0.280-284 in talk_006)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.94",
+   "note": "Momotaros's mocking nickname for Kintaros (bear + mocking suffix) rendered 'Bear', parallel to 'Turtle' for Urataros (story_010). Ryuta = Ryutaros, as in story slices."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.112",
+   "note": "Ryutaros's affectionate nickname for Kintaros (bear + -chan) also rendered 'Bear'; honorific dropped per style. Not in glossary."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.123",
+   "note": "Pun: Kintaros half-asleep hears 'throw' (nageru) and slides to 'nakeru' = his catchphrase 'You'll cry'. Recreated as toss -> tears; Urataros's #0.122 uses 'toss' to set it up."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.133",
+   "note": "Yapool g=m -> 'he'. Choju per glossary."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.148",
+   "note": "Which Gundam is not stated in the script; 'they' used (unknown gender)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.162",
+   "note": "Sentence runs on from #0.161 ('DG Cells means...'); cut at the same point. Source spells out the acronym with (D)/(G) in parentheses; kept that shape."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.176",
+   "note": "Same Talk01_03 pair as #0.25/#0.26 (talk_004, untranslated yet); #0.211/212 and #0.218/219 identical Japanese -> identical English."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.182",
+   "note": "Urataros to Rider 2, who was captured by Shocker in the story; kaizou = 'modified' (remodeling surgery). Shocker as 'they'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.199",
+   "note": "Mis-decoded kanji for 'smell' (same glyph error as story #0314.111). Tsurareta = lured, rendered 'hook you' to keep Urataros's fishing motif."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.201",
+   "note": "Ankh is a bird Greeed, so 'bird' (not 'chicken') keeps the joke. Aisu = ice pops per Ankh's glossary note."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.242",
+   "note": "Freeze Shot = Todogiller skill name (SkillName.mbb). Kibishikatta rendered 'gave me a rough time'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.243",
+   "note": "Seven. Gander spelled as in CharacterName.mbb / ChipLibMess (Ultraseven's ice kaiju, nearly froze Earth). Gander g not in glossary; 'That one' avoids a pronoun."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.251",
+   "note": "Urataros asking the party; subject 'he' = Belial (g=m) from #0.250."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.254",
+   "note": "Kintaros. Koshi wo nukasu at the test of courage (kimodameshi) = Momotaros's legs gave out in fright."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.256",
+   "note": "Sentence runs on into #0.257; cut at the same point."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.258",
+   "note": "Mis-decoded kanji in the proverb 'sonae areba urei nashi' (if you're prepared, no worries); read as that proverb."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.267",
+   "note": "00 (Setsuna): 'the 19th' Gundam; rendered 'That makes nineteen.'"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.279",
+   "note": "Speaker shown as '???' in-game (Methuss before she appears); label not translated here, line only."
+  }
+ ],
+ "report": "80/80. Speakers from talkspk.py Quest (Urataros, Momotaros, Kintaros, Ryutaros, Rider 2, Birth, Ankh, Seven, 00, Accel; #0.279 '???' = Methuss). Uncertain: #0.123 pun recreated (toss->tears); #0.148 unnamed Gundam -> 'they'; #0.199/#0.258 mis-decoded kanji read from context. Not in glossary: 'Bear' (Momotaros's and Ryutaros's nicknames for Kintaros), Gander (taken from CharacterName.mbb), Freeze Shot (SkillName.mbb)."
+}

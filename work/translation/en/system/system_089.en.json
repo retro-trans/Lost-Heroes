@@ -1,0 +1,350 @@
+{
+ "slice": "system_089",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillName.mbb#3.115",
+   "en": "Catch Ring"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.116",
+   "en": "Specium Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.117",
+   "en": "Headfirst Unicorn Bomb"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.118",
+   "en": "Scorching Flame"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.119",
+   "en": "Blizzard"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.120",
+   "en": "Gust"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.121",
+   "en": "Giradoras"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.122",
+   "en": "Ray Gun"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.123",
+   "en": "Strong Wind"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.124",
+   "en": "Great Quake"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.125",
+   "en": "Whip Rush"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.126",
+   "en": "Arrow Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.127",
+   "en": "Alternate Dimension"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.128",
+   "en": "Freezing Gas"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.129",
+   "en": "Tear Gas"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.130",
+   "en": "Zetton Fireball"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.131",
+   "en": "Zetton Barrier"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.132",
+   "en": "Absorb and Reflect Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.133",
+   "en": "Lava Heat Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.134",
+   "en": "Smokescreen"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.135",
+   "en": "Belial Genothunder"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.136",
+   "en": "Giga Battlenizer"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.137",
+   "en": "Belial Death Scythe"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.138",
+   "en": "Belial Whip"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.139",
+   "en": "Belial Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.140",
+   "en": "Boomerang"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.141",
+   "en": "Counter"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.142",
+   "en": "Punch"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.143",
+   "en": "Back-Blade Strike"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.144",
+   "en": "Secret Art: Galaxy Cleave"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.145",
+   "en": "Planet Cleave"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.146",
+   "en": "Hoshikirimaru"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.147",
+   "en": "Atomic Fog"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.148",
+   "en": "Whider Spray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.149",
+   "en": "Ultra Brothers Finishing Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.150",
+   "en": "Beam Whip"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.151",
+   "en": "Poison Gas Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.152",
+   "en": "GN Launcher"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.153",
+   "en": "GN Beam Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.154",
+   "en": "GN Beam Saber"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.155",
+   "en": "GN Handgun"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.156",
+   "en": "GN Buster Sword"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.157",
+   "en": "GN Fang"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.158",
+   "en": "GN Stealth Field"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.159",
+   "en": "GN Shield"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.160",
+   "en": "Energy Supply"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.161",
+   "en": "Beam Sword"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.162",
+   "en": "Small Mega Particle Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.163",
+   "en": "Hidden Arm"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.164",
+   "en": "Mental Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.165",
+   "en": "Heaven's Claw"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.166",
+   "en": "Heaven's Tornado"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.167",
+   "en": "Wind Fire"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.168",
+   "en": "Heaven's Dart"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.169",
+   "en": "Hyper Silver Leg Special"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.170",
+   "en": "Wind Flare"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.171",
+   "en": "Trident Striker"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.172",
+   "en": "Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.173",
+   "en": "Grand Horn"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.174",
+   "en": "Grand Thunder"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.175",
+   "en": "Grand Bomber"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.176",
+   "en": "Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.177",
+   "en": "Barrage"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.178",
+   "en": "Walter Fang"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.179",
+   "en": "Walter Tentacle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.180",
+   "en": "Large-Caliber Beam Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.181",
+   "en": "Tight Grasp"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.182",
+   "en": "Mega Particle Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.183",
+   "en": "Knuckle Buster"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.184",
+   "en": "Chain Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.185",
+   "en": "Missile Pod"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.186",
+   "en": "Large Beam Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.187",
+   "en": "Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.188",
+   "en": "Vulcan Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.189",
+   "en": "GN Vulcan"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.190",
+   "en": "Linear Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.191",
+   "en": "Sonic Blade"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.192",
+   "en": "Defense Rod"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.193",
+   "en": "Bazooka"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.194",
+   "en": "Seduction"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Skill/SkillName.mbb#3.121",
+   "note": "Kaiju name romanized as Giradoras; official English spelling unconfirmed."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.135",
+   "note": "Belial move; Geno + Thunder portmanteau rendered Genothunder; official spelling unconfirmed."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.148",
+   "note": "Whider Spray: romanized, unknown referent."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.146",
+   "note": "Zamsha's sword name, romanized."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.173",
+   "note": "Grand/Ground ambiguity (Grand Horn/Thunder/Bomber); chose Grand."
+  }
+ ],
+ "report": "80/80 translated. Reused: Catch Ring, Specium Ray, GN Shield, Vulcan Cannon, Giga Battlenizer, Mega Particle Cannon, Missile Pod. Uncertain: Giradoras, Belial Genothunder, Whider Spray, Grand series, Hoshikirimaru."
+}

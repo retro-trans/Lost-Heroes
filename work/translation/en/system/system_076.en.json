@@ -1,0 +1,346 @@
+{
+ "slice": "system_076",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.25",
+   "en": "Ultra Barrier"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.26",
+   "en": "Defense Mirror Zero"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.27",
+   "en": "GN Field"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.31",
+   "en": "Recovery Unit"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.32",
+   "en": "Recovery Unit Alpha"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.33",
+   "en": "Recovery Unit Gamma"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.34",
+   "en": "Recovery Unit Omega"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.37",
+   "en": "Slows an enemy with special birdlime."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.38",
+   "en": "Lowers an enemy's ATK."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.39",
+   "en": "Lowers an enemy's DEF."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.40",
+   "en": "Deals a medium-power attack."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.41",
+   "en": "Puts an enemy in Berserk so it only attacks."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.42",
+   "en": "Inflicts Acid on an enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.43",
+   "en": "Raises the Ride Machine's accuracy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.44",
+   "en": "Raises the Ride Machine's DEF."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.45",
+   "en": "Makes each Ride Machine part harder to destroy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.46",
+   "en": "Instantly charges the main cannon."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.47",
+   "en": "Raises the Ride Machine's evasion."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.1",
+   "en": "Gaia Cannon Description"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.2",
+   "en": "Mega Particle Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.3",
+   "en": "GN Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.4",
+   "en": "Beam Emerald"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.8",
+   "en": "Vulcan Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.9",
+   "en": "Pointer Ray Gun"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.10",
+   "en": "Beam Vulcan"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.11",
+   "en": "Tri-Gar Shot"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.15",
+   "en": "Pelucidar Drill"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.16",
+   "en": "Permidar Drill"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.17",
+   "en": "Magma Riser Drill"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.18",
+   "en": "Regis Breaker"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.22",
+   "en": "Beam Shield"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.23",
+   "en": "I-Field"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.24",
+   "en": "Defense Dome"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.25",
+   "en": "Ultra Barrier"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.26",
+   "en": "Defense Mirror Zero"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.27",
+   "en": "GN Field"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.31",
+   "en": "Recovery Unit"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.32",
+   "en": "Recovery Unit Alpha"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.33",
+   "en": "Recovery Unit Gamma"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.34",
+   "en": "Recovery Unit Omega"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.37",
+   "en": "Slows an enemy with special birdlime."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.38",
+   "en": "Lowers an enemy's ATK."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.39",
+   "en": "Lowers an enemy's DEF."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.40",
+   "en": "Deals a medium-power attack."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.41",
+   "en": "Puts an enemy in Berserk so it only attacks."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.42",
+   "en": "Inflicts Acid on an enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.43",
+   "en": "Raises the Ride Machine's accuracy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.44",
+   "en": "Raises the Ride Machine's DEF."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.45",
+   "en": "Makes each Ride Machine part harder to destroy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.46",
+   "en": "Instantly charges the main cannon."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.47",
+   "en": "Raises the Ride Machine's evasion."
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.1",
+   "en": "Dummy message"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.2",
+   "en": "{806D} attacked!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.3",
+   "en": "{806E} took {806F} damage!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.4",
+   "en": "{806E} dodged the attack!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.5",
+   "en": "All targets took about {806F} damage!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.6",
+   "en": "About {806F} damage per shot!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.7",
+   "en": "{806D} is guarding."
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.8",
+   "en": "{806D} focused power into the skill!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.9",
+   "en": "{806D} and the team fled!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.10",
+   "en": "{806E} ended up infected!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.11",
+   "en": "{806E} ended up stunned!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.12",
+   "en": "{806E} fell into a panic!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.13",
+   "en": "{806E}'s vision was impaired!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.14",
+   "en": "{806E} ended up unconscious!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.15",
+   "en": "{806E} ended up under pressure!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.16",
+   "en": "{806E} fell into Negative!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.17",
+   "en": "{806E} got infected!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.18",
+   "en": "{806E} got stunned!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.19",
+   "en": "{806E} panicked!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.20",
+   "en": "{806E}'s vision was impaired!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.21",
+   "en": "{806E} lost consciousness!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.22",
+   "en": "Put pressure on {806E}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.23",
+   "en": "It had no effect on {806E}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.24",
+   "en": "{806E} recovered {8070} HP!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.25",
+   "en": "{806E} and the team recovered {8070} HP!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.26",
+   "en": "{806E} recovered {8070} SP!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.27",
+   "en": "{806D} unleashed {8072}!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.28",
+   "en": "{806D} and the team unleashed {8072}!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.29",
+   "en": "{806D} slashed with {8072}!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.1",
+   "note": "Dev placeholder (skill name plus the word for description); kept literal."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.11",
+   "note": "Trigar Shot: Ultra-franchise gun name, romanized spelling not verified."
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.25",
+   "note": "Plural-target heal; wording follows the \"and the team\" pattern used for the plural-subject rows."
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.6",
+   "note": "Per-shot damage line; \"per shot\" kept for multi-hit attacks."
+  }
+ ],
+ "report": "All 80 rows translated. Rows in tables 4 and 5 are ride-machine equipment names or short descriptions; SkillMessage rows follow BattleMess tag conventions. New terms: Trigar Shot, Pointer Ray Gun, Mega Particle Cannon, Vulcan Cannon, Beam Vulcan, Beam Emerald, GN Cannon, Beam Shield, I-Field, Defense Dome, Ultra Barrier, Defense Mirror Zero, GN Field, Recovery Unit Alpha/Gamma/Omega (Greek letters unavailable in font)."
+}

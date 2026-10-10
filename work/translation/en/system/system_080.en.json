@@ -1,0 +1,342 @@
+{
+ "slice": "system_080",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.28",
+   "en": "{806D} charged the main cannon!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.29",
+   "en": "Energy is building up in the main cannon!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.30",
+   "en": "{806D} thrust out its drill!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.31",
+   "en": "{806D} strafed with its machine guns!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.32",
+   "en": "{806D} laid down a barrage!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.33",
+   "en": "{806D} activated {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.34",
+   "en": "The Ride Machine's armor recovered!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.35",
+   "en": "The Ride Machine put up a shield!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.36",
+   "en": "The Ride Machine was wrapped in a shield of light!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.37",
+   "en": "{806D} began repairing its armor!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.38",
+   "en": "{806D} fired {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.39",
+   "en": "Canceled {806E}'s stat boosts for {806F} damage!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.41",
+   "en": "But couldn't escape!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.42",
+   "en": "Started repairing the Main Cannon!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.43",
+   "en": "Started repairing the Gun Turret!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.44",
+   "en": "Started repairing the Shield!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.45",
+   "en": "Started repairing the Support Unit!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.46",
+   "en": "Started repairing the Capacitor!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.47",
+   "en": "The Main Cannon repairs are complete!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.48",
+   "en": "The Gun Turret repairs are complete!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.49",
+   "en": "The Shield repairs are complete!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.50",
+   "en": "The Support Unit repairs are complete!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.51",
+   "en": "The Capacitor repairs are complete!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.52",
+   "en": "No abnormalities found!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.53",
+   "en": "{806E} stood up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.54",
+   "en": "But the Ride Machine's condition didn't change"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.55",
+   "en": "It can't be charged any further!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.57",
+   "en": "Fire power of {806E} and allies went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.58",
+   "en": "Ice power of {806E} and allies went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.59",
+   "en": "Lightning power of {806E} and allies went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.60",
+   "en": "Wind power of {806E} and allies went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.61",
+   "en": "Light power of {806E} and allies went up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.62",
+   "en": "{806E}'s body felt heavy!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.63",
+   "en": "Accuracy of {806E} and allies went up!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.64",
+   "en": "{806E}'s DEF went up!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.65",
+   "en": "The I-Field enveloped {806E} and allies!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.66",
+   "en": "A barrier of light enveloped {806E} and allies!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.67",
+   "en": "{806E} became weak to Fire!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.68",
+   "en": "{806E} became weak to Ice!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.69",
+   "en": "{806E} became weak to Lightning!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.70",
+   "en": "{806E} became weak to Wind!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.71",
+   "en": "{806E} became weak to Light!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.72",
+   "en": "Power surged through {806E}!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.73",
+   "en": "{806E} pumped a fist in triumph!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.74",
+   "en": "Each part is harder to destroy now!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.75",
+   "en": "Energy is rapidly building up in the main cannon!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.101",
+   "en": "{806D} spun around and fired its Gatling gun wildly!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.102",
+   "en": "{806D} headbutted you with its huge head!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.103",
+   "en": "{806D} slammed you with its huge hand!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.104",
+   "en": "{806D} spat out {8072}!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.105",
+   "en": "{806D} sent {8072} flying at you!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.106",
+   "en": "{806D} raised its weapon high and slammed it down!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.107",
+   "en": "{806D} fired {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.108",
+   "en": "{806D} began building up power!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.109",
+   "en": "{806D} slashed at you with {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.110",
+   "en": "{806D} stabbed you with {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.111",
+   "en": "{806D} lashed out with {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.112",
+   "en": "{806D} performed {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.113",
+   "en": "{806D} used {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.114",
+   "en": "{806D} unleashed {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.115",
+   "en": "{806D} built up its strength!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.116",
+   "en": "{806D} bit you!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.117",
+   "en": "{806D} is watching and waiting..."
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.118",
+   "en": "{806E} took {806F} damage and had 30 EN drained!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.119",
+   "en": "{806E} took {806F} damage and had the main cannon charge reset to 0!"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.1",
+   "en": "Normal Attack (Physical"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.2",
+   "en": "Normal Attack (Ranged"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.3",
+   "en": "Normal Attack (Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.4",
+   "en": "Normal Attack (Gundam-Type"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.5",
+   "en": "Critical Normal (Physical"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.6",
+   "en": "Critical Normal (Ranged"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.7",
+   "en": "Critical Normal (Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.8",
+   "en": "Critical Normal (Gundam-Type"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.9",
+   "en": "Enemy Normal Attack (Physical"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.10",
+   "en": "Enemy Normal Attack (Ranged"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.11",
+   "en": "Enemy Normal Attack (Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.12",
+   "en": "Enemy Crit Normal (Physical"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.13",
+   "en": "Enemy Crit Normal (Ranged"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.14",
+   "en": "Enemy Crit Normal (Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.15",
+   "en": "Defend"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.73",
+   "note": "Gut-pump pose rendered as a fist pump."
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.46",
+   "note": "Condenser part rendered as Capacitor; not in glossary."
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.103",
+   "note": "Big hand attack; hand kept literal (hit with huge hand)."
+  }
+ ],
+ "report": "80/80 rows. SkillName rows reuse system_051/052 wording (Normal Attack (Physical, no closing paren, as in source). Uncertain: 1.73 pose, 1.103. New term: Capacitor (part name, not in glossary)."
+}

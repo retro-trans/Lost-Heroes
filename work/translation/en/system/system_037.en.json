@@ -1,0 +1,350 @@
+{
+ "slice": "system_037",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.109",
+   "en": "A legendary kaiju said to lurk in deep snowy mountains. Tougher than it looks, it can summon raging blizzards and gusts of wind."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.110",
+   "en": "An extremely belligerent kaiju skilled at brawling. Its body slams and brute-force punches are spectacular. It is also known to hurl rocks at enemies constantly."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.111",
+   "en": "An upgraded Flag. Equipped with the new linear rifle \"Trident Striker\" and a sonic blade."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.112",
+   "en": "A modified Hi-Zack. Equipped with a sniper beam launcher, beam saber and more."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.113",
+   "en": "An advanced GN-X III. Besides GN Drive Taus, GN Beam Sabers and GN Claws, it carries a GN Lance as standard equipment."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.114",
+   "en": "A kaiju formed from a stone that changes shape in response to brainwaves. Sly and fond of sneak attacks, though not very bright."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.115",
+   "en": "A Kaima Beastman of the Crisis Empire. Swings its great scythe. A fearsome foe that will even self-destruct to take down an enemy."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.116",
+   "en": "A Kaima Beastman of the Crisis Empire. Leader of the Skullma squad, it has horns. Its scythe, bigger than a Skullma's, can split a boulder in two. A fearsome foe that will even self-destruct to take down an enemy."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.117",
+   "en": "An Imagin materialized from the image of the bat in the tale \"The Cowardly Bat.\" Good at surprise attacks from the air."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.118",
+   "en": "Sworn enemy of the Ultra Brothers, an alien plotting to destroy the Ultra Star. Fires superheated flames and the \"Ultra Brothers' Finishing Beam,\" devised to defeat the Ultra Brothers, from both hands."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.119",
+   "en": "An alien from Planet Nackle, also called the \"Assassin Alien.\" Highly intelligent and cold-blooded, a schemer who won't shy from dirty tricks. Excels at martial arts with superior physical ability and at beam techniques."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.120",
+   "en": "Fires a powerful lightning bolt called \"Grand Thunder\" from the tip of its giant horn, the Grand Horn."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.121",
+   "en": "One of the Greeed, with the look and abilities of an insect. Short-tempered and not the brightest. Controls lightning and fires lightning strikes from its horns."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.122",
+   "en": "Boasts high attack power, with a large-caliber beam cannon, Walter Fangs and more."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.123",
+   "en": "Leader of a gang of robbers who commit crimes across time. His swordsmanship with the large sword \"Gaoh Gasher\" is every bit the equal of Kamen Rider Den-O Sword Form. His finisher is \"Tyrant Crash.\""
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.124",
+   "en": "A swordmaster alien famed across the universe. Lives for duels with anyone stronger than himself. Slashes from his beloved sword \"Hoshikirimaru\" can split a giant meteor in two."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.125",
+   "en": "A kaiju that is practically Alien Zetton's trump card. The strongest space dinosaur, with powerful and varied abilities: wave beams from both arms, light bullets from its face, and teleportation."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.126",
+   "en": "One of the Greeed, with the form and power of a huge, heavy animal. Childlike and innocent, so Mezool dotes on him. Excels at overwhelming brute strength: pounding the ground to shake it, and shockwaves."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.127",
+   "en": "A Dopant containing the T-Rex memory. Deals massive damage with powerful bites, and its roar creates shockwaves that smash surrounding objects to pieces."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.128",
+   "en": "A Dopant containing the Bird memory. Can fly at Mach 2.5 up to the stratosphere and fires feather shuriken from its body."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.129",
+   "en": "Equipped with a movable shield with a built-in beam rifle. With a booster, it can also fight at ultra-high speed."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.130",
+   "en": "An Imagin materialized from the image of a rhino. Its weapon is a club-like blunt weapon that fires fireballs from its tip."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.131",
+   "en": "An Imagin materialized from the image of the jellyfish in the tale \"The Jellyfish's Errand.\" Can turn transparent or liquefy to ambush foes, and also fires electric shocks from its tentacles."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.132",
+   "en": "A Choju created when a giant salamander absorbed sunlight and mutated. Spits dissolving fluid from its mouth and emits gas from its whole body. Possesses extremely tenacious vitality."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.133",
+   "en": "A Dopant containing the Violence memory. Excels at close combat with the iron ball on its left arm, which has colossal destructive power, and can even turn its whole body into a wrecking ball."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.134",
+   "en": "An \"Interdimensional Alien\" from Icarus, the 17th planet. Radiates needle-like arrow rays from its body. Plans to attack from another dimension by linking the 3D and 4D worlds with a control machine."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.135",
+   "en": "A Dopant containing the Money memory. Weak in direct combat. It can fire coin-shaped energy bullets to damage foes, but they lack power."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.136",
+   "en": "A Dopant containing the Arms memory. Can transform both arms into swords, guns and more."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.137",
+   "en": "An insect Yummy created by Uva. Its hard exoskeleton gives it high DEF, and it teams up with the Kuwagata Yummy it created to fight enemies."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.138",
+   "en": "An insect Yummy born when Kabuto Yummy split in two. High in both ATK and DEF, and it surpasses Kabuto Yummy in mobility. Teams up with Kabuto Yummy as a pair to fight enemies."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.139",
+   "en": "A villainous alien who rampages through the Eridanus constellation. Three faces stacked like a totem pole, each with a different personality and attack. Loves turning targets into golden statues to collect."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.140",
+   "en": "Equipped with a Fedayeen Rifle, mega particle cannons and more, and good at both shelling and melee combat. The claw arms are also a powerful weapon in close combat."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.141",
+   "en": "An Imagin materialized from the image of the octopus in the tale \"The Octopus and the Skull.\" Can stretch its left-arm tentacle to wrap around enemies, and can even control inanimate objects."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.142",
+   "en": "An Imagin materialized from the image of the squid in the Norse myth \"Legend of the Kraken.\" Wields long stretching tentacles and a gun that never misses. Can change its body to move through air or water."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.143",
+   "en": "A kaiju that hates light and loves darkness. Spews black smoke from its whole body to plunge its surroundings into darkness. Its main weapon is dissolving fluid spat from its mouth."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.144",
+   "en": "An Imagin materialized from the image of the crow in the tale \"Choosing the King of Birds.\" Can fly, and attacks enemies with feather shuriken that cause a huge explosion on hit."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.145",
+   "en": "Equipped with a Knuckle Buster, beam gun and beam saber. Good at shelling distant enemies."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.146",
+   "en": "A kaiju trained by Alien Nackle to fight Ultraman, so its base stats are high across the board. Its distinctive abilities are the lava ray and smoke screen it spews from its mouth."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.147",
+   "en": "A composite cyborg of a sea anemone and a jaguar. Has finishers such as binding and squeezing opponents with its tentacles, and secreting poison water from its back. It can also teleport instantly with \"Tentacle Hide.\""
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.148",
+   "en": "The Crisis Empire's strongest kaijin and a destructive weapon. Possesses immense combat ability, and even if defeated, the megaton-class bomb inside its body explodes, dealing tremendous damage all around."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.149",
+   "en": "A fiddler crab-type cyborg. The electromagnetic claw on its left hand easily cuts through steel, and its mouth sprays flammable white foam that bursts into flames on contact."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.150",
+   "en": "A \"Space Kaiju\" controlled by Alien Pit. Runs high-voltage current through its tail and fires electric discharge rays from its mouth."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.151",
+   "en": "A stronger version of Pandon that was biologically modified. Quite ferocious, it fires high-temperature fireballs and rays from its two mouths."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.152",
+   "en": "A composite cyborg of a leech and a chameleon. Can revive defeated kaijin by feeding them blood drained from enemies. It can also change its body to protective coloring and turn invisible."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.153",
+   "en": "Kazari absorbed Mezool's Core Medals into this Yummy, which grew into one combining two powers. It bewilders foes with agile movement and fires powerful electric shocks from its jellyfish parts."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.154",
+   "en": "One of the Greeed, with feline traits. Sly, he outwits others and steals medals. In combat, he fights with quick movement and sharp claws, and has the special ability to control wind."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.155",
+   "en": "A mobile suit specialized in close combat, with two GN Drive Taus on its waist. Harbors special feelings toward Gundams and challenges them to duels."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.156",
+   "en": "Bogal's powered-up form. All abilities greatly improved, and it can fly at high speed. Captures prey with predatory organs on its back that spread like wings. Weapons: horn lightning and a sturdy tail."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.157",
+   "en": "A Dopant containing the Taboo memory. Always floating, it uses the powerful destructive light orbs it fires from its palms as its weapon."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.158",
+   "en": "Born from the best parts of kaiju and aliens defeated by the Ultra Warriors. Each body part holds a different kaiju's power, and in battle it uses each one's abilities to overwhelm foes with varied techniques."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.159",
+   "en": "A Greeed born from the \"Shocker Medals\" that Shocker developed using its technology. Can fire energy bullets like a machine gun and fly, with very high combat ability overall."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.160",
+   "en": "One of Shocker's Supreme Executives. Excels at developing and modifying various kaijin. Also extremely strong in combat; his weapons include the whip on his arm, jars spat from his mouth and meteor attacks."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.161",
+   "en": "A rattlesnake-type cyborg and Shocker senior executive. Faithful to his missions, yet fights savagely when swept by passion. His fangs hold deadly poison; known for the whip in his right hand and moving freely through sand."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.162",
+   "en": "A Dopant containing the Terror memory. Always calm, it will do anything for its great goal. Creates a special field called the \"Terror Field\" that instills intense fear in enemies."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.163",
+   "en": "Revived by the obsession to defeat \"BLACK RX.\" Holds a King Stone inside his body and stands as the fated enemy of Kamen Rider BLACK RX. Uses a variety of techniques such as \"Shadow Kick\" and \"Shadow Beam.\""
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.164",
+   "en": "An Imagin materialized from the image of the mole in the tale \"Thumbelina.\" Can spin its whole body into a whirlwind to wreck its surroundings, and fire the drill in its mouth to attack enemies."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.165",
+   "en": "An autonomous unmanned weapon. Moves on four-legged roller units, spots enemies with sensors and attacks indiscriminately."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.166",
+   "en": "An Imagin materialized from the image of the scorpion in the tale \"The Boy Who Caught Grasshoppers and the Scorpion.\" Its weapons are a battle-axe and energy bullets fired from the tip of its left arm."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.167",
+   "en": "Equipped with a GN Beam Rifle, GN Submachine Gun, GN Bazooka and more, plus GN Drive Taus, and shows high combat ability in any situation."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.168",
+   "en": "A kaiju that lived in ancient times and is extremely vicious. Boasts high offense and defense thanks to the whips on both arms, a huge tail and tough skin. Feeds on Twin Tail."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.169",
+   "en": "A kaiju that lived in ancient times. Its main weapons are two tails held straight up and fangs containing anesthetic fluid. Its natural enemy is said to be Gudon."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.170",
+   "en": "A machine-fusion kaijin combining a turtle and a bazooka. The bazooka on its shell has astonishing power. It also has an atomic bomb inside its body, so it can't be carelessly defeated."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.171",
+   "en": "A hobby-model Hi-Zack with high mobility."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.172",
+   "en": "Equipped with a GN Beam Rifle, GN Submachine Gun, GN Beam Saber and more. It can also use quantum brainwaves."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.173",
+   "en": "An insect Yummy created by Uva. Good at tactics using lightning and quick movement."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.174",
+   "en": "A bug exposed to a laser turned into a giant kaiju. Its attacks are strong too, such as blinding foes with yellow gas and binding them with thread."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.175",
+   "en": "Equipped with a club-shaped beam rifle that doubles as a striking weapon. Individually weak, but always moves in huge swarms."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.176",
+   "en": "A Dopant containing the Jewel memory. Has the hardness of a diamond and high DEF."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.177",
+   "en": "Also called the \"Mirage Kaiju,\" it creates black, mirage-like tornadoes. Good at attacking with dissolving fluid from its nose, and has a high revival ability."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.178",
+   "en": "Normally invisible, but becomes visible after absorbing electricity. It feeds on electricity, so its whole body is charged, and it discharges from its tail and back."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.179",
+   "en": "Known by the nickname \"Snowman Alien.\" Breathes -234 degree freezing gas from its mouth, freezing everything."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.180",
+   "en": "Equipped with a beam cannon on the right shoulder and a Planet Defensor on the left shoulder, which blocks enemy attacks with an electric field."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.181",
+   "en": "A Dopant containing the Zone memory. Creates a Zone Board in space and can instantly teleport opponents inside it to another place. Can also fire destructive light bullets from its eyes."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.182",
+   "en": "Also called the \"Fourth-Dimension Kaiju.\" Has no hands or feet and a very unusual lump-like shape. Causes all kinds of fourth-dimensional phenomena to bewilder opponents."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.183",
+   "en": "Can use Trans-Am mode, and makes a suicide attack by turning itself into a missile."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.184",
+   "en": "Equipped with GN Fangs, a sword with GN Fang control functions, GN Cutters and more. Good at mid- and close-range combat."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.185",
+   "en": "Its main armament is the GN Mega Launcher, and it excels at shelling combat."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.186",
+   "en": "Its main equipment is the GN Beam Claw and GN Beam Saber, and it excels at close combat."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.187",
+   "en": "Has high athletic ability and can use Trans-Am mode. Its weapons are the solid swords \"Shiranui\" and \"Unryu,\" which combine to form \"Souten.\""
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.188",
+   "en": "General Jark reborn through the Crisis Emperor's power, the strongest kaijin of the Crisis Empire. Relentlessly corners foes with tremendous strength, a giant sword and lightning from its horns."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.124",
+   "note": "Sword name romanized as Hoshikirimaru (reading of the kanji is a guess)."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.118",
+   "note": "Ultra Star = home planet of the Ultra Brothers; Finishing Beam is a literal rendering of the move name."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.134",
+   "note": "Interdimensional Alien is a descriptive epithet for Alien Icarus."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.161",
+   "note": "Senior executive (Garagaranda); Supreme Executive used for the higher rank in 1.160."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#1.179",
+   "note": "Temperature kept as -234 degrees; minus sign assumed from the dash glyph."
+  }
+ ],
+ "report": "80/80 library descriptions (names matched via ChipLibMess #0.N in system_033-036). New terms not in glossary: Trident Striker, Grand Thunder, Gaoh Gasher, Tyrant Crash, Hoshikirimaru (uncertain), Tentacle Hide, Zone Board, Shiranui/Unryu/Souten, Fedayeen Rifle, Knuckle Buster, Ultra Star, Alien Zetton, Alien Pit, Gudon."
+}

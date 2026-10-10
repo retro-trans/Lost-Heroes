@@ -1,0 +1,342 @@
+{
+ "slice": "system_073",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.111",
+   "en": "Deals Slash damage to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.112",
+   "en": "Deals Ranged damage to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.113",
+   "en": "Hits one enemy twice with Ranged attacks."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.114",
+   "en": "Hits one enemy repeatedly with Ranged attacks."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.115",
+   "en": "Deals Ranged damage to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.116",
+   "en": "Raises stats for a few turns. HP drops to 1 when it wears off."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.117",
+   "en": "Attacks on all enemies always hit."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.118",
+   "en": "Self-destructs on all enemies. The user is KO'd."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.119",
+   "en": "Raises your Ranged DEF for a few turns."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.120",
+   "en": "Unleashes a super-powerful Ranged attack on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.121",
+   "en": "Unleashes a super-powerful Ranged attack on all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.122",
+   "en": "Deals Slash damage to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.123",
+   "en": "Deals powerful Slash damage to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.124",
+   "en": "Deals Ranged damage to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.125",
+   "en": "Raises your Physical DEF for a few turns."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.126",
+   "en": "Temporarily raises stats, then lowers them for a few turns after."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.127",
+   "en": "Raises your evasion. Usable only in Trans-Am."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.128",
+   "en": "Deals Ranged damage to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.129",
+   "en": "Deals powerful Slash damage to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.130",
+   "en": "Deals powerful Slash damage to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.131",
+   "en": "Deals powerful Ranged damage to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.132",
+   "en": "Fully restores the party's HP. Usable only in Trans-Am."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.133",
+   "en": "Unleashes a super-powerful combo on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.134",
+   "en": "Unleashes a super-powerful Slash on all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.135",
+   "en": "Punches one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.136",
+   "en": "Kicks one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.137",
+   "en": "Chance to Stun one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.138",
+   "en": "Puts a barrier on one ally that reflects Ranged attacks."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.139",
+   "en": "Ice-element Ranged attack on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.140",
+   "en": "Fire-element Ranged attack on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.141",
+   "en": "Cancels stat boosts on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.142",
+   "en": "Light-element Ranged attack on all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.143",
+   "en": "Shares your Hero Gauge with a chosen ally."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.144",
+   "en": "Chance to inflict Pressure on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.145",
+   "en": "Super-powerful Light-element Ranged attack on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.146",
+   "en": "Unleashes a super-powerful combo on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.147",
+   "en": "Punches one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.148",
+   "en": "Deals Slash damage to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.149",
+   "en": "Chance to Stun one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.150",
+   "en": "Light-element Ranged attack on all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.151",
+   "en": "Wind-element Ranged attack on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.152",
+   "en": "Chance to inflict Blind on all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.153",
+   "en": "Ice-element Ranged attack on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.154",
+   "en": "Makes one ally Null to Ranged attacks for a few turns."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.155",
+   "en": "Deals Ranged damage to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.156",
+   "en": "Cures one ally's status ailments."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.157",
+   "en": "Super-powerful Light-element Ranged attack on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.158",
+   "en": "Super-powerful Light-element Ranged attack on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.159",
+   "en": "Light-element Ranged attack on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.160",
+   "en": "Fire-element Ranged attack on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.161",
+   "en": "Slashes random enemies twice."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.162",
+   "en": "Restores one ally's HP."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.163",
+   "en": "Fire-element Ranged attack on all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.164",
+   "en": "Wind-element Ranged attack on all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.165",
+   "en": "Deals Ranged damage to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.166",
+   "en": "Lightning-element Ranged attack on all enemies with a chance to Stun."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.167",
+   "en": "Raises your evasion."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.168",
+   "en": "Raises the party's Lightning-element ATK."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.169",
+   "en": "Fire-element punch on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.170",
+   "en": "Super-powerful self-destruct on all enemies. Your HP drops to 1."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.171",
+   "en": "Super-powerful Light-element Ranged attack on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.172",
+   "en": "Fire-element punch on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.173",
+   "en": "Kicks one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.174",
+   "en": "Chop with a chance to Stun one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.175",
+   "en": "Deals Slash damage to one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.176",
+   "en": "Lightning-element Ranged attack on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.177",
+   "en": "Chance to inflict Pressure on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.178",
+   "en": "Makes one ally Null to Ranged attacks for a few turns."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.179",
+   "en": "Chance to reflect Ranged attacks against you."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.180",
+   "en": "Light-element Slash on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.181",
+   "en": "Super-powerful Light-element combo on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.182",
+   "en": "Super-powerful Light-element combo on all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.183",
+   "en": "Punches one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.184",
+   "en": "Fire-element kick on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.185",
+   "en": "Lightning-element Ranged attack on one enemy with a chance to Stun."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.186",
+   "en": "Light-element Ranged attack on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.187",
+   "en": "Light-element Ranged attack on all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.188",
+   "en": "Deals Slash damage to all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.189",
+   "en": "Slashes all enemies repeatedly at random."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.190",
+   "en": "Raises the party's Light-element ATK."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.116",
+   "note": "Parameters read as stats; HP set to 1 after effect ends."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.117",
+   "note": "Read as the user's attacks on all enemies never miss; subject not stated in source."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.161",
+   "note": "Random hits among all enemies, twice; kept short."
+  }
+ ],
+ "report": "All 80 rows translated. Skill help text; used Ranged/Physical/Slash, Null, Stun, Pressure, Blind, Trans-Am, Hero Gauge, element names Fire/Ice/Light/Wind/Lightning."
+}

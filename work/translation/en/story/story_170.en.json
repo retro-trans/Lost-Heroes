@@ -1,0 +1,374 @@
+{
+ "slice": "story_170",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0733.mbb#0.218",
+   "en": "Regis, damn you..."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.219",
+   "en": "Regis, damn you..."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.220",
+   "en": "Regis..."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.221",
+   "en": "Regis, damn you..."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.222",
+   "en": "Regis, damn you..."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.223",
+   "en": "Regis..."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.224",
+   "en": "Regis, damn you..."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.225",
+   "en": "Regis..."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.226",
+   "en": "That Regis bastard..."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.227",
+   "en": "Regis, damn you..."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.228",
+   "en": "Regis, damn you..."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.229",
+   "en": "Regis, damn you..."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.230",
+   "en": "Regis, damn you..."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.231",
+   "en": "Regis, damn you..."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.232",
+   "en": "Regis, damn you..."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.234",
+   "en": "\"Yes... Defeat Regis and put a stop to its ambitions.\""
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.235",
+   "en": "\"Defeat Regis, and you may find a way to escape from this space as well.\""
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.243",
+   "en": "...They went and revived!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.244",
+   "en": "Damn it!! So even if we beat Belial and the rest, it's pointless unless we beat Regis!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.245",
+   "en": "...They've revived!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.246",
+   "en": "Damn!! So even after beating Belial and the others, it was pointless unless we beat Regis!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.247",
+   "en": "...They revived!?"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.248",
+   "en": "...So even if we defeat Belial and the others, it means nothing unless we defeat Regis!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.249",
+   "en": "...They went and revived!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.250",
+   "en": "Damn it!! So even if we beat Belial and the rest, it's pointless unless we beat Regis!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.251",
+   "en": "...They revived!?"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.252",
+   "en": "...So even if we defeat Belial and the others, it means nothing unless we defeat Regis!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.253",
+   "en": "...They revived!?"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.254",
+   "en": "...So even if we defeat Belial and the others, it means nothing unless we defeat Regis!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.255",
+   "en": "...Those punks went and came back to life!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.256",
+   "en": "Damn it!! We beat Belial and those guys, but if we don't beat Regis, it's all for nothin'!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.257",
+   "en": "...They revived!?"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.258",
+   "en": "...So even if we defeat Belial and the others, it means nothing unless we defeat Regis!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.259",
+   "en": "...They revived!?"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.260",
+   "en": "...So even if we defeat Belial and the others, it means nothing unless we defeat Regis!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.261",
+   "en": "...You mean they've been revived!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.262",
+   "en": "Damn!! So even after beating Belial and the others, it was pointless unless we beat Regis!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.263",
+   "en": "...You mean they've been revived!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.264",
+   "en": "Damn!! So even after beating Belial and the others, it was pointless unless we beat Regis!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.265",
+   "en": "...They revived!?"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.266",
+   "en": "...So even if we defeat Belial and the others, it means nothing unless we defeat Regis!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.267",
+   "en": "...They revived!?"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.268",
+   "en": "...So even if we defeat Belial and the others, it means nothing unless we defeat Regis!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.269",
+   "en": "...They've revived!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.270",
+   "en": "Damn!! So even after beating Belial and the others, it was pointless unless we beat Regis!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.271",
+   "en": "...They revived!?"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.272",
+   "en": "...So even if we defeat Belial and the others, it means nothing unless we defeat Regis!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.274",
+   "en": "We've got no choice but to go... into that Gate...!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.276",
+   "en": "Yeah...!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.277",
+   "en": "Yeah...!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.278",
+   "en": "Yeah...!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.279",
+   "en": "Yeah...!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.280",
+   "en": "Yeah...!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.281",
+   "en": "Yeah...!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.282",
+   "en": "Yes...!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.283",
+   "en": "Yeah...!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.284",
+   "en": "You bet...!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.285",
+   "en": "Yeah...!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.286",
+   "en": "Yeah...!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.287",
+   "en": "Yeah...!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.288",
+   "en": "Yeah...!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.289",
+   "en": "Yeah...!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.290",
+   "en": "Yeah...!!"
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.291",
+   "en": "Yeah...!!"
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.1",
+   "en": "\"Regis\" is on the other side of this Gate... Even I can't tell if we'll make it back alive."
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.2",
+   "en": "...Guess you already know that much. Let's go. You ready?"
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.6",
+   "en": "Tch! ...You could've at least come prepared. Hurry up and get it done."
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.13",
+   "en": "\"You've entered the Ride Dungeon...!! This is it... We're counting on you, understood!? Good luck!!\""
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.14",
+   "en": "\"I expect this will be a hard fight, but I believe in all of you!!\""
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.15",
+   "en": "Now that it's come to this, we've got no choice but to go, right!?"
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.16",
+   "en": "Yeah, we're goin' in!"
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.17",
+   "en": "Yeah, we're goin' in!"
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.18",
+   "en": "Yeah, we're going in!"
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.19",
+   "en": "Yes, we're going in!"
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.20",
+   "en": "You bet! We're goin' in!"
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.21",
+   "en": "Yeah, we're going in!"
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.22",
+   "en": "Right, we're going in!"
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.23",
+   "en": "Yeah, we're going in!"
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.24",
+   "en": "Yeah, we're going in!"
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.25",
+   "en": "Yeah, we're going in!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0733.mbb#0.218",
+   "note": "Script 0733: leader R0 (CHARA_NAME of leader). If R0==3 (Den-O Sword Form/Momotaros) play #226; if R0 in {4 W/Shotaro, 5 OOO, 9 Wing Zero, 10 00} play #225; else #218. Extracted 'Nu Gundam' labels on #218/#225/#226 are wrong. #219-224 and #227-232 are never played; identical Japanese gets identical English. Contemptuous suffix rendered 'Regis, damn you...' as for Belial in earlier slices."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.226",
+   "note": "Momotaros (rough 'yarou')."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.234",
+   "note": "Zoffy (CHARA_NAME 128) over comms, double quotes as in story_169. Answers the leader's 'Regis...'. Regis is g=n in the glossary: 'its ambitions'; #235 repeats 'Regis' instead of a pronoun for the source's 'that one'."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.243",
+   "note": "Pairs #243+R9/#244+R9, third Pt_Chara_Check chain (R9 step 2): Zero, OOO, Nu Gundam, W (Shotaro), Zeta Gundam, Mebius, Den-O Sword Form, Wing Zero, 00, Black RX, Rider 1, Ultraman, Seven, God Gundam, Taro. '?party' on #243 = Zero. 'They' = the revived bosses (Gundam Head etc. shown just before); subject restored."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.255",
+   "note": "Momotaros (Den-O Sword Form): contemptuous verb forms, rough English."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.261",
+   "note": "#261/#263 = Black RX / Rider 1 ('to iu no ka', disbelief)."
+  },
+  {
+   "key": "MainEventMess0733.mbb#0.276",
+   "note": "Leader reply to Ankh: R0==14 (Mebius) plays #282 'Yes', R0==3 (Momotaros) plays #284, everyone else #276. Extracted 'Taro' labels on #276/#282/#284 are wrong. #277-281, #283, #285-291 never played."
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.1",
+   "note": "Script 0734: TextIdOffset 0; Ankh (36) says #1, then #2 is the Yes/No prompt text (still Ankh). Answering No plays #6 (Ankh) and ends the event."
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.13",
+   "note": "Zoffy (128) then Hikari (35), comm lines in double quotes. 'tanonda zo!?' rendered 'We're counting on you, understood!?' (Zoffy asking the party)."
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.15",
+   "note": "Not played by the script (Zoffy #13, Hikari #14, then leader #16+R1). Speaker unknown; translated plainly."
+  },
+  {
+   "key": "MainEventMess0734.mbb#0.16",
+   "note": "Leader block #16+R1, check order: W (Shotaro), Zero, God Gundam, Mebius, Den-O Sword Form, OOO, Zeta Gundam, Nu Gundam, Black RX, Rider 1 (#26-30 next slice: Taro, Ultraman, Seven, 00, Wing Zero). Subject 'we' restored: the leader answers for the party heading in. Plain variant matches story_171's 'Yeah, we're going in!' for the same Japanese."
+  }
+ ],
+ "report": "80/80 rows. Speakers verified against 0733.bla/0734.bla. Extracted labels wrong on 0733 #218/#225/#226 (generic / W-OOO-WingZero-00 / Momotaros, not Nu Gundam) and #276/#282/#284 (generic / Mebius / Momotaros, not Taro). Unplayed rows: 0733 #219-224, #227-232, #277-281, #283, #285-291; 0734 #15. No new names or terms."
+}

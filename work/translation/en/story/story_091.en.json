@@ -1,0 +1,378 @@
+{
+ "slice": "story_091",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0508.mbb#0.1",
+   "en": "There's a kaijin in the cage!"
+  },
+  {
+   "key": "MainEventMess0508.mbb#0.2",
+   "en": "Read the sign?"
+  },
+  {
+   "key": "MainEventMess0508.mbb#0.3",
+   "en": "\"Kaima Beastman Gaina Ninpo\"\nHeight: Unknown  Weight: Unknown"
+  },
+  {
+   "key": "MainEventMess0508.mbb#0.5",
+   "en": "Ukih! Ukikiiiii!!"
+  },
+  {
+   "key": "MainEventMess0508.mbb#0.6",
+   "en": "Unlock the cage?"
+  },
+  {
+   "key": "MainEventMess0509.mbb#0.1",
+   "en": "There's a kaiju in the cage!"
+  },
+  {
+   "key": "MainEventMess0509.mbb#0.2",
+   "en": "Read the sign?"
+  },
+  {
+   "key": "MainEventMess0509.mbb#0.3",
+   "en": "\"Snow Woman Kaiju Snowgon\"\nHeight: 45 m  Weight: 23,000 t"
+  },
+  {
+   "key": "MainEventMess0509.mbb#0.5",
+   "en": "Gwaaa-gwooo~~~!!"
+  },
+  {
+   "key": "MainEventMess0509.mbb#0.6",
+   "en": "Unlock the cage?"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.1",
+   "en": "Fufufufu... Lost Heroes, welcome to the \"Shocker Cube.\""
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.3",
+   "en": "You're... Garagaranda!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.4",
+   "en": "Indeed! I am Garagaranda, Supreme Executive of Super Shocker!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.5",
+   "en": "Just what are you plotting here!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.11",
+   "en": "A snake kaijin...!? Don't tell me you're...!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.12",
+   "en": "What the hell are you, you snake bastard!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.13",
+   "en": "Whoa! Wh-What the hell are you...!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.14",
+   "en": "A snake kaijin...!?"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.15",
+   "en": "What are you...!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.16",
+   "en": "What are you...!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.17",
+   "en": "What are you...!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.18",
+   "en": "What are you...!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.19",
+   "en": "What are you...!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.20",
+   "en": "What are you...!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.21",
+   "en": "What are you...!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.22",
+   "en": "What are you...!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.23",
+   "en": "What are you...!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.24",
+   "en": "What are you...!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.25",
+   "en": "I am Garagaranda, Supreme Executive of Super Shocker!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.26",
+   "en": "Super Shocker's Supreme Executive...? Just what are you plotting here!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.27",
+   "en": "Super Shocker's Supreme Executive, huh? Real full of yourself, aren'tcha! What're you schemin'!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.28",
+   "en": "Super Shocker's Supreme Executive...? Just what are you plotting here!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.29",
+   "en": "Super Shocker's Supreme Executive...? Just what are you plotting here!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.30",
+   "en": "Super Shocker's Supreme Executive...? Just what are you plotting here!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.31",
+   "en": "Super Shocker's Supreme Executive...? Just what are you up to here!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.32",
+   "en": "Super Shocker's Supreme Executive...? Just what are you plotting here!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.33",
+   "en": "Super Shocker's Supreme Executive...? Just what are you plotting here!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.34",
+   "en": "Super Shocker's Supreme Executive...? Just what are you plotting here!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.35",
+   "en": "And what is Super Shocker's Supreme Executive plotting here!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.36",
+   "en": "Super Shocker's Supreme Executive...? Just what are you plotting here!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.37",
+   "en": "Super Shocker's Supreme Executive...? Just what are you plotting!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.38",
+   "en": "Super Shocker's Supreme Executive...? Just what are you plotting here!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.39",
+   "en": "Super Shocker's Supreme Executive...? Just what are you plotting here!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.44",
+   "en": "We study kaiju and kaijin here. Not a zoo, but a \"Monster Zoo,\" you could say! Fuhah!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.45",
+   "en": "And any that catch the eye of us executives are taken in to serve under us."
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.46",
+   "en": "Every last one of them is itching to beat you lot to a pulp."
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.47",
+   "en": "And the liveliest of them all is this one..."
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.48",
+   "en": "Kikih!! Kiiiiiih!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.49",
+   "en": "Its name is King Pandon! It's that Pandon, strengthened and improved!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.50",
+   "en": "Sadly, it lost in the previous Cube, but we recovered it, and it was reborn through modification surgery."
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.51",
+   "en": "Now then, King Pandon! You're up!!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.52",
+   "en": "Kih!! Kih!! Kiiiiiiih!!"
+  },
+  {
+   "key": "MainEventMess0513.mbb#0.1",
+   "en": "...!! Y-You... You Lost Heroes!!"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.1",
+   "en": "Y-You chased me all the way here!! Damn it! I don't want to die yet!!"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.2",
+   "en": "In that case..."
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.3",
+   "en": "Dada pulled out a ring of keys and threw open the cage right beside it!!"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.4",
+   "en": "Kweeeeeeeh!!"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.5",
+   "en": "Go!! Bogal!! Eat up those heroes!!"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.6",
+   "en": "...Haah... Haah..."
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.7",
+   "en": "Wh-What's wrong, Bogal... They're your enemies, over there..."
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.8",
+   "en": "Kweeeeeeeh!!"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.9",
+   "en": "H-Hey! Not me!! S-Stop it!!"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.10",
+   "en": "Sto... Daah, gbohh... Mmgghh..."
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.11",
+   "en": "\"CRUNCH CRUNCH CRUNCH...\""
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.12",
+   "en": "Bogal devoured Dada whole and digested the alien in the blink of an eye."
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.13",
+   "en": "Kweeeeeeeh!!"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.14",
+   "en": "Bogal...!! Come on, then!! I'll be your opponent!!"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.15",
+   "en": "Bogal...!! Come on, then!! I'll take you on myself!!"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.16",
+   "en": "Bogal...!! Are you coming at us!?"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.17",
+   "en": "Bogal...!! Come on, then!!"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.18",
+   "en": "Bogal...!! You wanna go!?"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.19",
+   "en": "Bogal...!! Are you coming at us!?"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.20",
+   "en": "Bogal...!! Are you coming at us!?"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.21",
+   "en": "Bogal...!! Are you coming at us!?"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.22",
+   "en": "Bogal...!! Are you coming at us!?"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.23",
+   "en": "Bogal...!! You want a fight!? Then come and get it!!"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.24",
+   "en": "Bogal...!! Are you coming at us!?"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.25",
+   "en": "Bogal...!! Are you coming at us!?"
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.26",
+   "en": "But Bogal didn't even look at {8074} and the team, and went off somewhere."
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.27",
+   "en": "It's not the same as when we fought before. There's not a shred of reason left in it."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0511.mbb#0.3",
+   "note": "0511.bla: #0.3 and #0.5 play only when the leader is Rider 1 (chara id 1); the extractor's '00' label is the leader placeholder. Rider 1 recognises Garagaranda (Ambassador Hell). Every other leader gets #0.11+k / #0.25 / #0.26+k instead."
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.11",
+   "note": "#0.11-0.24 leader variants. 0511.bla Pt_Chara_Check chain sets k: RX 0, Den-O 1, W 2, OOO 3, Taro 4 (id 13), Zero 5, Mebius 6, Seven 7, Ultraman 8, Nu 9, Zeta 10, God 11, Wing Zero 12, 00 13. So #0.11 RX, #0.12 Momotaros (rough 'snake bastard'), #0.13 Shotaro, #0.14 OOO, #0.15-0.24 identical 'What are you...!!'. Dropped verb in #0.11 restored ('Don't tell me you're...!!', deliberately cut off)."
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.26",
+   "note": "#0.26-0.39 same order as #0.11-0.24: #0.27 Momotaros (yagaru: 'Real full of yourself'), #0.31 Zero (casual 'up to'), #0.35 Nu (statement form), #0.37 God (no 'here'). Identical Japanese kept identical. 'Supreme Executive' for saikou kanbu; 'Super Shocker' is the franchise's established name."
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.44",
+   "note": "'Monster Zoo' for the pun on doubutsuen (zoo) vs kaibutsuen; no established term found."
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.48",
+   "note": "Speaker ??? (CHARA_NAME 30) is King Pandon before its name is revealed; cry styled after Pandon's 'Kiiiiiih!!' (story_084)."
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.49",
+   "note": "'ano Pandon' = the Pandon fought in the previous Cube (0454), hence 'that Pandon'."
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.3",
+   "note": "Dada's gender unknown (glossary n): 'it' / 'the alien' used for Dada in narration (#0.3, #0.12)."
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.10",
+   "note": "No name box in the script; Dada's choked cries while being eaten. 'Dea' rendered as a gasp 'Daah'."
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.14",
+   "note": "#0.14-0.25 leader variants per 0514.bla chain (k = row-14): Mebius, Zero, Nu, OOO, W, Zeta, Ultraman, Seven, Taro, God, Wing Zero, 00; Rider 1 and RX are #0.29-0.30 (story_092), and k=17 (Den-O) points past the table. Wording fits (boku = Mebius, ore = Zero, 'yaru no ka' = Shotaro, God combines both)."
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.16",
+   "note": "'Kuru no ka!?' addressed to Bogal; subject restored as 'Are you coming at us!?'."
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.23",
+   "note": "Source has a trailing full-width space; dropped."
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.26",
+   "note": "{8074} = party-leader name variable; padding dropped per brief."
+  }
+ ],
+ "report": "80/80 rows. Leader-variant orders read from 0511.bla and 0514.bla (id 13 = Taro now in the chains). #0.3/#0.5 of 0511 are Rider 1-only lines mislabelled 00. 'Supreme Executive', 'Monster Zoo', 'Snow Woman Kaiju' are new renderings, not in glossary."
+}

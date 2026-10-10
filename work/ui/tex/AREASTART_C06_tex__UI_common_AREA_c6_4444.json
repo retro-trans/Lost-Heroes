@@ -1,0 +1,75 @@
+{
+ "tpc": "Graph/Dg/Start/Area/AREASTART_C06_tex.tpc",
+ "page": "UI_common_AREA_c6_4444.tga",
+ "note": "Area-start card name pieces (rects from AREASTART_C06.gtx GFUV; the GTSH shapes place them side by side: Cube name, then area pieces). Cube names are right-aligned so they sit next to the area pieces. Shapes: Veda Cube + Top/Mid/Low (Upper/Middle/Lower do not fit 11-13 px) + shared Layer piece (pieces overlap 3px on screen, so Layer starts at x=48); Deepest Part (starts at x=73 because the Veda Cube piece overlaps it on screen).",
+ "boxes": [
+  {
+   "x": 0,
+   "y": 0,
+   "w": 115,
+   "h": 13,
+   "text": "Veda Cube",
+   "align": "right"
+  },
+  {
+   "x": 0,
+   "y": 15,
+   "w": 11,
+   "h": 13,
+   "text": "Top",
+   "size": 7,
+   "align": "right"
+  },
+  {
+   "x": 14,
+   "y": 14,
+   "w": 10,
+   "h": 13,
+   "text": "Mid",
+   "size": 7,
+   "align": "right"
+  },
+  {
+   "x": 24,
+   "y": 14,
+   "w": 13,
+   "h": 13,
+   "text": "Low",
+   "size": 7,
+   "align": "right"
+  },
+  {
+   "x": 48,
+   "y": 14,
+   "w": 13,
+   "h": 15,
+   "text": "Layer",
+   "size": 7
+  },
+  {
+   "x": 73,
+   "y": 14,
+   "w": 37,
+   "h": 14,
+   "text": "Deepest Part",
+   "size": 7
+  }
+ ],
+ "defaults": {
+  "size": 9,
+  "bold": false,
+  "color": [
+   255,
+   255,
+   255
+  ]
+ },
+ "clear": [
+  [
+   0,
+   0,
+   128,
+   32
+  ]
+ ]
+}

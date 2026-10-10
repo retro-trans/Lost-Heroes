@@ -1,0 +1,362 @@
+{
+ "slice": "system_081",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillName.mbb#0.16",
+   "en": "Item"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.17",
+   "en": "Rider Punch"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.18",
+   "en": "Rider Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.19",
+   "en": "Rider Screw Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.20",
+   "en": "Rider Drop Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.21",
+   "en": "Lightning Rider Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.22",
+   "en": "Rider Chop"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.23",
+   "en": "Wind Power"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.24",
+   "en": "Defiant Stance"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.25",
+   "en": "Decoy"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.26",
+   "en": "Chain Combo"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.27",
+   "en": "Spin Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.28",
+   "en": "RX Punch"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.29",
+   "en": "RX Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.30",
+   "en": "King Stone Flash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.31",
+   "en": "Macro Eye"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.32",
+   "en": "Revolcane Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.33",
+   "en": "Weak Bond"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.34",
+   "en": "Hard Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.35",
+   "en": "Robo Punch"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.36",
+   "en": "Spark Cutter"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.37",
+   "en": "Bio Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.38",
+   "en": "Revolcrash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.39",
+   "en": "RX Combo"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.40",
+   "en": "Disolder Slasher"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.41",
+   "en": "Den-Rider Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.42",
+   "en": "Solid Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.43",
+   "en": "Dynamic Chop"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.44",
+   "en": "Wild Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.45",
+   "en": "Step Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.46",
+   "en": "Dance"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.47",
+   "en": "Voistars Punch"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.48",
+   "en": "Voistars Shout"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.49",
+   "en": "Skilled Negotiation"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.50",
+   "en": "My Special Attack, Part 5"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.51",
+   "en": "Voistars Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.52",
+   "en": "Cyclone Blow"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.53",
+   "en": "Joker Cyclone Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.54",
+   "en": "Metal Branding"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.55",
+   "en": "Trigger Full Burst"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.56",
+   "en": "Trigger Full Burst (All)"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.57",
+   "en": "Fang Striker"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.58",
+   "en": "Double Extreme"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.59",
+   "en": "Prism Break"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.60",
+   "en": "Bicker Finalfusion"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.61",
+   "en": "Double Action"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.62",
+   "en": "Maximum Drive Combo"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.63",
+   "en": "Bicker Charge Break"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.64",
+   "en": "Tatoba Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.65",
+   "en": "Gatakiriba Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.66",
+   "en": "Kuwagata Horn Bolt"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.67",
+   "en": "Lio Dias"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.68",
+   "en": "Latoratar Cross"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.69",
+   "en": "Sagohzo Impact"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.70",
+   "en": "Gravity Control"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.71",
+   "en": "Voltarm Whip"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.72",
+   "en": "Giga Scan"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.73",
+   "en": "Strain Doom"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.74",
+   "en": "OOO Bash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.75",
+   "en": "Prominence Drop"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.76",
+   "en": "Vulcan Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.77",
+   "en": "Beam Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.78",
+   "en": "Beam Saber"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.79",
+   "en": "Lock-On"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.80",
+   "en": "Shield"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.81",
+   "en": "New Hyper Bazooka"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.82",
+   "en": "Defense Follow"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.83",
+   "en": "Dummy Balloon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.84",
+   "en": "Fin Funnel"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.85",
+   "en": "I-Field"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.86",
+   "en": "Nu Gundam Combo"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.87",
+   "en": "Fin Funnel Combo"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.88",
+   "en": "Vulcan Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.89",
+   "en": "Beam Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.90",
+   "en": "Beam Saber"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.91",
+   "en": "Grenade Launcher"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.92",
+   "en": "Hyper Mega Launcher"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.93",
+   "en": "Lock-On"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.94",
+   "en": "Covering Fire"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.95",
+   "en": "Beam Confuse"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Skill/SkillName.mbb#0.24",
+   "note": "Stand Firm in tables 051/052 vs Defiant Stance in 053; used the latest (Defiant Stance) for consistency with 053."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.33",
+   "note": "Romanized (weak + bond/bind unclear)."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.40",
+   "note": "Romanized; origin unclear."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.47",
+   "note": "Voistars: romanized, origin unclear (same prefix on Punch/Shout/Slash rows)."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.71",
+   "note": "Romanized (Voltarm?); origin unclear."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.95",
+   "note": "Beam Confuse: literal; origin unclear."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.30",
+   "note": "Matches glossary 'King Stone Flash'."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.86",
+   "note": "Nu Gundam per glossary."
+  }
+ ],
+ "report": "80/80 translated. Uncertain: Defiant Stance (vs Stand Firm in 051/052), Weak Bond, Dissolder Slasher, Voistars x3, Voltarm Whip, Beam Confuse (romanized/literal). New terms not in glossary: Rider Screw Kick/Rider Drop Kick/Lightning Rider Kick/Rider Chop (already used in 051-053), Bicker Finalusion, Latoratar, Sagohzo, Prominence Drop, Revolcrash, Fang Striker."
+}

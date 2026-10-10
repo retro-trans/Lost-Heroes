@@ -1,0 +1,398 @@
+{
+ "slice": "story_126",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0642.mbb#0.285",
+   "en": "Wait, they're on a covert operation. Let's hold off on contacting them from our end."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.286",
+   "en": "Wait, they're on a covert operation. Let's hold off on contacting them from our end."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.287",
+   "en": "Wait, they're on a covert operation. Let's hold off on contacting them from our end."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.288",
+   "en": "Hold on. Seravee's group is on a covert operation. It would be wiser not to contact them from our end."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.289",
+   "en": "Wait, Seravee's group is on a covert operation. Let's hold off on contacting them from our end."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.290",
+   "en": "Wait, Seravee's group is on a covert operation. Let's hold off on contacting them from our end."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.291",
+   "en": "Please wait. They're on a covert operation. Let's hold off on contacting them from our end."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.292",
+   "en": "Wait, Seravee's group is on a covert operation. Let's hold off on contacting them from our end."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.293",
+   "en": "Wait, Ankh. Seravee's group is on a covert op. Let's hold off on contacting them from our end."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.294",
+   "en": "Seravee's group is on a covert op, right? Shouldn't we hold off on contacting 'em from our end?"
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.295",
+   "en": "...Hmph. Fine, no choice. But I've got a bad feeling about this."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.296",
+   "en": "Right, let's head back and follow the route the Gundam Team pushed through."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.297",
+   "en": "Let's head back and follow the route the Gundam Team pushed through."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.298",
+   "en": "Let's head back and follow the route the Gundam Team pushed through."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.299",
+   "en": "Right, let's head back and follow the route the Gundam Team pushed through."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.300",
+   "en": "Right, let's head back and follow the route the Gundam Team pushed through."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.301",
+   "en": "Right, let's head back and follow the route the Gundam Team pushed through."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.302",
+   "en": "Right, let's head back and follow the route the Gundam Team pushed through."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.303",
+   "en": "Right, let's head back and follow the route the Gundam Team pushed through."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.304",
+   "en": "Then let's head back and follow the route the Gundam Team pushed through!"
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.305",
+   "en": "All right, let's head back and follow the route the Gundam Team pushed through."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.306",
+   "en": "Right, let's head back and follow the route the Gundam Team pushed through."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.307",
+   "en": "Right, let's head back and follow the route the Gundam Team pushed through."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.308",
+   "en": "Right, let's head back and try following the route the Gundam Team pushed through!"
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.309",
+   "en": "Right, let's head back and follow the route the Gundam Team pushed through."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.310",
+   "en": "Right, let's head back and follow the route the Gundam Team pushed through."
+  },
+  {
+   "key": "MainEventMess0643.mbb#0.1",
+   "en": "Gundam Epyon, who should have been inside the capsule, was nowhere to be seen."
+  },
+  {
+   "key": "MainEventMess0643.mbb#0.2",
+   "en": "Don't tell me..."
+  },
+  {
+   "key": "MainEventMess0643.mbb#0.3",
+   "en": "Don't tell me..."
+  },
+  {
+   "key": "MainEventMess0643.mbb#0.4",
+   "en": "Don't tell me..."
+  },
+  {
+   "key": "MainEventMess0643.mbb#0.5",
+   "en": "Don't tell me..."
+  },
+  {
+   "key": "MainEventMess0643.mbb#0.6",
+   "en": "Don't tell me..."
+  },
+  {
+   "key": "MainEventMess0643.mbb#0.7",
+   "en": "Don't tell me..."
+  },
+  {
+   "key": "MainEventMess0643.mbb#0.8",
+   "en": "Don't tell me..."
+  },
+  {
+   "key": "MainEventMess0643.mbb#0.9",
+   "en": "Don't tell me..."
+  },
+  {
+   "key": "MainEventMess0643.mbb#0.10",
+   "en": "Don't tell me..."
+  },
+  {
+   "key": "MainEventMess0643.mbb#0.11",
+   "en": "Don't tell me..."
+  },
+  {
+   "key": "MainEventMess0643.mbb#0.12",
+   "en": "Don't tell me..."
+  },
+  {
+   "key": "MainEventMess0643.mbb#0.13",
+   "en": "Don't tell me..."
+  },
+  {
+   "key": "MainEventMess0643.mbb#0.14",
+   "en": "Don't tell me..."
+  },
+  {
+   "key": "MainEventMess0643.mbb#0.15",
+   "en": "Don't tell me..."
+  },
+  {
+   "key": "MainEventMess0644.mbb#0.1",
+   "en": "Looks like Master Gundam was defeated."
+  },
+  {
+   "key": "MainEventMess0644.mbb#0.2",
+   "en": "The enemy is surprisingly tenacious."
+  },
+  {
+   "key": "MainEventMess0644.mbb#0.3",
+   "en": "Heh heh... Well, as long as the Devil Gundam is alive, it's no problem."
+  },
+  {
+   "key": "MainEventMess0644.mbb#0.4",
+   "en": "By the way, what's Epyon up to?"
+  },
+  {
+   "key": "MainEventMess0644.mbb#0.5",
+   "en": "Gaddess has already taken him and set off after them."
+  },
+  {
+   "key": "MainEventMess0644.mbb#0.6",
+   "en": "That's Gaddess for you. She's quick to act."
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.1",
+   "en": "...Hey! Look at that!"
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.2",
+   "en": "Ankh pointed at one of the surveillance monitors. On it was the Gundam Team."
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.4",
+   "en": "There are too many of them...!!"
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.5",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.6",
+   "en": "They're swarming out again!!"
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.7",
+   "en": "At this rate, forget breaking through...!!"
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.8",
+   "en": "At this rate, it looks like the Virgos alone will finish you off."
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.9",
+   "en": "Dammit!! Don't you look down on us!!"
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.13",
+   "en": "The Gundam Team's in deep trouble!!"
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.14",
+   "en": "You know where they are, right? Let's head there now."
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.15",
+   "en": "You know where they are, right? Let's head there now."
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.16",
+   "en": "This is bad... They won't last like that. Do you know where they are? Let's go now!"
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.17",
+   "en": "This is bad... They won't hold out like that!! Do you know where they are? Let's go now."
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.18",
+   "en": "This is bad... They won't hold out like that. You know where they are, right? Let's go now!"
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.19",
+   "en": "This is bad... They won't hold out like that!! You know where they are, right? Let's go now!"
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.20",
+   "en": "Those guys...!! You know where they are, right? Let's go now!"
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.21",
+   "en": "Those guys... they're getting trashed! You know where they are, right!? We're going now!!"
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.22",
+   "en": "This is bad... They won't hold out like that. Do you know where they are? Let's go now!"
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.23",
+   "en": "This is bad...!! You know where they are, right? Let's go now!!"
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.24",
+   "en": "Those guys...!! They're gonna get wiped out! You know where they are, right? We're going now!!"
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.25",
+   "en": "This is terrible...!! They won't hold out like that!! You know where they are, right? Let's hurry!!"
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.26",
+   "en": "This is bad...!! Do you know where they are? Let's go right now!"
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.27",
+   "en": "This is bad...!! Do you know where they are? Let's go right now!"
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.28",
+   "en": "This is bad...!! Do you know where they are? Let's go right now!"
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.29",
+   "en": "Let's move. Fast."
+  },
+  {
+   "key": "MainEventMess0646.mbb#0.1",
+   "en": "This room is...!?"
+  },
+  {
+   "key": "MainEventMess0646.mbb#0.2",
+   "en": "Ankh and the others looked around the room. The control panel had been destroyed."
+  },
+  {
+   "key": "MainEventMess0646.mbb#0.3",
+   "en": "So Sandrock's group did this. They took it out with precision."
+  },
+  {
+   "key": "MainEventMess0646.mbb#0.4",
+   "en": "So Sandrock's group did this. They took it out with precision."
+  },
+  {
+   "key": "MainEventMess0646.mbb#0.5",
+   "en": "So the Gundam Team did this. Not a single wasted move in how they wrecked it."
+  },
+  {
+   "key": "MainEventMess0646.mbb#0.6",
+   "en": "So the Gundam Team did this. Not a single wasted move, as you'd expect."
+  },
+  {
+   "key": "MainEventMess0646.mbb#0.7",
+   "en": "So the Gundam Team did this. Not a single wasted move in how they wrecked it."
+  },
+  {
+   "key": "MainEventMess0646.mbb#0.8",
+   "en": "Was it the Gundam Team? There's not a wasted move in how it was wrecked."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0642.mbb#0.285",
+   "note": "#0.280-294 continue story_125's leader block (labels 'Mebius' carried over). Identical JP kept identical to story_125's #0.284 wording."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.288",
+   "note": "Formal 'machitamae' + 'hou ga ii' variant: written older/formal (Rider 1-like)."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.291",
+   "note": "Polite desu/masu variant (Mebius/OOO-style): 'Please wait'."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.293",
+   "note": "Addresses Ankh casually ('matte, Ankh'): likely OOO."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.294",
+   "note": "Rough variant (n-ee); written as a suggestion to Ankh: 'Shouldn't we hold off'."
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.296",
+   "note": "#0.296-310: 15 leader variants. 'Shinkou shita ruuto' = the route the Gundam Team advanced along -> 'pushed through'. #0.304 rough (ze), #0.305 polite (mashou), #0.308 rough 'try following'."
+  },
+  {
+   "key": "MainEventMess0643.mbb#0.1",
+   "note": "Narration (no speaker), past tense like story_125 narration. Epyon referred to as 'him' later per glossary g=m."
+  },
+  {
+   "key": "MainEventMess0643.mbb#0.2",
+   "note": "#0.2-15: 14 leader copies of 'masaka...'. 'Don't tell me...' chosen over 'No way...' since the party suspects Epyon has turned (confirmed in story_127)."
+  },
+  {
+   "key": "MainEventMess0644.mbb#0.5",
+   "note": "'Gaddess ga hikitsurete' = Gaddess is leading Epyon; 'yatsura' = the heroes/Gundam Team. Gaddess is g=f (Hiling), hence 'She' in #0.6."
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.8",
+   "note": "Gaddess taunting the Gundam Team: the Virgos alone will be enough to end them (Epyon not even needed)."
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.9",
+   "note": "'Nameyagatte' kept at full force as an angry retort."
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.14",
+   "note": "#0.14-28: 15 leader variants addressed to Ankh (who spotted the monitor). Voiced from wording: #0.21/#0.24 rough (n-ee/iku zo), #0.25 polite (masu)."
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.29",
+   "note": "Ankh's curt 'isogu zo' -> 'Let's move. Fast.'"
+  },
+  {
+   "key": "MainEventMess0646.mbb#0.1",
+   "note": "Unlabelled speaker; likely Ankh (next row's narration is tagged Ankh). Kept speaker-neutral."
+  },
+  {
+   "key": "MainEventMess0646.mbb#0.2",
+   "note": "Narration line tagged with Ankh's speaker id; translated as narration."
+  },
+  {
+   "key": "MainEventMess0646.mbb#0.3",
+   "note": "#0.3-0.8 begin a leader block that continues in story_127 (#0.9-17). #0.3 and #0.4 identical JP -> identical EN."
+  },
+  {
+   "key": "MainEventMess0646.mbb#0.8",
+   "note": "Question variant: 'Was it the Gundam Team?' Passive kept in second sentence since the destroyer is the referent of the question."
+  }
+ ],
+ "report": "80/80 rows. Leader blocks voiced from wording (labels 'Mebius' carried over in 0642). Uncertain: #0643 'masaka' read as suspicion of Epyon ('Don't tell me...'); 0646#0.1 speaker unlabelled; 0646#0.2 narration tagged Ankh. No new names; Gundam Team, Virgo, Gaddess, Gadessa per glossary."
+}

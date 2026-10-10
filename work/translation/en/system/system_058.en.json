@@ -1,0 +1,338 @@
+{
+ "slice": "system_058",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.44",
+   "en": "High-Precision Gun Camera"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.45",
+   "en": "GN Shield Bit"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.46",
+   "en": "Reinforced Bulkhead"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.47",
+   "en": "GN Condenser"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.48",
+   "en": "Apogee Motor"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.49",
+   "en": "Trans-Am System"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.56",
+   "en": "Gundanium Alloy"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.57",
+   "en": "Solar Zircon"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.58",
+   "en": "Den-Metal"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#1.59",
+   "en": "E-Carbon"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.1",
+   "en": "Remove"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.2",
+   "en": "Windmill{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.3",
+   "en": "Frog Pod{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.4",
+   "en": "Beetle Phone{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.5",
+   "en": "Imagin Costumes{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.6",
+   "en": "Treasured Telescope{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.7",
+   "en": "Zeronos Card{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.8",
+   "en": "Deneb Candy{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.9",
+   "en": "Slippers{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.10",
+   "en": "Great Detective's Hat{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.11",
+   "en": "Bat Shot{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.12",
+   "en": "Stag Phone{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.13",
+   "en": "Spider Shock{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.14",
+   "en": "Tomorrow's Underwear{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.15",
+   "en": "O Medal Holder{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.16",
+   "en": "Gorilla Candroid{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.17",
+   "en": "Kujaku Candroid{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.18",
+   "en": "Tora Candroid{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.19",
+   "en": "Batta Candroid{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.20",
+   "en": "Tako Candroid{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.21",
+   "en": "Electric Eel Candroid{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.22",
+   "en": "Ptera Candroid{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.23",
+   "en": "Tricera Candroid{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.24",
+   "en": "Pocket Watch{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.25",
+   "en": "RS Computer{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.26",
+   "en": "Moto Crystal{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.27",
+   "en": "Gundam Shield{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.28",
+   "en": "Magnet Coating{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.29",
+   "en": "Flying Armor{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.30",
+   "en": "Reflector Bit{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.31",
+   "en": "Psycho-Frame{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.32",
+   "en": "Heavy Weapon System{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.33",
+   "en": "Escape Pod{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.34",
+   "en": "Sunglasses{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.35",
+   "en": "Back Weapon System{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.36",
+   "en": "Bio-Sensor{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.37",
+   "en": "GN Shield{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.38",
+   "en": "Ballute{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.39",
+   "en": "Feilong Flag{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.40",
+   "en": "Rose Bit{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.41",
+   "en": "Graviton Hammer{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.42",
+   "en": "Fighting Knuckle{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.43",
+   "en": "Master Cloth{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.44",
+   "en": "GN Buster Sword{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.45",
+   "en": "Dover Gun{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.46",
+   "en": "Clown Mask{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.47",
+   "en": "Heat Shotel{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.48",
+   "en": "Beam Scythe{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.49",
+   "en": "Beam Gatling{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.50",
+   "en": "Shenlong Shield{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.51",
+   "en": "Goggles{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.52",
+   "en": "Ring of Promise{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.53",
+   "en": "GN Drive Tau{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.54",
+   "en": "Shiranui{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.55",
+   "en": "Unryu{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.56",
+   "en": "Souten{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.57",
+   "en": "GN Fang{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.58",
+   "en": "Beta Capsule{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.59",
+   "en": "Meteor Badge{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.60",
+   "en": "Zero-G Bullet{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.61",
+   "en": "Curry Spoon{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.62",
+   "en": "Ultra Bell{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.63",
+   "en": "Ultra Badge{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.64",
+   "en": "ZAT Helmet{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.65",
+   "en": "High-Performance Analyzer{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.66",
+   "en": "Struggle 7000{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.67",
+   "en": "Video Seaver{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.68",
+   "en": "GUYS Suit{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.69",
+   "en": "Sonic Blade{808F}"
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.70",
+   "en": "Maquette Attache{808F}"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.67",
+   "note": "Romanized Video Seaver; official English unclear."
+  },
+  {
+   "key": "Table/Item/ItemNameFormal.mbb#2.70",
+   "note": "Maquette Attache (Mebius-era GUYS prop); uncertain."
+  }
+ ],
+ "report": "Item names. 80/80 rows. {808F} kept at end, padding dropped. Uncertain: Video Seaver, Maquette Attache, Solar Zircon, Moto Crystal, RS Computer, Shiranui/Unryu/Souten (romanized), Remove (for Unequip). Candroid names romanized per glossary Taka Candroid."
+}

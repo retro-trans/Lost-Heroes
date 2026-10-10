@@ -1,0 +1,329 @@
+{
+ "slice": "quest_051",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.29",
+   "en": "Bushido... is found... in death... Bushido is..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.32",
+   "en": "You would turn your back on your enemy!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.33",
+   "en": "Very well! Make your preparations! I shall wait!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.36",
+   "en": "Do you mean to insult me!? Bring 00 to me!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.38",
+   "en": "Completed the quest \"Duel with Masurao 2\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.39",
+   "en": "00 must be in the party to progress this quest."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.41",
+   "en": "I have been waiting."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.42",
+   "en": "Susanowo, what are you planning?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.43",
+   "en": "Gundam, I would have you answer my wish."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.47",
+   "en": "I have been waiting."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.48",
+   "en": "You... what are you planning?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.49",
+   "en": "Gundam, I would have you answer my wish."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.50",
+   "en": "What is it you want?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.51",
+   "en": "A duel in deadly earnest..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.52",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.53",
+   "en": "I, Susanowo, demand a duel with you!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.54",
+   "en": "You want to settle this that badly!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.55",
+   "en": "Naturally! The ones who captivated my heart and shattered my warrior's spirit were none other than"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.56",
+   "en": "you Gundams!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.57",
+   "en": "Indeed. It has surpassed love, transcended even hatred, and become destiny!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.58",
+   "en": "Destiny!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.59",
+   "en": "Indeed! You and I are bound to do battle!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.60",
+   "en": "(I see... He is a being that we distorted...)"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.61",
+   "en": "Understood. I accept your duel."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.62",
+   "en": "I ask for nothing less than your all!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.63",
+   "en": "Hey! You're really gonna fight him!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.64",
+   "en": "There is no other way."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.65",
+   "en": "This is the path I desire... the path of the Asura!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.66",
+   "en": "[00] 00...\n[Susanowo] Susanowo..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.67",
+   "en": "[00] The target...\n[Susanowo] Fair and square..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.68",
+   "en": "[00] ...will be eliminated!\n[Susanowo] ...let us duel!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.74",
+   "en": "Fight, Gundam! Cut me down and show me you can seize victory with your own hands!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.76",
+   "en": "Why!? Why do you not finish me!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.77",
+   "en": "I will live. I will live, and seize tomorrow."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.78",
+   "en": "That is my fight. Fight in order to live."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.79",
+   "en": "Kh!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.80",
+   "en": "Bushido... is found... in death... Bushido is..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.82",
+   "en": "Obtained \"Unryu\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.84",
+   "en": "Completed the quest \"A Challenge Letter for 00\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess020.mbb#0.85",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.1",
+   "en": "Altron is reportedly under attack. Hear details from Maganac at the Veda Cube Upper Layer entrance."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.5",
+   "en": "We've been waiting for you. If you'll permit me, I'll get straight to the point."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.6",
+   "en": "We've lost contact with Altron Gundam, who has been fighting battle after battle on his own."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.7",
+   "en": "According to the others, he most likely headed for the deepest part of Veda Cube."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.8",
+   "en": "Please find Altron Gundam and back him up."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.9",
+   "en": "Mission accepted."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.12",
+   "en": "Please come again, and bring Wing Zero with you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.16",
+   "en": "This is the area. Commencing operation."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.17",
+   "en": "Why the hell is Altron Gundam running around on his own?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.18",
+   "en": "...He's always been like that. Even we rarely fought alongside him."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.19",
+   "en": "He acts on his own convictions. No one can tie him down."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.20",
+   "en": "Hah, what's that supposed to mean?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.21",
+   "en": "That's just the kind of guy he is."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.22",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.23",
+   "en": "Combat level, target confirmed. Commencing elimination."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.24",
+   "en": "Outta the way, outta the way! The God of Death is comin' through!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.26",
+   "en": "Sorry, but I'm cuttin' in~"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.27",
+   "en": "Deathscythe... What are you doing here?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.28",
+   "en": "I heard about Altron."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.29",
+   "en": "So I figured I'd lend you a hand and came all the way out here."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.30",
+   "en": "Are your wounds all right?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.31",
+   "en": "I've rested plenty already."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.32",
+   "en": "Altron's got a habit of pushin' himself way too far."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.33",
+   "en": "We can't afford to sit around!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.34",
+   "en": "Anyway, leave this place to me and hurry on over to him."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.36",
+   "en": "...Understood."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.39",
+   "en": "Hey, you seriously plan to go ahead with this job without Wing Zero?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.43",
+   "en": "Confirmed: Altron, and an enemy mobile doll unit of Virgos."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.46",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.47",
+   "en": "I am Altron! I will neither run nor hide!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.50",
+   "en": "Not yet... I'll keep fighting until I've crushed every last evil!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.51",
+   "en": "Altron!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.52",
+   "en": "There he is! Hey! Let's hurry!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.53",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.54",
+   "en": "Them again!? Get out of my way!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.56",
+   "en": "...At this rate, we'll lose sight of Altron!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.57",
+   "en": "Leave this to us!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.59",
+   "en": "Looks like we can't afford to rest up after all."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.61",
+   "en": "Now, go on ahead!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.62",
+   "en": "You two as well..."
+  }
+ ],
+ "notes": [],
+ "report": "filled from the DG_QUEST twin rows / translation memory"
+}

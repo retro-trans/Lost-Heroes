@@ -1,0 +1,390 @@
+{
+ "slice": "story_001",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.1",
+   "en": "\"Parallel universes\"... Ours is not the only universe in existence."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.2",
+   "en": "Many universes exist, and each one has its own, very similar \"Earth.\""
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.4",
+   "en": "They were worlds that would never cross paths."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.5",
+   "en": "Until that \"Anomaly\" occurred..."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.6",
+   "en": "The \"Anomaly\" struck the Earth of every universe at almost the same moment."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.7",
+   "en": "Suddenly, cracks ran across the sky, and a vortex of darkness assailed the Earth."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.8",
+   "en": "Everything on the planet was swept up and vanished into the vortex."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.9",
+   "en": "Civilizations, living things, even minds and memories... Every last thing..."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.10",
+   "en": "It was all drawn into \"another dimension\" outside every universe, where it formed a new world."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.11",
+   "en": "A world where the parallel universes became one..."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.12",
+   "en": "Whether by chance or by destiny, the heroes drawn into this strange world have joined forces..."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.13",
+   "en": "...and now, they set out to act. To save the Earth."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.17",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.18",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.19",
+   "en": "...Looks like another one just showed up."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.20",
+   "en": "That makes four now..."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.21",
+   "en": "...This one's a different type from us."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.22",
+   "en": "Are you all right!? Hang in there!!"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.23",
+   "en": "...Did the shock of getting pulled in knock them out?"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.24",
+   "en": "...Ugh."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.25",
+   "en": "Looks like they've just passed out."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.26",
+   "en": "Hey! Can you hear us?"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.27",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.28",
+   "en": "All right, they'll be fine now!"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.29",
+   "en": "...Hm?"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.30",
+   "en": "Looks like you're awake."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.31",
+   "en": "...What?"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.32",
+   "en": "What... is this place...!?"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.33",
+   "en": "Wh-what are you guys!?"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.34",
+   "en": "Whoa, calm down. You're a \"hero\" too, aren't you?"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.35",
+   "en": "We're heroes too, same as you."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.36",
+   "en": "Heroes...? I don't know any of you!"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.38",
+   "en": "That goes both ways."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.39",
+   "en": "Seems each of us got pulled in here from a different world, too."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.40",
+   "en": "Same goes for you, right?"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.41",
+   "en": "...Pulled in?"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.42",
+   "en": "Ah... yeah, that's right... I remember now..."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.43",
+   "en": "I was training on Planet K76..."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.44",
+   "en": "Suddenly, a dark hole opened in the sky, and a violent storm kicked up."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.45",
+   "en": "The moment I took off to find out what was causing it, the storm got stronger..."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.46",
+   "en": "And I... into that storm..."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.47",
+   "en": "I see... Just like what happened to us."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.51",
+   "en": "By the way, you don't seem to be a Kamen Rider or a mobile suit..."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.52",
+   "en": "Oh, I haven't introduced myself yet."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.53",
+   "en": "I'm Zero... Ultraman Zero."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.54",
+   "en": "I'm an Ultra Warrior, a member of the Space Garrison who protects peace in the universe."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.55",
+   "en": "Gotcha. So in Zero's world, the Ultra Warriors are the heroes."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.56",
+   "en": "Being called a hero to my face is kinda embarrassing, but yeah, that's about the size of it."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.57",
+   "en": "I'm Kamen Rider OOO. I want to help as many people as I possibly can."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.58",
+   "en": "Nice to meet you, Zero!!"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.59",
+   "en": "Good to meet you too."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.60",
+   "en": "I'm Kamen Rider W (Double), a hard-boiled private eye who protects the peace of Fuuto."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.61",
+   "en": "Space and Fuuto are on different scales, but we share the same love of peace."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.62",
+   "en": "I'm counting on you."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.63",
+   "en": "I don't really get what's going on, but... well, nice to meet you anyway!"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.64",
+   "en": "I'm Nu Gundam. I commanded a combat unit attached to Londo Bell..."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.65",
+   "en": "...and fought the Zeon remnants."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.66",
+   "en": "Put simply, Zero, I'm just like you: a warrior fighting for peace in the universe."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.67",
+   "en": "I see... You seem like someone I can rely on."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.68",
+   "en": "By the way, where exactly are we?"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.69",
+   "en": "This place seems to be pieced together from bits of various facilities and bases that got pulled in."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.70",
+   "en": "But we don't know anything beyond that."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.71",
+   "en": "And is there a way back to our own worlds?"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.72",
+   "en": "Well... right now, we don't know of one."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.73",
+   "en": "I see... I'd hoped I could contact the other Ultra Warriors, but from the sound of it..."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.74",
+   "en": "Yeah. We've got no way to contact our original worlds, either..."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.75",
+   "en": "But that doesn't mean we're sitting on our hands. We're planning to go investigate."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.76",
+   "en": "Investigate?"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.77",
+   "en": "Further in, there's something like a gate linking spaces together. Seems it leads somewhere else."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.78",
+   "en": "If we check it out, we might learn something."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.79",
+   "en": "I see... My comrades might be out there too."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.80",
+   "en": "Let's look for them together. There's a buddy of mine I got separated from, too."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.81",
+   "en": "The guy who's just a hand!!"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.82",
+   "en": "Just a hand?"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.83",
+   "en": "Yeah... It's a long story, but he's only a hand right now."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.84",
+   "en": "I mean, he looks weird, but he's a good guy at heart. Really!"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.85",
+   "en": "All kinds of worlds have ended up in one place. Whoever shows up, it won't surprise me."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.86",
+   "en": "W's right. As fellow heroes, I'm sure we can understand each other."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.87",
+   "en": "Got it! Right now, what matters is that we join forces."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.88",
+   "en": "All right, I'm gonna do everything I can!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.19",
+   "note": "No speakers recovered for this slice; speakers inferred from voice: OOO polite/kimi, W (Shotaro) rough -nee/-ze, Nu Gundam calm commander, Zero the newcomer. English kept speaker-neutral where possible."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.21",
+   "note": "Newcomer's identity not yet known to speakers; used 'this one' / 'them' for the unconscious Zero (rows 0.21, 0.23, 0.25, 0.28) rather than 'he'."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.26",
+   "note": "Literal is 'do you recognize/understand us?' as a consciousness check on a stranger; rendered as 'Can you hear us?'."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.46",
+   "note": "Source trails off mid-sentence (Zero recounting being caught in the storm); kept unfinished."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.60",
+   "note": "Source shows the reading of W in parentheses; kept as 'Kamen Rider W (Double)' for this first introduction only."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.61",
+   "note": "Source has an apparent typo (overturn-kanji instead of love-kanji before 'suru'); translated as 'love of peace'."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.62",
+   "note": "Direction: W asking Zero for cooperation -> 'I'm counting on you.'"
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.64",
+   "note": "Londo Bell / Zeon: standard Gundam English names, not in glossary."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.69",
+   "note": "Source typo (sareta written as sareta-ra); read as 'reconstructed'."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.71",
+   "note": "Speaker (Zero) subject unspecified; 'our own worlds' chosen since all four come from different worlds."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.80",
+   "note": "OOO's separated partner is Ankh (row 0.81 'just a hand'); Ankh is male per glossary so 'he' used in 0.83-0.84."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.84",
+   "note": "Source typo (da-n-da for na-n-da); harmless."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.85",
+   "note": "Speaker inferred as W because the next line says 'W's right'."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.88",
+   "note": "Source ends with a trailing line break; dropped. Speaker likely Zero (first-person resolve) but not certain."
+  },
+  {
+   "key": "Table/Event/OP/MainEventMess01.mbb#0.10",
+   "note": "proofread: \"dimensional space\" dropped the other/different-dimension sense; aligned with story_024/025 \"another dimension\"."
+  }
+ ],
+ "report": "80/80 rows. No speaker data in slice; speakers inferred from voice and replies. Flagged: 0.46 kept trailing fragment; 0.61/0.69/0.84 source typos interpreted; 0.26 consciousness-check rendered idiomatically; 0.85/0.88 speaker inferred. Names not in glossary: Planet K76, Londo Bell, Zeon (standard franchise English)."
+}

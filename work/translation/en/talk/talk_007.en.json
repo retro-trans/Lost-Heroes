@@ -1,0 +1,430 @@
+{
+ "slice": "talk_007",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.399",
+   "en": "...Just remembering it does that to you? Must've been pretty bad. But you seem fine, OOO."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.400",
+   "en": "Nah... I couldn't take it either if I were back there. Not as bad as W, though."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.406",
+   "en": "Did you find any good items?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.407",
+   "en": "We've got to get them back before the enemy can use them."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.417",
+   "en": "Looks like OOO's Core Medals ended up in our hands before the \"Xtreme Memory\" did, huh."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.418",
+   "en": "Yeah."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.419",
+   "en": "Sorry."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.420",
+   "en": "Don't apologize. Even if you're the only one getting stronger, there's somebody it'll save."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.421",
+   "en": "You're the one who said \"Riders help each other out,\" aren't you?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.426",
+   "en": "Hey! OOO!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.427",
+   "en": "Huh, Birth...? Weren't you off with the separate unit, doing an undercover investigation...?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.428",
+   "en": "Come on, even I deserve a break once in a while~"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.429",
+   "en": "Truth is, we can't get any further, so I'm stumped. That exhibit room door... if only it'd open."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.430",
+   "en": "Hey! Birth, quit slacking off! We're going back in!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.431",
+   "en": "Okay, okay! Geez, Accel, you're such a slave driver!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.440",
+   "en": "I wondered why Accel hadn't come by today. So he'd snuck into the Cube with the separate unit."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.441",
+   "en": "Yeah, that's right. But it sounds like he's already moving with the main team now."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.442",
+   "en": "I see. So? What are you up to?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.443",
+   "en": "Me? I'm guarding the base, gathering intel on the Cubes... this and that, y'know."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.444",
+   "en": "Oh yeah, in the \"Begins Cube,\" there was the corpse of a monster with no arms, y'know?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.445",
+   "en": "And a monster corpse with nothing from the neck up, too. What the heck was that about?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.452",
+   "en": "...Accel's okay. Sure, he took a lot of damage, but"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.453",
+   "en": "he's fully conscious, and... no, if anything, his spirit's second to nobody's."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.454",
+   "en": "He's really something."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.466",
+   "en": "Have you found the Gaia Gate?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.467",
+   "en": "At times like that, maybe it's a good idea to walk right into one of the enemy's traps."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.468",
+   "en": "What'd you say? Hey, Turtle! Quit spoutin' stuff that makes no sense!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.469",
+   "en": "Sempai, you're not too bright, so just keep quiet."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.470",
+   "en": "Wha...! You sure say some nasty stuff like it's nothin', y'know."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.471",
+   "en": "For example... try falling into a pitfall."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.472",
+   "en": "See, I think the pitfalls are traps meant to fool our eyes."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.481",
+   "en": "Seems the enemy's giant particle cannon has this place in its sights, huh?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.482",
+   "en": "Yeah! I hear they called in the Gundams to smash that cannon."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.483",
+   "en": "Having them around is reassuring."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.484",
+   "en": "Keh!! If ya ask me, those guys are still a buncha softies."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.485",
+   "en": "Even so, if there are enough of them, they'll make a decent fighting force, won't they?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.486",
+   "en": "Then havin' ten of me around would be way more useful!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.487",
+   "en": "Ten Sempais!? ...I'd rather not see that."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.495",
+   "en": "...I see, so you managed to join up with the Gundams."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.496",
+   "en": "The enemy's coming at us with sheer numbers, so we'll have to join forces too."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.503",
+   "en": "...What is it? I'm busy right now."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.504",
+   "en": "What am I doing? Checking that every facility on the base is working."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.505",
+   "en": "That bombardment just now might have caused trouble in places we'd never expect."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.506",
+   "en": "Don't worry! Leave the base to me!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.515",
+   "en": "...Ugh, the back room's a total wreck now."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.516",
+   "en": "Aaah, I thought I was gonna die!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.517",
+   "en": "If we take another hit like that, we're done for!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.518",
+   "en": "I won't be able to serve coffee for a while, so bear with me, okay?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.528",
+   "en": "...So, what exactly is this Death Army?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.529",
+   "en": "The Devil Gundam's loyal minions. Mobile suits spawned from DG Cells."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.530",
+   "en": "Is their job to guard the Devil Gundam?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.531",
+   "en": "That's their main role, yes."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.532",
+   "en": "Then the Devil Gundam might be somewhere nearby."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.541",
+   "en": "...Looks like you beat the Devil Gundam. But I hear DG Cells don't disappear that easily."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.542",
+   "en": "I heard this while the enemy had me captive... DG Cells, if I remember right,"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.543",
+   "en": "have the abilities of \"Self-Regeneration,\" \"Self-Multiplication,\" and \"Self-Evolution.\""
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.544",
+   "en": "In other words, if you don't finish it off completely, there's a risk it'll come right back."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.551",
+   "en": "I hear the Gundam Team's in a pinch! Hurry and get over there!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.563",
+   "en": "The Gundam Team smashed the cannon for us! Now we can relax, right?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.564",
+   "en": "What are you talking about? The Libra Cannon and the Colony Laser are still out there, you know?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.565",
+   "en": "Yeah! The Libra Cannon comes first. Don't worry. I'll stop it for sure!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.574",
+   "en": "You're telling me the Libra Cannon's energy charge is over 80%?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.575",
+   "en": "What are you dawdling for!! Go stop it right now!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.576",
+   "en": "We'll shore up the base's defenses and be ready for the worst, too!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.583",
+   "en": "You did it!! Great job destroying the Libra Cannon!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.584",
+   "en": "...Whoa, we can't just celebrate yet. The Colony Laser is still out there, isn't it?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.592",
+   "en": "The Colony Laser is shaped kinda like a big tube, right?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.593",
+   "en": "Yeah, seems so. So why d'you wanna know what it looks like?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.594",
+   "en": "'Cause I'm drawing a picture of the Colony Laser~♪"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.595",
+   "en": "You've got zero sense of urgency!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.604",
+   "en": "I hear Seravee's group got spotted by the enemy on their way to Veda?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.605",
+   "en": "Getting ready for battle matters too, but we don't really have time for this, do we?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.614",
+   "en": "A little while ago, I heard some strange \"voice\"... like it was ringing right inside my brain..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.615",
+   "en": "...So that was Seravee."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.624",
+   "en": "So it's finally the showdown with Belial."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.625",
+   "en": "...Come to think of it, was Dinosaur Greeed there?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.626",
+   "en": "Ikadevil mentioned him, didn't he?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.627",
+   "en": "Yes, I know. He spoke that name as he was dying."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.628",
+   "en": "Belial and Dinosaur Greeed... Fearsome opponents."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.629",
+   "en": "That's not all. The Devil Gundam must be lurking somewhere, too."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.399",
+   "note": "SPEAKERS from tools/talkspk.py Quest (Talk01_34-54); slice labels were missing. Urataros = #0.399/406/407/417/440/442/466/467/469/471/472/481/483/485/487/495/496/515/518/564/604/605; OOO = #0.400/419/427; W (Shotaro) = #0.418/420/421; Birth = #0.426/428/429/431; Accel = #0.430; Rider 2 = #0.441/443-445/452-454/503-506/528/530/532/541-544/551/574-576/583/584/614/615/624-626; God Gundam = #0.529/531/629; Rider 1 = #0.627/628; Momotaros = #0.468/470/482/484/486/565/593/595; Ryutaros = #0.516/563/592/594; Kintaros = #0.517."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.400",
+   "note": "OOO answering Urataros: he was in the 'swamp of fear' too (#0.397); 'sono ba ni itara' read as 'if I were back there'. 'Not as bad as W' = his reaction would be milder than W's."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.417",
+   "note": "Xtreme Memory per glossary; quotes kept from source. 'te-shimatta' (ended up / sooner than expected) carried by 'ended up'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.420",
+   "note": "Shotaro to OOO. Literally 'if even just you get stronger, there are people who'll be saved'; subject 'somebody' restored."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.427",
+   "note": "Separate unit = betsudoutai, as in story_102/103 (Accel and Birth sent in as a separate unit)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.429",
+   "note": "Exhibit room = Monster Zoo tenjishitsu, matching dungeon labels ('Exhibit Room')."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.431",
+   "note": "Birth calls Accel 'Accel-chan' (teasing); honorific dropped per style, teasing carried by 'Geez'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.441",
+   "note": "Rider 2. 'Now they're already moving together' read as Accel having joined the main team (story_103: Accel and Birth go with the heroes). Uncertain: could mean Accel and Birth together."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.445",
+   "note": "'Kubi kara ue no nai' = headless; no pronouns used for the corpse."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.452",
+   "note": "Sentence runs on into #0.453; cut at the same point."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.467",
+   "note": "Urataros replying to an implied 'not yet' about the Gaia Gate; 'sonna toki wa' = at times like that."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.468",
+   "note": "Kame-kou -> 'Turtle' as established."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.484",
+   "note": "Ama-chan (naive softie/greenhorn) -> 'softies'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.487",
+   "note": "Sempai = Momotaros (Imagin usage)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.503",
+   "note": "#0.503/#0.504 have no script speaker (None); assigned to Rider 2, whose Talk01_43 lines #0.505/#0.506 continue the same speech."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.529",
+   "note": "God Gundam (Domon). Death Army, DG Cells per glossary. Devil Gundam g=n -> 'it' (#0.544)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.542",
+   "note": "Rider 2 was captured by Shocker in the story (talk_005 #0.182 note). Sentence runs into #0.543; cut at the same point. Ability names per glossary with quotes kept."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.563",
+   "note": "Ryutaros; 'the cannon' = the giant particle cannon from #0.481/482."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.574",
+   "note": "Rider 2 reacting to a report ('da tte?' = you're telling me...?)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.594",
+   "note": "Ryutaros's music note kept as in source."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.595",
+   "note": "Kinchoukan nee na = no sense of tension/urgency."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.604",
+   "note": "Veda as in earlier story slices; 'Seravee-tachi' -> 'Seravee's group'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.614",
+   "note": "Rider 2. The 'voice' heard directly in the brain = Seravee (quantum brainwaves); quotes kept."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.626",
+   "note": "Rider 2 continues; 'him' = Dinosaur Greeed (g=m). #0.627 'He' = Ikadevil (g=m), who named Dinosaur Greeed when dying."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.628",
+   "note": "Labelled Rider 1 by the script; kept."
+  }
+ ],
+ "report": "80/80 rows. Speakers taken from tools/talkspk.py Quest; #0.503/#0.504 had no speaker and were assigned to Rider 2 (same speech as #0.505/506). Uncertain: #0.441 who Accel is now moving with (read as the main team). No new glossary names; 'separate unit', 'exhibit room', 'giant particle cannon', 'pitfall' follow earlier slices."
+}

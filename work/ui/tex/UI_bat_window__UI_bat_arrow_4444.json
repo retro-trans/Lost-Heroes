@@ -1,0 +1,56 @@
+{
+ "tpc": "Graph/Bat/UI/Window/UI_bat_window.tpc",
+ "page": "UI_bat_arrow_4444.tga",
+ "note": "Enemy resistance markers 無効 / 弱点 / 特殊 / 耐性, each a separate two-glyph label (Null / Weak / Spec. / Res).",
+ "defaults": {
+  "size": 8,
+  "bold": false,
+  "color": [
+   255,
+   255,
+   187
+  ]
+ },
+ "clear": [
+  [
+   3,
+   233,
+   39,
+   21
+  ]
+ ],
+ "boxes": [
+  {
+   "x": 4,
+   "y": 234,
+   "w": 18,
+   "h": 9,
+   "text": "Null",
+   "align": "center"
+  },
+  {
+   "x": 24,
+   "y": 234,
+   "w": 16,
+   "h": 9,
+   "text": "Weak",
+   "align": "center"
+  },
+  {
+   "x": 5,
+   "y": 244,
+   "w": 16,
+   "h": 9,
+   "text": "SPCL",
+   "align": "center"
+  },
+  {
+   "x": 23,
+   "y": 244,
+   "w": 18,
+   "h": 9,
+   "text": "Res",
+   "align": "center"
+  }
+ ]
+}

@@ -1,0 +1,402 @@
+{
+ "slice": "story_036",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0246.mbb#0.81",
+   "en": "More importantly, what about the Maganac Corps?"
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.82",
+   "en": "Yeah, we managed somehow."
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.83",
+   "en": "More importantly, what about the Maganac Corps?"
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.84",
+   "en": "Yeah, we managed somehow."
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.85",
+   "en": "More importantly, what about the Maganac Corps?"
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.86",
+   "en": "We're fine."
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.87",
+   "en": "More importantly, what about the Maganac Corps?"
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.88",
+   "en": "We're fine."
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.89",
+   "en": "More importantly, what about the Maganac Corps?"
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.90",
+   "en": "Yeah, we managed somehow."
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.91",
+   "en": "More importantly, what about the Maganac Corps?"
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.92",
+   "en": "It's nothin'."
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.93",
+   "en": "More importantly, what about the Maganac Corps?"
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.94",
+   "en": "Heavyarms and the others are rescuing them right now."
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.95",
+   "en": "I see..."
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.96",
+   "en": "I see..."
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.97",
+   "en": "I see..."
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.98",
+   "en": "I see..."
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.99",
+   "en": "I see..."
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.100",
+   "en": "I see..."
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.101",
+   "en": "I see..."
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.102",
+   "en": "I see..."
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.103",
+   "en": "I see..."
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.104",
+   "en": "Hey, how long do you plan to hang around a place like this?"
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.1",
+   "en": "Have you recovered the materials we need?"
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.4",
+   "en": "Oh, the \"Emerium ore\"!"
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.5",
+   "en": "With this, the Ride Machine's energy supply should jump by orders of magnitude."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.7",
+   "en": "All that's left is the \"Gundanium alloy\" and weapons. Keep it up. I'm counting on you."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.9",
+   "en": "All that's left is the \"Gundanium alloy.\" Keep it up. I'm counting on you."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.11",
+   "en": "All that's left is weapons fit for the Ride Machine. Keep it up. I'm counting on you."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.14",
+   "en": "Oh, the \"Gundanium alloy\"!"
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.15",
+   "en": "With this, the Ride Machine's armor should be vastly reinforced."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.17",
+   "en": "All that's left is the \"Emerium ore\" and weapons. Keep it up. I'm counting on you."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.19",
+   "en": "All that's left is the \"Emerium ore.\" Keep it up. I'm counting on you."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.21",
+   "en": "All that's left is weapons fit for the Ride Machine. Keep it up. I'm counting on you."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.24",
+   "en": "Oh, this is... the \"Gaia Cannon\"!"
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.25",
+   "en": "I see... This would make a perfect main gun for the Ride Machine."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.27",
+   "en": "All that's left is the \"Emerium ore\" and the \"Gundanium alloy.\""
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.28",
+   "en": "Keep it up. I'm counting on you."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.30",
+   "en": "All that's left is the \"Emerium ore.\" Keep it up. I'm counting on you."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.32",
+   "en": "All that's left is the \"Gundanium alloy.\" Keep it up. I'm counting on you."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.35",
+   "en": "I see... Once you've recovered them, bring them here."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.41",
+   "en": "...That's everything, then."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.42",
+   "en": "All right, let's get to work right away."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.43",
+   "en": "The other parts are already finished, but I'll need you to wait a little longer."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.44",
+   "en": "......"
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.45",
+   "en": "Gundam, Kamen Rider, and Ultraman... The heroes of every world pooled their knowledge and skills..."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.46",
+   "en": "and the work went on day and night."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.47",
+   "en": "And then..."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.48",
+   "en": "It's done."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.49",
+   "en": "Yes. This is the fruit of everyone's cooperation."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.50",
+   "en": "Now that's impressive!"
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.52",
+   "en": "It's quite different from the Ptolemaios."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.53",
+   "en": "Yeah. All we based it on was the basic internal structure."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.54",
+   "en": "For everything else, we adapted all kinds of different technologies."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.55",
+   "en": "And this time the weapons are no joke either! No way we can lose now, right?"
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.56",
+   "en": "With this, we can strike at the enemy's base."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.57",
+   "en": "About that, Nu Gundam..."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.58",
+   "en": "I talked it over with Hikari and our comrades,"
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.59",
+   "en": "and we'd like you guys to take the lead in the assault on their base."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.60",
+   "en": "Seeing how you've fought so far, we judged that gives us better odds of winning."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.61",
+   "en": "I know it's a selfish request, but could you take it on for us somehow?"
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.62",
+   "en": "...All right."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.63",
+   "en": "We were planning to go to their base anyway."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.64",
+   "en": "Leave it to us!!"
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.65",
+   "en": "We'll pull it off better than you guys, just watch!"
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.66",
+   "en": "I see. Good to hear you say that. It's reassuring."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.67",
+   "en": "Still, you'd be stuck if we just told you to run the Ride Machine out of nowhere,"
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.68",
+   "en": "so from our side, Seravee will ride along with you."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.69",
+   "en": "For what it's worth, I know the Ride Machine better than anyone."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.70",
+   "en": "That's a big help."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.71",
+   "en": "Right, let me fill you in on what we know about the enemy so far."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.72",
+   "en": "Seems they've gotten hold of yet another world's technology."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.73",
+   "en": "They say it creates \"the power of miracles.\""
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.74",
+   "en": "That's hard to believe."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.75",
+   "en": "But if it's true, we've got to stop them before they misuse it."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.76",
+   "en": "And one more thing..."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.77",
+   "en": "It's about this Cube's boss."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.78",
+   "en": "We knew the enemy's goal was the research and development of new weapons."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.79",
+   "en": "Going by that, we had assumed the boss here was the scientist type... In other words..."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0246.mbb#0.81",
+   "note": "Continues the 0246 roll-call from story_035: each party member answers 'managed somehow / we're fine' then asks about the Maganac Corps; labels in this block are reliable. Mebius (0.84) and OOO (0.90) use plain 'aa, nantoka' here (not the polite form seen in 0245), so rendered the same as the others."
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.92",
+   "note": "Den-O Sword Form (Momotaros) 'doutte koto nee yo' = 'It's nothin'.' as in 0245#0.107. His follow-up 0.93 is the plain question in 0246 (no 'dou natten da'), so rendered as the standard line."
+  },
+  {
+   "key": "MainEventMess0246.mbb#0.95",
+   "note": "0.95-0.103 'I see...' one per party member; all plain form, so all with ellipsis."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.7",
+   "note": "Legacy mis-decode: 'tanonda zo' garbled in 0.7/0.9/0.11/0.17/0.19/0.21/0.28/0.30/0.32; read via clean twin 0230 ('Keep it up. I'm counting on you.'). Weapons not in corner brackets in this table, so left unquoted."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.15",
+   "note": "Legacy mis-decode of 'kakudan ni' (markedly); read as 'vastly' per 0230#0.18."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.32",
+   "note": "Source says 'Gundanium ore' (same slip as 0230#0.35); rendered as glossary item 'Gundanium alloy'."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.43",
+   "note": "No speaker recovered; Hikari continuing (0230#0.46)."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.45",
+   "note": "SPEAKER LABELS SHIFTED: from 0.44 on, 0247 labels sit 3 rows early (label of row N belongs to row N+3, matching the clean 0230 scene). 0.45-0.47 are narration (labels Seravee/Birth/None wrong). 0.45-0.46 one sentence cut across two rows. Legacy mis-decode of 'kesshuu' (pooled) read via 0230#0.48."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.48",
+   "note": "True speakers by the shift: 0.48 Hikari, 0.49 Seravee, 0.50 Birth, 0.52 00, 0.53 Hikari, 0.54 Seravee, 0.55 Birth, 0.56 Nu Gundam, 0.57-0.61 Cherudim, 0.62-0.63 Nu Gundam, 0.64-0.65 Zero, 0.66-0.68 Cherudim, 0.69 Seravee, 0.70 Nu Gundam, 0.71-0.73 Cherudim, 0.74 Seravee, 0.75 Cherudim, 0.76-0.79 Seravee. Fits each line's voice (boku = Seravee, Birth's casual tone, etc.). No ! in source here, so 'It's done.'"
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.53",
+   "note": "Legacy mis-decode: read as 'kihon to naru' (basic/fundamental) internal structure."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.57",
+   "note": "Legacy mis-decode: the garbled kanji before 'Gundam' read as the nu symbol, i.e. Cherudim addressing Nu Gundam, who spoke 0.56. Guess, but fits the shifted labels and 0230."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.58",
+   "note": "0.58-0.59 one sentence cut across rows. 'Omaera ga shutai to natte' = the Hero Team takes the lead in the assault."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.61",
+   "note": "Cherudim asking the party: 'could you take it on for us'."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.63",
+   "note": "Subject 'we' restored (Nu Gundam speaking for the party)."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.64",
+   "note": "Zero's 'makasetoke' = 'Leave it to us!!' as in 0230#0.67; trailing ? on 0.65 is a cocky 'just watch'."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.67",
+   "note": "0.67-0.68 one sentence cut across rows."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.71",
+   "note": "Legacy mis-decode of 'genjiten' (at present) read via 0230#0.74."
+  },
+  {
+   "key": "MainEventMess0247.mbb#0.79",
+   "note": "Legacy mis-decode: 'kagakusha' (scientist) garbled; read via 0230#0.82. Sentence continues into story_037 (0.80)."
+  }
+ ],
+ "report": "80/80. 0247 speaker labels shifted by 3 rows; speakers re-derived from clean twin 0230. Several legacy mis-decodes resolved via 0230 (tanonda, kakudan, kesshuu, kihon, genjiten, kagakusha); 0.57 garbled 'nu' is a guess (Cherudim addressing Nu Gundam). No new names."
+}

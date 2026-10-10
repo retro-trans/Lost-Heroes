@@ -1,0 +1,353 @@
+{
+ "slice": "extra_009",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "notes": [
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.17",
+   "note": "Rough leader (not Nu/Zeta) realizing this is the Nu/Zeta quest. 'Baka ga' rendered 'Idiot move!' because its target (self or party) is unclear."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.43",
+   "note": "Jagd Doga pilot (girl): 0.43/0.46/0.49/0.51/0.52. 0.53 is Nu or Zeta pleading with her (inferred)."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.46",
+   "note": "Source has no quote brackets on Fin Funnel in 0.46/0.47 (twin did), so quotes dropped there; kept on item-get line 0.56."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0673.mbb#0.4",
+   "note": "Twin speaker is Gaddess, but this scene is the Libra/Epyon one, so the speaker may be Epyon. Wording works either way."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.4",
+   "note": "Leader variants 0.4-0.18; the two sentence endings get identical English. 0.7 polite, 0.8 rough."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.20",
+   "note": "Remote voices 0.20-0.22 (twin slots are Birth, Accel, Methuss). 0.20/0.21 speakers unconfirmed; 0.22 Methuss, source typo read as in twin."
+  }
+ ],
+ "rows": [
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.24",
+   "en": "Move. That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.25",
+   "en": "Move. That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.26",
+   "en": "Move. That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.27",
+   "en": "Move. That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.28",
+   "en": "Step aside. That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.29",
+   "en": "Outta the way! That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.30",
+   "en": "Get out of the way! That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.31",
+   "en": "Step aside. That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.32",
+   "en": "Step aside. That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.33",
+   "en": "Step aside. That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.34",
+   "en": "Could you move aside? That's our weapon buried down there."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.35",
+   "en": "Move. That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.36",
+   "en": "Move. That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.37",
+   "en": "Move. That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.42",
+   "en": "Found a large beam rifle."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.58",
+   "en": "Hey... I got worried and came to check after all. Whoa!! You found it!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.9",
+   "en": "This is definitely the right place."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.10",
+   "en": "...Hm!? What is this feeling!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.16",
+   "en": "Tch! There's nothing in here! Besides..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.17",
+   "en": "This job's for Nu Gundam and Zeta Gundam, right? Idiot move! We'll come back later!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.43",
+   "en": "You found this place!? Are you guys Newtypes!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.45",
+   "en": "A survivor of The O's research!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.46",
+   "en": "I'm not giving you the Fin Funnels!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.47",
+   "en": "What!? ...So the Psycommu weapon was the Fin Funnels!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.48",
+   "en": "Those are Nu Gundam's weapons!! We're taking them back!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.49",
+   "en": "No way! These are really important to Regis!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.50",
+   "en": "I don't have time to play with a child! Let's go!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.51",
+   "en": "Waaaaah!! Stay away!! Funnels!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.52",
+   "en": "Ahahahahah!! Go down, go down, go dooown!!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.53",
+   "en": "Stop it...!! You shouldn't be fighting!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.56",
+   "en": "Obtained \"Fin Funnel\"."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0611.mbb#0.2",
+   "en": "...Looks like it's gone silent."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0611.mbb#0.3",
+   "en": "So the operation was a success."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0673.mbb#0.4",
+   "en": "You're not getting past meee!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0676.mbb#0.1",
+   "en": "Target destroyed... Let's hurry. The Colony Laser should be close."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0676.mbb#0.2",
+   "en": "Target destroyed... Let's hurry. The Colony Laser should be close."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0676.mbb#0.3",
+   "en": "Regnant... That was a tough opponent. Oops, no time to stand around. Let's hurry on!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0676.mbb#0.4",
+   "en": "All right, let's hurry on! The Colony Laser should be close!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0676.mbb#0.5",
+   "en": "All right, let's hurry on! The Colony Laser should be close!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0676.mbb#0.6",
+   "en": "All right, let's hurry on! The Colony Laser should be close!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0676.mbb#0.7",
+   "en": "The enemy's tightened its defenses... We've gotta hurry..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0676.mbb#0.8",
+   "en": "All right, let's hurry on! The Colony Laser should be close!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0676.mbb#0.9",
+   "en": "All right, let's hurry on! The Colony Laser should be close!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0676.mbb#0.10",
+   "en": "All right, let's hurry! That huge space thingy's close, ain't it!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0676.mbb#0.11",
+   "en": "The enemy is reinforcing its defenses. So the Colony Laser really must be close!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0676.mbb#0.12",
+   "en": "The enemy is reinforcing its defenses. So the Colony Laser really must be close!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0676.mbb#0.13",
+   "en": "The enemy is reinforcing its defenses. So the Colony Laser really must be close!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0676.mbb#0.14",
+   "en": "The enemy is reinforcing its defenses. So the Colony Laser really must be close!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0676.mbb#0.15",
+   "en": "The enemy is reinforcing its defenses. So the Colony Laser really must be close!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0722.mbb#0.1",
+   "en": "The door is firmly shut."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0722.mbb#0.2",
+   "en": "The one that opened was some other door, remember?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0723.mbb#0.2",
+   "en": "Let's go."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.2",
+   "en": "\"I expect this will be a hard fight, but I believe in all of you!!\""
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.3",
+   "en": "Now that it's come to this, we've got no choice but to go, right!?"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.4",
+   "en": "Yeah. If we're gonna die anyway, we can at least find out what Regis really is first!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.5",
+   "en": "Yeah. If we're gonna die anyway, we can at least find out what Regis really is first!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.6",
+   "en": "Yeah. If we're gonna die anyway, we can at least find out what Regis really is first!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.7",
+   "en": "Yes. If we're going to die anyway, we may as well find out what Regis really is first."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.8",
+   "en": "You bet! If we're gonna die anyway, we can at least find out what Regis is first."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.9",
+   "en": "Yeah. If we're gonna die anyway, we can at least find out what Regis really is first!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.10",
+   "en": "Yeah. If we're gonna die anyway, we can at least find out what Regis really is first!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.11",
+   "en": "Yeah. If we're gonna die anyway, we can at least find out what Regis really is first!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.12",
+   "en": "Yeah. If we're gonna die anyway, we can at least find out what Regis really is first!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.13",
+   "en": "Yeah. If we're gonna die anyway, we can at least find out what Regis really is first!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.14",
+   "en": "Yeah. If we're gonna die anyway, we can at least find out what Regis really is first!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.15",
+   "en": "Yeah. If we're gonna die anyway, we can at least find out what Regis really is first!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.16",
+   "en": "Yeah. If we're gonna die anyway, we can at least find out what Regis really is first!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.17",
+   "en": "Yeah. If we're gonna die anyway, we can at least find out what Regis really is first!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.18",
+   "en": "Yeah. If we're gonna die anyway, we can at least find out what Regis really is first!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.20",
+   "en": "\"Hey! Don't go sayin' stuff that'll jinx it!!\""
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.21",
+   "en": "\"Regis is the one who's gonna die, right?\""
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.22",
+   "en": "\"You'd better come back alive, no matter what!!\""
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.37",
+   "en": "Yeah, I'll come back, without fail!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.38",
+   "en": "Yeah, wait for me! I'll come back alive, no matter what!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.39",
+   "en": "Yeah, I'll come back, without fail!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.42",
+   "en": "\"It'll be all right. All of you have a 'heart of justice.' That's why you're sure to win!\""
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.44",
+   "en": "\"Sorry. Even I can't aim and fire from way out here. But I believe in ya. You guys can do this!!\""
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.45",
+   "en": "\"I'm sorry I can't help you... Save the world in our place!!\""
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.48",
+   "en": "Everyone... I've received those feelings... 00, eliminating the target!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0735.mbb#0.50",
+   "en": "Everyone... thank you... All right!! Let's go!!"
+  }
+ ]
+}

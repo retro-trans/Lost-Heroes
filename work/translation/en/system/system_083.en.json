@@ -1,0 +1,342 @@
+{
+ "slice": "system_083",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillName.mbb#0.176",
+   "en": "Lightning Counter"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.177",
+   "en": "Mebium Pinger"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.178",
+   "en": "Mebius Defence Circle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.179",
+   "en": "Passive Blade Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.180",
+   "en": "Active Blade Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.181",
+   "en": "Mebium Shoot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.182",
+   "en": "Mebium Knight Shoot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.183",
+   "en": "Zero Knuckle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.184",
+   "en": "Ultra Zero Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.185",
+   "en": "Beam Zero Spike"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.186",
+   "en": "Emerium Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.187",
+   "en": "Wide Zero Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.188",
+   "en": "Zero Sluggers"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.189",
+   "en": "Zero Sluggers Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.190",
+   "en": "Light Power"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.191",
+   "en": "Weak Bond"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.192",
+   "en": "Zero Twin Shoot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.193",
+   "en": "Plasma Spark Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.194",
+   "en": "W Rider Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.195",
+   "en": "Double Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.196",
+   "en": "Double Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.197",
+   "en": "Twin Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.198",
+   "en": "Twin Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.199",
+   "en": "Twin Burst"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.200",
+   "en": "Form Change Combo"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.201",
+   "en": "Combination Zero"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.202",
+   "en": "Double Rider Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.203",
+   "en": "Operation Ultra Star"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.204",
+   "en": "Limit Over Blade"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.205",
+   "en": "Blazing Big Bang Finger"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.206",
+   "en": "Tajadol Dynamite"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.207",
+   "en": "Our Finisher: W Version"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.208",
+   "en": "Ultra Rider Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.209",
+   "en": "Equip O Raiser"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.210",
+   "en": "Twin Finalfusion"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.211",
+   "en": "Force Cap Up I"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.212",
+   "en": "Force Cap Up II"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.213",
+   "en": "Force Cap Up III"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.214",
+   "en": "Hero Gauge Up I"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.1",
+   "en": "???"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.2",
+   "en": "Normal Attack (Ranged"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.3",
+   "en": "Normal Attack (Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.4",
+   "en": "Normal Attack (Gundam-Type"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.5",
+   "en": "Critical Normal (Physical"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.6",
+   "en": "Critical Normal (Ranged"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.7",
+   "en": "Critical Normal (Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.8",
+   "en": "Critical Normal (Gundam-Type"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.9",
+   "en": "Enemy Normal Attack (Physical"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.10",
+   "en": "Enemy Normal Attack (Ranged"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.11",
+   "en": "Enemy Normal Attack (Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.12",
+   "en": "Enemy Crit Normal (Physical"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.13",
+   "en": "Enemy Crit Normal (Ranged"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.14",
+   "en": "Enemy Crit Normal (Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.15",
+   "en": "Defend"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.16",
+   "en": "Item"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.17",
+   "en": "Rider Punch"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.18",
+   "en": "Rider Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.19",
+   "en": "Rider Screw Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.20",
+   "en": "Rider Drop Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.21",
+   "en": "Lightning Rider Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.22",
+   "en": "Rider Chop"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.23",
+   "en": "Wind Power"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.24",
+   "en": "Defiant Stance"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.25",
+   "en": "Decoy"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.26",
+   "en": "Combo Chain"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.27",
+   "en": "Spin Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.28",
+   "en": "RX Punch"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.29",
+   "en": "RX Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.30",
+   "en": "King Stone Flash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.31",
+   "en": "Macro Eye"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.32",
+   "en": "Revolcane Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.33",
+   "en": "Weak Bond"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.34",
+   "en": "Hard Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.35",
+   "en": "Robo Punch"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.36",
+   "en": "Spark Cutter"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.37",
+   "en": "Bio Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.38",
+   "en": "Revolcrash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.39",
+   "en": "RX Combo"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.40",
+   "en": "Disolder Slasher"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.41",
+   "en": "Den-Rider Kick"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Skill/SkillName.mbb#0.179",
+   "note": "Source spells the first word with a typo; read as Passive."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.40",
+   "note": "Name romanized; official spelling unknown."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#0.207",
+   "note": "Reads as a W-themed variant of 'our finisher'; wording guessed."
+  }
+ ],
+ "report": "Skill names (Zero, Mebius, Rider, RX, Den-O, W, OOO). Unclosed parentheses in rows 1.2-1.14 copied from earlier slices' convention. Uncertain: Disolder Slasher, Blazing Big Bang Finger, Our Finisher: W Version, Mebium Pinger. Not in glossary: Mebium, Emerium, Revolcane, Tajadol, Finalfusion (used in earlier slice)."
+}

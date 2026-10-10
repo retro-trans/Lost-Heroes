@@ -1,0 +1,386 @@
+{
+ "slice": "story_150",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0711.mbb#0.82",
+   "en": "If it's come to this, we just gotta beat 'em!! Here I go, here I go, here I gooo!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.83",
+   "en": "If it's come to this, there's no other way but to defeat them. Let's go!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.84",
+   "en": "If it's come to this, there's no other way but to defeat them. Let's go!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.85",
+   "en": "If it's come to this, there's no other way but to defeat them. Let's go!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.86",
+   "en": "If it's come to this, we have no choice but to defeat them. Let's go!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.87",
+   "en": "If it's come to this, we've gotta take 'em down!! Let's go!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.89",
+   "en": "We managed to beat them, but... if they keep coming at us like this, I dread what lies ahead."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.90",
+   "en": "Even for us, it's tough when there are this many of them."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.91",
+   "en": "We beat them somehow... but if they keep coming like this, we'll only wear ourselves down."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.92",
+   "en": "Even for us, it's tough when there are this many of them."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.93",
+   "en": "We beat them somehow... but if we keep fighting like this, we'll only wear ourselves down."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.94",
+   "en": "Even for us, it's tough when there are this many of them."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.95",
+   "en": "With numbers like these, the drain on us is severe."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.96",
+   "en": "We beat them somehow... but if we keep fighting like this, we'll only wear ourselves down."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.97",
+   "en": "We beat them somehow... but if they keep coming like this, we'll only wear ourselves down."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.98",
+   "en": "Took 'em down somehow, but... if they keep comin' at us like this, I can't stand it!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.99",
+   "en": "We beat them somehow... but if they keep coming like this, we'll only wear ourselves down."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.100",
+   "en": "We beat them somehow... but if they keep coming like this, we'll only wear ourselves down."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.101",
+   "en": "We beat them somehow... but if they keep coming like this, we'll only wear ourselves down."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.102",
+   "en": "We beat them somehow... but if they keep coming like this, we'll only wear ourselves down."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.103",
+   "en": "We beat 'em somehow, but... if they keep coming like this, it's gonna be a real pain!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.104",
+   "en": "Heh heh heh heh heh..."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.105",
+   "en": "...!! ...Dinosaur Greeed!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.106",
+   "en": "You cannot leave this area. All you can do is keep wearing yourselves down..."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.107",
+   "en": "...thanks to the Gundam Heads!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.108",
+   "en": "Not a chance!! We'll hunt down their boss, Devil Gundam, and destroy it!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.109",
+   "en": "That's not going to happen!! We'll find their boss, Devil Gundam, and defeat it!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.110",
+   "en": "But if we defeat Devil Gundam, the multiplying should stop!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.111",
+   "en": "In that case, we'll defeat Devil Gundam. That should put a stop to the multiplying."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.112",
+   "en": "Not a chance!! We'll hunt down their parent, Devil Gundam, and destroy it!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.113",
+   "en": "Not a chance!! We'll hunt down their boss, Devil Gundam, and destroy it!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.114",
+   "en": "But if we defeat Devil Gundam, the multiplying should stop!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.115",
+   "en": "Not a chance!! We'll hunt down their boss, Devil Gundam, and destroy it!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.116",
+   "en": "But if we defeat Devil Gundam, the multiplying should stop!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.117",
+   "en": "That ain't happenin'!! All we gotta do is find the big boss, Devil Gundam, and take it out!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.118",
+   "en": "But if we defeat Devil Gundam, the multiplying should stop!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.119",
+   "en": "But if we defeat Devil Gundam, the multiplying should stop!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.120",
+   "en": "But if we defeat Devil Gundam, the multiplying should stop!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.121",
+   "en": "Not a chance!! We'll hunt down their boss, Devil Gundam, and destroy it!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.122",
+   "en": "Not a chance!! We'll hunt down their boss, Devil Gundam, and destroy it!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.123",
+   "en": "If you can defeat it, then by all means, please do."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.124",
+   "en": "Though I should mention, Devil Gundam has kept evolving, and has now become one with the Cube."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.125",
+   "en": "Fufufufufu..."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.126",
+   "en": "...What did you say?"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.127",
+   "en": "By the three great theories of Self-Evolution, Self-Regeneration and Self-Multiplication..."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.128",
+   "en": "...the Gundam Heads revive no matter how much damage they take, and grow even stronger!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.129",
+   "en": "Even you Lost Heroes... how long do you suppose you can keep on fighting?"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.130",
+   "en": "You...!! What the hell are you scheming!?"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.131",
+   "en": "This, of course...!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.132",
+   "en": "The \"Memory Memory\"!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.133",
+   "en": "The memories stored in here are a little lopsided. Your deaths will fill in what they lack!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.134",
+   "en": "What are you planning to do, gathering our battle data!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.135",
+   "en": "What are you planning to do, gathering our battle data!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.136",
+   "en": "What are you planning to do, gathering our battle data!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.137",
+   "en": "What are you planning to do, gathering our battle data!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.138",
+   "en": "What are you planning to do, gathering our battle data!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.139",
+   "en": "What are you planning to do, gathering our battle data!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.140",
+   "en": "What are you planning to do, gathering our battle data!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.141",
+   "en": "What do you intend to do by gathering our battle data!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.142",
+   "en": "What do you intend to do by gathering our battle data!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.143",
+   "en": "What do you intend to do by gathering our battle data!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.144",
+   "en": "What are you planning to do, gathering our battle data!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.145",
+   "en": "What are you planning to do, gathering our battle data!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.146",
+   "en": "What are you planning to do, gathering our battle data!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.147",
+   "en": "What are you planning to do, gathering our battle data!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.148",
+   "en": "What are you planning to do, gathering our battle data!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.149",
+   "en": "Battle data...?"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.150",
+   "en": "Fufufufufu..."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.151",
+   "en": "To be exact, I've had the negative memories in your hearts collected: suffering, fear and despair."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.152",
+   "en": "We don't have memories like that...!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.153",
+   "en": "We have no such memories...!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.154",
+   "en": "As if we'd have memories like that...!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.155",
+   "en": "As if we'd have memories like that...!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.156",
+   "en": "Tch! Like hell we've got anything like that!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.157",
+   "en": "What...!? We don't have memories like that!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.158",
+   "en": "We don't have memories like that...!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.159",
+   "en": "We have no such memories!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.160",
+   "en": "We have no such memories!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.161",
+   "en": "We have no such memories!!"
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.162",
+   "en": "What!? Something like that..."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0711.mbb#0.82",
+   "note": "Speakers verified in event 0711.bla. Blocks 0.73-0.87, 0.89-0.103 and 0.108-0.122 are leader variants indexed by the second Pt_Chara_Check sequence: God Gundam, OOO, Nu Gundam, W, Zeta, Black RX, Wing Zero, Rider 1, 00, Den-O Sword Form, Taro, Ultraman, Seven, Mebius, Zero. So 0.82 = Momotaros (his 'Here I go' catchphrase), 0.83-0.85 Taro/Ultraman/Seven, 0.86 Mebius, 0.87 Zero."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.82",
+   "note": "'them' = the multiplied Gundam Heads (end of slice 149: they have multiplied; after the battle the leaders complain about the numbers)."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.89",
+   "note": "0.89-0.103 leader variants (same order): 0.89 God Gundam, 0.90 OOO, 0.91 Nu, 0.92 W, 0.93 Zeta, 0.94 Black RX, 0.95 Wing Zero, 0.96 Rider 1, 0.97 00, 0.98 Momotaros, 0.99-0.101 Taro/Ultraman/Seven, 0.102 Mebius, 0.103 Zero. Identical Japanese kept identical."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.104",
+   "note": "Name label is ??? (CHARA_NAME 30); it is the Dinosaur Greeed laughing before he appears (Ankh names him next row)."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.106",
+   "note": "One sentence cut across 0.106/0.107 (worn down... by the Gundam Heads); English cut at the same point."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.108",
+   "note": "0.108-0.122 leader variants (same order). 0.111 is the W variant and the script labels it W (Philip) instead of the leader (CharaNameIn 198), matching his voice; translated as Philip. 0.112 (Zeta) says 'parent' rather than 'boss'. 'We'll' chosen so identical Japanese across God/RX/Rider 1/Mebius/Zero stays identical."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.123",
+   "note": "Dinosaur Greeed (Dr. Maki) polite register kept; 'it' = Devil Gundam."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.125",
+   "note": "This laugh (TextIdOffset+124) is never called by 0711.bla, so it is likely unused. Unlabelled; treated as the Dinosaur Greeed by context (same text as 0.150)."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.127",
+   "note": "Glossary term (Self-Regeneration/Self-Multiplication/Self-Evolution) kept in the source's order: evolution, regeneration, multiplication. Japanese brackets dropped for length. The subject 'Gundam Heads' moved from the start of 0.127 into 0.128: with it, 0.127 wraps to 3 lines (the three terms are long). Same sentence, same content split otherwise."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.132",
+   "note": "Memory Memory: the Gaia Memory the party was searching for (slice 149); quotes kept as in the source."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.134",
+   "note": "Slice label 'Zero' is wrong. The script shows only TextIdOffset+133 (entry 0.134) under the current leader's name, with no leader offset, so 0.134 plays for every leader and 0.135-0.148 look unused. Variant order (from the 0.152 block's EQ checks): OOO, W, Black RX, Rider 1, Den-O, Zero, Mebius, Seven, Ultraman, Taro, 00, Wing Zero, Zeta, Nu, God Gundam. The 'we' (ware-ware) rows 0.141-0.143 = Seven/Ultraman/Taro get a more formal wording."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.151",
+   "note": "Causative ('had them collected'): the agent isn't named, so the passive keeps it open (the Gundam Heads fighting the heroes, or the Memory Memory). 'negative memories' kept literal."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.152",
+   "note": "Slice labels 'Zero' are wrong for 0.152-0.162. Script EQ checks give the leader per entry: 0.152 OOO, 0.153 W (Shotaro), 0.154 Black RX, 0.155 Rider 1, 0.156 Den-O Sword Form (Momotaros), 0.157 Zero, 0.158 Mebius, 0.159 Seven, 0.160 Ultraman, 0.161 Taro, 0.162 00 (0.163-0.166 = Wing Zero, Zeta, Nu, God Gundam in story_151)."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.162",
+   "note": "00 (Setsuna) trails off; it continues into Dinosaur Greeed's 'They do exist!!' in story_151, so the line stays unfinished."
+  }
+ ],
+ "report": "80/80 rows. Speakers verified in 0711.bla: slice labels 'Zero' on 0.134 and 0.152-0.162 are wrong (leader variants; per-entry leaders in notes). 0.111 is W (Philip). 0.125 is likely unused. 0.134 plays for every leader. No new names."
+}

@@ -1,0 +1,450 @@
+{
+ "slice": "extra_004",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0566.mbb#0.103",
+   "en": "It didn't seem that way, though..."
+  },
+  {
+   "key": "MainEventMess0568.mbb#0.90",
+   "en": "Hm!? Something's lying over there, isn't it?"
+  },
+  {
+   "key": "MainEventMess0569.mbb#0.19",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0570.mbb#0.16",
+   "en": "W's \"Xtreme Memory\" should be on this floor too."
+  },
+  {
+   "key": "MainEventMess0571.mbb#0.18",
+   "en": "Taboo Dopant!! You don't have to tell me! I'll take you down!"
+  },
+  {
+   "key": "MainEventMess0572.mbb#0.4",
+   "en": "Fufufu...!! That's it, go on wasting your time."
+  },
+  {
+   "key": "MainEventMess0573.mbb#0.4",
+   "en": "Fufufu...!! That's it, go on wasting your time."
+  },
+  {
+   "key": "MainEventMess0574.mbb#0.4",
+   "en": "Fufufu...!! That's it, go on wasting your time."
+  },
+  {
+   "key": "MainEventMess0575.mbb#0.4",
+   "en": "Fufufu...!! That's it, go on wasting your time."
+  },
+  {
+   "key": "MainEventMess0576.mbb#0.107",
+   "en": "Yeah! You said it!! Cyclone Joker Xtreme it is!"
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.231",
+   "en": "We'll be fine. Leave it to us!"
+  },
+  {
+   "key": "MainEventMess0582.mbb#0.16",
+   "en": "I don't know... But for now, all we can do is keep going."
+  },
+  {
+   "key": "MainEventMess0583.mbb#0.3",
+   "en": "Ikadevil's Shocker Greeed? It's close..."
+  },
+  {
+   "key": "MainEventMess0586.mbb#0.53",
+   "en": "Got it. There's just one Gaia Gate left. Move fast!"
+  },
+  {
+   "key": "MainEventMess0587.mbb#0.200",
+   "en": "With this, our next plan will be set in motion... Fu fu fu fu..."
+  },
+  {
+   "key": "MainEventMess0588.mbb#0.3",
+   "en": "You will focus mainly on searching for the lost \"power\"... in other words, equipment items."
+  },
+  {
+   "key": "MainEventMess0602.mbb#0.46",
+   "en": "So it seems... Let's hurry."
+  },
+  {
+   "key": "MainEventMess0603.mbb#0.206",
+   "en": "Here too!? It's as if they can read our every move!!"
+  },
+  {
+   "key": "MainEventMess0604.mbb#0.5",
+   "en": "Let's leave this to Cherudim and the others."
+  },
+  {
+   "key": "MainEventMess0605.mbb#0.54",
+   "en": "Whoa, here they come again!! Everyone! I'm counting on you!"
+  },
+  {
+   "key": "MainEventMess0606.mbb#0.3",
+   "en": "Cherudim is fighting here. Let's leave this to him and find another way."
+  },
+  {
+   "key": "MainEventMess0607.mbb#0.3",
+   "en": "Heavyarms is fighting here. Let's leave this to him and find another way."
+  },
+  {
+   "key": "MainEventMess0608.mbb#0.3",
+   "en": "Kamen Rider Birth is fighting here. Let's leave this to him and find another way."
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.65",
+   "en": "She was probably talking to the boss here, Reborns Gundam."
+  },
+  {
+   "key": "MainEventMess0610.mbb#0.12",
+   "en": "All right, let's catch up with Cherudim and the others!"
+  },
+  {
+   "key": "MainEventMess0612.mbb#0.14",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0614.mbb#0.51",
+   "en": "When they entered the room, Cherudim and the others, who had arrived first, were bustling about."
+  },
+  {
+   "key": "MainEventMess0615.mbb#0.3",
+   "en": "The particle cannon isn't on this side."
+  },
+  {
+   "key": "MainEventMess0616.mbb#0.4",
+   "en": "Most likely..."
+  },
+  {
+   "key": "MainEventMess0617.mbb#0.3",
+   "en": "What the hell is going on outside!?"
+  },
+  {
+   "key": "MainEventMess0618.mbb#0.175",
+   "en": "That helps!"
+  },
+  {
+   "key": "MainEventMess0619.mbb#0.3",
+   "en": "If at all possible, I want to avoid pointless fighting. Understood!!"
+  },
+  {
+   "key": "MainEventMess0623.mbb#0.2",
+   "en": "\"What are you doing!! Well!? You still haven't found it!?\""
+  },
+  {
+   "key": "MainEventMess0625.mbb#0.62",
+   "en": "So you think so too. Let's go and see."
+  },
+  {
+   "key": "MainEventMess0626.mbb#0.2",
+   "en": "That entrance past the Ride Dungeon has me curious."
+  },
+  {
+   "key": "MainEventMess0627.mbb#0.2",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0628.mbb#0.11",
+   "en": "I've enhanced it thoroughly myself, after all. I'm sure it will prove useful."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.216",
+   "en": "If you're going, then hurry it up."
+  },
+  {
+   "key": "MainEventMess0631.mbb#0.80",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0632.mbb#0.5",
+   "en": "How's Seravee doing? We're going to check on the Terminal Unit."
+  },
+  {
+   "key": "MainEventMess0635.mbb#0.80",
+   "en": "...Fine, whatever. We're steering clear of pointless fights."
+  },
+  {
+   "key": "MainEventMess0636.mbb#0.6",
+   "en": "Yeah. Better to steer clear of pointless fights."
+  },
+  {
+   "key": "MainEventMess0640.mbb#0.111",
+   "en": "Right, that's dealt with. Let's hurry to the high-energy reading."
+  },
+  {
+   "key": "MainEventMess0641.mbb#0.16",
+   "en": "Hm...? What is that...!!"
+  },
+  {
+   "key": "MainEventMess0642.mbb#0.311",
+   "en": "......"
+  },
+  {
+   "key": "MainEventMess0643.mbb#0.16",
+   "en": "Don't tell me..."
+  },
+  {
+   "key": "MainEventMess0644.mbb#0.7",
+   "en": "Now I can wait for that to be completed without a care."
+  },
+  {
+   "key": "MainEventMess0645.mbb#0.30",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0647.mbb#0.19",
+   "en": "Ready? Let's go. The Gundam Team is just ahead."
+  },
+  {
+   "key": "MainEventMess0650.mbb#0.77",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0651.mbb#0.123",
+   "en": "All right! Let's just push on ahead."
+  },
+  {
+   "key": "MainEventMess0652.mbb#0.11",
+   "en": "GN particles, maximum dispersal!!"
+  },
+  {
+   "key": "MainEventMess0653.mbb#0.52",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0654.mbb#0.4",
+   "en": "\"Huge Space\" has been added to the MAP."
+  },
+  {
+   "key": "MainEventMess0655.mbb#0.20",
+   "en": "A Super Soldier... a being the Super Soldier Institute created for the sake of war..."
+  },
+  {
+   "key": "MainEventMess0656.mbb#0.6",
+   "en": "That's far enough!!"
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.37",
+   "en": "Looks like the enemy has shored up its defenses, but the Colony Laser's base is right before us!!"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.314",
+   "en": "Leave this to us, and hurry after Reborns and the others!!"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.32",
+   "en": "\"Veda\" has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0662.mbb#0.85",
+   "en": "From out of nowhere, a \"voice\" could be heard. It was as if it echoed directly inside their minds..."
+  },
+  {
+   "key": "MainEventMess0668.mbb#0.77",
+   "en": "How should I know... Figure it out yourself... See ya..."
+  },
+  {
+   "key": "MainEventMess0669.mbb#0.223",
+   "en": "...Yeah, all right. The base took heavy damage too. Let's head back for now and work out a plan."
+  },
+  {
+   "key": "MainEventMess0670.mbb#0.20",
+   "en": "It's a kind of telepathy that Innovators give off."
+  },
+  {
+   "key": "MainEventMess0674.mbb#0.2",
+   "en": "\"Libra Cannon Reactor Core\" has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0677.mbb#0.6",
+   "en": "Go, now! While you have the chance!!"
+  },
+  {
+   "key": "MainEventMess0678.mbb#0.2",
+   "en": "Hurry up and go after Reborns and the rest!!"
+  },
+  {
+   "key": "MainEventMess0702.mbb#0.110",
+   "en": "Get close and they'll come at us, no doubt. Watch yourselves."
+  },
+  {
+   "key": "MainEventMess0704.mbb#0.3",
+   "en": "Yes, though only roughly. Keep going the way you are."
+  },
+  {
+   "key": "MainEventMess0709.mbb#0.2",
+   "en": "...To the north, huh?"
+  },
+  {
+   "key": "MainEventMess0710.mbb#0.10",
+   "en": "Right. There's no need to force a fight. Let's look for another way."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.331",
+   "en": "Other than the path sealed off by the tentacles... all that's left is the side passage."
+  },
+  {
+   "key": "MainEventMess0712.mbb#0.9",
+   "en": "Right. There's no need to force a fight."
+  },
+  {
+   "key": "MainEventMess0713.mbb#0.18",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0715.mbb#0.44",
+   "en": "Geronimon must be Belial's doing too. Don't let your guard down as you go."
+  },
+  {
+   "key": "MainEventMess0716.mbb#0.80",
+   "en": "Hey, we're heading back!!"
+  },
+  {
+   "key": "MainEventMess0718.mbb#0.21",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.24",
+   "en": "Let's go."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.87",
+   "en": "The door's open!!"
+  },
+  {
+   "key": "MainEventMess0724.mbb#0.75",
+   "en": "I see... Whatever. We'll take down the remaining Zetton and Tyrant."
+  },
+  {
+   "key": "MainEventMess0725.mbb#0.3",
+   "en": "No helping it. Guess we move on..."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0566.mbb#0.103",
+   "note": "Last party-leader variant (k=14 in Pt_Chara_Check order; script names Taro, CHARA_NAME 13). Identical JP to 0.98-0.102, so identical EN."
+  },
+  {
+   "key": "MainEventMess0568.mbb#0.90",
+   "note": "Ankh (script: CHARA_NAME 36 before final MessWinSet) notices the key ring lying there; next table 0569 is the key ring pickup."
+  },
+  {
+   "key": "MainEventMess0570.mbb#0.16",
+   "note": "Last leader variant = Wing Zero (CHARA_NAME 9); copied the identical-JP English of 0.3-0.15."
+  },
+  {
+   "key": "MainEventMess0571.mbb#0.18",
+   "note": "Last leader variant = Wing Zero; used the majority English of identical rows 0.11-0.16."
+  },
+  {
+   "key": "MainEventMess0572.mbb#0.4",
+   "note": "Taboo Dopant's taunt in the Zone Dopant warp rooms (0572-0575 are four copies of the same scene); 'Fufufu...!!' matches her 0.2 laugh."
+  },
+  {
+   "key": "MainEventMess0576.mbb#0.107",
+   "note": "Not played by the decompiled final MessWinSet; fits as Shotaro's reply to Philip's 0.26 'let's put the Xtreme Memory to use right away!'. 'Cyclone Joker Xtreme' = official form name (not in glossary)."
+  },
+  {
+   "key": "MainEventMess0581.mbb#0.231",
+   "note": "Last leader variant = 00 (CHARA_NAME 10); identical JP to 0.219-0.230."
+  },
+  {
+   "key": "MainEventMess0582.mbb#0.16",
+   "note": "Last leader variant = God Gundam (CHARA_NAME 8); identical JP to 0.10-0.15."
+  },
+  {
+   "key": "MainEventMess0586.mbb#0.53",
+   "note": "Last leader variant = God Gundam; identical JP to 0.45, so reused its English ('Move fast!')."
+  },
+  {
+   "key": "MainEventMess0587.mbb#0.200",
+   "note": "Terror Dopant, unreached alt line after the Veda reveal; laugh styled like his 0576.74 'Fu fu fu...'."
+  },
+  {
+   "key": "MainEventMess0604.mbb#0.5",
+   "note": "No speaker name in the script (CharaNameOut before it); written as a neutral party line."
+  },
+  {
+   "key": "MainEventMess0606.mbb#0.3",
+   "note": "0606-0608: nameless field prompts; 'him' per glossary gender (all m)."
+  },
+  {
+   "key": "MainEventMess0609.mbb#0.65",
+   "note": "'She' = Gaddess (g=f), who was speaking in 0.57-0.62; Ankh asked who she was talking to."
+  },
+  {
+   "key": "MainEventMess0614.mbb#0.51",
+   "note": "Narration; plays on a separate visit than the 0.47 departure line."
+  },
+  {
+   "key": "MainEventMess0615.mbb#0.3",
+   "note": "No speaker recovered; the event's other lines are Seravee's (CHARA_NAME 73), so it reads as his."
+  },
+  {
+   "key": "MainEventMess0618.mbb#0.175",
+   "note": "Slice says Cherudim, but the script sets CHARA_NAME 73 (Seravee) for the final MessWinSet; Cherudim's 0.174 comm line offers the data, and this is the thanks. English works for either."
+  },
+  {
+   "key": "MainEventMess0623.mbb#0.2",
+   "note": "Comm voice in Japanese corner brackets, rendered in double quotes like 0618's comm lines."
+  },
+  {
+   "key": "MainEventMess0629.mbb#0.216",
+   "note": "Ankh closes the 'wait, Seravee isn't back' exchange; who is 'going' is left open as in the source."
+  },
+  {
+   "key": "MainEventMess0641.mbb#0.16",
+   "note": "Last leader variant = Rider 1; identical JP to 0.3-0.15."
+  },
+  {
+   "key": "MainEventMess0643.mbb#0.16",
+   "note": "Last leader variant = Rider 1; identical JP."
+  },
+  {
+   "key": "MainEventMess0644.mbb#0.7",
+   "note": "'That' (are) = an unnamed project of Ribbons's; kept vague as in the source."
+  },
+  {
+   "key": "MainEventMess0647.mbb#0.19",
+   "note": "No speaker recovered; follows the leader-variant block, most likely Ankh (team leader in this arc)."
+  },
+  {
+   "key": "MainEventMess0651.mbb#0.123",
+   "note": "Matches 0.122's opening ('All right! Let's just push on ahead.')."
+  },
+  {
+   "key": "MainEventMess0654.mbb#0.4",
+   "note": "Huge space = the area name used in 0.3 / 0653; capitalised as a MAP label."
+  },
+  {
+   "key": "MainEventMess0655.mbb#0.20",
+   "note": "Super Soldier Institute (glossary has only Super Soldier). 00 reflecting on the defeated Ahead Smultron pilot."
+  },
+  {
+   "key": "MainEventMess0658.mbb#0.37",
+   "note": "Last leader variant = Rider 1 (CHARA_NAME 1)."
+  },
+  {
+   "key": "MainEventMess0710.mbb#0.10",
+   "note": "No speaker recovered; after declining to fight the Gundam Head. Likely Ankh."
+  },
+  {
+   "key": "MainEventMess0711.mbb#0.331",
+   "note": "No speaker recovered; likely Ankh or Seravee's voice."
+  },
+  {
+   "key": "MainEventMess0712.mbb#0.9",
+   "note": "No speaker recovered; same choice as 0710."
+  },
+  {
+   "key": "MainEventMess0724.mbb#0.75",
+   "note": "Remaining Zetton and Tyrant: the kaiju still to be defeated in this area."
+  }
+ ],
+ "report": "All rows translated. Last-variant rows matched to the speaker named by the final CharaNameIn and reuse identical-JP English. 0618 speaker is Seravee per script (slice says Cherudim). Not in glossary: Cyclone Joker Xtreme, Super Soldier Institute."
+}

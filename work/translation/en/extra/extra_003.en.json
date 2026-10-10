@@ -1,0 +1,366 @@
+{
+ "slice": "extra_003",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0411.mbb#0.2",
+   "en": "Whoooa!! I'm gettin' all fired up!!!"
+  },
+  {
+   "key": "MainEventMess0412.mbb#0.2",
+   "en": "I'll prove that the strongest in the universe is me."
+  },
+  {
+   "key": "MainEventMess0413.mbb#0.3",
+   "en": "You lot should go and take a look at it for yourselves, too."
+  },
+  {
+   "key": "MainEventMess0414.mbb#0.161",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0418.mbb#0.74",
+   "en": "Tch, we don't have time to spare. Hurry it up."
+  },
+  {
+   "key": "MainEventMess0420.mbb#0.31",
+   "en": "Sorry, but my next fight is about to start. I'll see you in the finals."
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.46",
+   "en": "The bubbles it blows can burn up anything... A fearsome opponent."
+  },
+  {
+   "key": "MainEventMess0423.mbb#0.2",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0424.mbb#0.56",
+   "en": "Curse you... To think that I would lose...!!"
+  },
+  {
+   "key": "MainEventMess0425.mbb#0.88",
+   "en": "Who's there!? Who was that just now...?"
+  },
+  {
+   "key": "MainEventMess0427.mbb#0.23",
+   "en": "Watch yourselves! See ya!!"
+  },
+  {
+   "key": "MainEventMess0428.mbb#0.30",
+   "en": "...That kind of desire is dangerous."
+  },
+  {
+   "key": "MainEventMess0429.mbb#0.86",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0430.mbb#0.73",
+   "en": "Jack, Ace, Accel and Birth headed back to base."
+  },
+  {
+   "key": "MainEventMess0431.mbb#0.2",
+   "en": "Corpses lie strewn all over the plaza!"
+  },
+  {
+   "key": "MainEventMess0434.mbb#0.2",
+   "en": "This might have something to do with that \"gang of robbers\" Birth was talking about..."
+  },
+  {
+   "key": "MainEventMess0435.mbb#0.59",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0436.mbb#0.64",
+   "en": "I know. We're going to Ultra Tower!"
+  },
+  {
+   "key": "MainEventMess0437.mbb#0.14",
+   "en": "...Guess we've got no choice but to go on."
+  },
+  {
+   "key": "MainEventMess0438.mbb#0.81",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0439.mbb#0.63",
+   "en": "...It won't open. Let's try looking somewhere else."
+  },
+  {
+   "key": "MainEventMess0440.mbb#0.3",
+   "en": "Let's try heading east. We might be able to get through that way."
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.124",
+   "en": "Another Gundam, huh..."
+  },
+  {
+   "key": "MainEventMess0443.mbb#0.34",
+   "en": "The road to the Tower is just ahead! We're out of time! Let's hurry!!"
+  },
+  {
+   "key": "MainEventMess0444.mbb#0.58",
+   "en": "Uva...? Did he just say Uva?"
+  },
+  {
+   "key": "MainEventMess0445.mbb#0.32",
+   "en": "Well, my match is about to start, so I'm off."
+  },
+  {
+   "key": "MainEventMess0446.mbb#0.4",
+   "en": "The Violence Dopant VS Alien Reflect match is underway... Go in if you want to watch."
+  },
+  {
+   "key": "MainEventMess0447.mbb#0.4",
+   "en": "The Masurao VS Zamsha match is underway. Go in if you want to watch."
+  },
+  {
+   "key": "MainEventMess0448.mbb#0.4",
+   "en": "The Walter Gundam VS Pandon match is underway. Go in if you want to watch."
+  },
+  {
+   "key": "MainEventMess0449.mbb#0.55",
+   "en": "As soon as the other matches are over, assemble at your respective venues."
+  },
+  {
+   "key": "MainEventMess0450.mbb#0.2",
+   "en": "You can also watch the other matches. Why not go and have a look?"
+  },
+  {
+   "key": "MainEventMess0452.mbb#0.52",
+   "en": "Looks like the semifinals are about to start. Let's go."
+  },
+  {
+   "key": "MainEventMess0454.mbb#0.44",
+   "en": "Looks like the semifinals are about to start. Let's go."
+  },
+  {
+   "key": "MainEventMess0456.mbb#0.20",
+   "en": "Looks like the semifinals are about to start. Let's go."
+  },
+  {
+   "key": "MainEventMess0457.mbb#0.3",
+   "en": "The Zamsha VS Violence Dopant match is underway... Go in if you want to watch."
+  },
+  {
+   "key": "MainEventMess0458.mbb#0.66",
+   "en": "Hey, before that, let's go get a look at who we're up against."
+  },
+  {
+   "key": "MainEventMess0459.mbb#0.2",
+   "en": "You can also watch the other matches. Why not go and have a look?"
+  },
+  {
+   "key": "MainEventMess0461.mbb#0.23",
+   "en": "In a single blow...? Tch, looks like he really is a formidable foe..."
+  },
+  {
+   "key": "MainEventMess0462.mbb#0.315",
+   "en": "Zamsha, the Space Swordsman... He's quite something... More than fit to serve as material."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.129",
+   "en": "Now then, heroes... I'll have you run wild for me a little longer..."
+  },
+  {
+   "key": "MainEventMess0465.mbb#0.2",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.35",
+   "en": "And they've even got kaiju and kaijin in here..."
+  },
+  {
+   "key": "MainEventMess0503.mbb#0.7",
+   "en": "Lunaticks suddenly attacked!"
+  },
+  {
+   "key": "MainEventMess0504.mbb#0.7",
+   "en": "Gomora suddenly attacked!"
+  },
+  {
+   "key": "MainEventMess0505.mbb#0.7",
+   "en": "Zanjioh suddenly attacked!"
+  },
+  {
+   "key": "MainEventMess0506.mbb#0.7",
+   "en": "Gebacondor suddenly attacked!"
+  },
+  {
+   "key": "MainEventMess0507.mbb#0.7",
+   "en": "Eleking suddenly attacked!"
+  },
+  {
+   "key": "MainEventMess0508.mbb#0.7",
+   "en": "Gaina Ninpo suddenly attacked!"
+  },
+  {
+   "key": "MainEventMess0509.mbb#0.7",
+   "en": "Snowgon suddenly attacked!"
+  },
+  {
+   "key": "MainEventMess0511.mbb#0.54",
+   "en": "Curse you, heroes!! But it won't go like this next time, understand? Mark my words!"
+  },
+  {
+   "key": "MainEventMess0513.mbb#0.2",
+   "en": "Dada panicked and fled."
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.31",
+   "en": "Hey! You big glutton! Come and get me! Think you can eat me!?"
+  },
+  {
+   "key": "MainEventMess0516.mbb#0.17",
+   "en": "The black shadow in the cage was eerily silent."
+  },
+  {
+   "key": "MainEventMess0518.mbb#0.75",
+   "en": "You're rather good, it seems. Oh, well. You'll pay for this!"
+  },
+  {
+   "key": "MainEventMess0519.mbb#0.2",
+   "en": "Ahead: 2F Special Exhibit Room\n\"Treasure Collection\""
+  },
+  {
+   "key": "MainEventMess0520.mbb#0.4",
+   "en": "Use the \"Key Ring\"?"
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.20",
+   "en": "Guess we start by checkin' out this room, huh? I ain't any good with this kinda stuff, though."
+  },
+  {
+   "key": "MainEventMess0522.mbb#0.15",
+   "en": "The display stand's light went out."
+  },
+  {
+   "key": "MainEventMess0523.mbb#0.12",
+   "en": "The display stand's light went out."
+  },
+  {
+   "key": "MainEventMess0524.mbb#0.12",
+   "en": "The display stand's light went out."
+  },
+  {
+   "key": "MainEventMess0525.mbb#0.14",
+   "en": "The display stand's light went out."
+  },
+  {
+   "key": "MainEventMess0526.mbb#0.12",
+   "en": "The display stand's light went out."
+  },
+  {
+   "key": "MainEventMess0527.mbb#0.12",
+   "en": "The display stand's light went out."
+  },
+  {
+   "key": "MainEventMess0528.mbb#0.12",
+   "en": "The display stand's light went out."
+  },
+  {
+   "key": "MainEventMess0529.mbb#0.12",
+   "en": "The display stand's light went out."
+  },
+  {
+   "key": "MainEventMess0530.mbb#0.12",
+   "en": "The display stand's light went out."
+  },
+  {
+   "key": "MainEventMess0531.mbb#0.12",
+   "en": "The display stand's light went out."
+  },
+  {
+   "key": "MainEventMess0532.mbb#0.14",
+   "en": "The display stand's light went out."
+  },
+  {
+   "key": "MainEventMess0533.mbb#0.12",
+   "en": "The display stand's light went out."
+  },
+  {
+   "key": "MainEventMess0534.mbb#0.14",
+   "en": "The display stand's light went out."
+  },
+  {
+   "key": "MainEventMess0535.mbb#0.12",
+   "en": "The display stand's light went out."
+  },
+  {
+   "key": "MainEventMess0551.mbb#0.6",
+   "en": "Hey. We're searching the other display stands. There should be Core Medals here somewhere."
+  },
+  {
+   "key": "MainEventMess0552.mbb#0.3",
+   "en": "Tch! Why the hell isn't the real thing here!? The bird Cores are mine!"
+  },
+  {
+   "key": "MainEventMess0553.mbb#0.3",
+   "en": "Huh!? Idiots! Why the hell aren't they here!!"
+  },
+  {
+   "key": "MainEventMess0554.mbb#0.3",
+   "en": "Tch... Don't tell me they've been stolen?"
+  },
+  {
+   "key": "MainEventMess0555.mbb#0.3",
+   "en": "Hmph, it's pointless without the real thing."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.92",
+   "en": "Now then, I shall shut myself away in my laboratory. I wish to concentrate for a while."
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.67",
+   "en": "Looks like they've got no will to fight. We'll skip the pointless battle."
+  },
+  {
+   "key": "MainEventMess0564.mbb#0.2",
+   "en": "Someone here must be doing research on Medals."
+  },
+  {
+   "key": "MainEventMess0565.mbb#0.167",
+   "en": "Tch!! Looks like he's carried them off somewhere."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0418.mbb#0.74",
+   "note": "No name box in script (plays after flag 907 / Mebius check); the same line is Ankh's in 0422/0425/0429, so voiced as Ankh and reused that English."
+  },
+  {
+   "key": "MainEventMess0420.mbb#0.31",
+   "note": "Script: God Gundam (Ankh-variant block 23-31 duplicates 13-19). Identical to #0.19, same English."
+  },
+  {
+   "key": "MainEventMess0422.mbb#0.46",
+   "note": "Rider 1 about the Aquatic Kaijin Team member who blows burning bubbles; not named, so 'it'."
+  },
+  {
+   "key": "MainEventMess0441.mbb#0.124",
+   "note": "Script: Ankh (CharaNameIn 36 before +123), reacting to God Gundam joining."
+  },
+  {
+   "key": "MainEventMess0514.mbb#0.31",
+   "note": "No speaker recovered. Bogal leader-variant block (+13+k, 15 leaders) cannot fit before narration #26; rows 29-31 look like overflow variants. Rough voice (Momotaros or Zero likely); exact leader uncertain."
+  },
+  {
+   "key": "MainEventMess0521.mbb#0.20",
+   "note": "Leader variant k=14 of +5+k; the 0521 Pt_Chara_Check chain puts Den-O (Momotaros) last. Voiced as Momotaros."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.92",
+   "note": "Source has a dragon kanji where 'shut oneself in' (komoru) fits; treated as a mis-decoded glyph."
+  },
+  {
+   "key": "MainEventMess0564.mbb#0.2",
+   "note": "Subject unstated (whoever uses this lab, presumably Ikadevil); kept impersonal 'someone here'."
+  },
+  {
+   "key": "MainEventMess0565.mbb#0.167",
+   "note": "'he' = Ikadevil, named two rows earlier as taking these Core Medals (glossary g=m)."
+  }
+ ],
+ "report": "80/80 rows. Speakers settled from scripts and table context; uncertain: 0514#31 (leader variant, rough voice), 0521#20 (Momotaros via check order), 0418#74 (no name box, Ankh by identical lines). 0560#92 mis-decoded kanji. No new names."
+}

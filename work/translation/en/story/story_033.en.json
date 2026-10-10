@@ -1,0 +1,386 @@
+{
+ "slice": "story_033",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0241.mbb#0.8",
+   "en": "All right, we've got it."
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.9",
+   "en": "So this is Gundanium alloy..."
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.10",
+   "en": "Whew, job done!"
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.11",
+   "en": "Yo! You guys!!"
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.12",
+   "en": "You all okay!?"
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.13",
+   "en": "Course we are. This is nothin'. And we got the Gundanium alloy, no sweat."
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.14",
+   "en": "Yes, we're fine. We got the Gundanium alloy too."
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.15",
+   "en": "Of course."
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.16",
+   "en": "Of course."
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.17",
+   "en": "Yeah. We got the Gundanium alloy."
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.18",
+   "en": "Yeah. We got the Gundanium alloy."
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.19",
+   "en": "Yeah. We got the Gundanium alloy."
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.20",
+   "en": "Yes, we're fine. We got the Gundanium alloy too."
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.21",
+   "en": "You bet! And the Gundanium alloy's right here!"
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.22",
+   "en": "Way to go!"
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.23",
+   "en": "Good work."
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.1",
+   "en": "Ugh..."
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.2",
+   "en": "Are you okay!?"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.3",
+   "en": "Are you okay!?"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.4",
+   "en": "Are you okay!?"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.5",
+   "en": "Are you okay!?"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.6",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.7",
+   "en": "Are you okay!?"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.8",
+   "en": "Are you okay!?"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.9",
+   "en": "Are you okay!?"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.10",
+   "en": "Are you all right!?"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.12",
+   "en": "...A... a Gundam got us... That was... Team Trinity..."
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.13",
+   "en": "The Maganac Corps... has been wiped out... Tell... Master Sandrock..."
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.14",
+   "en": "Maganac!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.15",
+   "en": "Maganac!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.16",
+   "en": "Maganac!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.17",
+   "en": "Maganac!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.18",
+   "en": "Maganac!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.19",
+   "en": "Maganac!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.20",
+   "en": "Maganac!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.21",
+   "en": "Maganac!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.22",
+   "en": "Maganac!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.23",
+   "en": "Nngh..."
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.24",
+   "en": "Hey! Hang in there!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.25",
+   "en": "Hey! Hang in there!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.26",
+   "en": "Hey! You've got to hang in there...!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.27",
+   "en": "Hey! Hang in there! Maganac!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.28",
+   "en": "Maganac!! Hang in there, please hang in there!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.29",
+   "en": "Hey! Maganac!! Hang in there!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.30",
+   "en": "Hang in there!! Maganac!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.31",
+   "en": "Hey! Hang in there!! Maganac!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.32",
+   "en": "Please hang in there!! Maganac! Maganaaac!!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.33",
+   "en": "...But the Maganac's strength gave out."
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.34",
+   "en": "...Team Trinity. The three Gundam Thrones..."
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.35",
+   "en": "Is this... what a Gundam does...!?"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.36",
+   "en": "Team Trinity...!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.37",
+   "en": "Team Trinity...!! They're an enemy we have to defeat..."
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.38",
+   "en": "Team Trinity... They're an enemy we can't allow to live...!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.39",
+   "en": "Team Trinity...!! I'll never forgive them!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.40",
+   "en": "Team Trinity, huh... That's one bunch I'll never forgive..."
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.41",
+   "en": "Team Trinity!? Dunno who the hell they are, but I ain't lettin' 'em get away with this!!"
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.42",
+   "en": "Team Trinity... We can't just leave them be."
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.1",
+   "en": "So this is the storehouse..."
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.2",
+   "en": "The enemy... didn't put up as much resistance as I expected."
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.3",
+   "en": "Is this the storehouse...?"
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.4",
+   "en": "Strange. The enemy's being way too quiet..."
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.5",
+   "en": "Designated point reached."
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.6",
+   "en": "So this is the storehouse... Aren't there any enemies?"
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.7",
+   "en": "This is the storehouse?"
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.8",
+   "en": "Something's off... Aren't there any enemies?"
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.9",
+   "en": "So this is the storehouse..."
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.10",
+   "en": "There don't seem to be any enemies..."
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.11",
+   "en": "So this is the storehouse..."
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.12",
+   "en": "But it's strangely quiet, and that bothers me..."
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.13",
+   "en": "So this is the storehouse..."
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.14",
+   "en": "That's weird. Aren't there any enemies?"
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.15",
+   "en": "This it? The storehouse..."
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.16",
+   "en": "All right, let's hurry up and find somethin' we can use!!"
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.17",
+   "en": "So this is the storehouse..."
+  },
+  {
+   "key": "MainEventMess0245.mbb#0.1",
+   "en": "Obtained the \"Gaia Cannon\"."
+  },
+  {
+   "key": "MainEventMess0245.mbb#0.2",
+   "en": "This is... a Gaia Cannon..."
+  },
+  {
+   "key": "MainEventMess0245.mbb#0.3",
+   "en": "Looks like we could use it on the Ride Machine!"
+  },
+  {
+   "key": "MainEventMess0245.mbb#0.4",
+   "en": "This cannon... We could probably use it to arm the Ride Machine."
+  },
+  {
+   "key": "MainEventMess0245.mbb#0.5",
+   "en": "Oh! This cannon looks like it'll come in handy."
+  },
+  {
+   "key": "MainEventMess0245.mbb#0.6",
+   "en": "This cannon... Could we use it to arm the Ride Machine...?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0241.mbb#0.8",
+   "note": "0241 #0.2-0.10 and #0.13-0.21 are party-leader variants with no or partial labels; voiced by register (#0.13/#0.21 rough, #0.14/#0.20 polite, #0.15-16 curt). #0.8 subject restored as \"we\" (the party grabbed the alloy)."
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.11",
+   "note": "Speaker \"???\" read as Deathscythe Hell arriving (labelled on the next row, #0.12); kept casual for Duo."
+  },
+  {
+   "key": "MainEventMess0241.mbb#0.23",
+   "note": "Labelled Deathscythe Hell; plain \"Good work.\" after Birth's \"Way to go!\" (#0.22)."
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.2",
+   "note": "0243 #0.2-0.10, #0.14-0.22, #0.24-0.32, #0.36-0.42 are leader variants (only the first of each set labelled Mebius). Polite variants (#0.6, #0.10, #0.28, #0.32) given softer wording where the line allows; the -san on Maganac (#0.18, #0.22) dropped per project convention, so those read the same as the others."
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.12",
+   "note": "Dying Maganac pilot; \"a Gundam got us\" follows story_021 (0205 #0.9). Source brackets Team Trinity; quotes dropped as in story_021-023."
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.13",
+   "note": "Sandrock-sama rendered \"Master Sandrock\" (servant register, matching \"Master Deathscythe Hell\" in story_025). Line deliberately trails off."
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.24",
+   "note": "\"Shikkari shiro\" to a dying man rendered \"Hang in there!!\" rather than story_021's \"Pull yourself together!!\"; suits a deathbed better."
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.33",
+   "note": "Narration shaped like story_021 0205 #0.26 (\"the Maganac's strength gave out\"); ambiguous between collapsing and dying, kept so."
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.35",
+   "note": "00 (Setsuna) questioning whether this is what a Gundam does (his Gundam ideal); kept literal."
+  },
+  {
+   "key": "MainEventMess0243.mbb#0.38",
+   "note": "\"Ikashite oite wa ikenai aite\" kept at full force: \"an enemy we can't allow to live\"."
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.1",
+   "note": "Hokanko = the Weapons Storehouse of Operation C (story_029, 0228 #0.62); rendered \"storehouse\" throughout. 0244 rows are leader variants, mostly in pairs; #0.1-0.2 labelled Zero, but #0.2 is calm and may be a shifted label; worded neutrally. #0.5 is a lone mission-report line (Heero/Setsuna style)."
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.8",
+   "note": "Source ends with a stray line break; dropped."
+  },
+  {
+   "key": "MainEventMess0244.mbb#0.15",
+   "note": "#0.15-0.16 rough, Momotaros-like voice."
+  },
+  {
+   "key": "MainEventMess0245.mbb#0.1",
+   "note": "Item-get format copied from earlier slices (Obtained the \"Rider Pass\".)."
+  }
+ ],
+ "report": "80/80 rows. Leader-variant blocks in 0241/0243/0244/0245 have partial labels; voiced by register. 0241 #0.11 ??? = Deathscythe Hell. \"Storehouse\" for hokanko (Operation C Weapons Storehouse) is not in glossary. No new character names."
+}

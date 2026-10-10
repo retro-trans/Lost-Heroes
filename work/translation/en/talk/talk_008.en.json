@@ -1,0 +1,434 @@
+{
+ "slice": "talk_008",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.636",
+   "en": "I hear the kaiju have been revived?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.637",
+   "en": "No matter who comes back to life, I'll finish 'em off at my climax!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.638",
+   "en": "I'll fight too!! Here I come!! ...ZZZZ..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.639",
+   "en": "Yaaay♪ I'm gonna draw pictures of kaiju~"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.640",
+   "en": "...Anyway, good luck out there."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.645",
+   "en": "Pteranodon Yummy? Looks like they wanted to use the \"Memory Memory\" for something."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.646",
+   "en": "Apparently it's needed for the \"Ultimate Being.\" Still, that's a pretty menacing name."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.647",
+   "en": "Anyway, right now we've got to chase after the Memory that flew off."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.657",
+   "en": "Hot, hot, hot!! What the hell's with this heat!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.658",
+   "en": "You okay, Sempai?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.659",
+   "en": "Livin' in magma like that... that Bird-whatsit's gotta have real weird taste!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.660",
+   "en": "Then again, when it comes to running hot, Sempai, you're no slouch yourself."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.661",
+   "en": "Huh? You say somethin', Turtle!?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.662",
+   "en": "Nothing. Just talking to myself."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.668",
+   "en": "Looks like the Devil Gundam is still alive."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.669",
+   "en": "Just as I thought. It evolved through the DG Cells."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.670",
+   "en": "We have to stop it as fast as we can. This is no time to be slacking off here."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.680",
+   "en": "Turtle~ What are \"nega-tiv\" emotions?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.681",
+   "en": "Well, say Ryuta gets picked on by Sempai, right?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.682",
+   "en": "The way you feel about Sempai when that happens, Ryuta, that's a negative emotion. Got it?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.683",
+   "en": "Got it~♪ Thanks, Turtle♪"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.684",
+   "en": "Why, you guys!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.691",
+   "en": "Getting sent off to all sorts of places must be rough."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.692",
+   "en": "Be careful not to get lost, okay?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.702",
+   "en": "Belial's revived the kaiju again. There might be some kind of trap."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.703",
+   "en": "Yeah. But we still have to go. Right?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.704",
+   "en": "...Yeah, you're right."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.714",
+   "en": "You beat King Pandon. Stay sharp as you go on."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.725",
+   "en": "You beat Zetton, huh."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.726",
+   "en": "There's still \"Tyrant\" left. Don't let your guard down."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.736",
+   "en": "The sky's changed color quite a bit. Why not go check on the door?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.737",
+   "en": "If Belial was telling the truth, the door should be open."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.747",
+   "en": "You beat Dinosaur Greeed! Good work!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.748",
+   "en": "Now there's only Belial left."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.749",
+   "en": "No holdin' back! Go all out and let 'em have it!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.750",
+   "en": "I'm finishin' the last one at my climax too!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.759",
+   "en": "Who'd have thought there was a mastermind behind Belial and the others..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.760",
+   "en": "Unless we stop the mastermind, looks like the world won't ever see peace."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.761",
+   "en": "We're fightin' someone strong!? That gets me fired up!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.762",
+   "en": "Yaaay♪ I wanna beat 'em and hurry up and see Big Sis~"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.763",
+   "en": "...If we beat Regis, I'm sure the world will go back to the way it was."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.764",
+   "en": "Before that, though, clear out the last remaining quests, okay♪"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.1",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.5",
+   "en": "{8074}! Feeling good!? Feeling good!?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.6",
+   "en": "There's no one here."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.15",
+   "en": "Thank you for saving me. I've finally got my strength back."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.19",
+   "en": "Huh? There are that many Gundams? Then that's reassuring."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.23",
+   "en": "I'm not good with deserts. Back in my world, I mostly fought in space."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.27",
+   "en": "Don't push yourself too hard, okay? You can recover if you come back to base."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.34",
+   "en": "So you're finally striking the enemy's headquarters. Don't skimp on your preparations, okay?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.44",
+   "en": "So the boss is The O... Be careful not to get swallowed up by his power."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.45",
+   "en": "I know. That's exactly why we can't let that guy live."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.53",
+   "en": "The O is extremely maneuverable."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.54",
+   "en": "Don't let your guard down, okay?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.64",
+   "en": "...The Hideout Cube is like a research lab? I bet horrible experiments go on there constantly."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.65",
+   "en": "They showed me around the base, but to me, everything here is from another world."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.66",
+   "en": "Right? I was surprised by just about everything too."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.67",
+   "en": "But why would a place like this exist so close to the enemy's Cubes...?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.68",
+   "en": "Hmm... I wonder why...?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.72",
+   "en": "...You met Rider 2 and Skull? Then you should work together with them."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.76",
+   "en": "...So this Ikadevil and Yapool are working together?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.77",
+   "en": "If the technology of different worlds becomes one... I'd rather not imagine it."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.78",
+   "en": "Their methods are getting craftier, not just their tech. We must be more on guard than ever."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.92",
+   "en": "We have to save Kamen Rider 1 and the Ultra Warriors... There's no time to lose, right?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.102",
+   "en": "You found the crosses? Hurry and save the Ultra Warriors!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.108",
+   "en": "God Gundam...? Hmm, that's a name I've never heard before."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.109",
+   "en": "The Devil Gundam...? And a Gundam searching for it...?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.110",
+   "en": "Veda might know something, but in this world, even that's out of the question..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.117",
+   "en": "DG Cells...? You mean the enemies you defeated regenerated?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.118",
+   "en": "I don't really understand it, but it's a creepy technology."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.125",
+   "en": "...God Gundam? I'm not really sure about that."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.126",
+   "en": "But that move called the God Finger sounds pretty amazing."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.127",
+   "en": "Gundam Heaven's Sword...? So a new Gundam shows up at this stage, huh."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.128",
+   "en": "No, I refuse to accept it. A thing like that could never be a Gundam...!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.139",
+   "en": "To block damage from the floor, try using the \"Lightwave Barrier System.\""
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.140",
+   "en": "A passage defended by electricity... There should have been an item that works on it..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.141",
+   "en": "To block damage from the floor, couldn't you use the \"Minovsky Craft\"?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.142",
+   "en": "Yes, that's it!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.146",
+   "en": "I don't know much about the Medal System, but turning giant and going berserk... that's scary."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.151",
+   "en": "I'm worried about the crucified Ultra Warriors. Please hurry and save them."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.636",
+   "note": "SPEAKERS from tools/talkspk.py Quest (Talk01_55-66) and Shop (Talk01_01-19); slice labels were missing. Quest: Urataros = #0.636/640/645/647/658/660/662/681/682/691/692/725/736/748/759/763/764; Momotaros = #0.637/657/659/661/684/750; Kintaros = #0.638/749/761; Ryutaros = #0.639/680/683/762; Rider 2 = #0.646/668/670/702/704/714/726/737/747/760; God Gundam = #0.669/703. Shop: Methuss = most rows; Zeta Gundam = #0.45; Seravee = #0.65/67/78/109/110/127/141; 00 = #0.128; Hikari = #0.140/142. 'Kaiju' per established usage."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.638",
+   "note": "Kintaros dozes off mid-boast; ZZZZ kept as in source."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.645",
+   "note": "Pteranodon Yummy written without the (Male)/(Female) tag; source does not specify. 'They' = the Yummy (unspecified). Memory Memory and quotes as in earlier slices."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.646",
+   "note": "Rider 2; 'Ultimate Being' capitalised and quoted as in story slices."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.659",
+   "note": "Momotaros mangles the name ('Bar-something'): the magma-nest boss of NC07 (MainEventMess0706) is Birdon, so 'Bird-whatsit'. 'Yohodo no monozuki' = must have really odd tastes."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.660",
+   "note": "Pun: Momotaros complained of atsusa (heat), Urataros answers with atsusa written as fervour/hot-bloodedness. Rendered as 'running hot'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.670",
+   "note": "'Abura wo uru' = idle around/slack off."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.680",
+   "note": "Ryutaros writes 'fu no kanjou' with 'fu' in katakana: he does not know the word. Rendered as a childish mispronunciation 'nega-tiv'; Urataros's reply #0.682 uses the correct word. 'Kame-chan' -> 'Turtle' (honorific dropped per style; affection carried by Ryutaros's ~/note tone). Uncertain: could keep 'Kame-chan' like 'Kin-chan' if preferred."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.684",
+   "note": "Momotaros angry at being cast as the bully in Urataros's example."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.691",
+   "note": "Urataros to the party (sent to many Cubes). Kept impersonal ('getting sent off'); the party is the obvious subject."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.749",
+   "note": "'Itemae' = Kansai 'let 'em have it'; target unstated (Belial), kept as 'em."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.750",
+   "note": "'Saigo mo' = the final fight too; 'the last one' covers it."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.760",
+   "note": "'Yatsu' = the mastermind from #0.759 (Regis, g=n); written as 'the mastermind' to avoid a gendered pronoun."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.762",
+   "note": "Onee-chan -> 'Big Sis' as established for Ryutaros."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.764",
+   "note": "Urataros (quest-room host) to the player."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.5",
+   "note": "No script speaker. Katakana chirp with name variable = Haro's greeting ('Genki ka!? Genki ka!?'), chirpy repeat per glossary note. {8074} padding dropped per brief."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.6",
+   "note": "System text when the Shop NPC is absent, as in other rooms ('There's no one here.')."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.64",
+   "note": "No script speaker; feminine sentence-final particles -> Methuss (shop host). Same for #0.108, #0.125, #0.126, #0.139."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.45",
+   "note": "Zeta Gundam (Kamille) answering Methuss; 'aitsu' = The O."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.67",
+   "note": "'Teki no kyuubu' read as the enemy's Cubes in general; could be singular."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.72",
+   "note": "2-gou = Rider 2 per glossary."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.92",
+   "note": "Kamen Rider 1 written in full because the source does. 'Jikan ga nai n desho?' = there's no time, right? (impersonal)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.102",
+   "note": "Crosses = the crucifixion crosses of the Ultra Warriors (story_063 usage)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.128",
+   "note": "00 (Setsuna) rejecting Gundam Heaven's Sword as a Gundam."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.139",
+   "note": "Item names Lightwave Barrier System / Minovsky Craft as in system_057/090."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.146",
+   "note": "'Medal System' (OOO's medal system) not in glossary; literal. 'Kyodaika shite bousou' = growing giant and running out of control (giant Yummy)."
+  }
+ ],
+ "report": "80/80 rows. Speakers from tools/talkspk.py Quest/Shop; Shop #0.5 (Haro), #0.64/108/125/126/139 (Methuss) had no script speaker and were inferred. Uncertain: Quest #0.659 'Bar-something' read as Birdon; #0.680 Ryutaros's 'Kame-chan' rendered 'Turtle' and his katakana 'fu' as 'nega-tiv'. Not in glossary: Medal System; Lightwave Barrier System and Minovsky Craft (from system slices); Memory Memory / Ultimate Being (from story slices)."
+}

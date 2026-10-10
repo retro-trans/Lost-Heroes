@@ -1,0 +1,329 @@
+{
+ "slice": "quest_054",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.257",
+   "en": "Obtained \"Altron Shield\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess021.mbb#0.259",
+   "en": "Stand against evil. This world has far too many fools."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.1",
+   "en": "Shadow Moon has sent RX a challenge. Take RX with you to Veda Cube."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.5",
+   "en": "So you came, Black Sun."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.6",
+   "en": "Shadow Moon!! I've come to accept your challenge!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.7",
+   "en": "I have waited so long for this day."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.8",
+   "en": "Defeating you is the only thing I have lived for."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.9",
+   "en": "Here I come, Black Sun! Now we settle this once and for all!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.10",
+   "en": "Bring it on!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.12",
+   "en": "This ends now! Revolcrash!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.14",
+   "en": "Well done... I am beaten..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.15",
+   "en": "Don't let Crisis... get the better of you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.16",
+   "en": "My name is Shadow Moon."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.17",
+   "en": "Someday I will rise again and challenge you once more."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.18",
+   "en": "No one else shall have your head..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.20",
+   "en": "Shadow Moon..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.22",
+   "en": "Amid his sorrow, Black RX now made a vow,"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.23",
+   "en": "sworn anew, and firmly, in his heart: to defeat the Crisis Empire!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.24",
+   "en": "Fight on! Kamen Rider Black RX!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.26",
+   "en": "Obtained \"Moto Crystal\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.28",
+   "en": "Completed the quest \"The Shadow Prince Returns!\""
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess022.mbb#0.29",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.1",
+   "en": "The Alien Alliance is after the Plasma Spark's ember. Take Mebius to the top floor of Ultra Cube."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.4",
+   "en": "You!? Why are you here?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.5",
+   "en": "Alien Guts! We know you're after the ember of the Plasma Spark!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.6",
+   "en": "I see. So that's how it is. But it seems you're a little too late."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.7",
+   "en": "Mebius..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.8",
+   "en": "Sorry... How could we have let this happen..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.9",
+   "en": "Brother Jack!! Brother Ace!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.10",
+   "en": "These two are already beaten to a pulp! Here, have some!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.12",
+   "en": "Uwaah!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.13",
+   "en": "I'll fix you up just like these two!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.15",
+   "en": "Waaaaah!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.16",
+   "en": "Mebius! Are you all right!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.17",
+   "en": "You can still talk, huh! Keep quiet for a while!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.19",
+   "en": "Gwahh!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.21",
+   "en": "Brother Jack!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.22",
+   "en": "What do I do... At this rate, everyone's going to be beaten..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.23",
+   "en": "Ultraman Mebius! Have a taste of this!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.25",
+   "en": "Mebius! Look out!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.27",
+   "en": "Gwahh!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.28",
+   "en": "Brother Ace!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.29",
+   "en": "Mebius... don't give up... Remember..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.30",
+   "en": "Remember? What are you telling me to remember!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.31",
+   "en": "...You, of all people, should be able to do it..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.33",
+   "en": "Brother!! Brotheeeeer!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.34",
+   "en": "So, what'll you do now, Mebius? You're the only one left!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.35",
+   "en": "As for you, we'll take our time tormenting you nice and slowly."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.36",
+   "en": "Brother Jack... Brother Ace..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.37",
+   "en": "...No matter what the situation!! I'll hold you off right here!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.38",
+   "en": "I'll protect the Plasma Spark... I'll protect everyone!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.39",
+   "en": "At that moment, Mebius's feelings called forth a miracle."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.40",
+   "en": "The Phoenix Nest appeared before Mebius and the others."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.41",
+   "en": "That's... the Phoenix Nest!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.58",
+   "en": "I remember now... This is the power of our bonds, \"Phoenix Brave\"!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.59",
+   "en": "I have... \"comrades\"... comrades who fight together and support each other..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.60",
+   "en": "(That's right... You're not alone!!)"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.61",
+   "en": "The way I am now... I'm not alone anymore!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.63",
+   "en": "Th-That's impossible!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.64",
+   "en": "Beaten again...!? Waaaaah!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.66",
+   "en": "We did it... We won!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.67",
+   "en": "Brother Jack! Brother Ace! Are you all right!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.68",
+   "en": "Don't worry..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.69",
+   "en": "Something like this won't finish us off..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.70",
+   "en": "Please don't act tough! Hurry to the base!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.71",
+   "en": "We're fine... More importantly, Mebius, you truly did well..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.72",
+   "en": "You've grown strong, Mebius..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.73",
+   "en": "...Yes!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.74",
+   "en": "That's a good answer... Well then, we'll head back to the base..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.88",
+   "en": "Completed the quest \"The Alien Alliance's Obsession\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess023.mbb#0.89",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.1",
+   "en": "Enemies reportedly snuck into the Veda Cube we cleared and made it their lair. Please find and defeat them. The control room looks suspicious."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.3",
+   "en": "Hey!! What the hell is this room!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.5",
+   "en": "The room was swarming with Imagin and Dopants."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.6",
+   "en": "What the hell is goin' on!? Look at all these Imagin!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.7",
+   "en": "What!? Look at all these Dopants!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.8",
+   "en": "What!? Look at how many there are!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.9",
+   "en": "What!? Look at how many there are!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.10",
+   "en": "What!? Look at how many there are!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess024.mbb#0.11",
+   "en": "What!? Look at how many there are!"
+  }
+ ],
+ "notes": [],
+ "report": "filled from the DG_QUEST twin rows / translation memory"
+}

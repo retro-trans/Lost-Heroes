@@ -1,0 +1,74 @@
+{
+ "tpc": "Graph/Dg/Start/Area/AREASTART_C02_tex.tpc",
+ "page": "UI_common_AREA_c2_4444.tga",
+ "note": "Area-start card name pieces (rects from AREASTART_C02.gtx GFUV; the GTSH shapes place them side by side: Cube name, then area pieces). Cube names are right-aligned so they sit next to the area pieces. Shapes: Desert Cube + Ruins/Sand (Quicksand)/Wastes (Wasteland) + shared Zone piece; Quicksand and Wasteland do not fit 22 px; Military Base.",
+ "boxes": [
+  {
+   "x": 0,
+   "y": 1,
+   "w": 99,
+   "h": 11,
+   "text": "Desert Cube",
+   "align": "right"
+  },
+  {
+   "x": 104,
+   "y": 2,
+   "w": 19,
+   "h": 11,
+   "text": "Zone"
+  },
+  {
+   "x": 0,
+   "y": 14,
+   "w": 23,
+   "h": 10,
+   "text": "Ruins",
+   "size": 8,
+   "align": "right"
+  },
+  {
+   "x": 24,
+   "y": 13,
+   "w": 22,
+   "h": 11,
+   "text": "Sand",
+   "size": 8,
+   "align": "right"
+  },
+  {
+   "x": 48,
+   "y": 13,
+   "w": 21,
+   "h": 12,
+   "text": "Wastes",
+   "size": 7,
+   "align": "right"
+  },
+  {
+   "x": 69,
+   "y": 13,
+   "w": 44,
+   "h": 12,
+   "text": "Military Base",
+   "size": 8
+  }
+ ],
+ "defaults": {
+  "size": 9,
+  "bold": false,
+  "color": [
+   255,
+   255,
+   255
+  ]
+ },
+ "clear": [
+  [
+   0,
+   0,
+   128,
+   32
+  ]
+ ]
+}

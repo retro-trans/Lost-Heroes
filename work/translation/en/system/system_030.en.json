@@ -1,0 +1,338 @@
+{
+ "slice": "system_030",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Camp/CampMess.mbb#0.74",
+   "en": "Ride Dungeon 5"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.75",
+   "en": "Ride Dungeon 6"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.76",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.77",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.78",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.79",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.80",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.81",
+   "en": "Proof of Justice"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.82",
+   "en": "Proof of Heroism"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.83",
+   "en": "Novice's Proof"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.84",
+   "en": "Journeyman's Proof"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.85",
+   "en": "Expert's Proof"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.86",
+   "en": "Master's Proof"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.87",
+   "en": "Proof of Conquest"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.88",
+   "en": "Proof of Training"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.89",
+   "en": "Proof of Brawn"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.90",
+   "en": "Asura's Proof"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.91",
+   "en": "Overlord's Proof"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.92",
+   "en": "Proof of Adornment"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.93",
+   "en": "Crescent Moon Proof"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.94",
+   "en": "Half Moon Proof"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.95",
+   "en": "Proof of the Ring"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.96",
+   "en": "Proof of Bonds"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.97",
+   "en": "Proof of Fortune"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.98",
+   "en": "Veteran's Proof"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.101",
+   "en": "Cleared the game"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.102",
+   "en": "Cleared the EX Dungeon"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.103",
+   "en": "Reached 10% overall completion"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.104",
+   "en": "Reached 30% overall completion"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.105",
+   "en": "Reached 50% overall completion"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.106",
+   "en": "Reached 80% overall completion"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.107",
+   "en": "Reached 100% overall completion"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.108",
+   "en": "Won 100 battles"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.109",
+   "en": "Won 500 battles"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.110",
+   "en": "Won 1000 battles"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.111",
+   "en": "Conquered the Arena"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.112",
+   "en": "Upgraded gear 100 times"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.113",
+   "en": "Collected 30 chips"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.114",
+   "en": "Collected 100 chips"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.115",
+   "en": "Collected all chips"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.116",
+   "en": "Used Crossover Skills 100 times"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.117",
+   "en": "Held 10000 Casino Coins"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.118",
+   "en": "Reached max level"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.119",
+   "en": "?????"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.121",
+   "en": "Special Battle Systems and Learning Skills"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.122",
+   "en": "About Chips and Forces"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.123",
+   "en": "About Checkpoints"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.124",
+   "en": "About Ride Dungeons"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.125",
+   "en": "About Ride Battles"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.126",
+   "en": "About Combining"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.127",
+   "en": "About Idle Actions"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.128",
+   "en": "About Random Cubes"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.129",
+   "en": "About Item Search"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.130",
+   "en": "About Basic Stats"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.131",
+   "en": "About Kanegon Casino"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.141",
+   "en": "Required: Sub-Quest"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.142",
+   "en": "Required: Sub-Quest"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.143",
+   "en": "Required: Sub-Quest"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.144",
+   "en": "Required: Main Quest"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.145",
+   "en": "Required: Main Quest"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.146",
+   "en": "Required: Main Quest"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.147",
+   "en": "Required: Main Quest"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.148",
+   "en": "Required: Main Quest"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.149",
+   "en": "Required: Sub-Quest"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.150",
+   "en": "Required: Sub-Quest"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.151",
+   "en": "Required: Sub-Quest"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.152",
+   "en": "Required: Sub-Quest"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.153",
+   "en": "Required: Sub-Quest"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.154",
+   "en": "Required: Main Quest"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#1.1",
+   "en": "Change the message speed."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#1.2",
+   "en": "Change the BGM volume."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#1.3",
+   "en": "Change the SE volume."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#1.4",
+   "en": "Change the cursor memory type used in battle."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#1.5",
+   "en": "Set whether the HERO BGM of a HERO Skill in battle keeps playing after the cutscene ends."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#1.6",
+   "en": "Listen to in-game BGM you have already heard."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#1.7",
+   "en": "Set up a custom soundtrack."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#1.8",
+   "en": "Use data install."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#1.9",
+   "en": "Restore settings to their defaults."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#1.10",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#1.11",
+   "en": "Reset the option data to its defaults?\nAre you sure?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Camp/CampMess.mbb#0.81",
+   "note": "Rows 0.81-0.98 are badge/title names matching the unlock conditions in 0.101-0.118 in order; rendered as Proof of X."
+  },
+  {
+   "key": "Table/Camp/CampMess.mbb#0.119",
+   "note": "Secret unlock condition placeholder, copied unchanged."
+  }
+ ],
+ "report": "80/80 rows. Proof titles are my own coinages; tutorial titles use 'About X'; new terms: Proof (badge), Combining (item synthesis), cursor memory type."
+}

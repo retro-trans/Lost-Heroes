@@ -1,0 +1,334 @@
+{
+ "slice": "system_085",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillName.mbb#1.122",
+   "en": "GN Sword II"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.123",
+   "en": "GN Sword II Beam Saber"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.124",
+   "en": "GN Sword II Rifle Mode"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.125",
+   "en": "GN Shield"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.126",
+   "en": "Trans-Am Activation"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.127",
+   "en": "Quantization"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.128",
+   "en": "GN Micro Missile"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.129",
+   "en": "GN Sword III"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.130",
+   "en": "GN Sword III Beam Saber"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.131",
+   "en": "GN Sword III Rifle Mode"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.132",
+   "en": "Trans-Am Burst"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.133",
+   "en": "Trans-Am Combo"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.134",
+   "en": "Trans-Am Raiser Sword"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.135",
+   "en": "Ultra Punch"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.136",
+   "en": "Ultra Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.137",
+   "en": "Catch Ring"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.138",
+   "en": "Rebound Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.139",
+   "en": "Ultra Waterflow"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.140",
+   "en": "Ultra Attack Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.141",
+   "en": "Ultra Eye Spot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.142",
+   "en": "Slash Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.143",
+   "en": "Ultra Charge"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.144",
+   "en": "Defiant Stance"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.145",
+   "en": "Specium Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.146",
+   "en": "Eight-Slice Halo Combo"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.147",
+   "en": "Ultra Punch"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.148",
+   "en": "Eye Slugger"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.149",
+   "en": "Stop Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.150",
+   "en": "Ultra Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.151",
+   "en": "Tornado Beam"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.152",
+   "en": "Body Spark"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.153",
+   "en": "Perfect Freezer"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.154",
+   "en": "Ultra Barrier"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.155",
+   "en": "Double Beam"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.156",
+   "en": "Ultra Power"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.157",
+   "en": "Emerium Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.158",
+   "en": "Wide Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.159",
+   "en": "Storium Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.160",
+   "en": "Blue Laser"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.161",
+   "en": "Taro Cutter"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.162",
+   "en": "Relive Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.163",
+   "en": "Taro Fire"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.164",
+   "en": "Taro Spout"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.165",
+   "en": "Bracelet Lancer"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.166",
+   "en": "King Bracelet: Discharge"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.167",
+   "en": "King Bracelet: Clone"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.168",
+   "en": "Thunder Power"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.169",
+   "en": "Atomic Punch"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.170",
+   "en": "Ultra Dynamite"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.171",
+   "en": "Storium Ray Combo"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.172",
+   "en": "Mebius Punch"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.173",
+   "en": "Mebius Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.174",
+   "en": "Mebius Chop"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.175",
+   "en": "Mebium Blade"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.176",
+   "en": "Lightning Counter"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.177",
+   "en": "Mebium Pinger"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.178",
+   "en": "Mebius Defence Circle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.179",
+   "en": "Passive Blade Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.180",
+   "en": "Active Blade Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.181",
+   "en": "Mebium Shoot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.182",
+   "en": "Mebium Knight Shoot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.183",
+   "en": "Zero Knuckle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.184",
+   "en": "Ultra Zero Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.185",
+   "en": "Beam Zero Spike"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.186",
+   "en": "Emerium Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.187",
+   "en": "Wide Zero Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.188",
+   "en": "Zero Sluggers"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.189",
+   "en": "Zero Sluggers Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.190",
+   "en": "Light Power"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.191",
+   "en": "Weak Bond"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.192",
+   "en": "Zero Twin Shoot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.193",
+   "en": "Plasma Spark Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.194",
+   "en": "W Rider Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.195",
+   "en": "Double Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.196",
+   "en": "Double Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.197",
+   "en": "Twin Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.198",
+   "en": "Twin Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.199",
+   "en": "Twin Burst"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.200",
+   "en": "Form Change Combo"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.201",
+   "en": "Combination Zero"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Skill/SkillName.mbb#1.144",
+   "note": "Defiant Stance per instruction (system_082 table 0 used Stand Firm for the same term)."
+  }
+ ],
+ "report": "All 80 rows reuse system_081-083 table-0 skill names verbatim (identical Japanese); 144 uses Defiant Stance."
+}

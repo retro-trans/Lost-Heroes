@@ -1,0 +1,342 @@
+{
+ "slice": "system_096",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.191",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.192",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.193",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.194",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.195",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.196",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.197",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.198",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.199",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.200",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.201",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.202",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.203",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.204",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.205",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.206",
+   "en": null
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#0.1",
+   "en": "Casino Upgrade"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#0.2",
+   "en": "Training Facility Boost"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#0.3",
+   "en": "Security Duty"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#0.4",
+   "en": "Material Gathering"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#1.1",
+   "en": "Cube 1"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#1.2",
+   "en": "Cube 2"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#1.3",
+   "en": "Cube 3"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#1.4",
+   "en": "Cube 4"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#1.5",
+   "en": "Cube 5"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#1.6",
+   "en": "Cube 6"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#1.7",
+   "en": "Cube 7"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#2.1",
+   "en": "Casino Repair"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#2.2",
+   "en": "Training Facility Boost"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#2.3",
+   "en": "Security Duty"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#2.4",
+   "en": "Material Gathering C1"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#2.5",
+   "en": "Material Gathering C2"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#2.6",
+   "en": "Material Gathering C3"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#2.7",
+   "en": "Material Gathering C4"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#2.8",
+   "en": "Material Gathering C5"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#2.9",
+   "en": "Material Gathering C6"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#2.10",
+   "en": "Material Gathering C7"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#3.1",
+   "en": "Upgrade the Casino"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#3.2",
+   "en": "Upgrade the Training Facility"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#3.3",
+   "en": "Go on security duty"
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#3.4",
+   "en": "Gather materials in Cubes you've visited"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#0.1",
+   "en": "The Casino has been upgraded!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#0.2",
+   "en": "The Casino has been upgraded!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#0.3",
+   "en": "The Casino has been upgraded!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#0.4",
+   "en": "The Casino has been upgraded!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#0.5",
+   "en": "The Casino has been upgraded!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#0.6",
+   "en": "The Casino has been upgraded!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#0.7",
+   "en": "The Casino has been upgraded!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#0.8",
+   "en": "The Casino has been upgraded!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#1.1",
+   "en": "The Training Facility has been upgraded!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#1.2",
+   "en": "The Training Facility has been upgraded!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#1.3",
+   "en": "The Training Facility has been upgraded!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#1.4",
+   "en": "The Training Facility has been upgraded!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#1.5",
+   "en": "The Training Facility has been upgraded!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#1.6",
+   "en": "The Training Facility has been upgraded!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#1.7",
+   "en": "The Training Facility has been upgraded!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#1.8",
+   "en": "The Training Facility has been upgraded!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#2.1",
+   "en": "Security Duty leveled up!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#2.2",
+   "en": "Security Duty leveled up!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#2.3",
+   "en": "Security Duty leveled up!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#2.4",
+   "en": "Security Duty leveled up!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#2.5",
+   "en": "Security Duty leveled up!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#2.6",
+   "en": "Security Duty leveled up!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#2.7",
+   "en": "Security Duty leveled up!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#2.8",
+   "en": "Security Duty leveled up!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#3.1",
+   "en": "Material Gathering leveled up!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#3.2",
+   "en": "Material Gathering leveled up!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#3.3",
+   "en": "Material Gathering leveled up!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#3.4",
+   "en": "Material Gathering leveled up!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#3.5",
+   "en": "Material Gathering leveled up!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#3.6",
+   "en": "Material Gathering leveled up!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#3.7",
+   "en": "Material Gathering leveled up!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#3.8",
+   "en": "Material Gathering leveled up!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#4.1",
+   "en": "Concentration is now available to play!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#4.2",
+   "en": "New prizes were added to the Casino!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#4.3",
+   "en": "Slots are now available to play!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#4.4",
+   "en": "New prizes were added to the Casino!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#4.5",
+   "en": "New prizes were added to the Casino!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#4.6",
+   "en": "Poker is now available to play!"
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#4.7",
+   "en": "New prizes were added to the Casino!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.191",
+   "note": "Rows under Table/StaffRoll/ (0.191-0.206) left null per instructions: different font, garbled decode."
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#2.1",
+   "note": "Casino 'restoration' variant of the label; rendered 'Casino Repair' to stay distinct from 'Casino Upgrade'."
+  },
+  {
+   "key": "Table/WaitAct/WaitActMess.mbb#2.4",
+   "note": "Material Gathering C1-C7: Cube 1-7 variants; 'C' kept as the abbreviation of Cube per source."
+  }
+ ],
+ "report": "80/80 examined; 16 StaffRoll rows null by instruction. Labels follow tutorial wording: Training Facility Boost, Security Duty, Material Gathering, Concentration. No new glossary terms."
+}

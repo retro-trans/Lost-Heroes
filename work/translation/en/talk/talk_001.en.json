@@ -1,0 +1,402 @@
+{
+ "slice": "talk_001",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Base/TalkMessCasino.mbb#0.1",
+   "en": "There's no one here."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCasino.mbb#0.6",
+   "en": "Heheh! Go on and have yourselves some fun!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCasino.mbb#0.7",
+   "en": "When everybody's having fun, I'm having fun too!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCasino.mbb#0.13",
+   "en": "The \"Ultra Cube\" sounds like a chilly place..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCasino.mbb#0.14",
+   "en": "When it's cold like that, win some coins here at the casino and get all warm and toasty!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCasino.mbb#0.20",
+   "en": "There's a whole bunch of items on display in the \"Shocker Cube\"!?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCasino.mbb#0.21",
+   "en": "I want those items... I wanna line 'em up as casino prizes..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCasino.mbb#0.27",
+   "en": "Everybody's got it rough... Everybody's so busy..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCasino.mbb#0.28",
+   "en": "But Kanegon Casino gets lonely when nobody comes to visit..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCasino.mbb#0.29",
+   "en": "Even if it's just for a breather, come on by, won't ya?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCasino.mbb#0.35",
+   "en": "You look super tired, y'know? Are you okay?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCasino.mbb#0.36",
+   "en": "At times like that, come let loose and have a blast at the casino!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.1",
+   "en": "There's no one here."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.16",
+   "en": "I've been examining the items that were buried away. They're quite interesting."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.17",
+   "en": "Our technologies may differ, but the way we think is remarkably similar."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.29",
+   "en": "Thank you for saving Mebius. I'm truly grateful."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.30",
+   "en": "Next is Bogal. Defeat it in my place! I'm counting on you!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.36",
+   "en": "Still, you really did defeat Bogal. I can never thank you enough."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.37",
+   "en": "Now then... I need to hurry with the Memory Gadget repairs."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.43",
+   "en": "Well? Was the Denden Sensor of any use?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.49",
+   "en": "Well done!! I believed you'd pull it off."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.50",
+   "en": "Ah, Methuss is fine. She's resting in the medical room."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.51",
+   "en": "Since then, have you found any leads on Kamen Riders 1 and 2?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.58",
+   "en": "What? A desert-like world? So there was a place like that, too..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.59",
+   "en": "I hope we find Kamen Riders 1 and 2..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.60",
+   "en": "{8074}, thank you for saving me. I've had a good rest and gotten my strength back."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.61",
+   "en": "Methuss, are you all right now?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.62",
+   "en": "Yes. From now on, I'll be backing everyone up at the \"Item Lab.\""
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.67",
+   "en": "I'll keep exploring the Begins Cube a while longer, but I'll drop by here now and then."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.68",
+   "en": "Looks like there are all sorts of facilities here. I'll take a look around."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.73",
+   "en": "How are things on your end? I heard it's a desert. That's a harsh environment."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.82",
+   "en": "You've already cleared three missions? I think a little better of you now."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.92",
+   "en": "How does the Ride Machine handle? If there are any problems, I'll fix them right away."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.98",
+   "en": "So Kamen Riders 1 and 2 weren't in this Cube..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.99",
+   "en": "For now, it seems best to focus on defeating The O and rescuing RX."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.106",
+   "en": "...The enemy is after the King Stone?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.107",
+   "en": "So they're trying to get their hands on the technology of every world."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.115",
+   "en": "So a third Cube has finally been found. It's the one the enemy calls the \"Hideout Cube,\" right?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.124",
+   "en": "...So you met Rider 2 and Skull. I'm glad they're safe."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.125",
+   "en": "But Skull... That's not a name I've heard before."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.126",
+   "en": "Kamen Rider Skull... The Boss is my mentor."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.127",
+   "en": "So he was pulled into this world, too?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.128",
+   "en": "That's the thing, I don't know... Skull should've died months ago."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.129",
+   "en": "Right in front of my eyes..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.134",
+   "en": "Skull was a fake!?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.135",
+   "en": "Yeah... Damn it, of all people, I fell for it. Thinking a fake like that was the Boss..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.136",
+   "en": "But it couldn't be helped. The Dummy Dopant's mimicry was perfect."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.137",
+   "en": "What a troublesome enemy to have appeared."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.147",
+   "en": "Well? Have you found the Polymer Plaster Bomb?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.148",
+   "en": "According to Ankh, the room with that \"birdlime\"-like substance looks suspicious..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.155",
+   "en": "Looks like you got the Polymer Plaster Bomb. Shove it right into the Modified Bemstar's belly!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.162",
+   "en": "Well done! Taking down that Modified Bemstar is quite something."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.163",
+   "en": "But be careful. Yapool is notorious for holding a grudge."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.171",
+   "en": "What? ...Crosses? And the Ultra Warriors are there...!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.186",
+   "en": "A creature like black smoke...? So it had possessed Gomora..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.187",
+   "en": "Just what is the enemy plotting...?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.193",
+   "en": "DG Cells... I'm afraid I don't know them well. But I'll look into them for the future..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.202",
+   "en": "What!? DG Cells in a Choju...!? ...The enemy's research seems quite advanced."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.209",
+   "en": "So the path has been blocked... In that case, all you can do is take another route."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.210",
+   "en": "I'm no fan of detours, but it can't be helped. Let's find another way."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.214",
+   "en": "To rescue the crucified Ultra Warriors, we need to destroy the boulders blocking the path."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.215",
+   "en": "If only there were a suitable bomb somewhere..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.227",
+   "en": "What's the holdup? Hurry and save the Brothers."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.235",
+   "en": "How many crosses were there in all? There must be more Ultra Brothers crucified out there."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.236",
+   "en": "Please, hurry and rescue them."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.242",
+   "en": "How many crosses were there in all? There must be more Ultra Brothers crucified out there."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.243",
+   "en": "Please, hurry and rescue them."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.248",
+   "en": "Yapool will surely resort to cunning tricks. Be very careful."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.253",
+   "en": "The Ride Machine's drill is powered up. Now it should break through Ride Dungeon walls, too."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.254",
+   "en": "Hurry to the \"Ultra Cube.\""
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.262",
+   "en": "The \"Ultra Cube\" is frozen?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.263",
+   "en": "...What on earth could be causing it?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.267",
+   "en": "You should be able to reach the Plasma Spark Tower by way of the Colosseum."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.268",
+   "en": "It seems you've fully recovered."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.273",
+   "en": "\"Regis Fight\"? So that's the \"game\" Belial spoke of."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.274",
+   "en": "And on top of that, he'll grant the winner control of the Cube..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.275",
+   "en": "Just what is he thinking...!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.281",
+   "en": "I never imagined Jack and the others would lose..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.282",
+   "en": "Their opponent was the Alien Alliance, a formidable foe. It couldn't be helped."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.283",
+   "en": "What's more, I hear they brought out Black King partway through."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.16",
+   "note": "SPEAKERS: the slice labels for TalkMessCommand were wrong (Zoffy/Rider 1/God Gundam/00/Wing Zero). Re-derived from Event/Base/Command/Talk01_NN.bla: row = that script's TextIdOffset const + n + 1. Result: #0.16-0.59 Hikari; #0.60/#0.62 Methuss, #0.61 Hikari; #0.67-0.82 Accel; #0.92-0.137 Hikari except #0.126/#0.128/#0.129/#0.135 W (Shotaro) and #0.136 W (Philip); #0.147-0.243 Hikari except #0.210 Zero; #0.248-0.281 Zoffy; #0.282 Ultraman; #0.283 Seven. Casino rows #0.6-0.36 are all Kanegon (Talk01_02-06)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCasino.mbb#0.1",
+   "note": "Talk01_01 in both rooms shows this line with no speaker: system text when the facility NPC is absent."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCasino.mbb#0.14",
+   "note": "Pun on hokuhoku (steaming warm / pleased with winnings) after the 'cold Ultra Cube' line; rendered 'warm and toasty'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.30",
+   "note": "Hikari uses ore here (personal vendetta: Bogal destroyed his planet). Bogal g=n -> 'it'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.50",
+   "note": "Answers an implied question from the party about Methuss."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.60",
+   "note": "Methuss. {8074} = party leader name variable; padding dropped per brief."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.82",
+   "note": "Accel. 'Missions' kept literal (likely the quests)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.124",
+   "note": "'Glad they're safe' read as Rider 2 and Skull; could also mean the party. Uncertain."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.136",
+   "note": "W (Philip) per script (separate CHARA_NAME from Shotaro)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.148",
+   "note": "Quoted torimochi rendered \"birdlime\" (glossary Birdlime; lowercase as in story)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.155",
+   "note": "Source term (polymer plaster bomb) matched to glossary/story 'Polymer Plaster Bomb'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.210",
+   "note": "Script names Zero (CHARA_NAME 15) as the second speaker; not a party variant."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.215",
+   "note": "Talk01_25 only plays offset+0; this second line is unused by the script. Treated as Hikari continuing."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.227",
+   "note": "Hikari says nii-san-tachi (the Ultra Brothers). Hikari isn't their sibling, so 'the Brothers' rather than 'my brothers'. Possibly a line first written for Mebius."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.242",
+   "note": "Duplicate of #0.235-0.236. Talk01_28 does not exist in the Command pack, so #0.242/#0.243 are unused; same English as the originals, speaker assumed Hikari."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.268",
+   "note": "Zoffy; addressee unstated (party or a just-recovered ally). Kept neutral 'you'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.274",
+   "note": "Subject restored as Belial ('he'), from #0.273."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.283",
+   "note": "Seven. Continues into Zero's #0.284 (talk_002)."
+  }
+ ],
+ "report": "80/80. Slice speaker labels for TalkMessCommand were wrong; re-derived from Event/Base/Command/Talk01_NN.bla (TextIdOffset + n + 1). Uncertain: #0.124 referent of 'safe', #0.227 'the Brothers' from Hikari, #0.215/#0.242/#0.243 unused lines. No new names."
+}

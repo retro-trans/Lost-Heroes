@@ -1,0 +1,387 @@
+{
+ "slice": "system_093",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillName.mbb#5.19",
+   "en": "Imperial Sword"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.20",
+   "en": "Mega Particle Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.21",
+   "en": "Mega Arm Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.22",
+   "en": "Mega Particle Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.23",
+   "en": "Charging"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.24",
+   "en": "Funnel"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.25",
+   "en": "Charge"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.26",
+   "en": "Punch"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.27",
+   "en": "Beam Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.28",
+   "en": "Spread Mega Particle Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.29",
+   "en": "Needle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.30",
+   "en": "Needle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.31",
+   "en": "Needle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.32",
+   "en": "Claw Swipe"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.33",
+   "en": "Headbutt"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.34",
+   "en": "Upward Thrust"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.35",
+   "en": "Beam Sword"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.36",
+   "en": "Mega Spread Beam Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.37",
+   "en": "Mega Beam Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.38",
+   "en": "Charging"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.39",
+   "en": "All Cannons"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.40",
+   "en": "Plasma Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.41",
+   "en": "Defend"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.42",
+   "en": "Charging"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.43",
+   "en": "Plasma Field"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.44",
+   "en": "Lightning"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.45",
+   "en": "Great Lightning"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.46",
+   "en": "Charging"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.47",
+   "en": "Fireball"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.48",
+   "en": "Punch"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.49",
+   "en": "Strange Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.50",
+   "en": "Fist Pump"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.51",
+   "en": "Shock Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.52",
+   "en": "Baltanic Wave"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.53",
+   "en": "Defend"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.54",
+   "en": "Chop"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.55",
+   "en": "Ultra Barrier"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.56",
+   "en": "Eye Slugger"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.57",
+   "en": "Charging"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.58",
+   "en": "Fake Emerium Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.59",
+   "en": "Large Beam Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.60",
+   "en": "Egner Whip"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.61",
+   "en": "Claw Arm"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.62",
+   "en": "Bite"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.63",
+   "en": "Fireball"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.64",
+   "en": "Pedanium Launcher"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.65",
+   "en": "Headbutt"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.66",
+   "en": "Fist Pump"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.67",
+   "en": "Punch"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.68",
+   "en": "Headbutt"
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.1",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.2",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.3",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.4",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.5",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.6",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.7",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.8",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.9",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.10",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.11",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.12",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.13",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.14",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.15",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.16",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.17",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.18",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.19",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.20",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.21",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.22",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.23",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.24",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.25",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.26",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.27",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.28",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.29",
+   "en": null
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.30",
+   "en": null
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.17",
+   "note": "Staff roll glyph-code placeholder containing kana; not translatable text, left null (same as system_094)."
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.18",
+   "note": "Staff roll glyph-code placeholder containing kana; not translatable text, left null (same as system_094)."
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.19",
+   "note": "Staff roll glyph-code placeholder containing kana; not translatable text, left null (same as system_094)."
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.21",
+   "note": "Staff roll glyph-code placeholder containing kana; not translatable text, left null (same as system_094)."
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.22",
+   "note": "Staff roll glyph-code placeholder containing kana; not translatable text, left null (same as system_094)."
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.23",
+   "note": "Staff roll glyph-code placeholder containing kana; not translatable text, left null (same as system_094)."
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.24",
+   "note": "Staff roll glyph-code placeholder containing kana; not translatable text, left null (same as system_094)."
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.25",
+   "note": "Staff roll glyph-code placeholder containing kana; not translatable text, left null (same as system_094)."
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.26",
+   "note": "Staff roll glyph-code placeholder containing kana; not translatable text, left null (same as system_094)."
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.28",
+   "note": "Staff roll glyph-code placeholder containing kana; not translatable text, left null (same as system_094)."
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.29",
+   "note": "Staff roll glyph-code placeholder containing kana; not translatable text, left null (same as system_094)."
+  },
+  {
+   "key": "Table/StaffRoll/StaffRoll.mbb#0.30",
+   "note": "Staff roll glyph-code placeholder containing kana; not translatable text, left null (same as system_094)."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.51",
+   "note": "Source looks mis-decoded (one kanji off); read as Shock Ray (cf. Shock Ray in enemy descriptions, system_035)."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#5.23",
+   "note": "Charge-up turn skill (repeated 5x); 'Charging' chosen to differ from Charge."
+  },
+  "StaffRoll uses its own sequential font (FontStaff); credits are kept in Japanese (see docs/review_queue.md)."
+ ],
+ "report": "Skill names reused from earlier slices where present (Imperial Sword, Mega Particle Cannon, Funnel, Charge, Punch, Beam Sword, Defend, Lightning, Strange Ray, Eye Slugger, Claw Arm, Egner Whip, Shock Ray). Staff roll rows: ASCII-only copied; kana-containing glyph placeholders null."
+}

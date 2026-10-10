@@ -1,0 +1,114 @@
+{
+ "tpc": "Graph/Base/UI/Base.tpc",
+ "page": "UI_psp_EQUIP_status_4444.tga",
+ "note": "Equipment screen stat labels. Abbreviations follow the menu text (P.ATK, R.ATK, P.DEF, R.DEF, SPD).",
+ "boxes": [
+  {
+   "x": 31,
+   "y": 7,
+   "w": 20,
+   "h": 9,
+   "text": "P.ATK"
+  },
+  {
+   "x": 1,
+   "y": 17,
+   "w": 20,
+   "h": 10,
+   "text": "R.ATK"
+  },
+  {
+   "x": 22,
+   "y": 17,
+   "w": 20,
+   "h": 10,
+   "text": "P.DEF"
+  },
+  {
+   "x": 43,
+   "y": 17,
+   "w": 20,
+   "h": 10,
+   "text": "R.DEF"
+  },
+  {
+   "x": 1,
+   "y": 28,
+   "w": 20,
+   "h": 10,
+   "text": "SPD"
+  },
+  {
+   "x": 22,
+   "y": 28,
+   "w": 20,
+   "h": 10,
+   "text": "TEC"
+  },
+  {
+   "x": 43,
+   "y": 28,
+   "w": 20,
+   "h": 10,
+   "text": "STR"
+  },
+  {
+   "x": 1,
+   "y": 40,
+   "w": 20,
+   "h": 10,
+   "text": "SPI"
+  },
+  {
+   "x": 22,
+   "y": 40,
+   "w": 20,
+   "h": 10,
+   "text": "FOC"
+  },
+  {
+   "x": 43,
+   "y": 40,
+   "w": 20,
+   "h": 10,
+   "text": "MND"
+  },
+  {
+   "x": 1,
+   "y": 51,
+   "w": 12,
+   "h": 10,
+   "text": "LUK",
+   "size": 8
+  }
+ ],
+ "defaults": {
+  "size": 9,
+  "bold": false,
+  "color": [
+   255,
+   255,
+   255
+  ]
+ },
+ "clear": [
+  [
+   30,
+   6,
+   34,
+   11
+  ],
+  [
+   0,
+   16,
+   64,
+   35
+  ],
+  [
+   0,
+   50,
+   12,
+   12
+  ]
+ ]
+}

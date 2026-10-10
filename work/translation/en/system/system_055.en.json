@@ -1,0 +1,342 @@
+{
+ "slice": "system_055",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.58",
+   "en": "Auxiliary equipment repaired!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.59",
+   "en": "Armor damage repaired!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.60",
+   "en": "Fuel leak repaired!"
+  },
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.61",
+   "en": "Obtained<br><itemFull>."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0001.mbb#0.1",
+   "en": "Watch the Battle Tutorial?"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0001.mbb#0.2",
+   "en": "You can view tutorials any time from the Camp Menu."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0002.mbb#0.1",
+   "en": "Watch the Ride Battle Tutorial?"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0002.mbb#0.2",
+   "en": "You can view tutorials any time from the Camp Menu."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0003.mbb#0.1",
+   "en": "Why...? We don't have even a 1% chance of winning!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0003.mbb#0.2",
+   "en": "Hmph!! The evil organization is... eternal!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0003.mbb#0.3",
+   "en": "Hahahahaha!! You cannot defeat me!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0003.mbb#0.4",
+   "en": "You're just the opening act. Now die!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0003.mbb#0.5",
+   "en": "You look unwell. Shall I give you a checkup?"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0004.mbb#0.1",
+   "en": "Don't get cocky, Lost Heroes!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0004.mbb#0.2",
+   "en": "What overwhelming pressure...!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0005.mbb#0.1",
+   "en": "Right! Hit those heroes with a Specium Ray!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0005.mbb#0.2",
+   "en": "Impossible! All I can copy is the appearance...!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0006.mbb#0.1",
+   "en": "Damn you!! I won't let you do as you please any longer!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0006.mbb#0.2",
+   "en": "Foolish heroes!! Learn the terror of Yapool, the superhuman from another dimension!!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0006.mbb#0.3",
+   "en": "My power comes from resentment!! I won't forgive you!! I won't forgive you!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0007.mbb#0.1",
+   "en": "It's about time..."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0007.mbb#0.2",
+   "en": "Come forth, Black King!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0007.mbb#0.3",
+   "en": "Gwaaaaaaaargh!!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0008.mbb#0.1",
+   "en": "Ugh... Urgh...!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0008.mbb#0.2",
+   "en": "What's wrong!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0008.mbb#0.3",
+   "en": "Uwoooooooooooh...!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0008.mbb#0.4",
+   "en": "...Haah... Haah..."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0008.mbb#0.5",
+   "en": "The Yummy split off...!?"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0008.mbb#0.6",
+   "en": "Smash... it all... wreck it...!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0009.mbb#0.1",
+   "en": "Hm...!? You're stronger than you look...?"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0009.mbb#0.2",
+   "en": "S-strong..."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0010.mbb#0.1",
+   "en": "Tch... You'll regret this someday...?"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0010.mbb#0.2",
+   "en": "At this rate, before I'm fully revived...!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0011.mbb#0.1",
+   "en": "To corner me this far... I won't forgive you!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0011.mbb#0.2",
+   "en": "Damn those insolent heroes!! I won't lose!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0011.mbb#0.3",
+   "en": "Damn you... but I can't afford another failure!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0011.mbb#0.6",
+   "en": "Think you can beat me? Not against the terror of Terror!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0011.mbb#0.7",
+   "en": "This Ikadevil will send you all to hell!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0011.mbb#0.8",
+   "en": "Is that all? That doesn't hurt a bit!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0011.mbb#0.12",
+   "en": "You're finished. You'll live the rest of your lives in fear."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0011.mbb#0.13",
+   "en": "Once you're defeated, we'll toast with Shocker wine."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0012.mbb#0.1",
+   "en": "Tch... over a trifle like this... True victory can only be seized by sacrificing your own body!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0012.mbb#0.2",
+   "en": "Why...? The heroes should have lost their power!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0012.mbb#0.4",
+   "en": "You dare challenge me with such spineless fists? Don't make me laugh!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0013.mbb#0.1",
+   "en": "You're persistent! Hurry up and get beaten already!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0013.mbb#0.2",
+   "en": "You've got some nerve... and the fun was just getting started!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0014.mbb#0.1",
+   "en": "I'm a being that has surpassed even the Innovators!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0014.mbb#0.2",
+   "en": "I can... still fight...!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0015.mbb#0.1",
+   "en": "Too big a power gap!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0015.mbb#0.2",
+   "en": "Can't even scratch it..."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0015.mbb#0.3",
+   "en": "Something's wrong...!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0016.mbb#0.1",
+   "en": "My end... I'm becoming complete..."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0016.mbb#0.2",
+   "en": "This power...!! It seems I underestimated you."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0017.mbb#0.1",
+   "en": "I-I'm immortal!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0017.mbb#0.2",
+   "en": "It isn't over yet! I have the Minus Energy!!"
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0001.mbb#0.1",
+   "en": "Starting the Battle Tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0001.mbb#0.2",
+   "en": "First, an explanation of the Hero Gauge."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0001.mbb#0.3",
+   "en": "Attacking enemies in battle, or being attacked by them, fills the Hero Gauge."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0001.mbb#0.4",
+   "en": "You can store multiple Hero Gauges. Spend 1 to raise a skill's level by 1,"
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0001.mbb#0.5",
+   "en": "or spend 3 to use a HERO Skill."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0001.mbb#0.6",
+   "en": "Next, an explanation of the Color Timer for Ultraman-type heroes."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0001.mbb#0.7",
+   "en": "Ultraman-type heroes have a Color Timer shown in their status."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0001.mbb#0.8",
+   "en": "The Color Timer changes color every 3 turns. While blue, the Ultra's true power is at full strength,"
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0001.mbb#0.9",
+   "en": "but when it turns red, stats drop sharply in exchange for a much higher critical rate."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0001.mbb#0.10",
+   "en": "After 3 more turns as red, or when the battle ends, it returns to blue."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0001.mbb#0.11",
+   "en": "With an Ultraman-type hero in the party, keep an eye on the Color Timer as you fight."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0001.mbb#0.12",
+   "en": "That concludes the Battle Tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0001.mbb#0.13",
+   "en": "Select \"Skill Tree\" in the Camp Menu, then spend AP"
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0001.mbb#0.14",
+   "en": "along the tree to power up or learn skills and HERO Skills."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0001.mbb#0.15",
+   "en": "However, Crossover Skills are used by spending 2 gauges at a time."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0002.mbb#0.1",
+   "en": "Starting the Chip Tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0002.mbb#0.2",
+   "en": "Defeated enemies may drop chips. These chips are useless as they are."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0002.mbb#0.3",
+   "en": "You must run the \"Chip Report\" command from the Briefing Room menu at the base."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0002.mbb#0.4",
+   "en": "The analyzed chip data may teach you a \"Force\"."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0002.mbb#0.5",
+   "en": "Each character can equip multiple Forces up to their capacity,"
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0002.mbb#0.6",
+   "en": "but a Force that is already equipped cannot be equipped by another character."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0002.mbb#0.7",
+   "en": "There are 2 kinds of Forces: command-use and automatic-effect."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0002.mbb#0.8",
+   "en": "Collect chips and learn all sorts of Forces to help you through the game."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0002.mbb#0.9",
+   "en": "That concludes the Chip Tutorial."
+  },
+  {
+   "key": "Table/Event/Tutorial/MainEventMess0002.mbb#0.10",
+   "en": "You need to run the Chip Report command."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Enemy/SystemMessage.mbb#0.61",
+   "note": "Source has two garbled control sequences (a name/item variable and a no-op). Used {8069} (item) as in system_001; unverified."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0016.mbb#0.1",
+   "note": "Speaker unknown; kept as a dramatic self-reflection."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0012.mbb#0.4",
+   "note": "Speaker unknown (old-man 'washi' voice); kept gender-neutral."
+  }
+ ],
+ "report": "80/80 rows. Uncertain: SystemMessage 0.61 variable; boss-battle line speakers inferred from wording (Yapool, Ikadevil, Terror Dopant, Black King summon, Reborns Gundam). No new glossary terms except Skill Tree, Chip Report, Briefing Room (menu names)."
+}

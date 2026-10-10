@@ -1,0 +1,374 @@
+{
+ "slice": "story_172",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0736.mbb#0.8",
+   "en": "...This is the place?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.9",
+   "en": "...This is the place?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.10",
+   "en": "...This is the place?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.11",
+   "en": "...This is the place?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.12",
+   "en": "...This is the place?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.13",
+   "en": "...This is the place?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.14",
+   "en": "...This is the place?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.15",
+   "en": "...This is the place?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.17",
+   "en": "Regis!! Where are you!? ...Show yourself!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.18",
+   "en": "Fufufufufu... Hahahahahahaha!!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.19",
+   "en": "\"Where are you,\" you ask? ...Do you still not understand?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.20",
+   "en": "You have been looking at me ever since you awoke in what you call \"this world,\" have you not?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.21",
+   "en": "...No way!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.22",
+   "en": "This world... You mean this very space itself is Regis!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.23",
+   "en": "This world... So this whole space itself is Regis!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.24",
+   "en": "This world... You mean this very space itself is Regis!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.25",
+   "en": "This world... You mean this very space itself is Regis!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.26",
+   "en": "This world... So this whole space itself is Regis!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.27",
+   "en": "This world... You mean this very space itself is Regis!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.28",
+   "en": "This world... You mean this very space itself is Regis!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.29",
+   "en": "This world... You're tellin' me this whole space is Regis!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.30",
+   "en": "This world... You mean this very space itself is Regis!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.31",
+   "en": "This world... You mean this very space itself is Regis!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.32",
+   "en": "This world... You mean this very space itself is Regis!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.33",
+   "en": "This world... You mean this very space itself is Regis!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.34",
+   "en": "This world... You mean this very space itself is Regis!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.35",
+   "en": "This world... You mean this very space itself is Regis!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.36",
+   "en": "This world... You mean this very space itself is Regis!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.38",
+   "en": "So you finally understand, Lost Heroes!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.39",
+   "en": "Just what are you!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.40",
+   "en": "Just what are you!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.41",
+   "en": "Just what are you!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.42",
+   "en": "Just what are you!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.43",
+   "en": "Just what are you!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.44",
+   "en": "Just what are you!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.45",
+   "en": "Just what are you!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.46",
+   "en": "Just what are ya!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.47",
+   "en": "Just what are you!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.48",
+   "en": "Just what are you!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.49",
+   "en": "Just what are you!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.50",
+   "en": "Just what are you!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.51",
+   "en": "Just what are you!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.52",
+   "en": "Just what are you!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.53",
+   "en": "Just what are you!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.54",
+   "en": "The \"evil thoughts\" that you defeated in every one of your original worlds..."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.55",
+   "en": "And the endless \"negative emotions\" of humankind... strife, hatred, greed..."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.56",
+   "en": "...all flowed into the rift between universes, a place that is nowhere at all..."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.57",
+   "en": "In time, they gathered in one place, fused together, and came to possess a single \"will.\""
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.58",
+   "en": "A will...?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.59",
+   "en": "A will of evil, filled with negative power beyond your imagining. That is what I am: Regis!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.60",
+   "en": "A will of evil... That's Regis...!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.61",
+   "en": "A will of evil... That's Regis...!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.62",
+   "en": "A will of evil... That's Regis...!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.63",
+   "en": "A will of evil... That's Regis...!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.64",
+   "en": "A will of evil... That's Regis...!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.65",
+   "en": "A will of evil... That's Regis...!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.66",
+   "en": "A will of evil... That's Regis...!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.67",
+   "en": "A will of evil... That's Regis...!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.68",
+   "en": "A will of evil... That's Regis...!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.69",
+   "en": "A will of evil... That's Regis...!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.70",
+   "en": "A will of evil... That's Regis...!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.71",
+   "en": "A will of evil... That's Regis...!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.72",
+   "en": "A will of evil... That's Regis...!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.73",
+   "en": "A will of evil... That's Regis...!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.74",
+   "en": "A will of evil... That's Regis...!!"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.76",
+   "en": "The evil thoughts' negative emotions kept pouring in as a vast vortex, swelling me enormously..."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.77",
+   "en": "Until I filled the entire rift between universes."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.78",
+   "en": "...And so, having gained immense power, I next resolved to intervene in your worlds."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.79",
+   "en": "To rule every world with the will of evil."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.80",
+   "en": "I absorbed every phenomenon from your worlds, and the Cubes are what I gave form to..."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.81",
+   "en": "And I made use of kaiju, kaijin and mobile suits."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.82",
+   "en": "Don't tell me... Belial and the others...!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.83",
+   "en": "Don't tell me... Belial and the others...!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.84",
+   "en": "Don't tell me... Belial and the others...!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.85",
+   "en": "Don't tell me... Belial and the others...!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.86",
+   "en": "Don't tell me... Belial and the others...!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.87",
+   "en": "Don't tell me... Belial and the others...!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.88",
+   "en": "Don't tell me... Belial and the others...!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.89",
+   "en": "Don't tell me... Belial and the others...!?"
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.90",
+   "en": "Don't tell me... Belial and the others...!?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0736.mbb#0.8",
+   "note": "0736.bla second Pt_Chara_Check chain (index -> R2/R6): Zero, OOO, 00, Mebius, W, Wing Zero, Taro, Den-O, God Gundam, Seven, Black RX, Zeta, Ultraman, Rider 1, Nu. TextIdOffset+0+R plays #1-15, so #8-15 = Den-O, God Gundam, Seven, Black RX, Zeta, Ultraman, Rider 1, Nu. Speaker is the first party slot filled in that chain order (slot 1 or 2), not strictly the leader. Same English as story_171 #1-7."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.17",
+   "note": "Ankh (CHARA_NAME 36) confirmed; #18-20 Regis (228), #21 Ankh confirmed. Extracted labels correct."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.19",
+   "note": "Regis echoes Ankh's 'where are you' and answers that it has been all around them since they woke in this world."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.22",
+   "note": "TextIdOffset+21+R: #22 Zero, #23 OOO, #24 00, #25 Mebius, #26 W, #27 Wing Zero, #28 Taro, #29 Den-O, #30 God Gundam, #31 Seven, #32 Black RX, #33 Zeta, #34 Ultraman, #35 Rider 1, #36 Nu. Three wordings: standard (most), casual 'so... is' (OOO #23, W #26), rough 'you're tellin' me' (Momotaros #29). Extracted '?party' on #22 = Zero (it is the generic wording, not Zero-specific)."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.38",
+   "note": "Regis (228) confirmed. Singular 'Lost Hero' address rendered plural: the whole party is addressed, matching earlier 'you Lost Heroes' lines."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.39",
+   "note": "TextIdOffset+38+R, same chain: #46 = Den-O (Momotaros), who uses the coarse 'you' pronoun -> 'ya'. Everything else identical."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.54",
+   "note": "Regis monologue #54-57 (one sentence over #54-56). Quoted terms kept in double quotes as in source corner brackets. 'Rift between universes' for the space-between of the cosmos, used again at #77."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.60",
+   "note": "SCRIPT: MessWinSet(TextIdOffset+59) is a CONSTANT here (no +R), with CharaNameIn(CHARA_NAME[slot-1 character]). So only #60 ever plays, spoken by the first party member in chain order; #61-74 are never played. Extracted label 'Nu Gundam' is an artefact of the approximate trace (last value loaded into the slot register). All 15 identical, translated identically."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.76",
+   "note": "Regis #76-81 confirmed (+75..+80). #80-81 one sentence split across rows ('...and I made use of'), cut at the matching point."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.81",
+   "note": "MS rendered 'mobile suits' for clarity; kaiju/kaijin kept as elsewhere in the script."
+  },
+  {
+   "key": "MainEventMess0736.mbb#0.82",
+   "note": "TextIdOffset+81+R (slot 2 uses R6, slot 1 R2), same chain: #82 Zero, #83 OOO, #84 00, #85 Mebius, #86 W, #87 Wing Zero, #88 Taro, #89 Den-O, #90 God Gundam; block continues into story_173 (#91-96). All identical. Regis's reply (#97, story_173): all were under its control at a subconscious level."
+  }
+ ],
+ "report": "80/80 rows. Speakers verified against 0736.bla (second Pt_Chara_Check chain order for all party blocks). #60 is a constant MessWinSet (+59) so #61-74 never play; extracted 'Nu Gundam' label on #60 is wrong (it is the first party slot character). No new names or terms."
+}

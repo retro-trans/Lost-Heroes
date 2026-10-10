@@ -1,0 +1,342 @@
+{
+ "slice": "system_033",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.95",
+   "en": "Alien Baltan"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.96",
+   "en": "Vayeate"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.97",
+   "en": "Mercurius"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.98",
+   "en": "Vakishim"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.99",
+   "en": "Gaina Ninpo"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.100",
+   "en": "Alien Shapley"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.101",
+   "en": "Giradoras"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.102",
+   "en": "Cobra Man"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.103",
+   "en": "Union Realdo"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.104",
+   "en": "Asshimar"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.105",
+   "en": "Union Flag"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.106",
+   "en": "Gander"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.107",
+   "en": "Gomora"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.108",
+   "en": "Snowgon"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.109",
+   "en": "Woo"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.110",
+   "en": "Red King"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.111",
+   "en": "Over Flag"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.112",
+   "en": "Hi-Zack Custom"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.113",
+   "en": "GN-X III"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.114",
+   "en": "Gyango"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.115",
+   "en": "Skullma"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.116",
+   "en": "Skullmaster"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.117",
+   "en": "Bat Imagin"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.118",
+   "en": "Alien Tempera"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.119",
+   "en": "Alien Nackle"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.120",
+   "en": "Grand Gundam"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.121",
+   "en": "Uva"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.122",
+   "en": "Walter Gundam"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.123",
+   "en": "Kamen Rider Gaoh"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.124",
+   "en": "Zamsha"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.125",
+   "en": "Zetton"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.126",
+   "en": "Gamel"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.127",
+   "en": "T-Rex Dopant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.128",
+   "en": "Bird Dopant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.129",
+   "en": "Gaplant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.130",
+   "en": "Rhino Imagin"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.131",
+   "en": "Jellyfish Imagin"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.132",
+   "en": "Hanzagiran"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.133",
+   "en": "Violence Dopant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.134",
+   "en": "Alien Icarus"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.135",
+   "en": "Money Dopant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.136",
+   "en": "Arms Dopant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.137",
+   "en": "Kabuto Yummy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.138",
+   "en": "Kuwagata Yummy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.139",
+   "en": "Jashrine"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.140",
+   "en": "Gabthley"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.141",
+   "en": "Octopus Imagin"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.142",
+   "en": "Kraken Imagin"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.143",
+   "en": "Mururoa"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.144",
+   "en": "Crow Imagin"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.145",
+   "en": "Gaza C"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.146",
+   "en": "Black King"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.147",
+   "en": "Isoginjaguar"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.148",
+   "en": "Granzairas"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.149",
+   "en": "Shiomaneking"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.150",
+   "en": "Eleking"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.151",
+   "en": "King Pandon"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.152",
+   "en": "Hiru-Chameleon"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.153",
+   "en": "Lion-Jellyfish Yummy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.154",
+   "en": "Kazari"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.155",
+   "en": "Masurao"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.156",
+   "en": "Bogal Monst"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.157",
+   "en": "Taboo Dopant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.158",
+   "en": "Tyrant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.159",
+   "en": "Shocker Greeed"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.160",
+   "en": "Ikadevil"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.161",
+   "en": "Garagaranda"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.162",
+   "en": "Terror Dopant"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.163",
+   "en": "Shadow Moon"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.164",
+   "en": "Mole Imagin"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.165",
+   "en": "Automaton"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.166",
+   "en": "Scorpion Imagin"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.167",
+   "en": "Ahead"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.168",
+   "en": "Gudon"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.169",
+   "en": "Twin Tail"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.170",
+   "en": "Kamebazooka"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.171",
+   "en": "Hobby Hi-Zack"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.172",
+   "en": "Ahead Smultron"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.173",
+   "en": "Batta Yummy"
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.174",
+   "en": "Kemjila"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.100",
+   "note": "Alien Shapley: spelling unverified."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.116",
+   "note": "Skullmaster: pun on Skullma; guessed."
+  },
+  {
+   "key": "Table/ChipLib/ChipLibMess.mbb#0.138",
+   "note": "Kuwagata (stag beetle) kept romanized to match Kabuto Yummy."
+  }
+ ],
+ "report": "All rows are ChipLib enemy names; glossary used where present. New terms not in glossary listed in final reply."
+}

@@ -1,0 +1,10 @@
+{
+ "tpc": "Graph/GameOver/gameover.tpc",
+ "page": "gameover_4444.tga",
+ "note": "Game Over screen choices: retry from the last battle / return to title. Both sprites carry a soft glow.",
+ "defaults": {"color": [255, 255, 255], "glow": [150, 190, 255], "glow_radius": 2},
+ "boxes": [
+  {"x": 223, "y": 100, "w": 131, "h": 18, "text": "Retry Battle"},
+  {"x": 356, "y": 100, "w": 89, "h": 18, "text": "Return to Title"}
+ ]
+}

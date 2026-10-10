@@ -1,0 +1,426 @@
+{
+ "slice": "talk_004",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.714",
+   "en": "Right. All we can do is believe in it and push on."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.721",
+   "en": "So the monsters have been revived again..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.722",
+   "en": "Yeah. And they're some pretty tough opponents, too."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.723",
+   "en": "It may be a hard fight, but if you win, you should be able to reach Belial."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.724",
+   "en": "Of course. This time, I'll smash Belial for good!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.728",
+   "en": "So you've defeated King Pandon."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.729",
+   "en": "That leaves \"Zetton\" and \"Tyrant\"... Don't let your guard down."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.734",
+   "en": "So you've defeated Zetton."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.735",
+   "en": "Only \"Tyrant\" is left. You're almost at Belial."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.742",
+   "en": "You've defeated all the revived monsters! It seems Belial is in the plaza."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.743",
+   "en": "This may be the final battle. Make sure you're fully prepared before you go."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.750",
+   "en": "You've finally cornered Belial. This may be the final battle."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.751",
+   "en": "He intends to destroy the world. We must stop him, no matter what."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.752",
+   "en": "Defeat Belial and put a stop to it!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.759",
+   "en": "If \"Regis\" achieves its ambitions, a world at peace will never come again."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.760",
+   "en": "We are those who love peace. And we are heroes."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.761",
+   "en": "We must stop this crisis before it engulfs the world."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.762",
+   "en": "Most likely, the battle with \"Regis\" will truly be the final battle."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.1",
+   "en": "There's no one here."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.20",
+   "en": "They showed me around the base, but to me, it's all things from another world."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.21",
+   "en": "Still, why would a place like this exist so close to an enemy Cube...?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.27",
+   "en": "I hear you fell into an enemy trap? No, I don't think you were being careless."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.28",
+   "en": "The enemy's methods are getting more cunning. You'd better be even more on guard than before."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.33",
+   "en": "I heard the Ultra Cube is frozen."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.34",
+   "en": "I was just discussing the cause with Hikari."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.47",
+   "en": "The Devil Gundam...? And a Gundam searching for it...?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.48",
+   "en": "Veda might be able to tell us something, but in this world, even that's impossible..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.56",
+   "en": "DG Cells... The metal cells that make up the Devil Gundam..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.57",
+   "en": "Enemies infected with those cells have come back to life. And stronger, at that..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.58",
+   "en": "I don't know the details, but the original Devil Gundam seems quite formidable."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.65",
+   "en": "Gundam Heaven's Sword...? So a new Gundam turns up at this stage."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.66",
+   "en": "No, I don't accept it. A thing like that can't possibly be a Gundam...!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.71",
+   "en": "So the path has been blocked... In that case, all you can do is take another route."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.77",
+   "en": "A passage guarded by electric shocks... There should be some item that works against it..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.81",
+   "en": "So the enemy is getting a grip on Core Medal technology, too..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.88",
+   "en": "What are you doing? Hurry and go rescue the Ultra Brothers."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.93",
+   "en": "That's the way. I'm counting on you to rescue the other Ultra Brothers, too."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.100",
+   "en": "That's the way. I'm counting on you to rescue the other Ultra Brothers, too."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.106",
+   "en": "Zoffy is the Captain of the Space Garrison. For someone like him to agree to be our commander..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.1",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.7",
+   "en": "This place is really relaxing, y'know?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.15",
+   "en": "The Quest Room, huh... It's relaxing here."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.16",
+   "en": "We've got coffee and stuff, too, so help yourself."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.17",
+   "en": "What? Coffee? I'll have you know, I'm very particular about my coffee."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.18",
+   "en": "Fine. I'll give it a taste..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.19",
+   "en": "...Awful. This is enough to make good beans weep..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.20",
+   "en": "You show up out of nowhere and that's what you say? Harsh."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.25",
+   "en": "Make sure you check the quest requests regularly, okay?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.26",
+   "en": "Huh? Believe it or not, I'm on the job right now."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.31",
+   "en": "A Ride Machine...? Doesn't look like it can stand in for the DenLiner."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.32",
+   "en": "Hey, what does it look like? I can't wait!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.33",
+   "en": "What I'm interested in is how \"strong\" this thing is."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.40",
+   "en": "Looks like the Ride Machine's finished."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.41",
+   "en": "For now, anyway."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.42",
+   "en": "For now?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.43",
+   "en": "The Ride Machine was built by applying technology from all sorts of worlds."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.44",
+   "en": "It's designed to take in any unknown technologies we're likely to acquire down the line, too."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.45",
+   "en": "Isn't that amazing? So you can keep on upgrading it?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.46",
+   "en": "Exactly. It gives me chills!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.56",
+   "en": "You found Kamen Rider Black RX? Amazing!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.57",
+   "en": "Black RX... His strength'll make ya cry."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.58",
+   "en": "But when it comes to lookin' cool, he's got nothin' on My Special Attack, Part 2."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.59",
+   "en": "He's way, way senior to us, you know?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.60",
+   "en": "Shut up!! If he upstages me, he's gonna pay!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.65",
+   "en": "So you're finally going up against The O?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.66",
+   "en": "Yeah! It's finally the climax. Well, I'm always at my climax, though."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.67",
+   "en": "ZZZZ..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.68",
+   "en": "Hey! Bear! Is this any time to be sleepin'!?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.69",
+   "en": "It's no use, Sempai. Nothing's gonna wake Kin-chan up, y'know?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.76",
+   "en": "{8074}, I hear a new Cube has been found?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.77",
+   "en": "ZZZ... ZZZ... ZZZZZZ!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.78",
+   "en": "They say it's called the \"Hideout Cube\"?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.79",
+   "en": "Hey, hey, Accel, why are you carrying a tire on your back? Isn't it heavy?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.80",
+   "en": "And that research there is more advanced than in the \"Begins Cube\"..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.81",
+   "en": "ZZZZ---ZZ... ZZZZ!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.82",
+   "en": "...or so I heard, but..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.83",
+   "en": "Whoa!! Your belt's got a handle on it!? That's so cooool~!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.84",
+   "en": "...Could you shut these guys up for me?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.91",
+   "en": "What? You got some special business with me?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.92",
+   "en": "Hey, Turtle, how 'bout servin' up some good coffee for once!?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.714",
+   "note": "SPEAKERS from tools/talkspk.py: Command #0.714/#0.722/#0.724 God Gundam, all other Command rows Zoffy. Hangar #0.20-0.106 Seravee except #0.66 00. Quest: Accel #0.15/#0.17/#0.18/#0.19/#0.76/#0.78/#0.80/#0.82/#0.84; Urataros #0.7/#0.16/#0.20/#0.25/#0.26/#0.31/#0.40/#0.42/#0.45/#0.56/#0.59/#0.65/#0.69/#0.91; W (Philip) #0.41/#0.43/#0.44/#0.46; Ryutaros #0.32/#0.79/#0.83; Kintaros #0.33/#0.57/#0.67/#0.77/#0.81; Momotaros #0.58/#0.60/#0.66/#0.68/#0.92. The slice's Quest speaker labels were wrong and were ignored."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.714",
+   "note": "God Gundam answering Black RX's 'this could be our breakthrough' (talk_003 #0.713); 'it' = that hope."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.729",
+   "note": "Monster names quoted in source; quotes kept."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessCommand.mbb#0.759",
+   "note": "Regis g=n -> 'its'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.1",
+   "note": "System text when the facility NPC is absent; matches talk_001 Casino/Command #0.1."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.20",
+   "note": "Seravee (Tieria) uses boku here; calm, analytical tone kept. Subject of 'showed me' (the base's people) restored as 'they'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.33",
+   "note": "#0.33/#0.34 have no Talk*.bla script in the Hangar pack (unused lines). Speaker unknown; neutral English. Probably written for the Hangar NPC (Seravee) or Zoffy."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.71",
+   "note": "Same Japanese as talk_001 Command #0.209 (Hikari); same English reused."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.88",
+   "note": "Seravee per script, though the line (rescue the Ultra Brothers) reads like a commander's; kept as mapped."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessHangar.mbb#0.106",
+   "note": "Last Hangar row; the sentence trails off in the source (impressed/reassured that Zoffy took command). Kept unfinished. 'our commander' restores the implied owner."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.1",
+   "note": "Placeholder text 'dummy' (unused); rendered 'Dummy' as in system slices."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.19",
+   "note": "Accel: 'the precious beans are crying' kept as an image ('make good beans weep')."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.25",
+   "note": "Mame ni (diligently) may pun on coffee beans from the earlier talk; not reproducible, rendered plainly."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.26",
+   "note": "Urataros replying to an implied remark that he is slacking."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.31",
+   "note": "DenLiner (Den-O's time train) not in glossary; official English spelling used."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.33",
+   "note": "Kintaros (Kansai ya). Quoted 'strength' kept in quotes."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.57",
+   "note": "Kintaros catchphrase nakeru de -> 'make ya cry' (glossary 'You'll cry!')."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.58",
+   "note": "Momotaros finisher per glossary 'My Special Attack, Part 2'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.59",
+   "note": "Dai-senpai (Black RX as a senior Rider) rendered 'way, way senior to us'; glossary 'Sempai' is only for Momotaros."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.66",
+   "note": "Riff on Momotaros's 'I'm at my climax right from the start'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.68",
+   "note": "Kuma-kou (Momotaros's nickname for Kintaros) rendered 'Bear', parallel to the established 'Turtle' for Kame-kou."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.69",
+   "note": "Urataros to Momotaros ('Sempai'); 'Kin-chan' kept romanized as in story slices."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.76",
+   "note": "Accel; {8074} = party leader name, padding dropped. Accel's sentence runs across #0.76/#0.78/#0.80/#0.82, interrupted by Kintaros and Ryutaros; split at the same points."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessQuest.mbb#0.83",
+   "note": "Accel Driver's throttle handle; omoshiroi in a child's delight rendered 'so cooool~'."
+  }
+ ],
+ "report": "80/80. Speakers from talkspk.py (Command: Zoffy/God Gundam; Hangar: Seravee, 00 at #0.66; Quest: Den-O Imagin, Accel, W (Philip)). Quest slice labels were wrong. Hangar #0.33/#0.34 have no script (unused), speaker unknown. Not in glossary: DenLiner (official spelling), 'Bear' for Kuma-kou."
+}

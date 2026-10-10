@@ -1,0 +1,374 @@
+{
+ "slice": "quest_012",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.13",
+   "en": "Not much time has passed since it was stolen. They're most likely still somewhere in this area."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.14",
+   "en": "Please, catch up to the enemy and take back the O Raiser...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.15",
+   "en": "Understood. I'll carry out the mission."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.18",
+   "en": "Please, bring 00 here with you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.22",
+   "en": "With this equipment, even we would stand a chance of winning...!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.23",
+   "en": "Yes. And that's exactly why we must make sure this equipment gets back with us."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.24",
+   "en": "Hey... look!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.25",
+   "en": "Captain!! We're being pursued!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.26",
+   "en": "So they've come...!! Don't fall behind! We'll shake them off!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.28",
+   "en": "No doubt about it! They're the ones who stole the O Raiser!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.29",
+   "en": "Right, let's hurry after them. We have to take back the O Raiser no matter what."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.32",
+   "en": "There they are!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.33",
+   "en": "Tch! They're still on our tail!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.34",
+   "en": "Don't look back! They'll catch up to us!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.37",
+   "en": "Wait!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.38",
+   "en": "Damn! The passage on the right leads outside!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.40",
+   "en": "I won't let you get away...!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.42",
+   "en": "Look out! Something's flying at us from behind!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.44",
+   "en": "This way! Hurry."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.46",
+   "en": "Good! They went the opposite way!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.47",
+   "en": "Now we keep driving them into a corner...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.49",
+   "en": "Looks like they're just up ahead."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.52",
+   "en": "It seems we've been had."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.53",
+   "en": "Give up. You have nowhere left to run. Hand over the O Raiser quietly, and we won't harm you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.54",
+   "en": "That, we cannot do."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.55",
+   "en": "What did you say?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.56",
+   "en": "We need this O Raiser too, whatever it takes. We can't hand it over, no matter what."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.57",
+   "en": "...So negotiations have broken down. Then we'll take it back by force...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.58",
+   "en": "Let's go!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.60",
+   "en": "Obtained \"O Raiser\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.61",
+   "en": "Mission complete. With this, I've gotten my power back."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.63",
+   "en": "Completed the quest \"Retrieving the O Raiser\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.65",
+   "en": "...No good. They're nowhere to be found."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.66",
+   "en": "Shouldn't we be bringing 00 along at a time like this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.68",
+   "en": "Everyone, I've been waiting for you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.69",
+   "en": "Is it true that the enemy stole the O Raiser?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.70",
+   "en": "Yes..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.71",
+   "en": "Repairs on the O Raiser you all found in the Desert Cube some time ago were finally finished."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.72",
+   "en": "So, just as we tried to carry the O Raiser on a transport Ride Machine,"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.73",
+   "en": "we came under attack by the enemy."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.74",
+   "en": "It seems the enemy had been waiting for the moment the repairs were done..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.75",
+   "en": "After that, the enemy apparently fled in here, into the \"Hideout Cube\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.76",
+   "en": "So we'd like you all to use your strength to get the O Raiser back for us."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.77",
+   "en": "Understood. Commencing the mission."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.78",
+   "en": "We're counting on you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.81",
+   "en": "What's this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.82",
+   "en": "That key is the master key for the Hideout Cube."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.83",
+   "en": "With that key, you can open the locked rooms in this Cube."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.84",
+   "en": "Please, be sure to find the enemy and get the O Raiser back."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.88",
+   "en": "Hey! Look at that one!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.89",
+   "en": "Target confirmed. I'll eliminate it by force of arms."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.90",
+   "en": "That one... it's got the O Raiser!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.91",
+   "en": "That one... it's got the O Raiser!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.92",
+   "en": "That one... it's got the O Raiser!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.93",
+   "en": "That one... it's got the O Raiser!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.94",
+   "en": "That one... it's got the O Raiser!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.95",
+   "en": "That one... it's got the O Raiser!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.96",
+   "en": "That one... it's got the O Raiser!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.97",
+   "en": "That one... it's got the O Raiser!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.98",
+   "en": "That one... it's got the O Raiser!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.99",
+   "en": "That one... it's got the O Raiser!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.100",
+   "en": "That one... it's got the O Raiser!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.101",
+   "en": "That one... it's got the O Raiser!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.102",
+   "en": "That one... it's got the O Raiser!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.103",
+   "en": "That one... it's got the O Raiser!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.104",
+   "en": "Hey! Give that back!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.105",
+   "en": "You lot!? How did you get here!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.106",
+   "en": "I'll be taking back the O Raiser."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.107",
+   "en": "We'll be taking back the O Raiser you stole from Maganac."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.108",
+   "en": "We'll be taking back the O Raiser you stole from Maganac."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.109",
+   "en": "We'll be taking back the O Raiser you stole from Maganac."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.110",
+   "en": "We'll be taking back the O Raiser you stole from Maganac."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.111",
+   "en": "We'll be taking back the O Raiser you stole from Maganac."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.112",
+   "en": "We'll be taking back the O Raiser you stole from Maganac."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.113",
+   "en": "We'll be taking back the O Raiser you stole from Maganac."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.114",
+   "en": "We'll be taking back the O Raiser you stole from Maganac."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.115",
+   "en": "We'll be taking back the O Raiser you stole from Maganac."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.116",
+   "en": "We'll be taking back the O Raiser you stole from Maganac."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.117",
+   "en": "We'll be taking back the O Raiser you stole from Maganac."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.118",
+   "en": "We're takin' back the O Raiser you swiped from Maganac!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.13",
+   "note": "Rows 13-66 are not referenced by Quest012.bla (the only script loading QuestEventMess012); they are an earlier version of this quest (old briefing at rows 5-15, chase, no-00 path). Speakers inferred from wording: 13/14/18 Maganac (18 = request when 00 is absent), 15 00."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.22",
+   "note": "22-26: the thieves (a subordinate and their 'Captain'), speaking politely among themselves; unreferenced, no name boxes. 28 rough party member (Ankh-style), 29 neutral party leader."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.38",
+   "note": "Unreferenced chase. 38 read as the party worrying the thieves will escape outside; 40/46/47/49 party (00), 33/34/42/44 thieves. 42 'something flying from behind' = the party's shots herding them the other way (46)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.52",
+   "note": "52 thief captain realising they were herded into a dead end; 53/57 00; 54/56 the thieves (polite), 55 party. 'Kaishuu' in 57 kept as 'take it back'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.63",
+   "note": "Quest title from QuestMess#0.13 'Retrieving the O Raiser'; format follows earlier quest completion rows. Item name 'O Raiser' (no item-table entry; matches QuestMess/SkillName)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.65",
+   "note": "65/66: unreferenced no-00 path; rough speaker (Ankh-style), not recovered."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.68",
+   "note": "Quest012.bla Event001: MessWinSet TextIdOffset+N plays row N+1 (empty rows 67/87/122 confirm; content confirms). +67 Maganac (79) -> 68, +68 00 (10) -> 69, +69..+75 Maganac -> 70-76, +76 00 -> 77. 78 and 81-84 unreferenced: 78/82-84 Maganac (polite, handing over the key), 81 party."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.78",
+   "note": "Yoroshiku onegai shimasu = Maganac asking the party -> 'We're counting on you.'"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.88",
+   "note": "Event002: +87 Ankh (36) -> 88, +88 00 -> 89, +103 Ankh -> 104, +105 00 -> 106, +120 Ahead (269) -> 121. Ahead g=n -> 'that one'/'it'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.90",
+   "note": "90-103 and 107-120 are leader-variant blocks (89 and 106 are 00's own lines, first in each 15-row block); the final script only plays 00's lines, so the variants are unreferenced. Identical Japanese kept identical; 90 differs only by '!?'; 118 is the rough variant ('ze!')."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST012_pk#0.105",
+   "note": "Unreferenced; inferred the Ahead reacting to the pursuers (its line +120 follows). 'Kisama-ra' -> 'You lot'."
+  }
+ ],
+ "report": "80/80 rows examined. Speakers from Quest012.bla (row = TextIdOffset+N+1): Maganac 68/70-76, 00 69/77/89/106, Ankh 88/104. Rows 13-66, 78, 81-84, 105 unreferenced (old quest version / alternate lines), speakers inferred. Leader blocks 90-103 and 107-118 unreferenced variants. Quest title from QuestMess#0.13. No new names."
+}

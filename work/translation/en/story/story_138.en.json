@@ -1,0 +1,382 @@
+{
+ "slice": "story_138",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0659.mbb#0.307",
+   "en": "Hurry!! We'll take care of these guys!!"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.309",
+   "en": "The heroes left the room and set off in pursuit of Gaddess."
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.311",
+   "en": "Everyone!! What are you doing here!!"
+  },
+  {
+   "key": "MainEventMess0659.mbb#0.312",
+   "en": "We'll cover you, so hurry up and get through here!"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.1",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.2",
+   "en": "Damn it!! There's no end to them!!"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.3",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.4",
+   "en": "Yeah!"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.5",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.6",
+   "en": "Hey, are you still alive!?"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.7",
+   "en": "So it's you guys!! ...Just barely!!"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.8",
+   "en": "What happened to Seravee!?"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.9",
+   "en": "What happened to Seravee!?"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.10",
+   "en": "What happened to Seravee!?"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.11",
+   "en": "What happened to Seravee!?"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.12",
+   "en": "What happened to Seravee!?"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.13",
+   "en": "What happened to Seravee!?"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.14",
+   "en": "Where is Seravee!?"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.15",
+   "en": "Where is Seravee!?"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.16",
+   "en": "What happened to Seravee!?"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.17",
+   "en": "What happened to that Seravee guy!?"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.18",
+   "en": "What happened to Seravee!?"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.19",
+   "en": "What happened to Seravee!?"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.20",
+   "en": "What happened to Seravee!?"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.21",
+   "en": "What happened to Seravee!?"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.22",
+   "en": "What happened to Seravee!?"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.23",
+   "en": "We took over here and sent him on to Veda by himself..."
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.24",
+   "en": "But Gaddess just went deeper inside!"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.25",
+   "en": "Reborns could be lying in ambush, too. Seravee's in danger."
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.26",
+   "en": "..."
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.27",
+   "en": "Tch! More of them!"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.28",
+   "en": "We can hold them off here. You guys head for Veda, up ahead!!"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.29",
+   "en": "Trans-Am!!"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.30",
+   "en": "Gwah!! I'm not done yet!!"
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.31",
+   "en": "I'm not going down in a place like this!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.1",
+   "en": "...Gaddess!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.2",
+   "en": "...Gaddess!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.3",
+   "en": "...Gaddess!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.4",
+   "en": "...Gaddess!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.5",
+   "en": "...Gaddess!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.6",
+   "en": "...Gaddess!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.7",
+   "en": "...Gaddess!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.8",
+   "en": "...Gaddess!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.9",
+   "en": "...Gaddess!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.10",
+   "en": "...Gaddess!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.11",
+   "en": "...Gaddess!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.12",
+   "en": "...Gaddess!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.13",
+   "en": "...Gaddess!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.14",
+   "en": "...Gaddess!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.15",
+   "en": "...Gaddess!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.16",
+   "en": "Go!! Fangs!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.19",
+   "en": "Kh..."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.20",
+   "en": "Gwah... ...Where are you!?"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.21",
+   "en": "Gwaah..."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.22",
+   "en": "What!?"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.23",
+   "en": "Uah..."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.24",
+   "en": "...Where are you!?"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.25",
+   "en": "What!?"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.26",
+   "en": "Whoa..."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.27",
+   "en": "What!?"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.28",
+   "en": "Damn it... Where the hell are you shooting from!! You coward!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.29",
+   "en": "What!?"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.30",
+   "en": "Where are you!?"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.31",
+   "en": "What!?"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.32",
+   "en": "Where are you!?"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.33",
+   "en": "What!?"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.34",
+   "en": "They're reacting faster than before!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.35",
+   "en": "You see? This is the power of us Innovators!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.36",
+   "en": "Gwah..."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.37",
+   "en": "Ngh..."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.38",
+   "en": "Guh..."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.39",
+   "en": "Tch..."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.40",
+   "en": "Ngh..."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.41",
+   "en": "Ugh..."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.42",
+   "en": "Uah..."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.43",
+   "en": "Ngh..."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.44",
+   "en": "Ngh..."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.45",
+   "en": "Nwaah..."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.46",
+   "en": "Guh..."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.47",
+   "en": "Gwah..."
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0659.mbb#0.311",
+   "note": "Labelled Sandrock (script id 76, shift checked against 0.305-0.307). Odd line for Quatre right after the narration; may be a branch where the team meets Sandrock/Heavyarms again. Kept as labelled."
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.7",
+   "note": "'nantoka na' answers Ankh's 'are you alive' -> 'Just barely'."
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.8",
+   "note": "Leader block 0.8-0.22, Pt_Chara_Check order k0-14 = 00, Wing Zero, God Gundam, Nu, Zeta, Zero, Mebius, OOO, W(Shotaro), Den-O Sword, Taro, Seven, Ultraman, Black RX, Rider 1. Polite variants 0.14/0.15 (Mebius/OOO) -> 'Where is Seravee!?'; 0.17 (Momotaros, 'no yatsu') -> 'that Seravee guy'."
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.23",
+   "note": "Cherudim: 'yatsu' = Seravee, restored as 'him' (glossary g=m)."
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.29",
+   "note": "Gaga shouts Trans-Am (kamikaze charge); glossary Trans-Am."
+  },
+  {
+   "key": "MainEventMess0660.mbb#0.31",
+   "note": "'Konna tokoro de' with dropped verb; restored as 'I'm not going down in a place like this'."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.1",
+   "note": "0661 speaker labels are shifted by one entry in speakers.json (extractor assumed base shift 1; content and script show +n -> entry n here). Correct mapping: 0.1-0.15 leader block, 0.16 Gaddess (id 200), 0.19-0.33 leader block, 0.34 Ankh, 0.35 Garazzo (id 202), 0.36-0.50 leader block, 0.51 Ankh. So the labels on 0.19 (Gaddess), 0.37 (Ankh), 0.38 (Garazzo) are wrong; they are leader variants. 0.35 'we Innovators' cannot be a hero line, which confirms this."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.16",
+   "note": "Unlabelled; Gaddess (script speaker 200) launching her GN Fangs."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.20",
+   "note": "'Doko da' while being shot by unseen Fangs -> 'Where are you!?', matching earlier slices' rendering of the same line."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.28",
+   "note": "Momotaros variant (k9): rude, 'hikyoumono' at full strength -> 'You coward!!'."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.34",
+   "note": "Ankh (script +34, id 36). Subject unstated: the enemies' (Gaddess/Fangs) reactions -> 'They're reacting faster than before!!'."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.35",
+   "note": "Garazzo (script id 202, Bring Stabity), not a leader variant."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.36",
+   "note": "Leader block 0.36-0.50 continues into story_139 (0.48-0.50); same k order as above."
+  }
+ ],
+ "report": "80/80 examined. 0661 speaker labels are off by one in speakers.json (0.19 Gaddess / 0.37 Ankh / 0.38 Garazzo are really leader variants; Ankh = 0.34, Garazzo = 0.35, Gaddess = 0.16). 0659#0.311 labelled Sandrock but reads oddly for him. No names outside the glossary."
+}

@@ -1,0 +1,422 @@
+{
+ "slice": "talk_010",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.301",
+   "en": "...But a database, now that's a good idea. I wanted intel on the enemy myself."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.302",
+   "en": "You're awfully eager, aren't you?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.303",
+   "en": "'Cause I've got no intention of croaking in a world like this."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.313",
+   "en": "Taro's better now, and we've gained more reliable allies, too."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.315",
+   "en": "The \"power\" of every world... And the \"plan\"..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.316",
+   "en": "Something seems to be lurking in this Cube that's beyond anything we've seen so far."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.317",
+   "en": "Can't you find out anything through Veda?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.318",
+   "en": "...No. As I said before, this world's Veda doesn't seem to have a grasp of everything."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.319",
+   "en": "Veda itself seems to be actively gathering information as well, but"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.320",
+   "en": "...I see. So the only ones we can trust are ourselves."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.321",
+   "en": "Yes. In the end, nothing beats the information we get by actually infiltrating the Cubes."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.322",
+   "en": "areas where the enemy's forces are strong look difficult for it."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.327",
+   "en": "Accel and Birth infiltrated with the separate unit too, right?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.328",
+   "en": "I wonder if they're all right... I hope they aren't still feeling the damage from before."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.339",
+   "en": "Huh, so they're putting high-end items and powerful monsters on display."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.340",
+   "en": "...But who are they showing them off to, I wonder?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.341",
+   "en": "Apparently the enemy's top brass come by to size them up."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.342",
+   "en": "Hey, are your weapons on display there too?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.343",
+   "en": "I don't think mine are. I've already got all of them back."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.350",
+   "en": "The enemy's keen on Medal research, too. I'd better study up... Ankh, teach me all about them, okay?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.351",
+   "en": "...Hah? Look that kind of stuff up yourself."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.352",
+   "en": "Even I looked up what I know about the Ultra world and the Gundam world on my own."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.353",
+   "en": "That is, if you don't wanna get killed by some enemy you know nothing about."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.361",
+   "en": "You got the Core Medals back! Congratulations!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.362",
+   "en": "But that \"Shocker Greeed\" thing has me worried."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.363",
+   "en": "...If Shocker's technology has fused with the power of the Medals, it's going to be really tough."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.377",
+   "en": "By the way, have you found the \"Xtreme Memory\"?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.378",
+   "en": "Arche Gundam showed up!?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.379",
+   "en": "Yeah. Looks like he was hauling out GN Drive Taus."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.380",
+   "en": "Hauling them where?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.381",
+   "en": "Beats me. I don't know that much."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.382",
+   "en": "This is bad..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.383",
+   "en": "What exactly is this GN Drive Tau thing?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.384",
+   "en": "Ah... Well, it's..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.385",
+   "en": "No, forget it. I'll look it up myself. There's that database, right?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.386",
+   "en": "Yes. Sorry about that."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.387",
+   "en": "Wanting to learn about worlds you don't know is a fine desire, too."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.397",
+   "en": "I heard you got a Key Ring? Now you should be able to open all sorts of doors, right?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.398",
+   "en": "I hope you find the \"Xtreme Memory\" soon, too."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.413",
+   "en": "\"Gaia Impact\"...?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.414",
+   "en": "It's definitely a scary plan, but... it'll be okay!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.415",
+   "en": "You got the Xtreme Memory too, didn't you?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.416",
+   "en": "I know you all can do it!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.417",
+   "en": "So the enemy's \"plan\" was the \"Gaia Impact.\""
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.418",
+   "en": "But that was something from W's world..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.419",
+   "en": "What would be the point of doing it in this world...?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.427",
+   "en": "Phew... Accel's finally settled down and is focusing on recovering."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.428",
+   "en": "He's that badly hurt, and he still keeps trying to head out, saying \"I can still fight.\""
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.429",
+   "en": "The \"Gaia Impact\" they speak of is..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.430",
+   "en": "erasing everything in our original worlds that is \"unnecessary to Regis.\""
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.431",
+   "en": "That's why they were siphoning \"Earth's memories\" from the Gaia Gates leading to each world!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.432",
+   "en": "We can't let them push the plan any further."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.433",
+   "en": "Only two Gaia Gates left... We have to stop them no matter what!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.446",
+   "en": "Hey, listen! Accel's been moaning in his sleep!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.447",
+   "en": "Things like \"Let's shake it off!\" and \"Despair is your goal!\""
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.448",
+   "en": "So when I asked him, \"Are you okay?\"..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.449",
+   "en": "he went, \"Don't ask me!!\" Can you believe it!!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.450",
+   "en": "Heh. That guy's fighting something even in his dreams."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.451",
+   "en": "...Only one Gaia Gate remains."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.452",
+   "en": "The enemy will throw everything they have at us, but I'm counting on you to stop the Gaia Impact."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.460",
+   "en": "The enemy is sure to target this place next. Please, you have to stop that particle cannon from firing."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.462",
+   "en": "I've deployed a \"Capture Cube\" around the base."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.463",
+   "en": "Its effectiveness is unknown, though. Don't expect too much of it."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.464",
+   "en": "In any case, nothing will matter unless the particle cannon is destroyed. I'm counting on you!"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.465",
+   "en": "That should protect us from the particle cannon to some extent, but..."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.471",
+   "en": "What!? The Psycho Gundam punched a hole in the Cube's wall?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.472",
+   "en": "Yeah. And it's not just any Psycho Gundam... It's the Mk-II."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.473",
+   "en": "...So it's a stronger type than before. Isn't there some way you can avoid fighting it?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.474",
+   "en": "We have to go through that hole into the Ride Dungeon and smash the particle cannon's turret."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.475",
+   "en": "That thing's bound to come out. We'll probably end up fighting it."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.476",
+   "en": "I see... Then it can't be helped. But please, don't push yourselves too hard."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.477",
+   "en": "Yeah."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.485",
+   "en": "I just finished checking the facilities."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.486",
+   "en": "There don't seem to be any obvious problems. We were lucky it wasn't a direct hit."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.487",
+   "en": "...So, did you go to the Terminal Unit?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.488",
+   "en": "From the look of you, I guess not yet."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.489",
+   "en": "Leave the base to us. You all get back to your mission, okay?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.491",
+   "en": "So the Psycho Gundam Mk-II's blast tilted the Cube and threw the particle cannon's aim off a bit?"
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.492",
+   "en": "It was chance. We only escaped a direct hit because we got lucky."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.494",
+   "en": "Still, this taught us something. By my calculations, if we take a direct hit of the same power..."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.301",
+   "note": "SPEAKERS from tools/talkspk.py Shop (Talk01_32-45); slice labels were all missing. Ankh = #0.301/303/351/353/379/381; Hikari = #0.302/317/320/462-465/491/494; Seravee = #0.315-319/321/322/378/380/382/417-419/429-433/451/452; Methuss = #0.327/328/339/340/342/350/361/362/397/398/471/473/476; Zeta Gundam = #0.341/343/472/474/475/477; OOO = #0.363; Mebius = #0.492."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.313",
+   "note": "No script plays #0.313/377/413-416/427/428/446-450/460/485-489 (nor #0.352, #0.383-387): leftover lines not called by any Talk01_*.bla. Feminine speech, so voiced as Methuss, the Shop host."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.319",
+   "note": "Talk01_33 plays #0.319 -> #0.322 -> #0.320 -> #0.321. #0.319 runs on into #0.322 (Seravee: Veda gathers info itself, but enemy-held areas are hard for it); cut at the same point. 'It' = Veda."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.320",
+   "note": "Hikari replying to #0.322: 'the only thing we can trust is ourselves'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.322",
+   "note": "Seravee's continuation of #0.319 (played right after it); lowercase start because it completes that sentence."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.341",
+   "note": "Exhibit = Monster Zoo display (talk_007 'exhibit room'). 'Kanbu class' -> 'top brass'; 'shinasadame' -> 'size them up'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.343",
+   "note": "Zeta: 'mou zenbu motteru' = he already has all his weapons; 'back' added since the heroes lost their power."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.352",
+   "note": "Talk01_36 skips #0.352 (plays #0.351 then #0.353). Ankh's line by content; #0.353 still follows #0.351 as a conditional tag ('That is, if...')."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.379",
+   "note": "'He' = Arche Gundam (Ali, g=m). GN Drive Tau per glossary; plural is a guess (the source does not mark number)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.383",
+   "note": "#0.383-387 are not played by Talk01_38 (it ends at #0.382). Speakers inferred: Ankh asks (#0.383/385, matching his 'look it up yourself' stance and the database in #0.301), Seravee starts to explain and apologises (#0.384/386). #0.387 'desire' line: speaker uncertain (Seravee remarking on Ankh, or OOO); kept speaker-neutral."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.418",
+   "note": "Trailing line continues into #0.419. 'W-tachi no sekai' -> 'W's world'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.430",
+   "note": "Completes #0.429's sentence; lowercase start. Regis = alliance (g=n)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.431",
+   "note": "'Hoshi no kioku' written with Earth kanji -> glossary 'Earth's memories', quotes kept."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.446",
+   "note": "'Unasareteru' = moaning/talking in his sleep from a nightmare."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.447",
+   "note": "Accel catchphrases per glossary: furikiru ze -> 'Let's shake it off!'; zetsubou ga omae no goal da -> 'Despair is your goal!'."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.449",
+   "note": "Accel's 'ore ni shitsumon suru na' per glossary 'Don't ask me.' Sentence continues from #0.448; lowercase start."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.450",
+   "note": "Unscripted male reply ('Fu', '...no sa'): hard-boiled tone suggests W (Shotaro); kept speaker-neutral."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.462",
+   "note": "Talk01_43 plays #0.462 -> #0.465 -> #0.463 -> #0.464, so #0.465's trailing 'but...' leads into #0.463. Capture Cube follows story slices."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.474",
+   "note": "'Houtou' = the particle cannon's turret (glossary UI 'Gun Turret'); 'gun' dropped to fit the box."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.475",
+   "note": "'Yatsu' = the Psycho Gundam Mk-II; 'that thing'/'it' (no pilot named)."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.491",
+   "note": "Hikari's inference ('...kuruwaseta ka'). Literally the explosion affected the angle of the Cube itself, slightly throwing off the cannon's aim; 'tilted the Cube' compresses it to fit."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.492",
+   "note": "Script speaker is Mebius (CHARA_NAME 14) though the plain 'guuzen sa' register is casual for him; kept the script speaker, plain earnest tone."
+  },
+  {
+   "key": "Table/Event/Base/TalkMessShop.mbb#0.494",
+   "note": "Sentence runs into #0.495 (Capture Cube can't fully block it); cut at the same point."
+  }
+ ],
+ "report": "80/80 rows. Speakers from tools/talkspk.py Shop. Unscripted rows (#0.313/352/377/383-387/413-416/427/428/446-450/460/485-489) voiced by content: female = Methuss; #0.383-387 Ankh/Seravee inferred, #0.387 and #0.450 speaker uncertain (kept neutral). #0.492 script says Mebius despite casual register. GN Drive Taus plural is a guess. No new glossary names (Capture Cube, Terminal Unit, Psycho Gundam Mk-II, GN Drive Tau follow earlier slices)."
+}

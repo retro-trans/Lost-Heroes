@@ -1,0 +1,378 @@
+{
+ "slice": "story_144",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0669.mbb#0.211",
+   "en": "...Seravee!?"
+  },
+  {
+   "key": "MainEventMess0669.mbb#0.212",
+   "en": "...Seravee!?"
+  },
+  {
+   "key": "MainEventMess0669.mbb#0.213",
+   "en": "...Seravee!?"
+  },
+  {
+   "key": "MainEventMess0669.mbb#0.214",
+   "en": "...Seravee!?"
+  },
+  {
+   "key": "MainEventMess0669.mbb#0.215",
+   "en": "...Seravee!?"
+  },
+  {
+   "key": "MainEventMess0669.mbb#0.216",
+   "en": "...Seravee!?"
+  },
+  {
+   "key": "MainEventMess0669.mbb#0.217",
+   "en": "...Seravee!?"
+  },
+  {
+   "key": "MainEventMess0669.mbb#0.218",
+   "en": "...Seravee!?"
+  },
+  {
+   "key": "MainEventMess0669.mbb#0.219",
+   "en": "...Seravee!?"
+  },
+  {
+   "key": "MainEventMess0669.mbb#0.220",
+   "en": "...Seravee!?"
+  },
+  {
+   "key": "MainEventMess0669.mbb#0.221",
+   "en": "Everyone, I know how you feel, but you should return to base and recover first."
+  },
+  {
+   "key": "MainEventMess0669.mbb#0.222",
+   "en": "The next fight will be the true showdown. Rushing in blindly plays right into the enemy's hands."
+  },
+  {
+   "key": "MainEventMess0670.mbb#0.1",
+   "en": "...Hm?"
+  },
+  {
+   "key": "MainEventMess0670.mbb#0.2",
+   "en": "What is it?"
+  },
+  {
+   "key": "MainEventMess0670.mbb#0.3",
+   "en": "It was only for an instant, but I picked up quantum brainwaves..."
+  },
+  {
+   "key": "MainEventMess0670.mbb#0.4",
+   "en": "Quantum... what?"
+  },
+  {
+   "key": "MainEventMess0670.mbb#0.5",
+   "en": "It's a kind of telepathy that Innovators give off... I sensed it faintly."
+  },
+  {
+   "key": "MainEventMess0670.mbb#0.6",
+   "en": "Our movements may have been detected."
+  },
+  {
+   "key": "MainEventMess0670.mbb#0.7",
+   "en": "You mean that Reborns Gundam guy?"
+  },
+  {
+   "key": "MainEventMess0670.mbb#0.8",
+   "en": "...No, I can't tell... Who on earth was it?"
+  },
+  {
+   "key": "MainEventMess0670.mbb#0.13",
+   "en": "...Hm?"
+  },
+  {
+   "key": "MainEventMess0670.mbb#0.14",
+   "en": "What is it?"
+  },
+  {
+   "key": "MainEventMess0670.mbb#0.15",
+   "en": "It was only for an instant, but I picked up quantum brainwaves..."
+  },
+  {
+   "key": "MainEventMess0670.mbb#0.16",
+   "en": "Our movements may have been detected."
+  },
+  {
+   "key": "MainEventMess0670.mbb#0.17",
+   "en": "What!? Is it Reborns?"
+  },
+  {
+   "key": "MainEventMess0670.mbb#0.18",
+   "en": "...No, I can't tell... Who on earth was it?"
+  },
+  {
+   "key": "MainEventMess0670.mbb#0.19",
+   "en": "Quantum... what?"
+  },
+  {
+   "key": "MainEventMess0674.mbb#0.1",
+   "en": "We're on the lower level. The reactor core is close..."
+  },
+  {
+   "key": "MainEventMess0677.mbb#0.1",
+   "en": "What're you doing!! Get to the Libra Cannon control room and stop it from firing already!!"
+  },
+  {
+   "key": "MainEventMess0677.mbb#0.2",
+   "en": "...These bastards!!"
+  },
+  {
+   "key": "MainEventMess0677.mbb#0.3",
+   "en": "Epyon has gone after you!! Please be careful!!"
+  },
+  {
+   "key": "MainEventMess0677.mbb#0.4",
+   "en": "You're not getting past meee!!"
+  },
+  {
+   "key": "MainEventMess0677.mbb#0.5",
+   "en": "Whoa, I don't think so!!"
+  },
+  {
+   "key": "MainEventMess0678.mbb#0.1",
+   "en": "You idiot!! What the hell did you come back for!!"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.1",
+   "en": "...This place!"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.2",
+   "en": "Is this the Monster Graveyard...?"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.3",
+   "en": "...This place!"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.4",
+   "en": "Is this the Monster Graveyard...?"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.5",
+   "en": "...This place!"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.6",
+   "en": "Is this the Monster Graveyard...?"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.7",
+   "en": "...This place!"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.8",
+   "en": "Is this the Monster Graveyard...?"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.9",
+   "en": "...This place!"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.10",
+   "en": "Is this the Monster Graveyard...?"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.11",
+   "en": "So this is the Monster Graveyard...!!"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.12",
+   "en": "Seravee, do you know about it too?"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.13",
+   "en": "Seravee, do you know about it too?"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.14",
+   "en": "Seravee, you know about this place too?"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.15",
+   "en": "Seravee, you know about it as well!?"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.16",
+   "en": "Seravee, you know this place too?"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.17",
+   "en": "No. The information was in Veda."
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.18",
+   "en": "If we can make use of Veda, we'll have the advantage in battle."
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.19",
+   "en": "Yes. Veda doesn't have everything, but I'll support you as best I can."
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.20",
+   "en": "I see. I'm counting on you."
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.21",
+   "en": "I see. I'm counting on you."
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.22",
+   "en": "No, that's plenty. Seravee, I'm counting on you."
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.23",
+   "en": "That's reassuring!! Seravee, I'm counting on you!"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.24",
+   "en": "Now that's reassuring! Seravee, I'm counting on ya!"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.28",
+   "en": "What is this place..."
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.29",
+   "en": "It appears to be the Monster Graveyard."
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.30",
+   "en": "The Monster Graveyard?"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.31",
+   "en": "It's a place in the Ultras' world, where monsters, aliens and the like are laid to rest."
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.32",
+   "en": "You sure know a lot about it, huh?"
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.33",
+   "en": "No, I didn't know about it myself, but the information was in Veda."
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.34",
+   "en": "...Veda, huh? That's handy."
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.35",
+   "en": "Veda doesn't have everything, but I'll support you as best I can."
+  },
+  {
+   "key": "MainEventMess0702.mbb#0.1",
+   "en": "Fufufufu, hahahahahaha!!!"
+  },
+  {
+   "key": "MainEventMess0702.mbb#0.2",
+   "en": "Who's there!!"
+  },
+  {
+   "key": "MainEventMess0702.mbb#0.3",
+   "en": "...!!"
+  },
+  {
+   "key": "MainEventMess0702.mbb#0.4",
+   "en": "What!?"
+  },
+  {
+   "key": "MainEventMess0702.mbb#0.5",
+   "en": "Hm...!?"
+  },
+  {
+   "key": "MainEventMess0702.mbb#0.6",
+   "en": "...!?"
+  },
+  {
+   "key": "MainEventMess0702.mbb#0.7",
+   "en": "Someone's laughing!?"
+  },
+  {
+   "key": "MainEventMess0702.mbb#0.8",
+   "en": "Who's there!!"
+  },
+  {
+   "key": "MainEventMess0702.mbb#0.9",
+   "en": "Hm? Who the hell's there!?"
+  },
+  {
+   "key": "MainEventMess0702.mbb#0.10",
+   "en": "...!? Who's there!!"
+  },
+  {
+   "key": "MainEventMess0702.mbb#0.11",
+   "en": "Who's there!!"
+  },
+  {
+   "key": "MainEventMess0702.mbb#0.12",
+   "en": "Who's there!!"
+  },
+  {
+   "key": "MainEventMess0702.mbb#0.13",
+   "en": "Who's there!!"
+  },
+  {
+   "key": "MainEventMess0702.mbb#0.14",
+   "en": "Who's there!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0669.mbb#0.211",
+   "note": "0.211-0.220: party-leader variant block reacting to Seravee's voice; 0.215 is the polite (-san) variant, honorific dropped per style, so identical English."
+  },
+  {
+   "key": "MainEventMess0669.mbb#0.221",
+   "note": "Seravee speaks through Veda (consciousness linked with Veda, story_140). 'you should return to base' keeps Seravee outside the group."
+  },
+  {
+   "key": "MainEventMess0670.mbb#0.4",
+   "note": "Ankh stumbles on the first word of the Japanese term (brain...); English order puts 'quantum' first, so he trips on that. Same for 0670.19 (stray duplicate after the 00 variant)."
+  },
+  {
+   "key": "MainEventMess0670.mbb#0.3",
+   "note": "Japanese term here is the 00 'brain quantum waves'; rendered with the established 'quantum brainwaves'."
+  },
+  {
+   "key": "MainEventMess0674.mbb#0.1",
+   "note": "'reactor core' = core of Libra (lowercase, not the Ride Machine item)."
+  },
+  {
+   "key": "MainEventMess0677.mbb#0.3",
+   "note": "Sandrock warns the party heading to the Libra Cannon control room that Epyon followed them; 'you' = the party (inferred)."
+  },
+  {
+   "key": "MainEventMess0677.mbb#0.5",
+   "note": "Birth blocks Gaddess. Avoided 'Not so fast!!' because that is Arche Gundam's fixed catchphrase."
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.12",
+   "note": "Speaker labels in 0701 look misassigned: 'Seravee's Voice' sits on party-leader lines (0.12, 0.18, 0.20, 0.30, 0.32, 0.34) and 'Ankh' on Seravee's lines (0.19, 0.29, 0.31, 0.33 uses Tieria's 'boku', 0.35). Translated by content: Seravee (via Veda) explains; leader asks."
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.18",
+   "note": "Speaker unclear (labelled Seravee's Voice, but content is a party member reacting). Kept neutral 'we'."
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.20",
+   "note": "0.20-0.24 leader variants of 'I'm counting on you' (speaker asks Seravee). 0.22 'No, that's plenty' answers 'Veda doesn't have everything'."
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.1",
+   "note": "0.1-0.10 paired leader variants; 0.11 a single-line variant."
+  },
+  {
+   "key": "MainEventMess0702.mbb#0.9",
+   "note": "Rough variant (drawn-out 'daaa'), likely Momotaros/Zero voice."
+  }
+ ],
+ "report": "80/80 rows. 0701 speaker labels appear misassigned (Seravee's Voice vs Ankh); translated by content. 0670.4/0.19 wordplay adapted. No new names."
+}

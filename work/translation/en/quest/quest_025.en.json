@@ -1,0 +1,394 @@
+{
+ "slice": "quest_025",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.202",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.203",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.204",
+   "en": "Here they come!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.207",
+   "en": "Area secured."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.208",
+   "en": "Area secured."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.209",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.210",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.211",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.212",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.213",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.214",
+   "en": "All right, that oughta make this area safe!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.215",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.216",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.217",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.218",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.219",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.220",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.221",
+   "en": "All right, that secures the area."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.222",
+   "en": "Why!? I told you not to interfere!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.223",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.224",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.225",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.226",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.227",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.228",
+   "en": "I only did it because I believed it was right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.229",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.230",
+   "en": "Shut up! I just did what I felt like doin'!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.231",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.232",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.233",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.234",
+   "en": "I only did it because I believed it was right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.235",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.236",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.237",
+   "en": "I just did what I thought was right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.238",
+   "en": "What...? You followed your own sense of justice?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.239",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.240",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.241",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.242",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.243",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.244",
+   "en": "Yes, that's right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.245",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.246",
+   "en": "...Well, that's about the size of it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.247",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.248",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.249",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.250",
+   "en": "Yes, that's right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.251",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.252",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.253",
+   "en": "Yeah, that's right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.254",
+   "en": "I see. You followed your own justice. That is a good thing."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.255",
+   "en": "We are in the right. And the righteous must be strong. Take this."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.257",
+   "en": "Obtained \"Altron Shield\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.259",
+   "en": "Stand against evil. This world has far too many fools."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.1",
+   "en": "Shadow Moon has sent RX a challenge. Take RX with you to Veda Cube."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.5",
+   "en": "So you came, Black Sun."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.6",
+   "en": "Shadow Moon!! I've come to accept your challenge!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.7",
+   "en": "I have waited so long for this day."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.8",
+   "en": "Defeating you is the only thing I have lived for."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.9",
+   "en": "Here I come, Black Sun! Now we settle this once and for all!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.10",
+   "en": "Bring it on!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.12",
+   "en": "This ends now! Revolcrash!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.14",
+   "en": "Well done... I am beaten..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.15",
+   "en": "Don't let Crisis... get the better of you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.16",
+   "en": "My name is Shadow Moon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.17",
+   "en": "Someday I will rise again and challenge you once more."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.18",
+   "en": "No one else shall have your head..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.20",
+   "en": "Shadow Moon..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.22",
+   "en": "Amid his sorrow, Black RX now made a vow,"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.23",
+   "en": "sworn anew, and firmly, in his heart: to defeat the Crisis Empire!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.24",
+   "en": "Fight on! Kamen Rider Black RX!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.26",
+   "en": "Obtained \"Moto Crystal\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.28",
+   "en": "Completed the quest \"The Shadow Prince Returns!\""
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.29",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.1",
+   "en": "The Alien Alliance is after the Plasma Spark's ember. Take Mebius to the top floor of Ultra Cube."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.4",
+   "en": "You!? Why are you here?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.5",
+   "en": "Alien Guts! We know you're after the ember of the Plasma Spark!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.6",
+   "en": "I see. So that's how it is. But it seems you're a little too late."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.7",
+   "en": "Mebius..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.8",
+   "en": "Sorry... How could we have let this happen..."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.202",
+   "note": "Rows 202-259 are not referenced by Quest021.bla (script ends at +130 -> row 131; the pck holds the same script): unused Pigmon-report version of 'Backing Up Altron', as quest_024 found. 202-204 end the 190-204 block from quest_024 (slots 12-14), same English as its identical rows."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.207",
+   "note": "Leader-variant slots inferred from wording, same slot pattern as quest_024's blocks (slot 0 Wing Zero, slots 5/11 polite, slot 7 rough Momotaros): 207-221 = slots 0-14 (207/208 the curt Wing Zero / 00 version, 214 slot 7 rough), 223-237 (228/234 polite 'boku', 230 rough), 239-253 (244/250 polite, 246 rough). Identical Japanese kept identical."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.222",
+   "note": "Unused scene: Altron (Wufei) rebuking the heroes for interfering; 238, 254, 255, 259 also Altron. 'Jibun no seigi' / 'onore no seigi' rendered 'your own (sense of) justice' (Wufei's justice theme)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.255",
+   "note": "Altron's creed, worded to match quest_024 (row 117 'The righteous have to be strong', row 125 'We are in the right'). 'Uketore' = handing over the Altron Shield (row 257)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST021_pk#0.257",
+   "note": "'Altron Shield' is not in the item tables (unused reward); named after the existing Shenlong Shield / Gundam Shield pattern. Format as 'Obtained \"Moto Crystal\".'"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.1",
+   "note": "Quest board text; QuestMess 0.73 has a longer version ('Shadow Moon has sent RX a challenge...'); same opening reused."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.5",
+   "note": "Quest022.bla maps TextIdOffset+N to row N+1 (checked: +4 Shadow Moon = 5, +5 RX = 6, +11 RX = 12 with 11 empty, +13..+17 Shadow Moon = 14-18, +19 RX = 20, +21..+23 narration after CharaNameOut = 22-24, OkWinIn +27/+28 = 28/29). +29 at the party check points at empty row 30."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.12",
+   "note": "RX's finisher uses the unified skill name 'Revolcrash' (system_081, name_fix.py)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.15",
+   "note": "'Crisis' = the Crisis Empire, kept short as in the source."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.22",
+   "note": "22-23 are one narration sentence split across two rows (BLACK RX opening-style narration); 23 continues 22. 24 echoes quest_017's 'Don't lose! Kamen Rider Black RX!'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.26",
+   "note": "Moto Crystal: item name from ItemNameFormal / QuestMess 0.523."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST022_pk#0.28",
+   "note": "Quest title from QuestMess 0.23 'The Shadow Prince Returns!'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.1",
+   "note": "'Hidane' rendered 'ember' as in the main story (MainEventMess0403/0463); QuestMess 0.74 has 'spark of the Plasma Spark'. This board text says top floor, QuestMess says Layer 4; translated as written."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.4",
+   "note": "Quest023.bla maps +N to row N+1: +3 Alien Guts = 4, +4 Mebius = 5, +5 Alien Nackle = 6, +6 Jack then Ace (both call +6) = 7, +8 Mebius = 9."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.5",
+   "note": "Mebius; dropped subject of 'shitte iru' restored as 'we' (he came with the party)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST023_pk#0.8",
+   "note": "Not referenced by the script (Ace's call reuses +6 -> row 7 instead of +7). Evidently Ace's (or Jack's) apology to Mebius for being beaten; translated as the brothers' line."
+  }
+ ],
+ "report": "80/80 rows. DG_QUEST021 202-259 unreferenced by Quest021.bla (unused Pigmon version): speakers and leader slots inferred from wording (Altron for 222/238/254/255/259). DG_QUEST022/023 from Quest022/023.bla (N+1). Row 0.8 of DG_QUEST023 unreferenced (script bug: Ace reuses row 7). 'Altron Shield' not in item tables. No new names."
+}

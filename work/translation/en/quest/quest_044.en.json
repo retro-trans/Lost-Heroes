@@ -1,0 +1,329 @@
+{
+ "slice": "quest_044",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.138",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.139",
+   "en": "Man, just how bad do you want ice pop?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.140",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.141",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.142",
+   "en": "Let's let it go, Ankh."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.143",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.144",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.145",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.146",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.147",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.148",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.149",
+   "en": "Give it up, Ankh."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.150",
+   "en": "Better give it up."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.151",
+   "en": "Better give it up."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.152",
+   "en": "...Tch."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.153",
+   "en": "Hm? What's that...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.154",
+   "en": "Where the ice pop had melted, only its stick was left, stuck in the ground."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.155",
+   "en": "This is... Hey, look closer, it's a Feilong Flag!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.156",
+   "en": "This is... Hey, look closer, it's a Feilong Flag!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.157",
+   "en": "This thing... Hey, look closer, it's a Feilong Flag, ain't it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.158",
+   "en": "This is... Hey, look closer, it's a Feilong Flag!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.159",
+   "en": "This is... Hey, look closer, it's a Feilong Flag!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.160",
+   "en": "This is... Looking closely, isn't this a Feilong Flag?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.161",
+   "en": "This thing... Hey, look closer, it's a Feilong Flag, ain't it!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.162",
+   "en": "Why, this is... a Feilong Flag!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.163",
+   "en": "Why, this is... a Feilong Flag!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.164",
+   "en": "Why, this is... a Feilong Flag!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.165",
+   "en": "This is... Hey, look closer, it's a Feilong Flag!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.166",
+   "en": "This is... Hey, look closer, it's a Feilong Flag!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.167",
+   "en": "This is... Hey, look closer, it's a Feilong Flag!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.168",
+   "en": "This is... a Feilong Flag, by the look of it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.169",
+   "en": "This is... a Feilong Flag, by the look of it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.170",
+   "en": "Huh. So that freak was using this thing as the stick for the ice pop?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.171",
+   "en": "Can't be helped. Guess I'll take this back as a souvenir."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.173",
+   "en": "Obtained \"Feilong Flag\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess014.mbb#0.175",
+   "en": "Completed the quest \"The Ultimate Ice Pop\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.1",
+   "en": "Masurao has sent 00 a challenge letter. Take 00 to Museum 1F in Shocker Cube."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.4",
+   "en": "So you have come..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.5",
+   "en": "You! Masurao!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.6",
+   "en": "I longed to see you... How I longed to see you, Gundam!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.7",
+   "en": "I believed that with information on Veda as bait, I would surely meet you!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.8",
+   "en": "Don't tell me... You were behind the Veda information!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.9",
+   "en": "Precisely! That information was meant to lure out the Gundam."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.10",
+   "en": "Out of my way! I have no time to waste on the likes of you!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.11",
+   "en": "To be brushed aside so coldly... Then I shall hold your gaze captive!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.12",
+   "en": "Today, I am a being who surpasses even Asura!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.13",
+   "en": "This chance to meet you, at long last..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.14",
+   "en": "As a Virgo, I cannot help but sense a sentimental destiny in it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.15",
+   "en": "Huh? What the hell's that guy talkin' about?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.16",
+   "en": "Huh? What is that guy going on about?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.17",
+   "en": "Hm? What is that man talking about?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.18",
+   "en": "What's that guy babbling about?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.19",
+   "en": "Huh? What are you talking about?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.20",
+   "en": "What is that guy talking about?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.21",
+   "en": "What is that guy talking about?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.22",
+   "en": "What is that guy talking about?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.23",
+   "en": "What is that guy talking about?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.24",
+   "en": "What is that guy talking about?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.25",
+   "en": "What is that guy talking about?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.26",
+   "en": "What is that guy talking about?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.27",
+   "en": "What is that guy talking about?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.28",
+   "en": "What is he saying?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.29",
+   "en": "Yes, the Gundam has captivated my heart! This feeling... it is truly love!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.30",
+   "en": "Love!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.31",
+   "en": "But love, once transcended, turns to hatred. And so I will defeat you! Of my own will!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.32",
+   "en": "What!? You are distorted!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.33",
+   "en": "It was you who made me so! The very existence of the Gundam!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.34",
+   "en": "That is why I will defeat you all. The world matters not. Of my own will!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.35",
+   "en": "And then I will surpass the Gundam! That shall be the proof that I live!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.36",
+   "en": "Shut up! Like hell we're gonna get beaten 'cause of your selfish whims!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.37",
+   "en": "Like hell we're goin' down over your screwy logic!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.38",
+   "en": "No way are we getting beaten just to satisfy your desire!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.39",
+   "en": "Like hell we'll go down for your selfish whims!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.40",
+   "en": "We have no intention of being defeated for your selfish whims!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.41",
+   "en": "Like hell we'll go down for your selfish whims!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.42",
+   "en": "We won't be defeated by this so-called love of yours!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.43",
+   "en": "We won't be defeated by this so-called love of yours!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.44",
+   "en": "We will not be defeated for your selfish whims!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.45",
+   "en": "We will not be defeated for your selfish whims!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess015.mbb#0.46",
+   "en": "We will not be defeated for your selfish whims!"
+  }
+ ],
+ "notes": [],
+ "report": "filled from the DG_QUEST twin rows / translation memory"
+}

@@ -1,0 +1,346 @@
+{
+ "slice": "system_066",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.5",
+   "en": "Maganac's Request"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.6",
+   "en": "The Mysterious Mobile Suit"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.7",
+   "en": "Psycommu Weapon"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.8",
+   "en": "Two Mobile Dolls"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.9",
+   "en": "Crazygon Hunt"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.10",
+   "en": "Antlar Strikes Again"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.11",
+   "en": "A Strange Visitor"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.12",
+   "en": "The Prince of Sorrow"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.13",
+   "en": "Retrieving the O Raiser"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.14",
+   "en": "The Infamous Grand Bandit Gang"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.15",
+   "en": "The Ultimate Ice Pop"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.16",
+   "en": "Veda Classified Data"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.17",
+   "en": "Alien Baltan Strikes Back"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.18",
+   "en": "The Shadow Prince"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.19",
+   "en": "Money Dopant's Challenge"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.20",
+   "en": "State of Meikyo Shisui"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.21",
+   "en": "A Challenge Letter for 00"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.22",
+   "en": "Backing Up Altron"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.23",
+   "en": "The Shadow Prince Returns!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.24",
+   "en": "The Alien Alliance's Obsession"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.25",
+   "en": "The Evil Grand Bandit Gang Returns!"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.26",
+   "en": "Return of the Greeed"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.27",
+   "en": "Sub-Quest 26"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.28",
+   "en": "Sub-Quest 27"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.29",
+   "en": "Sub-Quest 28"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.30",
+   "en": "Sub-Quest 29"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.31",
+   "en": "Sub-Quest 30"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.51",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.52",
+   "en": "Reports say two GM IIs are fighting each other. Head to the dead-end plaza in the northeast of Begins Cube's Central District and investigate the cause."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.53",
+   "en": "Help Birth by defeating White Yummies and collecting 100 medals. White Yummies seem to appear in Begins Cube's Central District."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.54",
+   "en": "A mysterious kaiju has appeared in Begins Cube. Go with the Ultra Warriors and investigate the dead-end plaza in the southwest of the Central District."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.55",
+   "en": "Maganac seems to have a request for us. Take Zeta Gundam to the quicksand-free area in the southeast of Desert Cube's Quicksand Zone."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.56",
+   "en": "We hear an MS is roaming Desert Cube's Wasteland Zone, searching for Zeta Gundam. Take Zeta Gundam and investigate the far end of the Emerium ore recovery area."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.57",
+   "en": "Something that looks like a Psycommu weapon was found in Desert Cube. Take Nu Gundam and Zeta Gundam and examine the oddly shaped treasure chest in the western Military Base."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.58",
+   "en": "Altron, who is acting alone, has made contact. Go with Wing Zero and investigate the cluster of small rooms in the eastern Desert Cube Military Base."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.59",
+   "en": "Enemies are carrying out large-scale excavation in the quicksand-free area of southern Desert Cube Quicksand Zone. Take 00 to the site and wipe them out."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.60",
+   "en": "An Antlar nest has appeared in Desert Cube's Ruins Zone. Go hear what Maganac has to say; he's waiting near the CB camp in the center of the Ruins Zone."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.61",
+   "en": "Pigmon has information for us. Take Ultraman to Maganac, who is waiting near the graveyard south of the Hideout Cube quarry."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.62",
+   "en": "A kaijin searching for RX is said to be in the west of Begins Cube. Take Black RX and investigate the long vertical plaza in the West District."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.63",
+   "en": "The O Raiser has reportedly been stolen. Take 00 and hear Maganac out; he's waiting at the Ride Gate entrance on Hideout Cube Lab B1."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.64",
+   "en": "Word is that Kamen Rider Gaoh is rampaging around the treasure vault on Layer 4 of Ultra Cube. Take Den-O to the scene and stop Gaoh."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.65",
+   "en": "Rumor has it there's a giant ice pop in Ultra Cube, so go investigate. The suspicious spot is the dead end with a treasure chest in the east of Layer 3."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.66",
+   "en": "There is said to be classified information about Veda. Take 00 to the small dead-end room in the southwest of Shocker Cube 1F."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.67",
+   "en": "Pigmon wants to talk to us again. Take Ultraman to Maganac, who is waiting near the graveyard south of the Hideout Cube quarry."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.68",
+   "en": "We've learned someone is searching for RX in the south of Shocker Cube 2F. Take RX and go investigate."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.69",
+   "en": "Word is a martial arts tournament is being held at the finals venue in the southwest of Ultra Cube Layer 2. Go there and investigate."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.70",
+   "en": "God Gundam asks to be taken to the reservoir in the southeast of Desert Cube's Wasteland Zone. Take God Gundam there."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.71",
+   "en": "A challenge letter has arrived from Masurao. Take 00 to the front of the Terminal Unit in the center of Veda Cube's Middle Layer."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.72",
+   "en": "Go and support Altron, who is acting alone. First, take Wing Zero to Maganac, who is waiting at the Ride Gate entrance in the Upper Layer of Veda Cube."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.73",
+   "en": "Shadow Moon has sent RX a challenge. Take RX and investigate the dead-end section in the west of Veda Cube's Upper Layer."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.74",
+   "en": "Word is someone is after the spark of the Plasma Spark. Take Mebius to the Plasma Spark pedestal on Layer 4 of Ultra Cube."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.75",
+   "en": "We got word that someone has made a lair inside Veda Cube. The exact location is unknown, but they seem to be operating from a control room built in the Upper Layer."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.76",
+   "en": "Mezool and Gamel, who should have been defeated, have been sighted. Take OOO and investigate the ring room in the southwest of Ultra Cube Layer 2."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.78",
+   "en": "Sub-Quest 27 Short Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.79",
+   "en": "Sub-Quest 28 Short Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.80",
+   "en": "Sub-Quest 29 Short Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.81",
+   "en": "Sub-Quest 30 Short Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.101",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.102",
+   "en": "Sub-Quest 1 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.103",
+   "en": "Sub-Quest 2 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.104",
+   "en": "Sub-Quest 3 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.105",
+   "en": "Sub-Quest 4 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.106",
+   "en": "Sub-Quest 5 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.107",
+   "en": "Sub-Quest 6 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.108",
+   "en": "Sub-Quest 7 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.109",
+   "en": "Sub-Quest 8 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.110",
+   "en": "Sub-Quest 9 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.111",
+   "en": "Sub-Quest 10 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.112",
+   "en": "Sub-Quest 11 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.113",
+   "en": "Sub-Quest 12 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.114",
+   "en": "Sub-Quest 13 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.115",
+   "en": "Sub-Quest 14 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.116",
+   "en": "Sub-Quest 15 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.117",
+   "en": "Sub-Quest 16 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.118",
+   "en": "Sub-Quest 17 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.119",
+   "en": "Sub-Quest 18 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.120",
+   "en": "Sub-Quest 19 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.121",
+   "en": "Sub-Quest 20 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.122",
+   "en": "Sub-Quest 21 Long Desc"
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.123",
+   "en": "Sub-Quest 22 Long Desc"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.13",
+   "note": "Component of 00 Raiser; written 'O Raiser' (Gundam Wiki: 0 Raiser)."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.65",
+   "note": "Ice read as ice cream (Ankh's favorite in OOO); uncertain."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.14",
+   "note": "Bandit gang title is an approximation of the Japanese 'great robber gang'; matches row 25."
+  },
+  {
+   "key": "Table/Quest/QuestMess.mbb#0.12",
+   "note": "Prince of Sorrow; referent unclear (likely Shadow Moon line)."
+  }
+ ],
+ "report": "All 80 rows examined. Uncertain: ice cream (0.15/0.65), O Raiser, bandit gang names, Meikyo Shisui kept as romaji. Not in glossary: West District, O Raiser, Grand Bandit Gang, Sub-Quest, White Yummy, Ruins/Wasteland Zone (used in earlier slices)."
+}

@@ -1,0 +1,329 @@
+{
+ "slice": "quest_036",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.52",
+   "en": "Crazygon!! Come on! I'll be your opponent!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.53",
+   "en": "Eliminating the target!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.54",
+   "en": "Target confirmed. Annihilating it immediately!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.55",
+   "en": "Crazygon!! If you won't come to us, we'll come to you!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.56",
+   "en": "Crazygon!! If you won't come to us, we'll come to you!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.57",
+   "en": "Crazygon... So you won't come? Then we'll come to you!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.62",
+   "en": "So these things are here to collect \"Scrap Iron\"?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.63",
+   "en": "Where is it...!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.64",
+   "en": "True, it was originally an iron-collecting robot... but it looks like they're after something else."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.65",
+   "en": "No, looks like they're after something else."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.66",
+   "en": "...It looks like they're after something else."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.67",
+   "en": "True, it was originally an iron-collecting robot... but it looks like they're after something else."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.68",
+   "en": "True, it was originally an iron-collecting robot... but it looks like they're after something else."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.69",
+   "en": "Would they really deploy this many just to gather scrap iron...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.70",
+   "en": "No, they're probably searching for something else... The scrap iron is camouflage."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.71",
+   "en": "Would they really send out this many just to scrounge up scrap iron?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.72",
+   "en": "Suspicious. Looks like they're after something else..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.73",
+   "en": "Suspicious. Looks like they're after something else..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.74",
+   "en": "Strange. I doubt they'd deploy this many for mere scrap iron."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.75",
+   "en": "Strange. I doubt they'd deploy this many for mere scrap iron."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.76",
+   "en": "No... I think they're after something else."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.77",
+   "en": "I don't think so. Aren't they after something else?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.78",
+   "en": "Strange. I doubt they'd deploy this many for mere scrap iron."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.79",
+   "en": "No choice, then. We'll take down every last one of 'em!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.81",
+   "en": "You idiot! You plan to go on without 00!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.84",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.88",
+   "en": "\"Iron Ore,\" huh... A bit better, but I doubt this is what they're after."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.91",
+   "en": "You idiot! You plan to go on without 00!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.94",
+   "en": "..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.98",
+   "en": "This time it's \"Copper Ore,\" huh..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.99",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.100",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.101",
+   "en": "No, please wait! There's something else here!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.102",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.103",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.104",
+   "en": "Hold on! There's something else here!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.105",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.106",
+   "en": "No, wait! There's something else here!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.107",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.108",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.109",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.110",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.111",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.112",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.113",
+   "en": "No, wait! There's something else here!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.115",
+   "en": "Obtained \"Broken O Raiser\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.117",
+   "en": "The O Raiser...!! To think it was here, of all places."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.118",
+   "en": "What's that thing?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.119",
+   "en": "It's something I need to stabilize my Twin Drive."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.120",
+   "en": "But it looks busted."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.121",
+   "en": "...First, let's head back to Maganac."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.123",
+   "en": "Go bring 00 here!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.126",
+   "en": "This is... MS equipment...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.127",
+   "en": "This is... MS equipment...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.128",
+   "en": "This is... MS equipment...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.129",
+   "en": "This is... MS equipment...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.130",
+   "en": "What's this...? Looks like MS equipment."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.131",
+   "en": "What's this...? Looks like MS equipment."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.132",
+   "en": "I wonder what this is... MS equipment, maybe?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.133",
+   "en": "What's this...? Looks like MS equipment."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.134",
+   "en": "What's this...? Looks like MS equipment."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.135",
+   "en": "I wonder what this is... Could it be MS equipment?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.136",
+   "en": "This is... MS equipment...?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.137",
+   "en": "What the hell's this...? Some kinda MS gear?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.138",
+   "en": "This equipment... Is it from an MS!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.139",
+   "en": "This equipment... Is it from an MS!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.141",
+   "en": "In that case, let's take it to Maganac and have him look into it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.146",
+   "en": "It seems you succeeded in defeating the Crazygons."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.147",
+   "en": "{8074} and the team handed over the item they had obtained from the Crazygons."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.148",
+   "en": "This is... the \"O Raiser\"...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.149",
+   "en": "So the enemy was trying to get their hands on this!! ...I'm glad you got it back."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.151",
+   "en": "Yeah. But it's broken. It can't be used as it is."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.152",
+   "en": "We'll hold onto it for a while. We'll repair it with Celestial Being's technology."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.153",
+   "en": "Please do."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.155",
+   "en": "It's an item tied to 00. What's the use if he isn't here himself?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.158",
+   "en": "What on earth is this?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.159",
+   "en": "It's equipment made exclusively for 00."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.160",
+   "en": "It stabilizes the Twin Drive and draws out 00's abilities to the fullest."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.161",
+   "en": "Interesting. Let's give it to 00 right away."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess008.mbb#0.162",
+   "en": "However, it seems to be a little damaged."
+  }
+ ],
+ "notes": [],
+ "report": "filled from the DG_QUEST twin rows / translation memory"
+}

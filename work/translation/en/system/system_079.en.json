@@ -1,0 +1,346 @@
+{
+ "slice": "system_079",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.190",
+   "en": "{806D} tried to unleash {8072}, but nothing happened..."
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.191",
+   "en": "{806D} used psychic powers!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.192",
+   "en": "{806D} fired an energy bolt from its head!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.193",
+   "en": "{806D} is acting cool and composed!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.194",
+   "en": "{806D} attacked you with {8072}!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.195",
+   "en": "{806D} shot {8072} at you!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.196",
+   "en": "{806D} slashed at you with {8072}!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.197",
+   "en": "{806D} slashed at you with the GN Beam Saber in its leg!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.198",
+   "en": "{806D} unleashed {8072}!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.199",
+   "en": "{806D} let out a fierce roar!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.200",
+   "en": "{806D} swept you aside with {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.201",
+   "en": "{806D} hurled {8072} at you!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.202",
+   "en": "{806D} attacked you with its Movable Frame Claws!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.203",
+   "en": "{806D} spun a spider web!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.204",
+   "en": "{806D} supplied energy!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.205",
+   "en": "{806D} deployed the GN Stealth Field!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.206",
+   "en": "{806D} deployed the Planet Defensor!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.207",
+   "en": "{806D} unleashed a fireball attack!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.208",
+   "en": "{806D} readied a counter!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.209",
+   "en": "{806D} grabbed at you!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.210",
+   "en": "{806D} unleashed a grabbing attack!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.211",
+   "en": "{806D} spat out Death Fire!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.212",
+   "en": "{806D} unleashed a mental attack!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.213",
+   "en": "{806D} put up a barrier with the Terror Field!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.214",
+   "en": "{806D} raised the Crush Shield!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.215",
+   "en": "{806D} raised the GN Shield!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.216",
+   "en": "{806D} thrashed around wildly!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.217",
+   "en": "{806D} launched an attack!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.218",
+   "en": "{806D} launched a flurry of attacks!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.219",
+   "en": "{806D} launched a powerful attack!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.220",
+   "en": "{806D} stirred up a White Storm!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.221",
+   "en": "{806D} spat out Dark Scent!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.222",
+   "en": "{806D} fired Mouth Shot!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.223",
+   "en": "{806D} unleashed Fade Away!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.224",
+   "en": "{806D} fired a destruction beam!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.225",
+   "en": "{806D} came rolling in like a millstone!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.226",
+   "en": "{806D} wound up and slammed down on you!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.227",
+   "en": "{806D} fired a shock beam from its head!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.228",
+   "en": "{806D} stretched out its tentacles and latched on!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.229",
+   "en": "{806D} scattered black scale dust!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.230",
+   "en": "{806D} spat out a Smoke Storm!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.231",
+   "en": "{806D} sprayed a dense fog!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.232",
+   "en": "{806D} unleashed Pido Flame!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.233",
+   "en": "{806D} slashed at you with the GN Long Beam Saber!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.234",
+   "en": "{806D} slashed at you with the GN Short Beam Saber!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.235",
+   "en": "{806D} danced!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.236",
+   "en": "{806D} negotiated skillfully!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.237",
+   "en": "{806D} used gravity control!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.238",
+   "en": "{806D} deployed the I-Field!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.239",
+   "en": "{806D} deployed a Psycho Field!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.240",
+   "en": "A barrier of light enveloped {806E}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.241",
+   "en": "{806D} slashed at you with a giant pincer!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.242",
+   "en": "{806D} charged in!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.243",
+   "en": "{806D} fled!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.244",
+   "en": "{806D} attacked in blind confusion!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.1",
+   "en": "Dummy message"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.2",
+   "en": "{806D} launched an attack!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.3",
+   "en": "{806E} took {806F} damage!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.4",
+   "en": "{806E} dodged the attack!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.5",
+   "en": "A decisive blow landed!! {806E} took {806F} damage!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.6",
+   "en": "A decisive blow landed!! {806E} took {806F} damage!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.7",
+   "en": "{806D} is on guard."
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.8",
+   "en": "{806D} focused power into the skill!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.9",
+   "en": "{806D} fled!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.10",
+   "en": "{806E} fell over!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.11",
+   "en": "The main cannon was damaged!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.12",
+   "en": "The shield was damaged!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.13",
+   "en": "The gun turret was damaged!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.14",
+   "en": "The auxiliary device was damaged!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.15",
+   "en": "The capacitor was damaged!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.16",
+   "en": "{806E} flinched!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.17",
+   "en": "{806E} went Berserk!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.18",
+   "en": "Acid stuck to {806E}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.19",
+   "en": "{806D} is down!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.20",
+   "en": "{806D} is flinching!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.23",
+   "en": "It had no effect on {806E}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.24",
+   "en": "{806E} recovered {8070} HP!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.25",
+   "en": "{806E}'s HP was fully restored!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.26",
+   "en": "{806E} recovered {8070} SP!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.27",
+   "en": "{806D} fired the main cannon!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.225",
+   "note": "Original describes rolling in like a millstone; creature unclear"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.221",
+   "note": "Dark Scent is a guess at the skill name"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.232",
+   "note": "Pido Flame romanized; source monster unclear"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#1.5",
+   "note": "Rows 1.5 and 1.6 identical in source apart from invisible details; same English"
+  }
+ ],
+ "report": "All 80 rows translated. Uncertain: Dark Scent, Pido Flame, Planet Defenser, Crush Shield, millstone roll. New terms: GN Beam Saber, Movable Frame Claw, GN Stealth Field."
+}

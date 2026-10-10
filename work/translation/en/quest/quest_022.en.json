@@ -1,0 +1,394 @@
+{
+ "slice": "quest_022",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.36",
+   "en": "What are you doing? Never let your guard down before an enemyyyy!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.37",
+   "en": "Keep a cool head!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.38",
+   "en": "Who's there? Whose voice is that?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.39",
+   "en": "Don't fall for his provocation!! Remember! That instant of Meikyo Shisui!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.40",
+   "en": "What is this voice... Whose voice is this, so full of warmth...?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.41",
+   "en": "What's the matter, God Gundam! If you think you can defeat me, then try it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.42",
+   "en": "...That's right... I mustn't be misled... I have to calm my heart..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.43",
+   "en": "Haaaaaaaah..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.44",
+   "en": "Yes, that's it. Like a mirror without a single cloud..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.45",
+   "en": "...A heart like water, filled to the brim and perfectly still..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.46",
+   "en": "Yes... I remember now... This is the feeling..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.47",
+   "en": "Haaah..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.48",
+   "en": "...I see it! I can see it!! A single drop of water!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.49",
+   "en": "Nuoh! Wh-what is this fighting spirit!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.50",
+   "en": "This is nothing like what he showed before! Blast it! Insolent whelp!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.52",
+   "en": "Wh-what!? This is absurd!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.53",
+   "en": "Elbow strike, backfist, straight punch... Toryaaaaaaah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.54",
+   "en": "No... Not me! How could I, Master Gundam, be rendered so helpless!? I won't stand for it!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.56",
+   "en": "Oryaaaaaaah!! Teyaaaaaaaah!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.57",
+   "en": "Vanish!! Master Gundaaaaaaaaaam!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.59",
+   "en": "I remember now... the heart of Meikyo Shisui..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.60",
+   "en": "I heard it... That voice helped me remember. That voice... could it be...!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.61",
+   "en": "Hey! Aren't you done yet? How long are you gonna keep me waiting!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.62",
+   "en": "Sorry to keep you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.63",
+   "en": "So, is your training over?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.64",
+   "en": "...Yeah. My training is done, and it went well. Let's head back."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.68",
+   "en": "Obtained \"Hyper Mode\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.70",
+   "en": "Completed the quest \"State of Meikyo Shisui\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.74",
+   "en": "God Gundam must be in the party to progress this quest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.1",
+   "en": "Masurao has sent word to 00. Take 00 with you to Veda Cube."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.4",
+   "en": "So you have come...!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.6",
+   "en": "First, allow me to thank you for accepting my challenge letter once again."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.7",
+   "en": "You're... Masurao!? Your form has changed!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.8",
+   "en": "I made you a promise. A promise that I would cut you down without fail!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.9",
+   "en": "And to fulfill that promise, I have been reborn..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.10",
+   "en": "Yes... as Susanowo!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.11",
+   "en": "I have waited... I have waited for this! For this time! For the moment I face the Gundam!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.12",
+   "en": "Now, Gundam!! This time, let us settle this once and for all!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.13",
+   "en": "...You desire battle that much..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.14",
+   "en": "Of course!! It is destiny! That you and I must do battle!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.15",
+   "en": "...Understood. I accept your duel."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.16",
+   "en": "Well said!! Truly, you are my prima donna!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.17",
+   "en": "That distortion... I will correct it with my own hands!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.18",
+   "en": "Then... have at you!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.20",
+   "en": "00! Eliminating the target!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.21",
+   "en": "Susanowo! Fairly and squarely... we duel!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.23",
+   "en": "Heh... It seems this is as far as I go..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.24",
+   "en": "I concede defeat... Gundam... Now! Deliver the finishing blow!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.25",
+   "en": "I will not... finish you..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.26",
+   "en": "Wh... What are you saying!! You would show me mercy!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.27",
+   "en": "Letting you live... That is my own kind of mercy stroke."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.28",
+   "en": "What... Absurd...!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.29",
+   "en": "Bushido... is found... in death... Bushido is..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.32",
+   "en": "You would turn your back on your enemy!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.33",
+   "en": "Very well! Make your preparations! I shall wait!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.36",
+   "en": "Do you mean to insult me!? Bring 00 to me!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.38",
+   "en": "Completed the quest \"Duel with Masurao 2\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.39",
+   "en": "00 must be in the party to progress this quest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.41",
+   "en": "I have been waiting."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.42",
+   "en": "Susanowo, what are you planning?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.43",
+   "en": "Gundam, I would have you answer my wish."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.47",
+   "en": "I have been waiting."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.48",
+   "en": "You... what are you planning?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.49",
+   "en": "Gundam, I would have you answer my wish."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.50",
+   "en": "What is it you want?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.51",
+   "en": "A duel in deadly earnest..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.52",
+   "en": "What!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.53",
+   "en": "I, Susanowo, demand a duel with you!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.54",
+   "en": "You want to settle this that badly!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.55",
+   "en": "Naturally! The ones who captivated my heart and shattered my warrior's spirit were none other than"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.56",
+   "en": "you Gundams!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.57",
+   "en": "Indeed. It has surpassed love, transcended even hatred, and become destiny!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.58",
+   "en": "Destiny!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.59",
+   "en": "Indeed! You and I are bound to do battle!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.60",
+   "en": "(I see... He is a being that we distorted...)"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.61",
+   "en": "Understood. I accept your duel."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.62",
+   "en": "I ask for nothing less than your all!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.63",
+   "en": "Hey! You're really gonna fight him!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.64",
+   "en": "There is no other way."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.65",
+   "en": "This is the path I desire... the path of the Asura!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.36",
+   "note": "Speakers for DG_QUEST019 traced from Quest019.bla (MessWinSet +N -> row N+1, confirmed by content): Master Gundam (illusion) 0.36/41/49-54; mysterious voice (???) 0.37/39/44; God Gundam 0.38/40/42-48, 53-60, 62, 64; Ankh 0.61/63. 0.36 is Master Gundam taunting God Gundam while he is distracted by the voice."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.45",
+   "note": "Source reads tatareta (likely typo for tataeta, 'brimming'); rendered as water filled to the brim and still (meikyo shisui imagery)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.54",
+   "note": "te mo ashi mo dasenu (unable to lay a hand or foot on him) rendered 'rendered so helpless' to fit the box."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.63",
+   "note": "Not referenced in the traced script; content (asking whether training is over, between God Gundam lines) makes it Ankh."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST019_pk#0.68",
+   "note": "Hyper Mode matches SkillMessage 0.187."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.1",
+   "note": "Rows 0.1-0.39 are not referenced by Quest020.bla (it only calls +46..+79 -> rows 0.47-0.80). They look like an unused older version of the Susanowo duel ('Duel with Masurao 2'). Speakers inferred from content: Susanowo (Mr. Bushido) for archaic lines, 00 for terse ones. 0.1 is an old quest-description draft; the live title/description are QuestMess 0.21/0.71."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.9",
+   "note": "Source typo (umarekawatta da yo) read as umarekawatta no da yo."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.11",
+   "note": "Source 'Gundam wo shunkan wo' is garbled; read as the moment of facing the Gundam."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.15",
+   "note": "Source typo (ukesase morau) read as ukesasete morau: accepting the duel."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.27",
+   "note": "kaishaku = the second's mercy cut in seppuku; rendered 'my own kind of mercy stroke'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.29",
+   "note": "Hagakure line ('the way of the samurai is found in death'); kept 'Bushido' for the Mr. Bushido resonance. The identical row in quest_051 (Table/Event/Quest/QuestEventMess020 copy) should reuse this."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.38",
+   "note": "Unused quest title (Masurao to no ikkiuchi 2) -> 'Duel with Masurao 2'; not in QuestMess."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.41",
+   "note": "Live event: script calls +46.. with ??? then 00 and Susanowo; mapping N+1. 0.41-0.43 duplicate 0.47-0.49 (0.42 names Susanowo, 0.48 says kisama). Susanowo (shown as ??? until he names himself) 0.41/43/47/49/51/53, 0.55-0.59/62/65; 00 0.42/48/50/52/54/58/60/61/64."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.60",
+   "note": "00's thought line; parentheses kept as in source."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.63",
+   "note": "Not referenced by the script; a rough-voiced party member (speaker unknown). Rendered speaker-neutral."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST020_pk#0.65",
+   "note": "shura no michi -> 'path of the Asura' (Asura used for shura in CampMess/BaseMess)."
+  }
+ ],
+ "report": "80/80 rows. DG_QUEST020 rows 0.1-0.39 unused by Quest020.bla (speakers inferred); QUEST019 0.63 Ankh by content; QUEST020 0.63 speaker unknown. Unused quest title 0.38 'Duel with Masurao 2' not in QuestMess. Source typos at QUEST019 0.45 and QUEST020 0.9/0.11/0.15."
+}

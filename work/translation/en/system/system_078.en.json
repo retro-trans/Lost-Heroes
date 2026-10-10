@@ -1,0 +1,342 @@
+{
+ "slice": "system_078",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.110",
+   "en": "{806E} stood back up!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.111",
+   "en": "{8072} wasn't used properly!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.112",
+   "en": "{806D} absorbed it with {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.113",
+   "en": "{806D} and allies stirred up {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.114",
+   "en": "{806D} swept everything aside with {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.115",
+   "en": "{806D} is spacing out."
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.116",
+   "en": "{806D} wears a confident smile!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.117",
+   "en": "{806D} fired {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.118",
+   "en": "{806D} coiled around you with {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.119",
+   "en": "{806D} attacked at blinding speed!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.120",
+   "en": "{806D} launched {8072} and clung on!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.121",
+   "en": "{806D} guarded with {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.122",
+   "en": "{806D} pounded the ground and made it shake!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.123",
+   "en": "{806D} charged {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.124",
+   "en": "{806D} quietly focused its mind...!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.125",
+   "en": "{806D} leaped aside and dodged the attack!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.126",
+   "en": "{806D} self-destructed in a desperate last stand!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.127",
+   "en": "{806D} put up {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.128",
+   "en": "{806D} performed {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.129",
+   "en": "{806D} began warping space!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.130",
+   "en": "{806D} pulled off a ghastly {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.131",
+   "en": "{806D} dodged the attack with {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.132",
+   "en": "{806D} summoned {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.133",
+   "en": "{806D} took a stance to reflect attacks!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.134",
+   "en": "{806D} took a {8072} stance!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.135",
+   "en": "{806D} fired {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.136",
+   "en": "{806D} slashed viciously with {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.137",
+   "en": "{806D} is thrashing wildly!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.138",
+   "en": "A ghastly aura is coming from {806D}'s whole body...!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.139",
+   "en": "{806D} stomped down with a foot!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.140",
+   "en": "{806D} swept in with its tentacles!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.141",
+   "en": "{806D} grabbed {806E} with its tentacles!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.142",
+   "en": "{806D} spread its Body Absorber wide!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.143",
+   "en": "{806D} fled!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.144",
+   "en": "{806D} synced its horn light with Seagorath!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.145",
+   "en": "{806D} swung {8072} around!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.146",
+   "en": "{806D} stirred up {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.147",
+   "en": "{806D} whipped up a violent {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.148",
+   "en": "{806D} generated {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.149",
+   "en": "{806D} vanished into {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.150",
+   "en": "{806D} came at you with {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.151",
+   "en": "{806D} dove down from the sky!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.152",
+   "en": "{806D} impaled you with {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.153",
+   "en": "{806D} began stomping {8072}!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.154",
+   "en": "{806E}'s vision recovered!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.155",
+   "en": "{806E} recovered from being stunned!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.156",
+   "en": "{806E} recovered from Pressure!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.157",
+   "en": "{806E} recovered from Negative!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.158",
+   "en": "{806E} recovered from all status ailments!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.159",
+   "en": "{806D} unleashed Trigger Full Burst on everyone!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.160",
+   "en": "{806D} kicked {806E} viciously!!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.161",
+   "en": "{806D} is gloating!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.162",
+   "en": "{806D} called Accel in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.163",
+   "en": "{806D} called Trial in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.164",
+   "en": "{806D} called Methuss in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.165",
+   "en": "{806D} called Hikari in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.166",
+   "en": "{806D} called Ankh in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.167",
+   "en": "{806D} called Rider 2 in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.168",
+   "en": "{806D} called Cherudim in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.169",
+   "en": "{806D} called Arios in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.170",
+   "en": "{806D} called Seravee in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.171",
+   "en": "{806D} called Deathscythe Hell in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.172",
+   "en": "{806D} called Heavyarms in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.173",
+   "en": "{806D} called Sandrock in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.174",
+   "en": "{806D} called Altron in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.175",
+   "en": "{806D} called Birth in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.176",
+   "en": "{806D} called Ace in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.177",
+   "en": "{806D} called Jack in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.178",
+   "en": "{806D} called Zoffy in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.179",
+   "en": "{806D} called Momotaros in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.180",
+   "en": "{806D} called Urataros in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.181",
+   "en": "{806D} called Kintaros in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.182",
+   "en": "{806D} called Ryutaros in for an assist!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.183",
+   "en": "{806D} started eating sweets!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.184",
+   "en": "{806D} is staring at Mezool..."
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.185",
+   "en": "{806D} shook the ground violently!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.186",
+   "en": "{806D} activated Trans-Am!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.187",
+   "en": "{806D} activated Hyper Mode!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.188",
+   "en": "{806D} activated the Zero System!"
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.189",
+   "en": "{806D} shot {806E} with a gun!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.111",
+   "note": "Source topic is {8072} (the skill/item name), so rendered as '{8072} wasn't used properly'; could instead be an actor name."
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.144",
+   "note": "Seagorath named in the text; the actor is presumably Seamons."
+  },
+  {
+   "key": "Table/Skill/SkillMessage.mbb#0.142",
+   "note": "Body Absorber is an unlisted enemy part name; literal."
+  }
+ ],
+ "report": "80/80 rows. New terms not in glossary: Body Absorber, Trigger Full Burst, Hyper Mode. Row 111 tag usage uncertain (actor vs skill)."
+}

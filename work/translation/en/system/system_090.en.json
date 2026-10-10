@@ -1,0 +1,362 @@
+{
+ "slice": "system_090",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillName.mbb#3.195",
+   "en": "Water Jet"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.196",
+   "en": "Sting Shock"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.197",
+   "en": "Sword"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.198",
+   "en": "Rapier"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.199",
+   "en": "Marikyu Laser"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.200",
+   "en": "Rocket Punch"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.201",
+   "en": "Staff Destruction Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.202",
+   "en": "Staff"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.203",
+   "en": "Rapid Strikes"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.204",
+   "en": "Gale From Wings"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.205",
+   "en": "Electric Shock"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.206",
+   "en": "Arm"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.207",
+   "en": "Pot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.208",
+   "en": "Latch On With Tentacles"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.209",
+   "en": "Summon Water to Guard"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.210",
+   "en": "Ground Slam Tremor"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.211",
+   "en": "Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.212",
+   "en": "Lock-On"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.213",
+   "en": "Beam"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.214",
+   "en": "Artificial Sun Energy"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.215",
+   "en": "Recovery"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.216",
+   "en": "Flying Destruction Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.217",
+   "en": "Mucus"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.218",
+   "en": "Tooth Bullets"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.219",
+   "en": "Leap to Dodge Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.220",
+   "en": "Self-Destruct"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.221",
+   "en": "Scythe"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.222",
+   "en": "Black King"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.223",
+   "en": "Feather Shuriken"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.224",
+   "en": "Claw Arm"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.225",
+   "en": "Fedayeen Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.226",
+   "en": "Electromagnetic Pincers"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.227",
+   "en": "Bubbles"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.228",
+   "en": "Life Coin Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.229",
+   "en": "Shield Sword"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.230",
+   "en": "Spinning Whirlwind"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.231",
+   "en": "Zone Board"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.232",
+   "en": "Jewel Shield"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.233",
+   "en": "Black Mist"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.234",
+   "en": "Shock Wave"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.235",
+   "en": "Ultrasonic Wave"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.236",
+   "en": "Invisibility"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.237",
+   "en": "Gun"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.238",
+   "en": "Beam Machine Gun"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.239",
+   "en": "GN Claw"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.240",
+   "en": "Powerful Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.241",
+   "en": "Missile Launcher"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.242",
+   "en": "GN Submachine Gun"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.243",
+   "en": "Beam Cannon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.244",
+   "en": "Planet Defensor"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.245",
+   "en": "Trident"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.246",
+   "en": "Mega Gatling Gun"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.247",
+   "en": "Beam Assault Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.248",
+   "en": "Beam Gun"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.249",
+   "en": "Missile"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.250",
+   "en": "Grenade Launcher"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.251",
+   "en": "Beam Tomahawk"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.252",
+   "en": "Claw Shield"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.253",
+   "en": "Freezing Gas"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.254",
+   "en": "Snow Freezer"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.255",
+   "en": "Paralysis Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.256",
+   "en": "4D Psychokinesis"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.257",
+   "en": "Tail Smash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.258",
+   "en": "Shell"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.259",
+   "en": "Satch Fire"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.260",
+   "en": "Super Intense Flame"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.261",
+   "en": "Rolling Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.262",
+   "en": "Red Crazy Gas"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.263",
+   "en": "Destruction Light Bullet"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.264",
+   "en": "Super Intense Flame"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.265",
+   "en": "Gust"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.266",
+   "en": "Sharp Beak"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.267",
+   "en": "Gas"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.268",
+   "en": "Feather Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.269",
+   "en": "Zero-Gravity Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.270",
+   "en": "Hypnotic Light Wave"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.271",
+   "en": "Magma Saber"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.272",
+   "en": "Samekujira"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.273",
+   "en": "Valky Sword"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.274",
+   "en": "Valky Beam"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Skill/SkillName.mbb#3.199",
+   "note": "Romanized; franchise English name not confirmed."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.225",
+   "note": "Gundam weapon name; spelling Fedayeen from the romanization, not verified."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.244",
+   "note": "Planate Defenser: romanized; official spelling not verified."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.259",
+   "note": "Romanized guess; official name not confirmed."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.201",
+   "note": "Staff = the extending staff weapon (Nyoibo)."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.202",
+   "note": "Staff = the extending staff weapon (Nyoibo)."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.272",
+   "note": "Samekujira per glossary entry (monster name)."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.256",
+   "note": "Shortened to 4D to stay within width."
+  }
+ ],
+ "report": "All 80 rows translated. Uncertain: Marikyu Laser, Fedayeen Rifle, Planate Defenser, Satch Fire (romanized, official English unverified). Rows 088/089 (3.115-3.194) not yet translated, so consistency with those is unchecked."
+}

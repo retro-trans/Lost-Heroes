@@ -1,0 +1,346 @@
+{
+ "slice": "system_074",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.191",
+   "en": "Lowers one enemy's Res."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.192",
+   "en": "Super-powerful Light-element Ranged attack on all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.193",
+   "en": "Unleashes a super-powerful Slash attack on all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.194",
+   "en": "Two Kamen Riders hit one enemy with a kick combo."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.195",
+   "en": "Two Gundams hit one enemy with consecutive Ranged attacks."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.196",
+   "en": "Two Ultra Warriors hit one enemy with consecutive Ranged attacks."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.197",
+   "en": "Two Heroes hit one enemy with consecutive Slash attacks."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.198",
+   "en": "Two Heroes hit all enemies with consecutive Ranged attacks."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.199",
+   "en": "Two Heroes hit all enemies with consecutive powerful attacks."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.200",
+   "en": "Two Kamen Riders hit one enemy with consecutive attacks."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.201",
+   "en": "Zero and Seven attack all enemies together."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.202",
+   "en": "OOO and W attack one enemy together."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.203",
+   "en": "Ultraman and Seven team up to fully restore all allies' HP."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.204",
+   "en": "Mebius and 00 attack all enemies together."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.205",
+   "en": "Zero and God Gundam attack one enemy together."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.206",
+   "en": "OOO and Taro attack all enemies together."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.207",
+   "en": "W and Den-O attack one enemy together."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.208",
+   "en": "An Ultra Warrior and a Kamen Rider hit one enemy with a kick combo."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.210",
+   "en": "W and Wing Zero attack all enemies together."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.211",
+   "en": "Raises Force Capacity by 1 per Lv."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.212",
+   "en": "Raises Force Capacity by 1 per Lv."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.213",
+   "en": "Raises Force Capacity by 1 per Lv."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.214",
+   "en": "Raises max Hero Gauge by 1 gauge."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.215",
+   "en": "Raises max Hero Gauge by 1 gauge."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.216",
+   "en": "Self"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.217",
+   "en": "One enemy"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.218",
+   "en": "All enemies"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.219",
+   "en": "One ally"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.220",
+   "en": "All allies"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.221",
+   "en": "All enemies (random)"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.222",
+   "en": "All allies (random)"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.1",
+   "en": "Restores 200 HP to one ally."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.2",
+   "en": "Restores 750 HP to one ally."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.3",
+   "en": "Restores 1500 HP to one ally."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.4",
+   "en": "Restores 1500 HP to all allies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.5",
+   "en": "Revives a KO'd ally."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.6",
+   "en": "Revives a KO'd ally and fully restores HP."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.7",
+   "en": "Cures Infected."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.8",
+   "en": "Cures Stunned."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.9",
+   "en": "Cures Panic."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.10",
+   "en": "Cures Blind."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.11",
+   "en": "Cures Unconscious."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.12",
+   "en": "Cures Pressure."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.13",
+   "en": "Cures Negative."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.15",
+   "en": "Cures all status ailments."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.16",
+   "en": "Lets you flee from any battle except boss fights."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.17",
+   "en": "Restores 50 SP to one ally."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.18",
+   "en": "Restores 100 SP to one ally."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.19",
+   "en": "Restores 200 SP to one ally."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.21",
+   "en": "Greatly raises one ally's speed."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.22",
+   "en": "Raises all allies' speed."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.23",
+   "en": "Lowers one enemy's Ranged DEF."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.24",
+   "en": "Greatly raises one ally's Ranged DEF."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.25",
+   "en": "Raises all allies' Physical ATK."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.26",
+   "en": "Greatly raises one ally's Physical ATK."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.27",
+   "en": "Raises one ally's Ranged ATK."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.28",
+   "en": "Chance to Stun one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.29",
+   "en": "Raises all allies' Ranged DEF."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.30",
+   "en": "Raises all allies' evasion."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.31",
+   "en": "Lowers one enemy's speed."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.32",
+   "en": "Lowers one enemy's Physical DEF."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.33",
+   "en": "Chance to inflict Pressure on all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.34",
+   "en": "Chance to inflict Panic on all enemies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.35",
+   "en": "Greatly raises one ally's Ranged ATK."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.36",
+   "en": "Greatly raises one ally's Physical DEF."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.37",
+   "en": "Greatly raises all allies' Ranged ATK."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.38",
+   "en": "Raises one ally's Hero Gauge by a set amount."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.39",
+   "en": "Chance to inflict Panic on one enemy."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.40",
+   "en": "Raises all allies' Physical DEF."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.41",
+   "en": "Greatly raises one ally's evasion."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.51",
+   "en": "Restores 200 HP to one ally."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.52",
+   "en": "Restores 750 HP to one ally."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.53",
+   "en": "Restores 1500 HP to one ally."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.54",
+   "en": "Restores 150 HP to all allies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.55",
+   "en": "Restores 500 HP to all allies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.56",
+   "en": "Restores 1200 HP to all allies."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.57",
+   "en": "Cures all status ailments on one ally."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.58",
+   "en": "Removes all stat-lowering effects from one ally."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.59",
+   "en": "Revives a KO'd ally and fully restores HP."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.60",
+   "en": "Halves the encounter rate while moving."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#0.191",
+   "note": "Res = glossary ui term for the Japanese resistance word."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.11",
+   "note": "Glossary gives the status ailment as Unconscious; kept literally here, while the revive row uses KO'd."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.58",
+   "note": "Reads as removing all debuffs (stat-lowering effects); worded accordingly."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#2.60",
+   "note": "Halves enemy encounter rate while moving on the map."
+  }
+ ],
+ "report": "All 80 rows translated. Combo-attack team-up rows use glossary names (OOO, W, Den-O, 00, God Gundam, Wing Zero, Taro, Mebius, Seven). No new terms."
+}

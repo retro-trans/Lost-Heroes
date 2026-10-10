@@ -1,0 +1,338 @@
+{
+ "slice": "system_048",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Common/CharacterName.mbb#3.267",
+   "en": "Alien Baltan"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.268",
+   "en": "Pigmon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.269",
+   "en": "Skullmaster"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.270",
+   "en": "Ahead"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.271",
+   "en": "Sweets Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.272",
+   "en": "Shadow Moon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.273",
+   "en": "Money Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.274",
+   "en": "Bullton"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.275",
+   "en": "Hi-Zack"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.276",
+   "en": "Alien Iros"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.1",
+   "en": "Kamen Rider 1"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.2",
+   "en": "Kamen Rider Black RX"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.3",
+   "en": "Kamen Rider Den-O"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.4",
+   "en": "Kamen Rider W"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.5",
+   "en": "Kamen Rider OOO"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.6",
+   "en": "Nu Gundam"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.7",
+   "en": "Zeta Gundam"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.8",
+   "en": "God Gundam"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.9",
+   "en": "Wing Gundam Zero"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.10",
+   "en": "00 Gundam"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.11",
+   "en": "Ultraman"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.12",
+   "en": "Ultraseven"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.13",
+   "en": "Ultraman Taro"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.14",
+   "en": "Ultraman Mebius"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.15",
+   "en": "Ultraman Zero"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.21",
+   "en": "Rider 1"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.22",
+   "en": "Black RX"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.23",
+   "en": "Den-O"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.24",
+   "en": "W"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.25",
+   "en": "OOO"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.26",
+   "en": "Nu Gundam"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.27",
+   "en": "Zeta Gundam"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.28",
+   "en": "God Gundam"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.29",
+   "en": "Wing Zero"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.30",
+   "en": "00"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.31",
+   "en": "Ultraman"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.32",
+   "en": "Seven"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.33",
+   "en": "Taro"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#0.34",
+   "en": "Mebius"
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#1.1",
+   "en": "Marker set."
+  },
+  {
+   "key": "Table/Common/CommonMess.mbb#1.2",
+   "en": "Discard the selected item.\nAre you sure?"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#0.1",
+   "en": "Begins Cube"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#0.2",
+   "en": "Desert Cube"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#0.3",
+   "en": "Hideout Cube"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#0.4",
+   "en": "Ultra Cube"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#0.5",
+   "en": "Shocker Cube"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#0.6",
+   "en": "Veda Cube"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#0.7",
+   "en": "Genocide Cube"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#0.8",
+   "en": "Chaos Cube"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#0.9",
+   "en": "Ride Dungeon"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#0.10",
+   "en": "Random Cube"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.1",
+   "en": "East District"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.2",
+   "en": "Central District"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.3",
+   "en": "West District"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.4",
+   "en": "Ruins Zone"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.5",
+   "en": "Quicksand Zone"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.6",
+   "en": "Wasteland Zone"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.7",
+   "en": "Military Base"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.8",
+   "en": "Lab B1"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.9",
+   "en": "Lab B2"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.10",
+   "en": "Quarry South"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.11",
+   "en": "Quarry North"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.12",
+   "en": "Layer 1"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.13",
+   "en": "Layer 2"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.14",
+   "en": "Layer 3"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.15",
+   "en": "Layer 4"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.16",
+   "en": "Ruins B1"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.17",
+   "en": "Museum 1F"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.18",
+   "en": "Museum 2F"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.19",
+   "en": "Ruins B2"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.20",
+   "en": "Upper Layer"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.21",
+   "en": "Middle Layer"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.22",
+   "en": "Lower Layer"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.23",
+   "en": "Deepest Part"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.24",
+   "en": "Monster Graveyard West"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.25",
+   "en": "Monster Graveyard Central"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.26",
+   "en": "Monster Graveyard North"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.27",
+   "en": "Regis Core"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.28",
+   "en": "Gaze of Hatred"
+  },
+  {
+   "key": "Table/Common/DungeonName.mbb#1.29",
+   "en": "Breath of Resignation"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Common/CharacterName.mbb#3.269",
+   "note": "Skullmaster: matches earlier tables (pun on Skullma)."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#3.274",
+   "note": "Bullton: official English spelling, matches earlier slices; glossary has no entry."
+  }
+ ],
+ "report": "80/80 rows. Uncertain: Skullmaster. Not in glossary: Bullton, Veda Cube, Genocide Cube, Chaos Cube, Shocker Cube, area names (Ruins/Wasteland Zone, Quarry, Lab, Layers), Gaze of Hatred, Breath of Resignation."
+}

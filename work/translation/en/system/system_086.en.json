@@ -1,0 +1,342 @@
+{
+ "slice": "system_086",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillName.mbb#1.202",
+   "en": "Double Rider Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.203",
+   "en": "Operation Ultra Star"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.204",
+   "en": "Limit Over Blade"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.205",
+   "en": "Blazing Big Bang Finger"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.206",
+   "en": "Tajadol Dynamite"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.207",
+   "en": "Our Finisher: W Version"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.208",
+   "en": "Ultra Rider Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.209",
+   "en": "Equip O Raiser"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.210",
+   "en": "Twin Finalfusion"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.211",
+   "en": "Force Capacity Up I"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.212",
+   "en": "Force Capacity Up II"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.213",
+   "en": "Force Capacity Up III"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#1.214",
+   "en": "Hero Gauge Up I"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.1",
+   "en": "Life Kit"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.2",
+   "en": "Mega Life Kit"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.3",
+   "en": "Giga Life Kit"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.4",
+   "en": "Recovery Kit"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.5",
+   "en": "Revive Kit"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.6",
+   "en": "Grand Revive Kit"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.7",
+   "en": "Cure Virus"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.8",
+   "en": "Cure Stun"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.9",
+   "en": "Cure Panic"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.10",
+   "en": "Cure Blind"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.11",
+   "en": "Cure Knockdown"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.12",
+   "en": "Cure Pressure"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.13",
+   "en": "Cure Negative"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.14",
+   "en": "Light of the Plasma Spark"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.15",
+   "en": "All-Purpose Kit"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.16",
+   "en": "Smoke Grenade"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.17",
+   "en": "Spirit Tab"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.18",
+   "en": "Mega Spirit Tab"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.19",
+   "en": "Giga Spirit Tab"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.21",
+   "en": "Assist: Accel"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.22",
+   "en": "Assist: Trial"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.23",
+   "en": "Assist: Methuss"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.24",
+   "en": "Assist: Hikari"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.25",
+   "en": "Assist: Ankh"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.26",
+   "en": "Assist: Rider 2"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.27",
+   "en": "Assist: Cherudim"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.28",
+   "en": "Assist: Arios"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.29",
+   "en": "Assist: Seravee"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.30",
+   "en": "Assist: Deathscythe Hell"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.31",
+   "en": "Assist: Heavyarms"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.32",
+   "en": "Assist: Sandrock"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.33",
+   "en": "Assist: Altron"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.34",
+   "en": "Assist: Birth"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.35",
+   "en": "Assist: Ace"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.36",
+   "en": "Assist: Jack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.37",
+   "en": "Assist: Zoffy"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.38",
+   "en": "Assist: Momotaros"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.39",
+   "en": "Assist: Urataros"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.40",
+   "en": "Assist: Kintaros"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.41",
+   "en": "Assist: Ryutaros"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.42",
+   "en": "Summon Gundam Spiegel"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.51",
+   "en": "Heal I"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.52",
+   "en": "Heal II"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.53",
+   "en": "Heal III"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.54",
+   "en": "Heal Rain I"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.55",
+   "en": "Heal Rain II"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.56",
+   "en": "Heal Rain III"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.57",
+   "en": "Cure"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.58",
+   "en": "Revive"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.59",
+   "en": "Resurrection"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.60",
+   "en": "Encounters Halved"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.61",
+   "en": "No Encounters"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.62",
+   "en": "Encounters x2"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.63",
+   "en": "Damage Floors Halved"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.64",
+   "en": "Damage Floors Null"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.65",
+   "en": "HP Recovery on Walk"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.66",
+   "en": "SP Recovery on Walk"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.67",
+   "en": "First Strike Up"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.68",
+   "en": "No Ambush"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.69",
+   "en": "Flee Chance Up"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.70",
+   "en": "Counter"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.71",
+   "en": "Crit Rate Up"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.72",
+   "en": "Null 1 Physical Hit"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.73",
+   "en": "Null 1 Ranged Hit"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.74",
+   "en": "Null 1 Slash Hit"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.75",
+   "en": "Fire Element ATK Up"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.76",
+   "en": "Lightning Element ATK Up"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Skill/SkillName.mbb#2.10",
+   "note": "Same Japanese as ItemNameFormal Cure Dark; kept identical."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.11",
+   "note": "Knockdown not in glossary; literal term used."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#2.42",
+   "note": "Gundam Spiegel not in glossary; official English name used."
+  }
+ ],
+ "report": "Rows 1.202-1.210 and 1.214 reused verbatim from system_083; 2.x consumable names reused from system_057 (ItemNameFormal). New terms: Gundam Spiegel, Knockdown, Force Capacity Up."
+}

@@ -1,0 +1,8 @@
+{
+ "tpc": "Graph/Camp/UI/Camp.tpc",
+ "page": "UI_psp_CampWindow_5551.tga",
+ "note": "Item count bar label (shozai-su -> Owned, same wording as UI_MENU_CMN00). The bar is a dark gradient on an opaque page, so the box is filled with a flat dark colour.",
+ "boxes": [
+  {"x": 65, "y": 41, "w": 31, "h": 9, "text": "Owned", "color": [255, 255, 255], "bg": [10, 10, 10], "weight": 0.2}
+ ]
+}

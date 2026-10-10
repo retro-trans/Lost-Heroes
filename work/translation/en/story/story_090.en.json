@@ -1,0 +1,378 @@
+{
+ "slice": "story_090",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0463.mbb#0.99",
+   "en": "You should rest. Taro, let's return to our base."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.100",
+   "en": "It looks like you'd better rest a little... Brother Taro, I'll take you to our base!"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.101",
+   "en": "You'd better rest up... Let's head back to base."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.102",
+   "en": "It looks like you'd better rest a little. Let's go back to base."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.103",
+   "en": "You'd better rest a bit... Taro, I'm tellin' you for your own good: let's head back to base for now."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.104",
+   "en": "At times like this, nothin' beats a good sleep, right? Why not head back to base and rest up?"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.105",
+   "en": "You should rest a little. Let's go back to base."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.106",
+   "en": "You should rest a little. Let's return to base."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.107",
+   "en": "You should rest a little. Let's go back to base."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.108",
+   "en": "You should rest a little. Let's go back to base."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.109",
+   "en": "You'd better rest a little. Let's head back to base."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.110",
+   "en": "You'd better rest a little. Let's head back to base."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.111",
+   "en": "You should rest a little. Let's return to base."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.112",
+   "en": "Thank you... But before that, there's something I have to do..."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.115",
+   "en": "Taro lit the flame of the energy core on the pedestal of the Plasma Spark."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.117",
+   "en": "It's a faint light, but now this Cube shouldn't fall into any further ruin..."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.120",
+   "en": "{8074} and the others decided to head for the base with Taro."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.121",
+   "en": "Ultraman Taro joined the party!"
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.125",
+   "en": "The Lost Heroes... They won through, just as I intended."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.126",
+   "en": "But Master Gundam, you did well too."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.127",
+   "en": "Thanks to this tournament, I've obtained a vast amount of useful combat data."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.128",
+   "en": "The plan will soon be complete..."
+  },
+  {
+   "key": "MainEventMess0465.mbb#0.1",
+   "en": "This is Floor 3. Ultra Tower is up ahead."
+  },
+  {
+   "key": "MainEventMess0501.mbb#0.1",
+   "en": "What is this place...? Looks like ruins."
+  },
+  {
+   "key": "MainEventMess0501.mbb#0.2",
+   "en": "What is this place...? It looks like some kind of ruins, but..."
+  },
+  {
+   "key": "MainEventMess0501.mbb#0.3",
+   "en": "What is this place...? It appears to be ruins, but..."
+  },
+  {
+   "key": "MainEventMess0501.mbb#0.4",
+   "en": "What is this place...? Looks like ruins."
+  },
+  {
+   "key": "MainEventMess0501.mbb#0.5",
+   "en": "What the heck is this place...? Looks like some kinda ruins!!"
+  },
+  {
+   "key": "MainEventMess0501.mbb#0.6",
+   "en": "This place... what is it...? It appears to be ruins, but..."
+  },
+  {
+   "key": "MainEventMess0501.mbb#0.7",
+   "en": "What is this place...? It's just like ancient ruins."
+  },
+  {
+   "key": "MainEventMess0501.mbb#0.8",
+   "en": "What is this place...? Looks like ruins."
+  },
+  {
+   "key": "MainEventMess0501.mbb#0.9",
+   "en": "What is this place...? Looks like ruins."
+  },
+  {
+   "key": "MainEventMess0501.mbb#0.10",
+   "en": "What is this place...? Looks like ruins."
+  },
+  {
+   "key": "MainEventMess0501.mbb#0.11",
+   "en": "What is this place...? Looks like ruins."
+  },
+  {
+   "key": "MainEventMess0501.mbb#0.12",
+   "en": "What is this place...? Looks like ruins."
+  },
+  {
+   "key": "MainEventMess0501.mbb#0.13",
+   "en": "What is this place...? Looks like ruins."
+  },
+  {
+   "key": "MainEventMess0501.mbb#0.14",
+   "en": "What is this place...? Looks like ruins."
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.1",
+   "en": "There's an information board."
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.2",
+   "en": "~ Exhibit Guide ~\nB1  Kaiju & Kaijin"
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.3",
+   "en": "1F  Items\n2F  Treasures"
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.4",
+   "en": "I see. So they're putting the items Gaoh and his crew collected on display in this Cube."
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.6",
+   "en": "So the enemy had Gaoh's gang gather items, and they're displaying them in this Cube."
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.8",
+   "en": "Puttin' items on display...? You mean the stuff those guys stole!?"
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.10",
+   "en": "I see! So they're displaying the items Gaoh's gang collected right here!!"
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.12",
+   "en": "I see. So the items Gaoh's gang collected are being put on display in this Cube."
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.14",
+   "en": "They're displaying the items Gaoh's gang collected in this Cube!?"
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.16",
+   "en": "I see. So they're displaying the items Gaoh's gang collected in this Cube."
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.18",
+   "en": "I see. So the items Gaoh's gang collected are being put on display in this Cube."
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.20",
+   "en": "I see. So the items Gaoh's gang collected are being put on display in this Cube."
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.22",
+   "en": "I see. So the items Gaoh's gang collected are being put on display in this Cube."
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.24",
+   "en": "So the enemy is displaying the items Gaoh's gang collected in this Cube."
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.26",
+   "en": "So the enemy is displaying the items Gaoh's gang collected in this Cube."
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.28",
+   "en": "So the enemy is displaying the items Gaoh's gang collected in this Cube."
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.30",
+   "en": "So the enemy is displaying the items Gaoh's gang collected in this Cube."
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.32",
+   "en": "So the enemy is displaying the items Gaoh's gang collected in this Cube."
+  },
+  {
+   "key": "MainEventMess0503.mbb#0.1",
+   "en": "There's a kaiju in the cage!"
+  },
+  {
+   "key": "MainEventMess0503.mbb#0.2",
+   "en": "Read the information board?"
+  },
+  {
+   "key": "MainEventMess0503.mbb#0.3",
+   "en": "\"Full Moon Choju Lunaticks\"\nHeight: 58 m  Weight: 63,000 t"
+  },
+  {
+   "key": "MainEventMess0503.mbb#0.5",
+   "en": "Gugooooh...!!"
+  },
+  {
+   "key": "MainEventMess0503.mbb#0.6",
+   "en": "Unlock the cage?"
+  },
+  {
+   "key": "MainEventMess0504.mbb#0.1",
+   "en": "There's a kaiju in the cage!"
+  },
+  {
+   "key": "MainEventMess0504.mbb#0.2",
+   "en": "Read the information board?"
+  },
+  {
+   "key": "MainEventMess0504.mbb#0.3",
+   "en": "\"Ancient Monster Gomora\"\nHeight: 40 m  Weight: 20,000 t"
+  },
+  {
+   "key": "MainEventMess0504.mbb#0.5",
+   "en": "Gwaaaaaaaaah!!"
+  },
+  {
+   "key": "MainEventMess0504.mbb#0.6",
+   "en": "Unlock the cage?"
+  },
+  {
+   "key": "MainEventMess0505.mbb#0.1",
+   "en": "There's a kaijin in the cage!"
+  },
+  {
+   "key": "MainEventMess0505.mbb#0.2",
+   "en": "Read the information board?"
+  },
+  {
+   "key": "MainEventMess0505.mbb#0.3",
+   "en": "\"Zanjioh\"\nHeight: 195 cm  Weight: 84 kg"
+  },
+  {
+   "key": "MainEventMess0505.mbb#0.5",
+   "en": "Igiiiiiiih!!"
+  },
+  {
+   "key": "MainEventMess0505.mbb#0.6",
+   "en": "Unlock the cage?"
+  },
+  {
+   "key": "MainEventMess0506.mbb#0.1",
+   "en": "There's a kaijin in the cage!"
+  },
+  {
+   "key": "MainEventMess0506.mbb#0.2",
+   "en": "Read the information board?"
+  },
+  {
+   "key": "MainEventMess0506.mbb#0.3",
+   "en": "\"Gebacondor\"\nHeight: 152 cm  Weight: 82 kg"
+  },
+  {
+   "key": "MainEventMess0506.mbb#0.5",
+   "en": "Uhyuu! Muhyuu!"
+  },
+  {
+   "key": "MainEventMess0506.mbb#0.6",
+   "en": "Unlock the cage?"
+  },
+  {
+   "key": "MainEventMess0507.mbb#0.1",
+   "en": "There's a kaiju in the cage!"
+  },
+  {
+   "key": "MainEventMess0507.mbb#0.2",
+   "en": "Read the information board?"
+  },
+  {
+   "key": "MainEventMess0507.mbb#0.3",
+   "en": "\"Space Monster Eleking\"\nHeight: 20 cm-53 m  Weight: 500 g-25,000 t"
+  },
+  {
+   "key": "MainEventMess0507.mbb#0.5",
+   "en": "Pikiiiiiiii!!!"
+  },
+  {
+   "key": "MainEventMess0507.mbb#0.6",
+   "en": "Unlock the cage?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0463.mbb#0.99",
+   "note": "#0.98-111 are a 14-slot leader block (+97+k; #0.98 is in story_089). Pt_Chara_Check order 11,12,14,15,5,4,3,2,1,6,7,10,9,8 = Ultraman, Seven, Mebius, Zero, OOO, W, Den-O, RX, Rider 1, Nu, Zeta, 00, Wing Zero, God Gundam; wording fits (#0.99 watashi = Seven, identical to #0.98; #0.100 boku + 'Taro-niisan' = Mebius; #0.103 Shotaro; #0.104 Momotaros). The same order also fits #0.10-23 in story_089. Identical Japanese kept identical."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.100",
+   "note": "Mebius's 'Taro-niisan' rendered 'Brother Taro' (glossary honorific rule for Ultra brothers)."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.103",
+   "note": "'Warui koto wa iwanee' = 'I'm telling you for your own good' (Shotaro's tough-but-caring voice)."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.115",
+   "note": "Alternate version of the Plasma Spark scene (#0.71/#0.73 in story_089). 'Energy core' kept lowercase as in earlier slices."
+  },
+  {
+   "key": "MainEventMess0463.mbb#0.125",
+   "note": "??? speaker (CHARA_NAME 30), the unseen mastermind watching; second version of #0.84-88. Refers to the heroes in third person, then addresses Master Gundam. Singular 'I' assumed for the speaker."
+  },
+  {
+   "key": "MainEventMess0465.mbb#0.1",
+   "note": "Ankh (CHARA_NAME 36). 'Dai 3 sou' rendered 'Floor 3' to match the established floor naming."
+  },
+  {
+   "key": "MainEventMess0501.mbb#0.1",
+   "note": "#0.1-14 leader block (+1+k). Pt_Chara_Check order W, OOO, RX, Rider 1, Den-O, Zero, Mebius, Ultraman, Seven, Taro, Nu, Zeta, God, Wing Zero, 00 (15 slots, 14 rows). Wording fits: #0.2 soft (OOO), #0.5 rough 'mitee' (Momotaros). Identical rows kept identical."
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.2",
+   "note": "Deliberate two-line sign layout kept with a line break. 'Kaijin' = Kamen Rider monsters (as in 'revived kaijin'), 'kaiju' = Ultra monsters."
+  },
+  {
+   "key": "MainEventMess0502.mbb#0.4",
+   "note": "#0.4-32 (even rows) leader block. Order OOO, W, Den-O, RX, Rider 1, Zero, Mebius, Ultraman, Seven, Taro, Nu, Zeta, God, Wing Zero, 00. #0.6 (W/Philip) says the enemy MADE Gaoh's gang collect them (causative kept); #0.8 Momotaros. 'Gaoh ichimi' = 'Gaoh's gang' (earlier slices call him a robber-gang boss); #0.4 'Gaoh-tachi' = 'Gaoh and his crew'."
+  },
+  {
+   "key": "MainEventMess0503.mbb#0.3",
+   "note": "Monster plates: Ultra titles from the established English (Full Moon Choju Lunaticks, Ancient Monster Gomora, Space Monster Eleking); glossary 'Choju' for chouju. The Shocker kaijin have no title in the source."
+  },
+  {
+   "key": "MainEventMess0503.mbb#0.6",
+   "note": "'Unlock it?' made explicit as 'Unlock the cage?' (object implied by the scene)."
+  },
+  {
+   "key": "MainEventMess0504.mbb#0.5",
+   "note": "Gomora roar reuses the established 'Gwaaaaaaaaah!!' (story_049); Zanjioh uses the Shocker kaijin cry 'Igiiiiiiih!!'. Lunaticks, Gebacondor and Eleking cries are new (romanized by sound)."
+  }
+ ],
+ "report": "All 80 rows translated. Leader blocks mapped from Pt_Chara_Check order (0463 #0.98-111, 0501, 0502) and checked against wording. Uncertain: #0.125-128 ??? speaker assumed to be the unseen mastermind; new roars for Lunaticks/Gebacondor/Eleking. Not in glossary: monster titles (Full Moon Choju, Ancient Monster, Space Monster), 'Gaoh's gang'."
+}

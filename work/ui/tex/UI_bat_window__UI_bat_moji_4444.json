@@ -1,0 +1,306 @@
+{
+ "tpc": "Graph/Bat/UI/Window/UI_bat_window.tpc",
+ "page": "UI_bat_moji_4444.tga",
+ "note": "Battle command labels and Ride battle commands. Wording follows Table/Battle/BattleMess (Main Cannon, Gun Turret, Bridge, Reinforce, Charge, Fire, Strafe, Barrage, Drill, Part Repair, Support Unit). Two-word kanji runs that may be sampled in halves (コンボ|スキル, 弾幕|装甲, 特殊|装置, 部位|修理) get one word per half, so 装甲+修理 can also read 'Armor Repair'. Battle INFO stat labels are sampled as halves (物理|攻撃力, 間接|防御力) as well as whole rows, so they are drawn as Phys.|ATK and Rng.|DEF to match the Camp menu.",
+ "defaults": {
+  "size": 10,
+  "bold": false,
+  "color": [
+   255,
+   255,
+   255
+  ]
+ },
+ "clear": [
+  [
+   0,
+   94,
+   76,
+   23
+  ],
+  [
+   79,
+   0,
+   35,
+   125
+  ],
+  [
+   113,
+   56,
+   26,
+   27
+  ],
+  [
+   113,
+   111,
+   22,
+   14
+  ],
+  [
+   118,
+   0,
+   54,
+   41
+  ],
+  [
+   112,
+   83,
+   61,
+   28
+  ],
+  [
+   172,
+   0,
+   45,
+   46
+  ],
+  [
+   136,
+   56,
+   112,
+   19
+  ],
+  [
+   134,
+   56,
+   2,
+   19
+  ]
+ ],
+ "boxes": [
+  {
+   "x": 1,
+   "y": 94,
+   "w": 36,
+   "h": 12,
+   "text": "Combo",
+   "align": "right"
+  },
+  {
+   "x": 40,
+   "y": 94,
+   "w": 35,
+   "h": 12,
+   "text": "Skill"
+  },
+  {
+   "x": 1,
+   "y": 107,
+   "w": 65,
+   "h": 10,
+   "text": "Finish"
+  },
+  {
+   "x": 80,
+   "y": 0,
+   "w": 31,
+   "h": 13,
+   "text": "Cannon",
+   "align": "center"
+  },
+  {
+   "x": 79,
+   "y": 14,
+   "w": 33,
+   "h": 13,
+   "text": "Turret",
+   "align": "center"
+  },
+  {
+   "x": 79,
+   "y": 28,
+   "w": 33,
+   "h": 13,
+   "text": "Bridge",
+   "align": "center"
+  },
+  {
+   "x": 79,
+   "y": 42,
+   "w": 33,
+   "h": 13,
+   "text": "Reinforce",
+   "align": "center"
+  },
+  {
+   "x": 80,
+   "y": 56,
+   "w": 53,
+   "h": 14,
+   "text": "Support Unit"
+  },
+  {
+   "x": 80,
+   "y": 70,
+   "w": 58,
+   "h": 13,
+   "text": "Shield"
+  },
+  {
+   "x": 79,
+   "y": 84,
+   "w": 34,
+   "h": 13,
+   "text": "Fire",
+   "align": "center"
+  },
+  {
+   "x": 79,
+   "y": 98,
+   "w": 34,
+   "h": 13,
+   "text": "Strafe",
+   "align": "center"
+  },
+  {
+   "x": 79,
+   "y": 112,
+   "w": 55,
+   "h": 13,
+   "text": "Charge"
+  },
+  {
+   "x": 118,
+   "y": 0,
+   "w": 26,
+   "h": 13,
+   "text": "Barrage",
+   "align": "right"
+  },
+  {
+   "x": 148,
+   "y": 0,
+   "w": 23,
+   "h": 13,
+   "text": "Armor"
+  },
+  {
+   "x": 119,
+   "y": 14,
+   "w": 24,
+   "h": 13,
+   "text": "Special",
+   "align": "right"
+  },
+  {
+   "x": 148,
+   "y": 14,
+   "w": 23,
+   "h": 13,
+   "text": "Device"
+  },
+  {
+   "x": 118,
+   "y": 28,
+   "w": 26,
+   "h": 13,
+   "text": "Part",
+   "align": "right"
+  },
+  {
+   "x": 148,
+   "y": 28,
+   "w": 23,
+   "h": 13,
+   "text": "Repair"
+  },
+  {
+   "x": 120,
+   "y": 83,
+   "w": 52,
+   "h": 14,
+   "text": "Drill"
+  },
+  {
+   "x": 120,
+   "y": 97,
+   "w": 52,
+   "h": 14,
+   "text": "Tank"
+  },
+  {
+   "x": 173,
+   "y": 0,
+   "w": 41,
+   "h": 23,
+   "text": "Attack",
+   "size": 16,
+   "align": "center"
+  },
+  {
+   "x": 173,
+   "y": 24,
+   "w": 42,
+   "h": 22,
+   "text": "Retreat",
+   "size": 16,
+   "align": "center"
+  },
+  {
+   "x": 184,
+   "y": 56,
+   "w": 44,
+   "h": 9,
+   "text": "Drill PWR",
+   "size": 8
+  },
+  {
+   "x": 184,
+   "y": 66,
+   "w": 16,
+   "h": 9,
+   "text": "SPCL",
+   "size": 8
+  },
+  {
+   "x": 231,
+   "y": 56,
+   "w": 15,
+   "h": 9,
+   "text": "Cannon",
+   "size": 8
+  },
+  {
+   "x": 230,
+   "y": 66,
+   "w": 16,
+   "h": 9,
+   "text": "Turret",
+   "size": 8
+  },
+  {
+   "x": 134,
+   "y": 56,
+   "w": 18,
+   "h": 9,
+   "text": "Phys.",
+   "size": 8,
+   "align": "right"
+  },
+  {
+   "x": 153,
+   "y": 56,
+   "w": 26,
+   "h": 9,
+   "text": "ATK",
+   "size": 8
+  },
+  {
+   "x": 135,
+   "y": 66,
+   "w": 16,
+   "h": 9,
+   "text": "Rng.",
+   "size": 8,
+   "align": "right"
+  },
+  {
+   "x": 153,
+   "y": 66,
+   "w": 26,
+   "h": 9,
+   "text": "DEF",
+   "size": 8
+  }
+ ]
+}

@@ -1,0 +1,402 @@
+{
+ "slice": "story_096",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0560.mbb#0.48",
+   "en": "Almost there... I'm nearly fully revived!! The remaining Core Medals are... I believe..."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.49",
+   "en": "...That's it!! They should be in Ikadevil's lab...!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.50",
+   "en": "Ikadevil's lab...!? Kazari!! Are my Cores in there too!?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.51",
+   "en": "I'd say so!! Ikadevil was scheming something with the Core Medals, wasn't he!?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.52",
+   "en": "Ikadevil, you say!? So he's in this Cube too!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.53",
+   "en": "Hmph, I see... Right! We're going to Ikadevil's lab!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.54",
+   "en": "Hah...!? You think I'd let you go!?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.55",
+   "en": "Tch...! Out of my way, Kazari!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.56",
+   "en": "Aaahahahaha...!! Come on out!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.57",
+   "en": "Gwaaaaaaaah!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.58",
+   "en": "Ngh...!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.59",
+   "en": "How do you like it? My new Yummy? Interesting, isn't it?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.60",
+   "en": "This thing...!! It's nothing like the Yummies we've seen before!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.61",
+   "en": "Now that I've taken in Mezool's and Gamel's Cores too, I'm evolving more and more."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.62",
+   "en": "And soon, I'll be fully revived! Until then, I'll need you to sit tight, okay!?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.63",
+   "en": "Now, get 'em! I'll leave the rest to you! See ya!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.65",
+   "en": "Hey! We're going after Kazari! He's up ahead!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.69",
+   "en": "Meanwhile, at that very moment..."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.70",
+   "en": "...First King Pandon, and now Jewel Dopant and Arms Dopant, eh?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.71",
+   "en": "I expected as much, but I never imagined it would come to this..."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.72",
+   "en": "So you think so too, Terror. It seems I, too, underestimated those fellows somewhat."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.73",
+   "en": "Forgive me, Father. I've lost two of my subordinates as well..."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.74",
+   "en": "Hahahaha!! Think nothing of it, Taboo. New forces are standing by, one after another."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.75",
+   "en": "Quite so. All our research is finally about to bear fruit."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.76",
+   "en": "As expected of Ikadevil. So that thing is nearly done? I look forward to it. Hahahahaha!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.77",
+   "en": "Do hurry along your \"Plan\" as well, Terror."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.78",
+   "en": "Of course. Garagaranda, and you, my daughter..."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.79",
+   "en": "Enacting the \"Plan\" will take a little more time. Until then, I leave the heroes' extermination to you."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.80",
+   "en": "Understood. In that case, let us try using that."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.81",
+   "en": "Oh! Could it be you intend to use that \"Tyrant Monster\"?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.82",
+   "en": "No, no, not that one yet. The truth is, I've gotten hold of another interesting monster..."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.83",
+   "en": "Oho... If you're going to use Bogal, I have a good idea, you know?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.84",
+   "en": "What? And what might that be!?"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.85",
+   "en": "Lend me your ear..."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.86",
+   "en": "...Oh! My word! Such a secret!! Hmm, hmm... What a splendid idea!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.87",
+   "en": "Father, let me take care of those heroes with my own hands...!!"
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.88",
+   "en": "Now, now, don't be so hasty. Later on, I'll give you an intriguing Dopant."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.89",
+   "en": "It has its quirks, but you should be able to put it to good use."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.90",
+   "en": "Yes, Father!! This time I'll be sure to finish them off for good."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.91",
+   "en": "I wonder which of you will bring down the heroes first. I look forward to it. Hahahaha!!"
+  },
+  {
+   "key": "MainEventMess0562.mbb#0.1",
+   "en": "Kazari said the Core Medals were in Ikadevil's lab, didn't he?"
+  },
+  {
+   "key": "MainEventMess0562.mbb#0.2",
+   "en": "Yeah. I wonder if it's around here?"
+  },
+  {
+   "key": "MainEventMess0562.mbb#0.3",
+   "en": "Yeah, looks like they should be around here."
+  },
+  {
+   "key": "MainEventMess0562.mbb#0.4",
+   "en": "Yeah, looks like they should be around here."
+  },
+  {
+   "key": "MainEventMess0562.mbb#0.5",
+   "en": "Yeah, is it around here!?"
+  },
+  {
+   "key": "MainEventMess0562.mbb#0.6",
+   "en": "Yeah, this place is lookin' real fishy, huh?"
+  },
+  {
+   "key": "MainEventMess0562.mbb#0.7",
+   "en": "Yeah, looks like they should be around here."
+  },
+  {
+   "key": "MainEventMess0562.mbb#0.8",
+   "en": "Yes, that's definitely what he said. Maybe it's around here..."
+  },
+  {
+   "key": "MainEventMess0562.mbb#0.9",
+   "en": "Yeah, looks like they should be around here."
+  },
+  {
+   "key": "MainEventMess0562.mbb#0.10",
+   "en": "Yeah, looks like they should be around here."
+  },
+  {
+   "key": "MainEventMess0562.mbb#0.11",
+   "en": "Yeah, looks like they should be around here."
+  },
+  {
+   "key": "MainEventMess0562.mbb#0.12",
+   "en": "Yeah, looks like they should be around here."
+  },
+  {
+   "key": "MainEventMess0562.mbb#0.13",
+   "en": "Yeah, looks like they should be around here."
+  },
+  {
+   "key": "MainEventMess0562.mbb#0.14",
+   "en": "Yeah, looks like they should be around here."
+  },
+  {
+   "key": "MainEventMess0562.mbb#0.15",
+   "en": "Yeah, looks like they should be around here."
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.1",
+   "en": "Hold it!!"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.3",
+   "en": "So you've shown up!! A Shocker cyborg!!"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.4",
+   "en": "Who's there!!"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.5",
+   "en": "What!!"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.6",
+   "en": "Huh? Another weirdo's gone and shown up, huh?"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.7",
+   "en": "Who's there!!"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.8",
+   "en": "What the hell are you!!"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.9",
+   "en": "What are you!!"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.10",
+   "en": "Who's there!!"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.11",
+   "en": "Who's there!!"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.12",
+   "en": "Who's there!!"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.13",
+   "en": "Who's there!!"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.14",
+   "en": "Who's there!!"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.15",
+   "en": "Who's there!!"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.16",
+   "en": "Who's there!!"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.17",
+   "en": "Who's there!!"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.18",
+   "en": "I am Hiru-Chameleon!"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.19",
+   "en": "Beyond this point lies Dr. Ikadevil's most vital research facility. I won't let the likes of you in!!"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.23",
+   "en": "T-to think I'd fall in a place like this... You lot, fall back... We'll try again later..."
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.24",
+   "en": "Uuugh... I am truly sorry..."
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.25",
+   "en": "With the scientific might of our Shocker, reviving a kaijin is a trifling... Hm!?"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.26",
+   "en": "Kweeeeeeh!!"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.27",
+   "en": "What's that?"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.28",
+   "en": "Kweeeeeeh!!"
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.29",
+   "en": "Kikiih!?"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0560.mbb#0.52",
+   "note": "Rider 1 line plays only if Rider 1 is in the party (Pt_Chara_Check 1 in the script). Ikadevil glossary g=m, so 'he'."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.57",
+   "note": "Lion-Jellyfish Yummy roar; no established roar in the glossary, used 'Gwaaaaaaaah!!' (same family as Gomora)."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.59",
+   "note": "#0.59-60 unlabelled and off the traced script path (script jumps from #0.58 to #0.61). Inferred: #0.59 Kazari (showing off his new Yummy, 'boku'), #0.60 Ankh reacting."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.70",
+   "note": "#0.70-71 are '???' (silhouetted). #0.72 Garagaranda answers 'So you think so too, Terror', so #0.71 is Terror Dopant; #0.70 most likely Terror too. Referent: the heroes have beaten King Pandon, Jewel Dopant and Arms Dopant."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.73",
+   "note": "Taboo's 'two subordinates' = presumably Jewel and Arms Dopants from #0.70."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.77",
+   "note": "Corner-bracketed 'keikaku' rendered \"Plan\" in quotes (also #0.79)."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.78",
+   "note": "Vocative row; Terror's sentence continues in #0.79 (addressing Garagaranda and Taboo)."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.81",
+   "note": "'Boukun kaijuu' = Tyrant's official title, rendered \"Tyrant Monster\"; the monster itself is not named here."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.83",
+   "note": "Ikadevil guesses Garagaranda's 'other interesting monster' is Bogal; 'ii kangae ga aru' = he has a plan for it (pays off in story_097, Bogal devouring kaiju)."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.87",
+   "note": "Source trails off ('with these hands, the heroes...!!'); rendered as a complete plea with the trailing ellipsis kept."
+  },
+  {
+   "key": "MainEventMess0560.mbb#0.91",
+   "note": "'Which of you' = Garagaranda vs Taboo (the two Terror just tasked); kept as 'which of you'."
+  },
+  {
+   "key": "MainEventMess0562.mbb#0.1",
+   "note": "Extractor labels are shifted by one in this table: #0.1 is Ankh (rough 'Kazari no yatsu', matches CharaNameIn Ankh at MessWinSet+1), and #0.2-#0.15 is the leader block. Pt_Chara_Check order 5,4,1,2,3,15,14,13,12,11,6,7,8,9,10 = OOO, W, Rider 1, RX, Den-O, Zero, Mebius, Taro, Seven, Ultraman, Nu, Zeta, God Gundam, Wing Zero (00's slot has no row). Wording fits: #0.2 gentle 'un' = OOO, #0.5 RX, #0.6 rough = Momotaros, #0.8 polite = Mebius."
+  },
+  {
+   "key": "MainEventMess0562.mbb#0.3",
+   "note": "Subject 'they' = the Core Medals (restored); OOO/RX/Mebius variants keep the source's vaguer 'it' (= what they're looking for / the lab)."
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.3",
+   "note": "Leader block #0.3-#0.17, chain 1,5,4,3,2,15,14,13,12,11,6,7,8,9,10 = Rider 1 (Shocker line), OOO, W, Den-O (#0.6 Momotaros), RX, Zero (#0.8 'temee'), Mebius, Taro, Seven, Ultraman, Nu, Zeta, God Gundam, Wing Zero, 00. 'Kaizou ningen' rendered 'cyborg' (not in glossary)."
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.9",
+   "note": "Mebius's slot uses 'nanda, omae wa' (What are you), kept distinct from 'Who's there'."
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.19",
+   "note": "'Ikadevil hakase' = 'Dr. Ikadevil'."
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.23",
+   "note": "#0.23-25 unlabelled and off the traced path (the traced defeat line is #0.63 in story_097). Inferred Hiru-Chameleon throughout: #0.23 retreat order to his monsters (Kemjila/Lodora), #0.24 apology presumably to Ikadevil, #0.25 musing that Shocker can revive him, cut off by Bogal's cry. The implied 'is easy' in #0.25 rendered 'is a trifling...' before the interruption."
+  },
+  {
+   "key": "MainEventMess0563.mbb#0.26",
+   "note": "Bogal's monster cry (no prior roar established; Bogal elsewhere talks): 'Kweeeeeeh!!' used for both #0.26 and #0.28. Kemjila 'Kikiih!?' new."
+  }
+ ],
+ "report": "80/80 rows translated. Inferred speakers: 0560 #0.59 (Kazari), #0.60 (Ankh), 0563 #0.23-25 (Hiru-Chameleon); 0562 extractor labels off by one (#0.1 = Ankh, #0.2 starts leader block). New roars: Lion-Jellyfish Yummy, Bogal cry, Kemjila. Not in glossary: 'kaizou ningen' -> 'cyborg', 'boukun kaijuu' -> \"Tyrant Monster\"."
+}

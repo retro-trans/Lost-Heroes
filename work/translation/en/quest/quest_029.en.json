@@ -1,0 +1,382 @@
+{
+ "slice": "quest_029",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.206",
+   "en": "Obtained \"Kujaku Candroid\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.207",
+   "en": "Looks like this is the treasure Gaoh was hoarding. Perfect. We'll put it to good use."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.209",
+   "en": "Completed the quest \"The Evil Grand Bandit Gang Returns!\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.1",
+   "en": "The supposedly defeated Mezool and Gamel were sighted. Take OOO to SW Ultra Cube Layer 2."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.4",
+   "en": "If I remember right, the report said it was around here."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.6",
+   "en": "Oh my? Isn't that Ankh? And OOO, that little boy?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.7",
+   "en": "They came! Ankh and OOO, they came!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.9",
+   "en": "Gamel! Mezool!! So you really did come back!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.10",
+   "en": "What's going on!? We definitely beat them back then..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.11",
+   "en": "I'm the one who brought them back."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.13",
+   "en": "Uva...! What are you playing at!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.14",
+   "en": "After I lost the Regis Fight..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.15",
+   "en": "I secretly used Waste Yummies to make Cell Medals and built up my strength,"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.16",
+   "en": "then used the Core Medals I'd collected to revive Mezool and Gamel..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.17",
+   "en": "All so I could be sure of taking your Core Medals!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.21",
+   "en": "Now then, little OOO boy. I'll be taking those Medals back."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.22",
+   "en": "Medals make Mezool happy. I take Medals."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.23",
+   "en": "Tch. Pretty clever thinking, for Uva."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.24",
+   "en": "OOO!! Let's go!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.25",
+   "en": "Yeah, I know!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.28",
+   "en": "Ugh...!! No way... This can't be...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.29",
+   "en": "What's wrong, Uva? For all your big talk, that was over pretty fast, huh?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.30",
+   "en": "...I won't forget this."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.33",
+   "en": "Tch!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.34",
+   "en": "You sure about this, Ankh? Just letting him go like that?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.35",
+   "en": "Don't worry. He's got no power left."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.39",
+   "en": "Completed the quest \"Return of the Greeed\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.40",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.1",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.5",
+   "en": "Reports just came in of Nemos fighting each other in Begins Cube. Rush there and find the cause."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.14",
+   "en": "You can hear the sounds of a fierce battle!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.17",
+   "en": "Uoooooooooooooh!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.18",
+   "en": "Gwaaaaaaaaaaaargh!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.19",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.20",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.21",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.22",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.23",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.24",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.25",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.26",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.27",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.28",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.29",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.30",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.31",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.32",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.33",
+   "en": "What!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.35",
+   "en": "Stop it!! You're fighting your own comrade!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.36",
+   "en": "Stop it!! You two are on the same side!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.37",
+   "en": "Knock it off!! You guys are on the same side!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.38",
+   "en": "Stop it!! Knock off the infighting!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.39",
+   "en": "Stop this!! You're fighting your own comrade!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.40",
+   "en": "Please stop!! You're comrades, aren't you!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.41",
+   "en": "Hey! I said knock off the infighting, dammit!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.42",
+   "en": "Stop it!! Aren't you comrades!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.43",
+   "en": "Stop it!! Aren't you comrades!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.44",
+   "en": "Stop it!! You're supposed to be comrades!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.45",
+   "en": "Stop it!! You two are on the same side!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.46",
+   "en": "Stop this!! You two are on the same side!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.47",
+   "en": "Stop this!! You two are on the same side!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.48",
+   "en": "Stop this!! You two are on the same side!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.49",
+   "en": "Stop this!! You two are on the same side!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.50",
+   "en": "Huh!? Tch, guess I've got no choice...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.51",
+   "en": "Huh...! Wh-what happened to us?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.52",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.53",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.54",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.55",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.56",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.57",
+   "en": "Phew... You've finally come to your senses."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.58",
+   "en": "Whew~... Looks like you finally snapped out of it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.59",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.60",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.61",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.62",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.63",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.64",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.65",
+   "en": "...So you've finally come to your senses."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.66",
+   "en": "...So you've finally come to your senses."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.206",
+   "note": "Item name per ItemNameFormal 2.17 (Kujaku Candroid)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.207",
+   "note": "Ankh (CHARA_NAME 36, Quest024.bla +206; script maps TextIdOffset+N to row N+1, checked +186/+202 Ankh = 187/203). 'Yuukou ni tsukawasete morau' rendered with 'we' (the team)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST024_pk#0.209",
+   "note": "Quest title per QuestMess 0.25."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.1",
+   "note": "Quest-board description (not played by Quest025.bla); wording and 'Ultra Cube Layer 2' follow the shipped QuestMess 0.76, which adds 'ring room'. Southwest abbreviated SW to fit the box."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.4",
+   "note": "Quest025.bla maps TextIdOffset+N to row N+1 (checked against content and empty rows 2/3/5/8/12/18-20/26-27/31-32/36-38). Speakers: 4/9/13/23/24/29/33/35 Ankh (36); 10/25/34 OOO (5); 6/7/11 shown as '???' (CHARA 30) but voiced as Mezool/Gamel/Uva by content; 14-17/28/30 Uva (47); 21 Mezool (90); 22 Gamel (124)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.6",
+   "note": "Mezool's 'bouya' for OOO (Eiji) rendered 'little boy' (also in 21), keeping her motherly-condescending tone."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.22",
+   "note": "Gamel's childlike broken speech kept broken; 'morau' = Gamel taking the Medals, so 'I take Medals'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.24",
+   "note": "Ankh calls him 'OOO' here as in the source (not 'Eiji')."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.33",
+   "note": "Ankh (CHARA 36, +32) clicking his tongue after Uva flees."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST025_pk#0.39",
+   "note": "Quest title per QuestMess 0.26."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.1",
+   "note": "QuestEventMess001.mbb is byte-identical in Japanese to DG_QUEST001_pk (all 177 rows); every row here reuses the English of the same id from quest_001.en.json, including its speaker work (Quest001.bla Pt_Chara_Check order: Zeta, Nu, Zero, W (Shotaro), OOO, Mebius, Den-O Sword, 00, Wing Zero, Black RX, Rider 1, Ultraman, Seven, God Gundam, Taro)."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.5",
+   "note": "Says Nemo while the shipped QuestMess says GM II; kept as written (same as DG_QUEST001_pk 0.5)."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess001.mbb#0.50",
+   "note": "Unused row; voiced as Ankh as in quest_001 (uncertain there too)."
+  }
+ ],
+ "report": "80/80 rows examined. DG_QUEST024 tail and DG_QUEST025 speakers from Quest024/025.bla (row = TextIdOffset+N+1). QuestEventMess001.mbb rows are identical to DG_QUEST001_pk and reuse quest_001 English verbatim. Mezool's 'bouya' as 'little boy'. No new names."
+}

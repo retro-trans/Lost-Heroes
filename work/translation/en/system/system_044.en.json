@@ -1,0 +1,370 @@
+{
+ "slice": "system_044",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Common/CharacterName.mbb#1.326",
+   "en": "Mercurius"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.327",
+   "en": "Bee Woman"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.328",
+   "en": "Dada"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.329",
+   "en": "Dada"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.330",
+   "en": "Dada"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.331",
+   "en": "Swallowtail Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.332",
+   "en": "Negataros"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.333",
+   "en": "Armored Samurai Kaijin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.334",
+   "en": "Alien Kool"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.335",
+   "en": "Barabas"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.336",
+   "en": "Ace Killer"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.337",
+   "en": "Antlar"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.338",
+   "en": "Fake Ultraman"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.339",
+   "en": "Gundam Throne Eins"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.340",
+   "en": "Gundam Throne Drei"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.341",
+   "en": "Gundam Throne Zwei"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.342",
+   "en": "Hambrabi"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.343",
+   "en": "Eleking"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.344",
+   "en": "Stag Beetle Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.345",
+   "en": "Bound Doc"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.346",
+   "en": "Gaina Ninpo"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.347",
+   "en": "King Pandon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.348",
+   "en": "Black King"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.349",
+   "en": "Taboo Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.350",
+   "en": "Red King"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.351",
+   "en": "Hiru-Chameleon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.352",
+   "en": "Shocker Greeed"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.353",
+   "en": "Gamel"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.354",
+   "en": "Mezool"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.355",
+   "en": "Kazari"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.356",
+   "en": "Uva"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.357",
+   "en": "Asshimar"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.358",
+   "en": "Regnant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.359",
+   "en": "Gaplant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.360",
+   "en": "Arche Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.361",
+   "en": "Jark Midora"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.362",
+   "en": "Zamsha"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.363",
+   "en": "Susanowo"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.364",
+   "en": "Gundam Heaven's Sword"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.365",
+   "en": "Grand Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.366",
+   "en": "Master Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.367",
+   "en": "Gundam Head"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.368",
+   "en": "Dinosaur Greeed"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.369",
+   "en": "Ultraman Belial"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.370",
+   "en": "Reborns Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.371",
+   "en": "Shadow Moon"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.372",
+   "en": "Kamen Rider Gaoh"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.373",
+   "en": "Anomalocaris Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.374",
+   "en": "Galbaldy Beta"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.375",
+   "en": "Eledortus"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.376",
+   "en": "Mole Imagin"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.377",
+   "en": "Geara Doga (Cmdr)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.378",
+   "en": "Woo"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.379",
+   "en": "Swallowtail Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.380",
+   "en": "GN-X III"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.381",
+   "en": "Bemstar"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.382",
+   "en": "Kamebazooka"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.383",
+   "en": "Aries (Cmdr)"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.384",
+   "en": "Alien Kool"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.385",
+   "en": "Sweets Dopant"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.386",
+   "en": "Gabthley"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.387",
+   "en": "Bullton"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.388",
+   "en": "Bison Yummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.389",
+   "en": "Hobby Hi-Zack"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.390",
+   "en": "Jamila"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.1",
+   "en": "Dummy"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.2",
+   "en": "Imperizer"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.3",
+   "en": "Psycho Gundam"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.4",
+   "en": "Psycho Gundam Mk-II"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.5",
+   "en": "Alpha Azieru"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.6",
+   "en": "King Joe"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.7",
+   "en": "Agrissa"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.8",
+   "en": "Gigantes Heaven"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.9",
+   "en": "Gigantes Hell"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.10",
+   "en": "Super Crisis Fortress"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.11",
+   "en": "King Dark"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.12",
+   "en": "Bilgamo"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.13",
+   "en": "Fake Ultraseven"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.14",
+   "en": "Empuras"
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.15",
+   "en": "Gigantes Hades"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Common/CharacterName.mbb#1.326",
+   "note": "Romanized from Gundam Wing Mercurius; not in glossary."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.357",
+   "note": "Asshimar, Z Gundam; not in glossary."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.359",
+   "note": "Gaplant, Z Gundam; not in glossary."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.377",
+   "note": "Commander variant shortened to Cmdr for width."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#1.384",
+   "note": "Aries (Gundam Wing); not in glossary."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.2",
+   "note": "Imperizer: romanized; origin uncertain."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.7",
+   "note": "Agrissa: romanized; origin uncertain."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.8",
+   "note": "Romanized; origin uncertain; the quote mark in the source is dropped."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.12",
+   "note": "Bilgamo: romanized; origin uncertain."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#2.14",
+   "note": "Empuras: romanized; origin uncertain."
+  }
+ ],
+ "report": "Enemy-name table. Glossary names used verbatim. New terms not in glossary: Mercurius, Asshimar, Gaplant, Eledortus, Aries, Gabthley, Imperizer, Agrissa, Gigantes Heaven/Hell/Hades, Bilgamo, Empuras, Fake Ultraman, Fake Ultraseven, Swallowtail Yummy, Bison Yummy, Anomalocaris Dopant, Psycho Gundam, Alpha Azieru, King Joe, King Dark, Super Crisis Fortress, Zamsha."
+}

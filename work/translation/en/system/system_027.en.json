@@ -1,0 +1,338 @@
+{
+ "slice": "system_027",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.108",
+   "en": "{806E}'s Ranged ATK fell!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.109",
+   "en": "{806E}'s ATK fell!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.110",
+   "en": "{806E}'s Phys. DEF rose!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.111",
+   "en": "{806E}'s Ranged DEF rose!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.112",
+   "en": "{806E}'s DEF rose!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.113",
+   "en": "{806E}'s Phys. DEF fell!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.114",
+   "en": "{806E}'s Ranged DEF fell!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.115",
+   "en": "{806E}'s DEF fell!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.116",
+   "en": "{806E}'s Speed rose!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.117",
+   "en": "{806E}'s Speed fell!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.118",
+   "en": "{806E}'s Evasion rose!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.119",
+   "en": "{806E}'s Evasion fell!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.120",
+   "en": "{806E}'s Accuracy rose!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.121",
+   "en": "{806E}'s Accuracy fell!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.122",
+   "en": "{806E}'s Fire power rose!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.123",
+   "en": "{806E}'s Ice power rose!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.124",
+   "en": "{806E}'s Lightning power rose!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.125",
+   "en": "{806E}'s Wind power rose!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.126",
+   "en": "{806E}'s Light power rose!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.127",
+   "en": "{806E} resists Fire now!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.128",
+   "en": "{806E} resists Ice now!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.129",
+   "en": "{806E} resists Lightning now!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.130",
+   "en": "{806E} resists Wind now!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.131",
+   "en": "{806E} resists Light now!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.132",
+   "en": "{806E} is weak to Fire now!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.133",
+   "en": "{806E} is weak to Ice now!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.134",
+   "en": "{806E} is weak to Lightning now!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.135",
+   "en": "{806E} is weak to Wind now!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.136",
+   "en": "{806E} is weak to Light now!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.137",
+   "en": "{806E} is more likely to be targeted!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.138",
+   "en": "{806E} is less likely to be targeted!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.139",
+   "en": "{806E}'s stats rose!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.140",
+   "en": "{806E}'s stats rose greatly!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.141",
+   "en": "A barrier that reflects Physical attacks surrounds {806E}!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.142",
+   "en": "A barrier that reflects Ranged attacks surrounds {806E}!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.143",
+   "en": "A barrier against all attacks surrounds {806E}!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.144",
+   "en": "Took aim at {806E}!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.145",
+   "en": "Parts are harder to break now!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.146",
+   "en": "{806E} acts twice in a row, for the next two turns only!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.147",
+   "en": "{806D} couldn't use the skill well!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.154",
+   "en": "Repairing the damaged main cannon."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.155",
+   "en": "Repairing the damaged gun turret."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.156",
+   "en": "Repairing the damaged shield."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.157",
+   "en": "Repairing the damaged support system."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.158",
+   "en": "Repairing the damaged capacitor (EN)."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.159",
+   "en": "{806D} is covered in acid!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.160",
+   "en": "{8074} was defeated..."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.161",
+   "en": "{806D}'s ATK returned to normal!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.162",
+   "en": "{806D}'s DEF returned to normal!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.163",
+   "en": "{806D}'s Speed returned to normal!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.164",
+   "en": "{806D}'s Evasion returned to normal!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.165",
+   "en": "{806D}'s Accuracy against it returned to normal!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.166",
+   "en": "{806D}'s elemental power returned to normal!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.167",
+   "en": "{806D}'s elemental resistance returned to normal!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.168",
+   "en": "{806D}'s targeting rate returned to normal!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.169",
+   "en": "{806D}'s Trans-Am has worn off!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.170",
+   "en": "{806D}'s Zero System has worn off!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.171",
+   "en": "{806D}'s reflect effect has worn off!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.172",
+   "en": "{806D}'s attack nullify effect has worn off!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.173",
+   "en": "{806D} is no longer acting twice!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.174",
+   "en": "{806D} recovered from flinching!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.175",
+   "en": "{806D}'s targeting rate returned to normal!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.176",
+   "en": "The reinforced bulkhead has worn off!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.177",
+   "en": "{806D} came to their senses!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.178",
+   "en": "The Psycho Field has worn off!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.179",
+   "en": "King of Hearts has worn off!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.180",
+   "en": "{806D}'s Accuracy returned to normal!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.181",
+   "en": "{8072} can't be used now!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.191",
+   "en": "{806E} nullified the Physical attack!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.192",
+   "en": "{806E} nullified the Ranged attack!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.193",
+   "en": "{806E} nullified the Slash attack!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.194",
+   "en": "{806E} reflected the Physical attack!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.195",
+   "en": "{806E} reflected the Ranged attack!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.196",
+   "en": "{806E} reflected the Slash attack!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.197",
+   "en": "{806D} blocked the attack on an ally!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.198",
+   "en": "{806D} backed up the attack!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.199",
+   "en": "{806D} was left near death!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.200",
+   "en": "{806D} acted twice in a row!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.201",
+   "en": "{806D} took the hit for {806E} and took {806F} damage!"
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.202",
+   "en": "{806D}'s crest began to glow!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.165",
+   "note": "Source says accuracy 'against' the tag; kept as 'Accuracy against it' -- unclear referent, may be shortened."
+  },
+  {
+   "key": "Table/Battle/BattleMess.mbb#0.159",
+   "note": "'Acid' is an enemy/stage effect; kept subject-less cause as 'covered in acid'."
+  }
+ ],
+ "report": "All 80 rows translated. Terms: Ranged = indirect attack; Phys. = physical; Trans-Am, Zero System, Psycho Field, King of Hearts not all in glossary except King of Hearts."
+}

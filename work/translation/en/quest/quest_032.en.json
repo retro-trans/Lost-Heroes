@@ -1,0 +1,329 @@
+{
+ "slice": "quest_032",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.28",
+   "en": "It's riled up!! Then there's no other choice!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.29",
+   "en": "It's riled up!! Then there's no other choice!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.30",
+   "en": "It's riled up!! Then there's no other choice!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.31",
+   "en": "So it's riled up!! It can't be helped!! Let's go!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.32",
+   "en": "It's riled up!! Guess we got no choice!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.36",
+   "en": "Woo! This is not the place where you belong."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.37",
+   "en": "Woo! This is not the place where you belong."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.38",
+   "en": "Woo! This is not the place where you belong."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.39",
+   "en": "Woo! This isn't where you belong!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.40",
+   "en": "Woo! This ain't where you belong!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.41",
+   "en": "Grrrgh..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.42",
+   "en": "At those words, Woo nodded quietly and vanished like a phantom."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.43",
+   "en": "...Woo is said to embody a mother guarding her child. If so, its fury is the flip side of maternal love."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.44",
+   "en": "...Hm? Something's lying here."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.45",
+   "en": "...Woo is said to embody a mother guarding her child. If so, its fury is the flip side of maternal love."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.46",
+   "en": "...Hm? Something's lying here."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.47",
+   "en": "...Woo is said to embody a mother guarding her child. If so, its fury is the flip side of maternal love."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.48",
+   "en": "...Hm? Something's lying here."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.49",
+   "en": "...Woo is said to embody a mother shielding her child, so its fury must be maternal love's flip side."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.50",
+   "en": "...Hm? Something's lying here."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.51",
+   "en": "...They say that thing's a mom guarding her kid. So all that rage is just mother's love flipped, see?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.52",
+   "en": "...Hm? Something's lyin' around here."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.53",
+   "en": "Obtained \"Silver Whisker\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.55",
+   "en": "Completed the quest \"The Phantom Kaiju\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.56",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.0",
+   "en": "{F000}"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.1",
+   "en": "Maganac has a request. Hear the details in person at the designated spot. You're asked to come alone."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.5",
+   "en": "Thank you for coming!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.6",
+   "en": "The truth is, a certain weapon got sucked into Antlar's nest."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.7",
+   "en": "Thanks to you all defeating Antlar, the magnetic ray has vanished, but the nest was buried as well."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.8",
+   "en": "So I'd like you to search where the nest used to be and dig up that weapon."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.9",
+   "en": "I'm counting on you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.10",
+   "en": "If you called for me... don't tell me this has something to do with me?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.11",
+   "en": "That's right. The thing is, that weapon is the \"Hyper Mega Launcher.\""
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.12",
+   "en": "What!! You mean it was here in this world!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.13",
+   "en": "Yeah. We'd found it in this area and were in the middle of bringing it back."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.14",
+   "en": "Of course, if you find it, you're free to use it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.15",
+   "en": "So that's how it is... Of course I'll take the job!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.16",
+   "en": "Great. Well then, I'm counting on you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.20",
+   "en": "So you're the one who'll hear out my request."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.21",
+   "en": "The thing is, the other day I accidentally let a certain weapon get sucked into Antlar's nest."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.22",
+   "en": "Thanks to you all beating Antlar, the magnetic ray is gone, but the nest got buried too."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.23",
+   "en": "I want you to search where the nest was and dig that weapon up."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.24",
+   "en": "I'm counting on you."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.26",
+   "en": "Have you come to hear my request?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.27",
+   "en": "But I believe I asked you to bring Zeta Gundam along..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.33",
+   "en": "Hyahhahhahhah!! It's around here, right!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.34",
+   "en": "There's a nice weapon buried here, y'know?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.35",
+   "en": "Hm...? What's with you guys?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.36",
+   "en": "...You mole bastards!! That's our weapon buried there!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.37",
+   "en": "That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.38",
+   "en": "That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.39",
+   "en": "Move. That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.40",
+   "en": "That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.41",
+   "en": "Step aside. That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.42",
+   "en": "Outta the way! That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.43",
+   "en": "Get out of the way! That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.44",
+   "en": "Step aside. That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.45",
+   "en": "Step aside. That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.46",
+   "en": "Step aside. That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.47",
+   "en": "Could you move aside? That's our weapon buried down there."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.48",
+   "en": "Move it, would ya? That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.49",
+   "en": "Step aside. That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.50",
+   "en": "Step aside. That's our weapon buried there."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.51",
+   "en": "We sniffed this place out first, y'know?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.52",
+   "en": "If you get in our way, we'll take you out, 'kay!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.55",
+   "en": "Obtained \"Hyper Mega Launcher\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.56",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.57",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.58",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.59",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.60",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.61",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.62",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.63",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.64",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.65",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.66",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.67",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.68",
+   "en": "This is...!!"
+  }
+ ],
+ "notes": [],
+ "report": "filled from the DG_QUEST twin rows / translation memory"
+}

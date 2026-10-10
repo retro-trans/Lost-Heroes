@@ -1,0 +1,60 @@
+{
+ "tpc": "Graph/Adv/eff/999/ADV_EFF.tpc",
+ "page": "OP_moji01_4444.tga",
+ "note": "Opening narration, part 1.",
+ "defaults": {
+  "color": [
+   255,
+   255,
+   255
+  ],
+  "glow": [
+   60,
+   110,
+   255
+  ],
+  "glow_radius": 2,
+  "weight": 0.5,
+  "align": "left",
+  "condense": 0.9
+ },
+ "clear": [],
+ "boxes": [
+  {
+   "x": 0,
+   "y": 0,
+   "w": 290,
+   "h": 32,
+   "text": "Suddenly lost in a mysterious world"
+  },
+  {
+   "x": 0,
+   "y": 31,
+   "w": 240,
+   "h": 30,
+   "text": "Three, led together as if by fate."
+  },
+  {
+   "x": 238,
+   "y": 30,
+   "w": 212,
+   "h": 32,
+   "text": "Their powers were gone."
+  },
+  {
+   "x": 0,
+   "y": 61,
+   "w": 358,
+   "h": 32,
+   "text": "Heroes whose paths should never have crossed."
+  },
+  {
+   "x": 0,
+   "y": 91,
+   "w": 300,
+   "h": 32,
+   "text": "Is there a reason they were gathered?"
+  }
+ ],
+ "exact": true
+}

@@ -1,0 +1,346 @@
+{
+ "slice": "system_088",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Skill/SkillName.mbb#3.33",
+   "en": "Flamethrower"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.34",
+   "en": "Iron Ball"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.35",
+   "en": "Weapon"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.36",
+   "en": "Whip"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.37",
+   "en": "Dissolving Fluid"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.38",
+   "en": "Cream"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.39",
+   "en": "Phosphor Dust"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.40",
+   "en": "Fierce Roar"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.41",
+   "en": "Weather Mine"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.42",
+   "en": "Absolute Zero Chill"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.43",
+   "en": "Tornado"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.44",
+   "en": "Lightning"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.45",
+   "en": "Heat Wave"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.46",
+   "en": "Dense Fog"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.47",
+   "en": "Roundhouse Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.48",
+   "en": "Front Kick"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.49",
+   "en": "Intimidate"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.50",
+   "en": "Nega Den-Gasher"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.51",
+   "en": "Nega Stream Slash"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.52",
+   "en": "Nega Solid Attack"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.53",
+   "en": "Nega Dynamic Chop"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.54",
+   "en": "Nega Wild Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.55",
+   "en": "Scorching Fireball"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.56",
+   "en": "Big Horn"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.57",
+   "en": "Cane"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.58",
+   "en": "Ice Arrow"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.59",
+   "en": "Fingertip Scalpel"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.60",
+   "en": "Quick Step"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.61",
+   "en": "Freeze Shot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.62",
+   "en": "Beam Rifle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.63",
+   "en": "Beam Saber"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.64",
+   "en": "Funnel"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.65",
+   "en": "Shield"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.66",
+   "en": "Sea Serpent"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.67",
+   "en": "Spider Web"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.68",
+   "en": "Fuma Gale"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.69",
+   "en": "Tentacle"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.70",
+   "en": "Attack With Mouth"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.71",
+   "en": "Bewilder"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.72",
+   "en": "Tail"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.73",
+   "en": "Psychokinesis"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.74",
+   "en": "Huge Water Jet"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.75",
+   "en": "Giant Tail"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.76",
+   "en": "Chill"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.77",
+   "en": "Toxic Gas"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.78",
+   "en": "Destruction Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.80",
+   "en": "Rocket Shell"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.81",
+   "en": "Sulfuric Tornado"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.83",
+   "en": "Verokron Missile"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.84",
+   "en": "Strong Acid"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.85",
+   "en": "Terrible Handling"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.86",
+   "en": "Capture Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.87",
+   "en": "Giant Jaw"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.88",
+   "en": "Dust Cloud"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.89",
+   "en": "Teleport"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.90",
+   "en": "Strange Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.91",
+   "en": "Attack With Abdomen"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.92",
+   "en": "Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.93",
+   "en": "Vines"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.94",
+   "en": "Giant Pincers"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.95",
+   "en": "Dissolving Foam"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.96",
+   "en": "Big Arm"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.97",
+   "en": "Megaton Tail"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.98",
+   "en": "Rock"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.99",
+   "en": "Hook Claws"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.100",
+   "en": "Specium Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.101",
+   "en": "Emerium Ray"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.102",
+   "en": "Dimensional Gate"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.103",
+   "en": "Twist Space"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.104",
+   "en": "Yapool Claw"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.105",
+   "en": "Energy Vulcan"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.106",
+   "en": "Strange Sonic Wave"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.107",
+   "en": "Clone"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.108",
+   "en": "Mebium Shoot"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.109",
+   "en": "Killer Blade"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.110",
+   "en": "Mebium Burst"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.111",
+   "en": "Spike Missile"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.112",
+   "en": "Dissolving Mist"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.113",
+   "en": "Tongue"
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.114",
+   "en": "Ultra Punch"
+  }
+ ],
+ "notes": [
+  {
+   "key": "Table/Skill/SkillName.mbb#3.70",
+   "note": "Name looks truncated in the source (attack ... mouth); rendered literally."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.91",
+   "note": "Name looks truncated in the source (attack ... abdomen); rendered literally."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.103",
+   "note": "Truncated phrase about twisting space; rendered as Twist Space."
+  },
+  {
+   "key": "Table/Skill/SkillName.mbb#3.51",
+   "note": "Nega Stream Slash: Nega Den-O Rod Form move, name by analogy with other Den-O forms."
+  }
+ ],
+ "report": "80/80 translated. Uncertain: truncated names 3.70, 3.91, 3.103; Nega Stream Slash; Terrible Handling; Fuma Gale. New terms: Nega Den-Gasher, Nega Stream Slash, Mebium Burst, Killer Blade, Yapool Claw, Fuma Gale, Terrible Handling."
+}

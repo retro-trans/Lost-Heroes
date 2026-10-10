@@ -1,0 +1,434 @@
+{
+ "slice": "quest_010",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.127",
+   "en": "So this is the friend we came for?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.128",
+   "en": "Yes. Pigmon is a friendly kaiju."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.135",
+   "en": "Hmph, really? A kaiju like this?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.136",
+   "en": "Auuh! Aauh!! Auuh!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.137",
+   "en": "It's saying, \"Don't judge by appearances. You're the suspicious-looking one.\""
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.138",
+   "en": "Hah!?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.139",
+   "en": "If we're done here, let's hurry back."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.141",
+   "en": "The heroes took Pigmon back with them to the Celestial Being camp."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.142",
+   "en": "The heroes took the friend they rescued back with them to the Celestial Being camp."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.143",
+   "en": "Thank you for rescuing Pigmon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.144",
+   "en": "Pigmon has been very cooperative with us, gathering valuable information for us all along."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.145",
+   "en": "I see."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.146",
+   "en": "I'll be fine on my own from here-pi."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.147",
+   "en": "...Hm? I see. All right."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.148",
+   "en": "Pigmon says it's going out on patrol."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.149",
+   "en": "Pigmon always heads out alone, and every time, it comes back with some kind of information for us."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.150",
+   "en": "Time for me to get going-pi!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.151",
+   "en": "Right, take care!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.152",
+   "en": "Pigmon toddled off and disappeared somewhere."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.153",
+   "en": "Thank you so very much. If anything comes up again, we'll be counting on you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.154",
+   "en": "Yeah. Here's hoping Pigmon doesn't get caught by the enemy again."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.156",
+   "en": "Completed the quest \"Antlar Strikes Again\"."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.1",
+   "en": "Pigmon is trying to pass on some important information."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.6",
+   "en": "Everyone! I've been waiting for you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.7",
+   "en": "Au-au!! Au-au!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.8",
+   "en": "I can't make heads or tails of what it's saying..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.9",
+   "en": "It seems Pigmon has gotten hold of new information."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.10",
+   "en": "So what's Pigmon saying?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.11",
+   "en": "Just a moment, please."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.12",
+   "en": "Hikari entrusted me with a \"Pan-Space Interpreter.\""
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.13",
+   "en": "And what's that?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.14",
+   "en": "A translator for every language in space. He said that with it, we should understand Pigmon."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.15",
+   "en": "Pigmon, could you tell us everything again from the beginning?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.16",
+   "en": "..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.17",
+   "en": "Pigmon understood Maganac's request and began to speak."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.18",
+   "en": "Alien Baltan is getting ready to wipe out the Ultra Warriors-pi!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.19",
+   "en": "What!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.20",
+   "en": "Alien Baltan is a scary enemy with a grudge against the Ultra Warriors-pi!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.21",
+   "en": "So where is Alien Baltan now?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.22",
+   "en": "North of the quarry in Hideout Cube-pi."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.23",
+   "en": "That's where the Ultra Warriors were crucified, isn't it?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.24",
+   "en": "IF YOU GO, TAKE ULTRA WARRIORS. OTHERWISE, THEY WILL NOT APPEAR."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.25",
+   "en": "Understood. Pigmon, thank you."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.26",
+   "en": "Then please head north of the quarry, as Pigmon's information says."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.27",
+   "en": "Ultraman must be in the party to progress this quest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.29",
+   "en": "Please bring the Ultra Warriors with you. This request concerns them."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.33",
+   "en": "Fo, fo, fo, fo, fo..."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.34",
+   "en": "There you are!! Alien Baltan!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.35",
+   "en": "There you are!! Alien Baltan!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.36",
+   "en": "There you are!! Alien Baltan!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.37",
+   "en": "There you are!! Alien Baltan!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.38",
+   "en": "There you are!! Alien Baltan!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.39",
+   "en": "...So this is Alien Baltan."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.41",
+   "en": "Ultraman, so you've come to me of your own accord."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.42",
+   "en": "You've saved me the trouble."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.43",
+   "en": "Ultraman, thanks to you and your kind, many of my brethren have been turned to space dust."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.45",
+   "en": "Protecting peaceful planets from invasion is our mission!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.46",
+   "en": "You who scheme to invade Earth have no right to say that!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.47",
+   "en": "Protecting Earth from invaders is our mission!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.48",
+   "en": "That was to protect the Earth!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.49",
+   "en": "Who are invaders like you lot to talk!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.50",
+   "en": "Silence!! Now, at last, I'll have my revenge!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.52",
+   "en": "Curse you...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.53",
+   "en": "...But this is not over. Ultraman... prepare yourself...!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.55",
+   "en": "...Alien Baltan. He'll surely show up again."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.56",
+   "en": "...Alien Baltan. He'll surely show up again."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.57",
+   "en": "...Alien Baltan. He'll surely show up again."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.58",
+   "en": "...Alien Baltan. Is he going to appear before us again?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.59",
+   "en": "You plan to challenge us again? Fine! Bring it on!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.64",
+   "en": "Just then, Pigmon appeared."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.65",
+   "en": "Au-au-au!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.66",
+   "en": "Pigmon!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.67",
+   "en": "Pigmon!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.68",
+   "en": "Pigmon!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.69",
+   "en": "Pigmon!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.70",
+   "en": "Pigmon!!"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.71",
+   "en": "YOU ALL. WHAT HAPPENED WITH ALIEN BALTAN?"
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.72",
+   "en": "Relax, Pigmon. We defeated Alien Baltan."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.73",
+   "en": "Relax, Pigmon. We defeated Alien Baltan."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.74",
+   "en": "Hikari...!! So that's how it is."
+  }
+ ],
+ "notes": [
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.127",
+   "note": "Quest009.bla maps TextIdOffset+N to row N (as quest_009 found). Row 127 is the last of the unreferenced 10-row non-Ultra leader block 118-127 (slot 14 = OOO); same English as 118-126."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.128",
+   "note": "Rows 128 and 135-138 are not referenced by Quest009.bla (the no-Ultra branch goes +114, +116, +139). Leftovers of a version where Pigmon could not talk: 128 polite reply (speaker unknown), 135/138 rude doubter (Ankh-like), 136 Pigmon's cry, 137 someone interpreting Pigmon's cry (polite; 'it' for Pigmon, g=n)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.139",
+   "note": "Ankh (CHARA_NAME 36, +139), both branches."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.141",
+   "note": "Narration. +141 plays when the leader is an Ultra (they recognised Pigmon), +142 otherwise ('the friend they rescued'). 'Friend' matches quest_009's rendering of the ally."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.143",
+   "note": "Played at camp: Maganac 143/144/149/151, Pigmon 146/150, narration 152. 151 is under Maganac's name box in the script, so his casual send-off is to Pigmon. Unreferenced: 145 (short ack, speaker unknown), 147-148 (someone, likely Maganac, relaying Pigmon's words), 153 (Maganac-style polite thanks), 154 (rough party voice)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.153",
+   "note": "Unreferenced. Direction of yoroshiku: Maganac asking the heroes to help again, so 'we'll be counting on you'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.156",
+   "note": "OkWin +156. Title from QuestMess 0.10 'Antlar Strikes Again'; format as quest_007."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.1",
+   "note": "Quest description row (no speaker). Quest title in QuestMess 0.11 is 'A Strange Visitor'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.6",
+   "note": "Quest010.bla maps TextIdOffset+N to row N+1 (rows 2-5 empty). Verified: Maganac +5/+8/+18/+20/+24/+25 = rows 6/9/19/21/25/26, Pigmon (CHARA_NAME 267) +17/+19/+21 = rows 18/20/22, OkWin +26 = row 27, Baltan (266) +32/+40-42/+49/+51/+52 = rows 33/41-43/50/52/53, Ankh +38 = row 39 and +95/+97 = rows 96/98, Ultraman (11) +44/+54 = rows 45/55. No party-leader branches in this script."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.7",
+   "note": "Rows 7-8 and 10-17 are unreferenced: an earlier version of the scene in which Maganac uses Hikari's universal translator. Speakers inferred: 7/16 Pigmon, 8/10 party members, 11/12/14/15 Maganac (polite), 13 curt voice (Ankh-like), 17 narration. In the played version Maganac's 'I've been waiting' (6) leads straight to 'Pigmon has new info' (9) and Pigmon speaks directly."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.12",
+   "note": "The source sets the device name in double corner brackets; rendered as a quoted item name 'Pan-Space Interpreter' (Ultra series device). Not in the glossary."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.14",
+   "note": "Maganac quoting Hikari ('dato' = so he said); Hikari g=m."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.18",
+   "note": "Pigmon's sentence-final 'ppi' as a '-pi' suffix, as in quest_009."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.19",
+   "note": "Played under Maganac's name box (+18) even though it reads like a party reaction; kept neutral so it works for him."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.22",
+   "note": "Brackets around the Cube name dropped for a place name; 'Hideout Cube' per glossary and QuestMess."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.23",
+   "note": "Rows 23-24 unreferenced. 23 Maganac (polite); 'crucified' as in the story (MainEventMess0317 etc.)."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.24",
+   "note": "Katakana-with-kanji speech (rows 24, 71 and, in the next slice, 78/85-87): Pigmon speaking through the Pan-Space Interpreter, a stiff machine-translated voice. Rendered in all caps, no contractions, to mark it. Unreferenced by the script. 'They' = Alien Baltan's side."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.27",
+   "note": "OkWin +26 (system). Format as quest_007."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.29",
+   "note": "Unreferenced; Maganac (polite). 'Them' = the Ultra Warriors."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.33",
+   "note": "Alien Baltan's laugh, glossary 'Fofofofo'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.34",
+   "note": "Rows 34-38 unreferenced 5-row block (one per Ultra leader: Ultraman, Seven, Taro, Mebius, Zero, the order used in Quest009); identical Japanese, identical English. The played event uses Ankh's row 39 instead."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.43",
+   "note": "'Kisama-tachi' = Ultraman and his fellow Ultras: 'you and your kind'."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.45",
+   "note": "Ultraman (CHARA_NAME 11, +44). Rows 46-49 are an unreferenced reply block in the same Ultra order: 46 Seven, 47 Taro, 48 Mebius, 49 Zero (rough 'omaera')."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.55",
+   "note": "Ultraman (+54). Rows 56-59 unreferenced, same Ultra order: 56 Seven, 57 Taro, 58 Mebius ('boku-tachi'), 59 Zero. Baltan g=m."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.64",
+   "note": "Rows 64-87 and 89 are all unreferenced: a cut ending in which Pigmon returns wearing Hikari's interpreter. 64 narration, 65 Pigmon's cry, 66-70 one 'Pigmon!!' per Ultra leader, 71 Pigmon via interpreter (caps), 72-77 leader reactions."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST010_pk#0.74",
+   "note": "Unreferenced; speaker unknown (an Ultra realising Hikari's interpreter is why Pigmon can talk). The 72-77 run (A A H A H A) does not split into five clean leader slots; each row translated on its own, identical Japanese kept identical."
+  }
+ ],
+ "report": "80/80 rows. Quest009.bla: +N = row N; Quest010.bla: +N = row N+1 (rows 2-5 empty). Played: Ankh 139/39, Maganac 143/144/149/151 and 6/9/19/21/25/26, Pigmon 146/150 and 18/20/22, Baltan 33/41-43/50/52/53, Ultraman 45/55. Unreferenced (speakers inferred): 009 rows 127-128, 135-138, 145, 147-148, 153-154; 010 rows 7-8, 10-17, 23-24, 29, 34-38, 46-49, 56-59, 64-74 (a cut interpreter version of the scene). Style: Pigmon '-pi' suffix as quest_009; interpreter katakana speech in ALL CAPS. New term not in glossary: 'Pan-Space Interpreter'."
+}

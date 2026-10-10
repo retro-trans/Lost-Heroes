@@ -1,0 +1,329 @@
+{
+ "slice": "quest_033",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.69",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.70",
+   "en": "This is...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.71",
+   "en": "Hey... I got worried and came to check after all. Whoa!! You found it!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.72",
+   "en": "Yeah. I'll be using it, just like we agreed."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.73",
+   "en": "Of course!! I'll report it that way, then. Thank you!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.74",
+   "en": "This is the \"Hyper Mega Launcher,\" isn't it!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.75",
+   "en": "Yeah. You sure know your stuff... Oh, was it originally yours, by any chance?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.76",
+   "en": "Yes, it is."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.77",
+   "en": "I see. Then it's better off with you. Go ahead and use it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.78",
+   "en": "Obtained \"Hyper Mega Launcher\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.79",
+   "en": "Well, I'll report it that way. Thanks!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.84",
+   "en": "This is the \"Hyper Mega Launcher.\""
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.85",
+   "en": "If I remember right, this is... the \"Hyper Mega Launcher.\""
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.86",
+   "en": "If I remember right, this is... the \"Hyper Mega Launcher.\""
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.87",
+   "en": "If I remember right, this is... the \"Hyper Mega Launcher.\""
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.88",
+   "en": "Hey, I think Zeta was goin' on about this... The \"Hyper Mega Launcher,\" was it?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.89",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.90",
+   "en": "If I'm not mistaken, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.91",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.92",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.93",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.94",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.95",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about, huh..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.96",
+   "en": "If I remember right, this is the \"Hyper Mega Launcher\" Zeta told us about..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.98",
+   "en": "Yeah. You sure know your stuff... Oh, did it originally belong to one of your comrades?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.99",
+   "en": "Yeah, it's Zeta Gundam's weapon."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.100",
+   "en": "Yeah, it's Zeta Gundam's weapon."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.101",
+   "en": "Yeah, it's Zeta Gundam's weapon."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.102",
+   "en": "Yeah, it's Zeta Gundam's weapon."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.103",
+   "en": "Yeah, that's gotta be the thing Zeta Gundam was lookin' for."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.104",
+   "en": "Yeah, that's gotta be the thing Zeta Gundam was lookin' for."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.105",
+   "en": "Yes. I think it's the weapon Zeta was looking for."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.106",
+   "en": "Yes, it's most likely the weapon Zeta Gundam was looking for."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.107",
+   "en": "Yes, it's most likely the weapon Zeta Gundam was looking for."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.108",
+   "en": "Yes, it's most likely the weapon Zeta Gundam was looking for."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.109",
+   "en": "Yeah, it's probably the weapon Zeta Gundam was looking for."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.110",
+   "en": "Yeah, that must be the weapon Zeta Gundam was looking for."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.111",
+   "en": "Yes, it's most likely the weapon Zeta Gundam was looking for."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.113",
+   "en": "I see. Then I'll leave it with you all. Put it to good use in the battles ahead."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.114",
+   "en": "Obtained \"Hyper Mega Launcher\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.115",
+   "en": "Well, I'll report it that way. Thanks!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.117",
+   "en": "What are you doing? You're going to look for the weapon without Zeta Gundam?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.118",
+   "en": "Zeta Gundam must be in the party to progress this quest."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.120",
+   "en": "Completed the quest \"Maganac's Request\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess005.mbb#0.1",
+   "en": "Word is an MS hunting Zeta Gundam has appeared in Desert Cube's Wasteland Zone. Investigate."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess005.mbb#0.8",
+   "en": "If it's that MS you're after... it should still be deep in the area up ahead."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess005.mbb#0.14",
+   "en": "There's something here!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess005.mbb#0.19",
+   "en": "Well, well!! Found ya!! Zeta Gundam!! And you came strollin' right up to me on your own!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess005.mbb#0.20",
+   "en": "So you're the one who's been looking for me!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess005.mbb#0.21",
+   "en": "Thanks to you, I got run out of Regis Core and stuck in a dump like this, miserable and filthy!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess005.mbb#0.22",
+   "en": "If I bring you back as a gift, my name's cleared!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess005.mbb#0.23",
+   "en": "All right, you lot! Seize Zeta Gundam!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess005.mbb#0.24",
+   "en": "Fufufufu..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess005.mbb#0.25",
+   "en": "Hyahhaaa!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess005.mbb#0.26",
+   "en": "You've even got underlings like these...!! I won't let you do as you please!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess005.mbb#0.27",
+   "en": "This time it ain't gonna go like before!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess005.mbb#0.29",
+   "en": "Dammit!! Retreat!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess005.mbb#0.30",
+   "en": "Obtained Spider Silk."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess005.mbb#0.31",
+   "en": "Completed the quest \"The Mysterious Mobile Suit\"."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess005.mbb#0.32",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess005.mbb#0.34",
+   "en": "What!? You lot... Zeta Gundam ain't with you!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.0",
+   "en": "7"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.1",
+   "en": "Possible Psycommu weapon found in Desert Cube's Military Base. Check it with Nu & Zeta Gundam."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.7",
+   "en": "There was nothing inside."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.8",
+   "en": "...There's nothing in it."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.9",
+   "en": "This is the right place, though."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.10",
+   "en": "...Hm!? What is this feeling!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.11",
+   "en": "I felt it too..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.12",
+   "en": "Let's go and see..."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.13",
+   "en": "Right."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.16",
+   "en": "Nu Gundam and Zeta Gundam must be in the party to progress this quest."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.23",
+   "en": "This way."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.26",
+   "en": "It's not this way."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.29",
+   "en": "It's up ahead."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.30",
+   "en": "It's getting stronger, isn't it?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.35",
+   "en": "It's in here...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.36",
+   "en": "I'm opening it...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.39",
+   "en": "Ngh... Funnels!?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.40",
+   "en": "Where are they...!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.43",
+   "en": "How did you know about this place!? You're Newtypes, aren't you!?"
+  }
+ ],
+ "notes": [],
+ "report": "filled from the DG_QUEST twin rows / translation memory"
+}

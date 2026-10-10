@@ -1,0 +1,124 @@
+{
+ "tpc": "Graph/Minigame/Poker/mg_Poker_tex.tpc",
+ "page": "UI_Poker_4444.tga",
+ "note": "Poker payout table, START, YES/NO (boxes = sprite rects from UI_Poker.gtx). Uppercase to match HIGH/LOW, HOLD, CHANGE. The coin counter 枚 is blanked (no English fits 10x10 legibly; the number reads on its own).",
+ "defaults": {
+  "size": 10,
+  "bold": false,
+  "color": [
+   255,
+   255,
+   255
+  ]
+ },
+ "boxes": [
+  {
+   "x": 0,
+   "y": 13,
+   "w": 55,
+   "h": 14,
+   "text": "START",
+   "size": 12,
+   "align": "center",
+   "bold": true
+  },
+  {
+   "x": 59,
+   "y": 75,
+   "w": 108,
+   "h": 11,
+   "text": "Royal Flush"
+  },
+  {
+   "x": 59,
+   "y": 87,
+   "w": 102,
+   "h": 10,
+   "text": "Straight Flush"
+  },
+  {
+   "x": 59,
+   "y": 97,
+   "w": 76,
+   "h": 11,
+   "text": "Five of a Kind"
+  },
+  {
+   "x": 59,
+   "y": 109,
+   "w": 64,
+   "h": 10,
+   "text": "Four of a Kind"
+  },
+  {
+   "x": 59,
+   "y": 119,
+   "w": 52,
+   "h": 11,
+   "text": "Full House"
+  },
+  {
+   "x": 60,
+   "y": 131,
+   "w": 49,
+   "h": 10,
+   "text": "Flush"
+  },
+  {
+   "x": 59,
+   "y": 141,
+   "w": 51,
+   "h": 10,
+   "text": "Straight"
+  },
+  {
+   "x": 59,
+   "y": 152,
+   "w": 63,
+   "h": 11,
+   "text": "Three of a Kind"
+  },
+  {
+   "x": 59,
+   "y": 163,
+   "w": 41,
+   "h": 10,
+   "text": "Two Pair"
+  },
+  {
+   "x": 61,
+   "y": 192,
+   "w": 28,
+   "h": 13,
+   "text": "YES",
+   "size": 12,
+   "align": "center",
+   "bold": false
+  },
+  {
+   "x": 91,
+   "y": 193,
+   "w": 41,
+   "h": 13,
+   "text": "NO",
+   "size": 12,
+   "align": "center",
+   "bold": false
+  },
+  {
+   "x": 3,
+   "y": 241,
+   "w": 10,
+   "h": 10,
+   "text": ""
+  }
+ ],
+ "clear": [
+  [
+   2,
+   240,
+   12,
+   12
+  ]
+ ]
+}

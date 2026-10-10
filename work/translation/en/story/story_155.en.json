@@ -1,0 +1,374 @@
+{
+ "slice": "story_155",
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "key": "MainEventMess0718.mbb#0.8",
+   "en": "It's more concentrated than anything we've seen so far..."
+  },
+  {
+   "key": "MainEventMess0718.mbb#0.9",
+   "en": "It's more concentrated than anything we've seen so far..."
+  },
+  {
+   "key": "MainEventMess0718.mbb#0.10",
+   "en": "It's more concentrated than anything we've seen so far..."
+  },
+  {
+   "key": "MainEventMess0718.mbb#0.11",
+   "en": "It's more concentrated than anything we've seen so far..."
+  },
+  {
+   "key": "MainEventMess0718.mbb#0.12",
+   "en": "It's more concentrated than anything we've seen so far..."
+  },
+  {
+   "key": "MainEventMess0718.mbb#0.13",
+   "en": "It's more concentrated than anything we've seen so far..."
+  },
+  {
+   "key": "MainEventMess0718.mbb#0.14",
+   "en": "It's more concentrated than anything we've seen so far..."
+  },
+  {
+   "key": "MainEventMess0718.mbb#0.15",
+   "en": "It's more concentrated than anything we've seen so far..."
+  },
+  {
+   "key": "MainEventMess0718.mbb#0.16",
+   "en": "It's more concentrated than anything we've seen so far..."
+  },
+  {
+   "key": "MainEventMess0718.mbb#0.17",
+   "en": "The Dinosaur Greeed, and Belial... Where the hell are they...?"
+  },
+  {
+   "key": "MainEventMess0718.mbb#0.18",
+   "en": "I've re-estimated where the \"Memory Memory\" is. It's less accurate than before, though..."
+  },
+  {
+   "key": "MainEventMess0718.mbb#0.19",
+   "en": "But going there's the only option we've got, right?"
+  },
+  {
+   "key": "MainEventMess0718.mbb#0.20",
+   "en": "Yes, that's right... The Dinosaur Greeed is most likely at that spot as well."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.1",
+   "en": "{8074} and the team tried to open the door."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.2",
+   "en": "But it was firmly shut."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.3",
+   "en": "No good. The damn thing won't budge..."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.4",
+   "en": "No good. It won't budge..."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.5",
+   "en": "No good. It won't budge..."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.6",
+   "en": "No good. It won't budge..."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.7",
+   "en": "No good. It won't budge..."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.8",
+   "en": "No good. It won't budge..."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.9",
+   "en": "No good. The damn thing won't budge..."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.10",
+   "en": "No good. The damn thing won't budge..."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.11",
+   "en": "No good. It won't budge..."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.12",
+   "en": "No good. It won't budge..."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.13",
+   "en": "No good... It doesn't look like it'll open."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.14",
+   "en": "No good... It doesn't look like it'll open."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.15",
+   "en": "No good. The damn thing won't budge..."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.16",
+   "en": "No good. It won't budge..."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.17",
+   "en": "No good. It won't budge..."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.18",
+   "en": "Tch...! There's no keyhole either... So how are we supposed to open it?"
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.20",
+   "en": "The door is firmly shut."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.23",
+   "en": "This is the place. The door's open..."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.1",
+   "en": "It seems the \"Memory Memory\" is on the other side of that door."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.2",
+   "en": "Got it..."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.3",
+   "en": "{8074} and the team tried to open the door."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.4",
+   "en": "But it was firmly shut."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.5",
+   "en": "...Tch! No good, it won't open."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.6",
+   "en": "So you want to get to the other side?"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.7",
+   "en": "...Belial!! Where are you!?"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.8",
+   "en": "...Belial!! Where are you!?"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.9",
+   "en": "...Belial!! Where are you!?"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.10",
+   "en": "...Belial!! Where are you!?"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.11",
+   "en": "...Belial!! Where are you!?"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.12",
+   "en": "...That's Belial!! Where are you!?"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.13",
+   "en": "...That's Belial!! Where are you!?"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.14",
+   "en": "...That's Belial!! Where are you!?"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.15",
+   "en": "...That's Belial!! Where are you!?"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.16",
+   "en": "...That's Belial!! Where are you!?"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.17",
+   "en": "...!? That's Belial's voice!? Where are you!!"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.18",
+   "en": "...!? That's Belial's voice!? Where are you!!"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.19",
+   "en": "...!? That's Belial's voice!? Where are you!!"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.20",
+   "en": "...That's Belial!! Where are you!?"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.21",
+   "en": "...That's Belial!! Where are you!?"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.22",
+   "en": "Opening that door is easy, y'know. Just beat every last one of the minions I've revived."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.23",
+   "en": "But don't you go underestimating the monsters I handpicked, got it?"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.24",
+   "en": "King Pandon, Zetton and Tyrant. Every one's a vicious monster that tormented the Ultra Warriors."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.25",
+   "en": "What's more, they've soaked up Minus Energy like never before, and they've grown far stronger."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.26",
+   "en": "Any half-baked punk would keel over just getting close, they're that strong. Fuhahahahaha!!!"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.27",
+   "en": "King Pandon, Zetton, Tyrant... Those guys are nasty enough as it is..."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.28",
+   "en": "King Pandon, Zetton, Tyrant... They're formidable enough as it is..."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.29",
+   "en": "King Pandon, Zetton, Tyrant... They're formidable enough as it is..."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.30",
+   "en": "King Pandon, Zetton, Tyrant... They're formidable enough as it is..."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.31",
+   "en": "King Pandon, Zetton, Tyrant... They're formidable enough as it is..."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.32",
+   "en": "King Pandon, Zetton, Tyrant... They're tough enemies even as they are..."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.33",
+   "en": "King Pandon, Zetton, Tyrant... They're formidable enough as it is..."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.34",
+   "en": "King Pandon, Zetton and Tyrant, huh... Those guys are nasty enough as it is..."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.35",
+   "en": "King Pandon, Zetton, Tyrant... They're formidable enough as it is..."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.36",
+   "en": "King Pandon, Zetton and Tyrant!? Those guys are nasty enough as it is..."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.37",
+   "en": "King Pandon, Zetton, Tyrant... They're formidable enough as it is..."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.38",
+   "en": "King Pandon, Zetton, Tyrant... They're formidable enough as it is..."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.39",
+   "en": "King Pandon, Zetton, Tyrant... They're formidable enough as it is..."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.40",
+   "en": "King Pandon, Zetton, Tyrant... They're formidable enough as it is..."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.41",
+   "en": "King Pandon, Zetton, Tyrant... They're formidable enough as it is..."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.42",
+   "en": "And on top of that, they've gotten stronger, huh..."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.43",
+   "en": "But whatever comes at us, we'll just beat it and push on!!"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.44",
+   "en": "But whatever comes at us, we'll just beat it and push on!!"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.45",
+   "en": "But whatever comes at us, we'll just beat it and push on!!"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.46",
+   "en": "But whatever comes at us, we'll just beat it and push on!!"
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.47",
+   "en": "But whatever comes at us, we'll just beat it and push on!!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0718.mbb#0.8",
+   "note": "0718 leader block #0.2-16 (+1+k) follows the Pt_Chara_Check chain Rider 1, OOO, Black RX, W, Den-O Sword, Ultraman, Zero, Seven, Mebius, Taro, Nu, 00, Zeta, Wing Zero, God (verified: #0.6 rough = Den-O). So #0.8-16 here = Zero, Seven, Mebius, Taro, Nu, 00, Zeta, Wing Zero, God; identical Japanese, identical English. 'It' = the Minus Energy Ankh remarks on in #0.1 (story_154). story_154 rows #0.2-7 should use the same English."
+  },
+  {
+   "key": "MainEventMess0718.mbb#0.17",
+   "note": "Script confirms Ankh (constant +16)."
+  },
+  {
+   "key": "MainEventMess0718.mbb#0.18",
+   "note": "Seravee's Voice. Memory Memory kept in quotes as in story_146/149."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.3",
+   "note": "0719 leader block #0.3-17 (+2+k), chain order Zero, Mebius, Taro, Seven, Ultraman, OOO, W, Den-O Sword, Black RX, Rider 1, 00, Wing Zero, God, Zeta, Nu. Rough endings at #0.3 Zero, #0.9 W, #0.10 Den-O, #0.15 God match the chain; those four get 'damn thing'. #0.13-14 (00, Wing Zero) use a different curt line."
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.20",
+   "note": "Narration (+19, after the event-end flag check): reused established 'The door is firmly shut.'"
+  },
+  {
+   "key": "MainEventMess0719.mbb#0.23",
+   "note": "Ankh, flag-2728 branch (door already opened by the event in 0721). 'Here' read as 'this is the place' (the spot with the door)."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.6",
+   "note": "Belial (id 141), voice only, offscreen. 'The other side' = past the door."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.7",
+   "note": "0721 blocks #0.7-21, #0.27-41, #0.43-57 use the chain Zero, Ultraman, Mebius, Seven, Taro, OOO, Rider 1, W, Black RX, Den-O Sword, 00, Nu, Wing Zero, Zeta, God (verified: #0.27 rough Zero, #0.32 gentle OOO, #0.34 W 'huh', #0.36 Den-O 'what?!'). Three Japanese forms in block 1 (bare name / 'that's Belial' / 'Belial's voice?') kept distinct."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.22",
+   "note": "Belial's 'servants' (shimobe) = the revived monsters; rendered 'minions'."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.36",
+   "note": "Den-O Sword (Momotaros): incredulous 'da?' ending rendered as a question-exclamation."
+  },
+  {
+   "key": "MainEventMess0721.mbb#0.43",
+   "note": "#0.43-47 = Zero, Ultraman, Mebius, Seven, Taro; they differ only by a comma/line break, so identical English. Subject 'we' restored. The rest of the block (#0.48-57, story_156) opens with 'No,' instead of 'But'."
+  }
+ ],
+ "report": "80/80 rows. Speakers verified against 0718/0719/0721 bytecode; extracted labels were correct here, leader variants voiced from the three Pt_Chara_Check chains. No new names; story_154 (#0718 #0.2-7) should reuse this slice's line for the identical concentration rows."
+}
