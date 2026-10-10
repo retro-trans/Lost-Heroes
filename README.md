@@ -6,7 +6,7 @@ texture-label specs and tools; disc images, extracted game data, Japanese source
 
 ## Status
 
-Work in progress; there is no public release yet. Local test builds (0.1.x) have:
+Early public builds; further proofreading and playtesting are needed. The latest release has:
 
 - all story, quest, base-talk and system text in English, including the staff roll
 - a variable-width Latin font, plus a native 4x Latin font that is sharp at higher emulator resolutions
@@ -16,18 +16,22 @@ See [the changelog](docs/CHANGELOG.md) for every build and [the review queue](do
 
 ## Applying the patch
 
-When a release is published it will be available through
-[Retro Trans](https://github.com/retro-trans/retro-trans-tools/releases/latest) (automatic patching) and as an
-xdelta file on [Releases](https://github.com/retro-trans/Lost-Heroes/releases). Manual patching will need:
+Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools/releases/latest) for automatic patching: click
+**Refresh catalog**, open **Automatic**, select your original Japanese ISO, leave **Target** on **Latest** and choose
+a new output filename. The app downloads the matching patch and verifies the result.
+
+For manual patching, download `LostHeroes-English-<version>.xdelta` from
+[Releases](https://github.com/retro-trans/Lost-Heroes/releases/latest) and apply it to your own dump:
 
 - `Lost Heroes (Japan) (v1.01).iso`, 1,145,667,584 bytes
 - SHA-256 `8c4b3f19aedc5d04b7df31ee1ecfa3257515af7dd958bca3f72fe469b5defbc9`
 
 ```bash
-xdelta3 -d -s "Lost Heroes (Japan) (v1.01).iso" LostHeroes-English-<version>.xdelta LostHeroes-English-<version>.iso
+xdelta3 -d -s "Lost Heroes (Japan) (v1.01).iso" LostHeroes-English-<version>.xdelta "Lost Heroes English <version>.iso"
 ```
 
-Play the result in PPSSPP. Boot it fresh and load a normal save; save states keep the old text in memory.
+Compare the output SHA-256 with the release notes, then play it in PPSSPP. Boot it fresh and load a normal save;
+save states keep the old text in memory.
 
 ## Build it yourself
 
