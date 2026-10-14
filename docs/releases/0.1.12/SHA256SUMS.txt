@@ -1,0 +1,4 @@
+3c22cd0ef7867e4eaf01db500bbce86257cf9e906f663e10416a9f658deec9b9  BUILD-MANIFEST.json
+9cc041bb893bedd2959e9cfe43b8770e0b71ebb99dba921dccd73cfa1c3b0afe  LostHeroes-English-0.1.12.xdelta
+04450c0237b23fa56faafab085964728efa0846f7ee1f0a0370da5d1bb0bde34  LostHeroes-English-0.1.9-to-0.1.12.xdelta
+4f981600ccdfe6e76fa95af7e54db5782a121bf163d6b40661e66d9bac00a320  VALIDATION.json

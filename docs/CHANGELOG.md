@@ -1,5 +1,8 @@
 # Changelog
 
+## Release 0.1.12 (2026-10-15)
+- Public release of build 0.1.12: `LostHeroes-English-0.1.12.xdelta` (from the original ISO) and `LostHeroes-English-0.1.9-to-0.1.12.xdelta` (from the published 0.1.9 image, recreated from its patch and checked against its SHA-256). Notes and canonical metadata in `docs/releases/`.
+
 ## 0.1.12 (local test build, 2026-10-15, not released)
 - Base screen header read "Ba se": the game draws it from two fixed-size sprites (32 and 33) 4 px apart, which shared pixels with the larger "Base HQ" label. Now a big cyan "B" plus small-capital "ASE" on the same baseline, matching the game's own CAMP/STATUS/ITEM headers; both sprites moved to free space on the page. (Widening a sprite rect does not help: the UI keeps each sprite's on-screen size and squeezes it.)
 - `tex_edit` composites accept `valign: bottom`.
