@@ -1,0 +1,12 @@
+{
+  "release": "https://github.com/retro-trans/Lost-Heroes/releases/tag/v0.1.12",
+  "tag_commit": "a15114ef6deb0240746b82baf5211101ad267ca4",
+  "source_commit": "a10a83f0bb6efae1a2e486be2e8d5bd4489b358b",
+  "catalog_workflow_run": "https://github.com/retro-trans/retro-trans-tools/actions/runs/38607265577",
+  "catalog_workflow_input": "repository=retro-trans/Lost-Heroes",
+  "catalog_workflow_conclusion": "success",
+  "catalog_commit": "603dbbc",
+  "catalog_file": "retro_trans/resources/catalog.json",
+  "catalog_entries": {"0.1.12": ["LostHeroes-English-0.1.12.xdelta", "LostHeroes-English-0.1.9-to-0.1.12.xdelta"], "0.1.9": ["LostHeroes-English-0.1.9.xdelta"]},
+  "upgrade_source": "published 0.1.9 image recreated from LostHeroes-English-0.1.9.xdelta; SHA-256 22f0393ccc7583771710f0b51d15e43903890f8c2646a80bce9f36573a3ec52e matches the published target"
+}
