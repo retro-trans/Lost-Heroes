@@ -62,3 +62,9 @@ Decisions translators could not settle from the source. Each entry gives the key
 - Other split labels seen in game (same composite fix applies): Database submenu "Chara Catalog", Quest tabs "SubQuest", Options "Sound Test" / "Custom TrackSound"; Item Lab "Depot" is condensed.
 - Save-data screen (Load/Save): play time label, "Save Data", hero names are Japanese (strings in the EBOOT / PARAM.SFO).
 - Menu labels are textures, not the font: native 4x is impossible (PSP max texture 512 px); 2x is possible per page with a source-rect hook in 0x13c42c, but CampWindow is now 256x512 and cannot double.
+
+## Added 2026-10-11 (0.1.10)
+- (fixed 0.1.12: Base header) The Gate Port header has a stray "P" after "Gate Port".
+- Cube select cards: the description block is tiny unreadable text.
+- extra_012 0633 map label "High-Energy Reading Site" is the translator's coinage; check against the map UI. 0306 decoded with a wrong kanji (read from context).
+- Other Shocker kaijin keep the "X Man" form (Bat Man, Mantis Man...); decide whether they follow Man Spider.

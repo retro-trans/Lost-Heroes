@@ -1,0 +1,12 @@
+{
+ "slice": "extra_013",
+ "rows_in_slice": 1,
+ "rows_examined": 1,
+ "notes": "PlayerName hidden entry 16 recovered by the marker fix",
+ "rows": [
+  {
+   "key": "Table/Enemy/PlayerName.mbb#0.16",
+   "en": "Ride Machine"
+  }
+ ]
+}

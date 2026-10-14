@@ -2002,5 +2002,66 @@
    "text": "",
    "size": 10
   }
+ ],
+ "gtx": "Graph/Base/UI/Base.gtx",
+ "composites": [
+  {
+   "note": "Base screen header, first sprite (32, 15x14): big initial, like the game's CAMP/STATUS headers",
+   "style": {
+    "size": 15,
+    "color": [
+     110,
+     225,
+     255
+    ],
+    "align": "right",
+    "valign": "bottom"
+   },
+   "line_h": 14,
+   "parts": [
+    [
+     "B",
+     0,
+     15,
+     3
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 32,
+     "dx": 0,
+     "move": true
+    }
+   ]
+  },
+  {
+   "note": "Base screen header, second sprite (33, 14x15, drawn 4 px after 32): small capitals on the same baseline",
+   "style": {
+    "size": 11,
+    "color": [
+     255,
+     255,
+     255
+    ],
+    "valign": "bottom",
+    "condense": 0.6,
+    "weight": 0.3
+   },
+   "line_h": 15,
+   "parts": [
+    [
+     "ASE",
+     0,
+     14
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 33,
+     "dx": 0,
+     "move": true
+    }
+   ]
+  }
  ]
 }

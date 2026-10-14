@@ -7,7 +7,8 @@ Spec-level "defaults" (merged into every box) and "clear" ([[x,y,w,h], ...]
 wiped before drawing). Optional per box: "color" [r,g,b] (default: brightest colour found in the box),
 "align" (left/center/right, default left), "stroke" [r,g,b] + "stroke_width" n (outlined text), "bg" [r,g,b] (opaque fill instead of transparent; for opaque pages), "size" (px, default: largest that fits),
 "bold" (true/false), "weight" (extra stroke in px, default 0.4), "glow" [r,g,b] +
-"glow_radius" n (soft halo), "condense" (narrowest horizontal squeeze, default 0.75). Spec-level "gtx" + "composites" build labels the game assembles from several
+"glow_radius" n (soft halo), "condense" (narrowest horizontal squeeze, default 0.75), "overlay": true (draw over the
+existing pixels instead of clearing the box). "{version}" in a text is the VERSION file. Spec-level "gtx" + "composites" build labels the game assembles from several
 sprites (see draw_composites). Spec-level "grow": [w, h] enlarges the page (more room for moved pieces; the GE texture
 follows the header size). "exact": true limits the spec to the copy whose
 path equals "tpc" (for same-named textures with different content).
@@ -111,7 +112,9 @@ def read_tpc(allres, tpc_path):
     found = {}
     base = tpc_path.rsplit("/", 1)[-1]
     for name, off, size in pck_extract.read_table(f):
-        if not name.startswith("Graph/"):
+        # top-level Graph/ files plus every pack: battles load their own copies
+        # from Battle/Btl_*_pk.cmp (missed before 0.1.10)
+        if not (name.startswith("Graph/") or name.endswith(".cmp")):
             continue
         if name.endswith(".tpc") and name.rsplit("/", 1)[-1] != base:
             continue
@@ -230,6 +233,12 @@ def add_glow(canvas, color, radius):
     return halo
 
 
+def build_version():
+    """The build version shown on the title screen (VERSION at the project root)."""
+    p = os.path.join(ROOT, "VERSION")
+    return open(p, encoding="utf-8").read().strip() if os.path.exists(p) else "dev"
+
+
 def draw_box(img, box):
     x, y, w, h = box["x"], box["y"], box["w"], box["h"]
     region = img.crop((x, y, x + w, y + h))
@@ -238,8 +247,9 @@ def draw_box(img, box):
         bright = max(region.getdata(), key=lambda c: (c[3] > 128) * (c[0] + c[1] + c[2]))
         color = bright[:3] if bright[3] > 0 else (255, 255, 255)
     bg = box.get("bg")
-    img.paste(tuple(bg) + (255,) if bg else (0, 0, 0, 0), (x, y, x + w, y + h))
-    text = box["text"]
+    if not box.get("overlay"):             # overlay: draw over the existing pixels (opaque art)
+        img.paste(tuple(bg) + (255,) if bg else (0, 0, 0, 0), (x, y, x + w, y + h))
+    text = box["text"].replace("{version}", build_version())
     if not text:
         return
     if not box.get("stroke_width"):
@@ -283,7 +293,7 @@ def read_files(allres, path):
     found = {}
     base = path.rsplit("/", 1)[-1]
     for name, off, size in pck_extract.read_table(f):
-        if not name.startswith("Graph/") or (not name.endswith(".cmp") and name.rsplit("/", 1)[-1] != base):
+        if not name.endswith(".cmp") and not (name.startswith("Graph/") and name.rsplit("/", 1)[-1] == base):
             continue
         f.seek(off)
         for vpath, blob in walk_assets.walk(name, f.read(size)):
@@ -373,7 +383,8 @@ def draw_composites(img, original, spec, rects):
             text, x0, x1 = part[:3]
             for word, wx in layout_words(text, x0, x1, line_h, style, color, avoid,
                                          part[3] if len(part) > 3 else None):
-                canvas.alpha_composite(word, (wx, max(0, (line_h - word.height + 1) // 2)))
+                wy = line_h - word.height if style.get("valign") == "bottom" else (line_h - word.height + 1) // 2
+                canvas.alpha_composite(word, (wx, max(0, wy)))
         for p in pieces:
             x, y, w, h = rects[p["sprite"]]
             dx, dy = p["dx"], p.get("dy", 0)

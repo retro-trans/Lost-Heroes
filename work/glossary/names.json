@@ -418,14 +418,14 @@
   },
   {
    "jp": "ボガール",
-   "en": "Bogal",
+   "en": "Bogarl",
    "g": "n",
    "f": "Ultra",
    "note": "Ravenous glutton monster."
   },
   {
    "jp": "ボガールモンス",
-   "en": "Bogal Monst",
+   "en": "Bogarl Monst",
    "g": "n",
    "f": "Ultra"
   },
@@ -1148,14 +1148,14 @@
   },
   {
    "jp": "蜘蛛男",
-   "en": "Spider Man",
+   "en": "Man Spider",
    "g": "m",
    "f": "Kamen Rider",
    "note": "Shocker kaijin (Kumo Otoko)."
   },
   {
    "jp": "再生蜘蛛男",
-   "en": "Revived Spider Man",
+   "en": "Revived Man Spider",
    "g": "m",
    "f": "Kamen Rider"
   },
@@ -2381,7 +2381,7 @@
  ],
  "style": {
   "sound_effects": "Sound effects and Gaia Memory/Driver voice lines in double quotes: \"SLASH!!!\", \"INVISIBLE\".",
-  "roars": "Keep kaiju/creature roars consistent: check earlier slices' English for the same Japanese roar before inventing one. Established: Bemstar \"Kwaaah-kiiiiiii!!\"; Antlar \"Kiiaaaah~~~!!\"; Bat Man \"Kikikikiki!!\"; Mantis Man \"Gyeeeeeh!!\"; T-Rex Dopant \"Gwaaaargh!!\". Gomora \"Gyaaaaaaaaah!!\" / \"Gwaaaaaaaaah!!\". Shocker kaijin cry \"Igiiiiiiih!!\"; Gomora growl \"Grrruuu...\". Red King \"Kiiigwaaaah!!!\". Shiomaneking \"Abiiih!! Abi-abi!!\". Mururoa \"Gyaaaooooooh!!\". Pandon \"Kiiiiiih!!\" / \"Kih!?\". Mr. Bushido kirisute gomen: \"Cut you dooown!!! Pardon meeeee!!!\". Bogal \"Kweeeeeeeh!!\". King Pandon \"Kih!! Kih!! Kiiiiiiih!!\"; Snowgon \"Gwaaa-gwooo~~~!!\". Tyrant \"Gyiaaaaaaaaah!!\"; Bogal Monst \"Gwaaaaaaaaaaaaaaargh!!!!\". Birdon \"Kiiiiiiiiiih!!\" / \"Kih!! Kih!! Kiiii...ih!!!\". Gundam Head \"Gyurururururu...!!!\". Geronimon \"Grrrr...\". Vakishim \"Fuhaaaah!!\". Alien Metron \"Gwaaaaaagh!!\". Eleking \"Kiiiiiiiiiiih!!\". Seagorath \"Groooooooh!!\"; Seamons \"Kiiiiigwah!!\".",
+  "roars": "Keep kaiju/creature roars consistent: check earlier slices' English for the same Japanese roar before inventing one. Established: Bemstar \"Kwaaah-kiiiiiii!!\"; Antlar \"Kiiaaaah~~~!!\"; Bat Man \"Kikikikiki!!\"; Mantis Man \"Gyeeeeeh!!\"; T-Rex Dopant \"Gwaaaargh!!\". Gomora \"Gyaaaaaaaaah!!\" / \"Gwaaaaaaaaah!!\". Shocker kaijin cry \"Igiiiiiiih!!\"; Gomora growl \"Grrruuu...\". Red King \"Kiiigwaaaah!!!\". Shiomaneking \"Abiiih!! Abi-abi!!\". Mururoa \"Gyaaaooooooh!!\". Pandon \"Kiiiiiih!!\" / \"Kih!?\". Mr. Bushido kirisute gomen: \"Cut you dooown!!! Pardon meeeee!!!\". Bogarl \"Kweeeeeeeh!!\". King Pandon \"Kih!! Kih!! Kiiiiiiih!!\"; Snowgon \"Gwaaa-gwooo~~~!!\". Tyrant \"Gyiaaaaaaaaah!!\"; Bogarl Monst \"Gwaaaaaaaaaaaaaaargh!!!!\". Birdon \"Kiiiiiiiiiih!!\" / \"Kih!! Kih!! Kiiii...ih!!!\". Gundam Head \"Gyurururururu...!!!\". Geronimon \"Grrrr...\". Vakishim \"Fuhaaaah!!\". Alien Metron \"Gwaaaaaagh!!\". Eleking \"Kiiiiiiiiiiih!!\". Seagorath \"Groooooooh!!\"; Seamons \"Kiiiiigwah!!\".",
   "catchphrases": "Zero: 'You're 20,000 years too early!'; Kintaros: 'You'll cry!'; Ryutaros: 'I don't care about your answer!'; Momotaros: 'Here I come!'; W: 'Now, count up your sins!'; God Gundam: 'My hand is burnin' red!'; Arche Gundam (Ali): 'Not so fast!!' (tokoro ga gicchon)",
   "honorifics": "Drop -san/-chan/-kun; carry politeness through tone. Exceptions: 'Sempai' (Imagin->Momotaros), 'Master X' for the Maganac addressing their leader. Villain -sama to a superior -> \"Lord X\" (Lord Weather, Lord Ikadevil, Lord Terror Dopant). Ultras to elder brothers -> \"Brother X\".",
   "den_o_belt": "Den-O belt calls in caps and quotes: \"SWORD FORM\", \"ROD FORM\", \"AX FORM\", \"GUN FORM\".",

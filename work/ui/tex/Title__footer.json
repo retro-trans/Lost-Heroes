@@ -1,0 +1,37 @@
+{
+ "tpc": "Graph/Title/Title.tpc",
+ "page": "Title_logo02_PLT256_5551.bmp",
+ "note": "Title-screen build footer (as SRW Z3): two right-aligned lines at the bottom right of the press-start background (sprite 2, 502x272), above the copyright strip. {version} comes from VERSION; bump it every build.",
+ "defaults": {
+  "overlay": true,
+  "align": "right",
+  "color": [
+   236,
+   240,
+   246
+  ],
+  "stroke": [
+   12,
+   18,
+   34
+  ],
+  "stroke_width": 1
+ },
+ "clear": [],
+ "boxes": [
+  {
+   "x": 380,
+   "y": 226,
+   "w": 92,
+   "h": 11,
+   "text": "v{version}"
+  },
+  {
+   "x": 340,
+   "y": 238,
+   "w": 132,
+   "h": 11,
+   "text": "github.com/retro-trans"
+  }
+ ]
+}

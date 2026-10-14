@@ -20,6 +20,21 @@ def blocks(data):
         yield i, tag, off, size, n
 
 
+class Mark(tuple):
+    """An entry offset smaller than the offset table (1, 2, ...) is a marker, not
+    a string, and the game relies on it: with the 1 in Table/Enemy/PlayerName.mbb
+    the battle name plate picks the right hero; with a real offset there every hero
+    showed "Rider 1". Falsy (an empty tuple), so readers treat it as empty;
+    mbb_write writes `value` back."""
+    def __new__(cls, value):
+        obj = super().__new__(cls)
+        obj.value = value
+        return obj
+
+
+MARK = Mark(1)
+
+
 def entry_total(data, off, n):
     """Real number of entries in an MTBL block. The header count n excludes the
     last entry: slot n is a valid offset whenever the offset table has room
@@ -27,11 +42,15 @@ def entry_total(data, off, n):
     body = off + 16
     size = struct.unpack_from("<I", data, off + 8)[0]
     offs = [struct.unpack_from("<I", data, body + 4 * j)[0] for j in range(n)]
-    nz = [o for o in offs if o]
+    nz = [o for o in offs if o >= 4 * (n + 1)]
+    last = struct.unpack_from("<I", data, body + 4 * n)[0]
     if nz and 4 * (n + 1) <= min(nz):
-        last = struct.unpack_from("<I", data, body + 4 * n)[0]
         if last and min(nz) <= last < size:
             return n + 1
+    elif not nz and last and 4 * (n + 1) <= last < size:
+        # every counted entry is empty: the only string is in the extra slot
+        # (single-message tables such as NC05/MainEventMess0585 "Something's here!")
+        return n + 1
     return n
 
 
@@ -40,10 +59,14 @@ def mtbl_strings(data, off, n):
     or None for an empty slot. Includes the uncounted last entry (entry_total)."""
     body = off + 16
     out = []
-    for j in range(entry_total(data, off, n)):
+    total = entry_total(data, off, n)
+    for j in range(total):
         rel = struct.unpack_from("<I", data, body + j * 4)[0]
         if rel == 0:
             out.append(None)
+            continue
+        if rel < 4 * total:
+            out.append(Mark(rel))
             continue
         p = body + rel
         codes = []

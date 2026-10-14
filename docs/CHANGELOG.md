@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.1.12 (local test build, 2026-10-15, not released)
+- Base screen header read "Ba se": the game draws it from two fixed-size sprites (32 and 33) 4 px apart, which shared pixels with the larger "Base HQ" label. Now a big cyan "B" plus small-capital "ASE" on the same baseline, matching the game's own CAMP/STATUS/ITEM headers; both sprites moved to free space on the page. (Widening a sprite rect does not help: the UI keeps each sprite's on-screen size and squeezes it.)
+- `tex_edit` composites accept `valign: bottom`.
+
+## 0.1.11 (local test build, 2026-10-11, not released)
+- Title screen footer, as in SRW Z3: `v0.1.11` and `github.com/retro-trans`, right-aligned in the bottom right of the press-start background (`work/ui/tex/Title__footer.json`). The version comes from the new `VERSION` file; `tex_edit` gained `overlay` boxes (draw over opaque art) and the `{version}` placeholder.
+- Includes all 0.1.10 fixes.
+
+## 0.1.10 (local test build, 2026-10-11, not released)
+- **Battle name plate fixed** (every hero showed "Rider 1"). An MTBL entry offset smaller than the offset table (1, 2, ...) is a marker the game relies on, not a string; `Table/Enemy/PlayerName.mbb` uses 1. `mbb` now reads such entries as `Mark` values and `mbb_write` writes them back (32 tables carry markers). Verified live in PPSSPP by restoring the marker in memory: each hero's plate shows its own name. PlayerName's hidden entry 16 (Ride Machine) is now translated.
+- **"Rider 1attacked!" fixed.** The message formatter (0xdc3c4) deletes every 0x0001 after a name tag (Japanese name padding), and English spaces were 0x0001. Spaces now use 0x00EB, the font's own half-width space (glyph-table char U+0020); '"' moved to 0x014F. Fonts, 4x pages and EBOOT trims rebuilt.
+- **Single-message tables translated** (e.g. the Begins/Desert Cube "Something's here!", cross inscriptions, door and capsule messages). About 140 tables count only empty entries and keep their one string in the uncounted extra slot; `mbb.entry_total` now reads it. 91 rows translated (`extra_011`/`012`); NC02/MainEventMess0226 and 0249 are legacy-encoded live tables.
+- **Battle textures relabelled.** `tex_edit` only scanned `Graph/` paths, so the copies battles load from `Battle/Btl_*_pk.cmp` stayed Japanese (INFO panel stat labels and others). It now scans every pack (104 texture copies).
+- Names: Spider Man -> **Man Spider**, Bogal -> **Bogarl** (project lead's decision; `docs/glossary_decisions.md`), 96 rows.
+
 ## Release 0.1.9 (2026-10-10)
 - First public release: build 0.1.9 as `LostHeroes-English-0.1.9.xdelta` (full patch from the original NPJH50647 v1.01 ISO), packaged with the Retro Trans release builder (game ID `lost-heroes`, platform PSP, edition `NPJH50647`). Notes and canonical metadata in `docs/releases/`.
 

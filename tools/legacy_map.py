@@ -3,7 +3,8 @@
 44 tables are encoded against an earlier font build: kana/ASCII are the same,
 kanji codes are permuted. 36 of them are dead drafts (no script loads them):
 NC04/MainEventMess01xx (old copies of NC01/01xx) and OP/MainEventMess0801-0805.
-The 8 NC02 tables listed in LIVE are loaded by their event scripts.
+The 10 NC02 tables listed in LIVE are loaded by their event scripts (0226 and 0249
+are single-message tables found once mbb.entry_total read the extra slot of empty tables).
 
 Old->new kanji pairs are voted from "twin" strings: rows with identical
 non-kanji skeletons in correctly encoded tables. Manual overrides (from
@@ -25,7 +26,7 @@ OUT = os.path.join(ROOT, "work", "glossary", "legacy_kanji_map.json")
 OVERRIDES = os.path.join(ROOT, "work", "glossary", "legacy_overrides.json")
 
 LIVE = [f"Table/Event/Dungeon/NC02/MainEventMess{n}.mbb"
-        for n in ("0208", "0209", "0211", "0223", "0224", "0228", "0246", "0247")]
+        for n in ("0208", "0209", "0211", "0223", "0224", "0226", "0228", "0246", "0247", "0249")]
 DEAD = ([f"Table/Event/Dungeon/NC04/MainEventMess01{n:02d}.mbb" for n in range(0, 100)]
         + [f"Table/Event/OP/MainEventMess080{n}.mbb" for n in range(1, 6)])
 LEGACY = set(LIVE) | set(DEAD)

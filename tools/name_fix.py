@@ -16,6 +16,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # wrong spelling (regex, whole word) -> glossary spelling
 RULES = [
+    # project lead's naming decisions (2026-10-11, docs/glossary_decisions.md)
+    (r"\bSpider Man\b", "Man Spider"),
+    (r"\bBogal\b", "Bogarl"),
     (r"\bOyassan\b", "Boss"),
     (r"\bGreat Shocker\b", "Dai-Shocker"),
     (r"\bImperializer\b", "Imperizer"),

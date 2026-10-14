@@ -1,0 +1,398 @@
+{
+ "slice": "extra_012",
+ "rows_in_slice": 87,
+ "rows_examined": 87,
+ "rows": [
+  {
+   "key": "Table/Event/Base/MainEventMess0922.mbb#0.1",
+   "en": "Perfect timing. Come to the \"Item Lab\" right away. We'll talk there."
+  },
+  {
+   "key": "MainEventMess0011.mbb#0.1",
+   "en": "Nemo! What's wrong!?"
+  },
+  {
+   "key": "MainEventMess0105.mbb#0.1",
+   "en": "There's something here!"
+  },
+  {
+   "key": "MainEventMess0109.mbb#0.1",
+   "en": "There's a gash here, as if something slashed at it."
+  },
+  {
+   "key": "MainEventMess0118.mbb#0.1",
+   "en": "A trail of blood leads off to the north...!"
+  },
+  {
+   "key": "MainEventMess0125.mbb#0.1",
+   "en": "This Ride Vendor seems to be broken."
+  },
+  {
+   "key": "MainEventMess0145.mbb#0.1",
+   "en": "Fighting the Weather Dopant like this is too risky! Let's go back to base and make a plan."
+  },
+  {
+   "key": "MainEventMess0149.mbb#0.1",
+   "en": "Step into the gate-like device?"
+  },
+  {
+   "key": "MainEventMess0150.mbb#0.1",
+   "en": "The power is out. Looks like we need to work a switch somewhere."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC01/MainEventMess0164.mbb#0.1",
+   "en": "...!! Someone's there..."
+  },
+  {
+   "key": "MainEventMess0992.mbb#0.1",
+   "en": "No! Going back is too dangerous!"
+  },
+  {
+   "key": "MainEventMess0204.mbb#0.1",
+   "en": "There's something here!"
+  },
+  {
+   "key": "MainEventMess0210.mbb#0.1",
+   "en": "I'm looking forward to the Ride Machine being finished. How far along is construction?"
+  },
+  {
+   "key": "MainEventMess0220.mbb#0.1",
+   "en": "Baraj is around here, right? Let's grab the Blue Stone of Baraj and head back already."
+  },
+  {
+   "key": "MainEventMess0221.mbb#0.1",
+   "en": "There's something here!"
+  },
+  {
+   "key": "MainEventMess0226.mbb#0.1",
+   "en": "What's wrong? Hurry, get inside!"
+  },
+  {
+   "key": "MainEventMess0242.mbb#0.1",
+   "en": "There's something here!"
+  },
+  {
+   "key": "MainEventMess0249.mbb#0.1",
+   "en": "I know you guys will storm the enemy's stronghold and bring it down for sure!"
+  },
+  {
+   "key": "MainEventMess0270.mbb#0.1",
+   "en": "It doesn't seem to be locked, but it won't open... Looks like we'll have to come back later."
+  },
+  {
+   "key": "MainEventMess0302.mbb#0.1",
+   "en": "Chains and what look like shackles are scattered across the floor..."
+  },
+  {
+   "key": "MainEventMess0303.mbb#0.1",
+   "en": "Scalpels and what look like surgical tools have been left lying around."
+  },
+  {
+   "key": "MainEventMess0304.mbb#0.1",
+   "en": "Suspicious creatures are writhing in the water tank."
+  },
+  {
+   "key": "MainEventMess0305.mbb#0.1",
+   "en": "Blood and claw marks are left on the walls."
+  },
+  {
+   "key": "MainEventMess0306.mbb#0.1",
+   "en": "The smell of burning and chemicals stings the nose."
+  },
+  {
+   "key": "MainEventMess0307.mbb#0.1",
+   "en": "Broken lab equipment is scattered about..."
+  },
+  {
+   "key": "MainEventMess0319.mbb#0.1",
+   "en": "There's someone up ahead!!"
+  },
+  {
+   "key": "MainEventMess0324.mbb#0.1",
+   "en": "There's someone up ahead!!"
+  },
+  {
+   "key": "MainEventMess0327.mbb#0.1",
+   "en": "Looks like up ahead... we'll come out in another area with a cross."
+  },
+  {
+   "key": "MainEventMess0330.mbb#0.1",
+   "en": "Looks like there's no way but forward..."
+  },
+  {
+   "key": "MainEventMess0344.mbb#0.1",
+   "en": "The cross bears this inscription...\n\"Ultraman Zero\""
+  },
+  {
+   "key": "MainEventMess0345.mbb#0.1",
+   "en": "The cross bears this inscription...\n\"Ultraman Mebius\""
+  },
+  {
+   "key": "MainEventMess0346.mbb#0.1",
+   "en": "The cross bears this inscription...\n\"Kamen Rider OOO\""
+  },
+  {
+   "key": "MainEventMess0347.mbb#0.1",
+   "en": "The cross bears this inscription...\n\"Kamen Rider W\""
+  },
+  {
+   "key": "MainEventMess0348.mbb#0.1",
+   "en": "The cross bears this inscription...\n\"Kamen Rider Den-O\""
+  },
+  {
+   "key": "MainEventMess0349.mbb#0.1",
+   "en": "The cross bears this inscription...\n\"Kamen Rider Black RX\""
+  },
+  {
+   "key": "MainEventMess0350.mbb#0.1",
+   "en": "The cross bears this inscription...\n\"Kamen Rider 1\""
+  },
+  {
+   "key": "MainEventMess0351.mbb#0.1",
+   "en": "The cross bears this inscription...\n\"00 Gundam\""
+  },
+  {
+   "key": "MainEventMess0352.mbb#0.1",
+   "en": "The cross bears this inscription...\n\"Wing Gundam Zero\""
+  },
+  {
+   "key": "MainEventMess0353.mbb#0.1",
+   "en": "The cross bears this inscription...\n\"Zeta Gundam\""
+  },
+  {
+   "key": "MainEventMess0354.mbb#0.1",
+   "en": "The cross bears this inscription...\n\"Nu Gundam\""
+  },
+  {
+   "key": "MainEventMess0402.mbb#0.1",
+   "en": "There's someone up ahead!"
+  },
+  {
+   "key": "MainEventMess0432.mbb#0.1",
+   "en": "An Alien Icarus corpse lies abandoned! ...For some reason, both its ears had been cut off."
+  },
+  {
+   "key": "MainEventMess0433.mbb#0.1",
+   "en": "A Zgok corpse lies abandoned! But the Iron Nails on both its arms were gone."
+  },
+  {
+   "key": "MainEventMess0442.mbb#0.1",
+   "en": "There's something up ahead!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC04/MainEventMess0464.mbb#0.2",
+   "en": "Looks like you need to get a little closer to use the \"Magnerium Medicalizer\"."
+  },
+  {
+   "key": "MainEventMess0510.mbb#0.1",
+   "en": "There's something here!"
+  },
+  {
+   "key": "MainEventMess0512.mbb#0.1",
+   "en": "There's something here!"
+  },
+  {
+   "key": "MainEventMess0517.mbb#0.1",
+   "en": "There's something here!"
+  },
+  {
+   "key": "MainEventMess0556.mbb#0.1",
+   "en": "Nothing is on display. Looks like it's still being prepared."
+  },
+  {
+   "key": "MainEventMess0557.mbb#0.1",
+   "en": "Nothing is on display. Looks like it's still being prepared."
+  },
+  {
+   "key": "MainEventMess0558.mbb#0.1",
+   "en": "Nothing is on display. Looks like it's still being prepared."
+  },
+  {
+   "key": "MainEventMess0559.mbb#0.1",
+   "en": "Nothing is on display. Looks like it's still being prepared."
+  },
+  {
+   "key": "MainEventMess0561.mbb#0.1",
+   "en": "Nothing is on display. Looks like it's still being prepared."
+  },
+  {
+   "key": "MainEventMess0567.mbb#0.1",
+   "en": "I hear something...!! It's coming from up ahead..."
+  },
+  {
+   "key": "MainEventMess0578.mbb#0.1",
+   "en": "That field is gone, so we can move forward now."
+  },
+  {
+   "key": "MainEventMess0579.mbb#0.1",
+   "en": "There really was an underground level, but there doesn't seem to be a Gaia Gate around here."
+  },
+  {
+   "key": "MainEventMess0580.mbb#0.1",
+   "en": "We're underground... There must be a Gaia Gate somewhere."
+  },
+  {
+   "key": "MainEventMess0584.mbb#0.1",
+   "en": "Countless gashes are left on the walls. Someone must have fought fiercely here..."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC05/MainEventMess0585.mbb#0.1",
+   "en": "There's something here!"
+  },
+  {
+   "key": "MainEventMess0620.mbb#0.1",
+   "en": "Hey! We're hitting the particle cannon from outside, right!? The Ride Gate isn't that way, is it?"
+  },
+  {
+   "key": "MainEventMess0621.mbb#0.1",
+   "en": "\"We're out of time!! Hurry!!\""
+  },
+  {
+   "key": "MainEventMess0622.mbb#0.1",
+   "en": "\"Where are you now!? You can check the particle cannon's location on the MAP!\""
+  },
+  {
+   "key": "MainEventMess0624.mbb#0.1",
+   "en": "No good...! The particle cannon is surrounded by walls we can't break."
+  },
+  {
+   "key": "MainEventMess0633.mbb#0.1",
+   "en": "\"High-Energy Reading Site\" has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0634.mbb#0.1",
+   "en": "There's something here!"
+  },
+  {
+   "key": "MainEventMess0637.mbb#0.1",
+   "en": "Inside the capsule appears to be a kaijin."
+  },
+  {
+   "key": "MainEventMess0638.mbb#0.1",
+   "en": "Inside the capsule appears to be a kaiju."
+  },
+  {
+   "key": "MainEventMess0639.mbb#0.1",
+   "en": "Inside the capsule appears to be a mobile suit."
+  },
+  {
+   "key": "MainEventMess0657.mbb#0.1",
+   "en": "There's something here!!"
+  },
+  {
+   "key": "MainEventMess0664.mbb#0.1",
+   "en": "Take a left there."
+  },
+  {
+   "key": "MainEventMess0665.mbb#0.1",
+   "en": "Once you're through the bulkhead, take another left right away."
+  },
+  {
+   "key": "MainEventMess0666.mbb#0.1",
+   "en": "After that, just follow the path! Hurry!!"
+  },
+  {
+   "key": "MainEventMess0667.mbb#0.1",
+   "en": "The next one's the last bulkhead! Push straight through!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0671.mbb#0.1",
+   "en": "How's Seravee doing? Go check on the Terminal Unit for me."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC06/MainEventMess0672.mbb#0.1",
+   "en": "How's Seravee doing? Go check on the Terminal Unit for me."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0585.mbb#0.1",
+   "en": "There's something here!"
+  },
+  {
+   "key": "MainEventMess0714.mbb#0.1",
+   "en": "There's something here!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC07/MainEventMess0730.mbb#0.1",
+   "en": "The door's open!!"
+  },
+  {
+   "key": "MainEventMess0732.mbb#0.1",
+   "en": "Belial is further in... Be very careful."
+  },
+  {
+   "key": "MainEventMess0801.mbb#0.1",
+   "en": "You sense the presence of a fearsome enemy..."
+  },
+  {
+   "key": "MainEventMess0802.mbb#0.1",
+   "en": "You sense the presence of a powerful enemy in this area..."
+  },
+  {
+   "key": "MainEventMess0888.mbb#0.1",
+   "en": "You sense the presence of a powerful enemy..."
+  },
+  {
+   "key": "MainEventMess0889.mbb#0.1",
+   "en": "You sense the presence of a powerful enemy in this area..."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#1.1",
+   "en": "Cannot be learned yet."
+  },
+  {
+   "key": "Table/WaitAct/WaitActResultMess.mbb#8.1",
+   "en": "Sold the items that couldn't be carried."
+  },
+  {
+   "key": "MainEventMess0226.mbb#0.1",
+   "en": "What's wrong? Hurry, get inside!"
+  },
+  {
+   "key": "MainEventMess0249.mbb#0.1",
+   "en": "I know you guys will storm the enemy's stronghold and bring it down for sure!"
+  }
+ ],
+ "notes": [
+  {
+   "key": "MainEventMess0226.mbb#0.1",
+   "note": "Legacy row (appears twice): second kanji of the verb is mis-decoded; read as nigekomu (flee inside), per the caller's hint."
+  },
+  {
+   "key": "MainEventMess0249.mbb#0.1",
+   "note": "Legacy row (appears twice); same meaning as an existing ally line about storming the enemy stronghold, voiced with rough omae-tachi."
+  },
+  {
+   "key": "MainEventMess0306.mbb#0.1",
+   "note": "Source has a mis-decoded kanji for 'smell' (not flagged legacy); read as smell from context."
+  },
+  {
+   "key": "MainEventMess0304.mbb#0.1",
+   "note": "Stray comma after 'water tank' in source ignored."
+  },
+  {
+   "key": "MainEventMess0344.mbb#0.1",
+   "note": "Cross inscriptions 0344-0354 keep a deliberate two-line layout with the full hero name in quotes on line 2 (00 Gundam, Wing Gundam Zero, Kamen Rider 1, Kamen Rider Black RX)."
+  },
+  {
+   "key": "MainEventMess0221.mbb#0.1",
+   "note": "Inanimate 'something is here' rendered the same as the animate variant, matching earlier 'There's something here!!' for the double-bang form."
+  },
+  {
+   "key": "MainEventMess0633.mbb#0.1",
+   "note": "Quoted map-label term coined as \"High-Energy Reading Site\"; earlier dialogue calls it the high-energy spot."
+  },
+  {
+   "key": "MainEventMess0801.mbb#0.1",
+   "note": "Uses 'fearsome' for kyouretsu-na teki to distinguish it from the plain 'powerful enemy' (kyouteki) lines."
+  },
+  {
+   "key": "MainEventMess0011.mbb#0.1",
+   "note": "Speaker unknown; Nemo is the Gundam-side grunt suit, written 'Nemo' as in the earlier direct address."
+  },
+  {
+   "key": "MainEventMess0664.mbb#0.1",
+   "note": "0664-0667 are directions, probably over the radio though not in brackets; left unquoted as in source."
+  }
+ ],
+ "report": "87/87 rows (0226 and 0249 appear twice). Guessed legacy 0226 (flee inside). Coined map label 'High-Energy Reading Site' (0633). Zgok/Iron Nail and particle cannon taken from existing corpus; no new names."
+}

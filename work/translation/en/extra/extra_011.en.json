@@ -1,0 +1,24 @@
+{
+ "slice": "extra_011",
+ "rows_in_slice": 4,
+ "rows_examined": 4,
+ "notes": "filled from translation memory (exact Japanese repeats)",
+ "rows": [
+  {
+   "key": "MainEventMess0988.mbb#0.1",
+   "en": "There's something here!!"
+  },
+  {
+   "key": "MainEventMess0589.mbb#0.1",
+   "en": "Your destination has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0630.mbb#0.1",
+   "en": "How's Seravee doing? We're going to check on the Terminal Unit."
+  },
+  {
+   "key": "MainEventMess0720.mbb#0.1",
+   "en": "The door is firmly shut."
+  }
+ ]
+}

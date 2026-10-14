@@ -6,7 +6,7 @@ fixed rule, which the game never reads):
   TBB1 header: "TBB1", u32 0x10, u32 block_count, u32 file_size
   u32 block offsets, padded to 16
   each block: tag, u32 0x10, u32 body_size, u32 entry_count,
-              u32 entry offsets (relative to body start; 0 = empty), padded to 16,
+              u32 entry offsets (relative to body start; 0 = empty, below the table = marker), padded to 16,
               strings as u16 codes + 0x0000 terminator, each padded to 16
 Blocks other than MTBL are copied unchanged.
 
@@ -32,6 +32,9 @@ def build_mtbl(strings, declared=None):
     for codes in strings:
         if codes is None:
             offsets.append(0)
+            continue
+        if isinstance(codes, mbb.Mark):
+            offsets.append(codes.value)
             continue
         offsets.append(table_len + len(blob))
         blob += pad16(struct.pack(f"<{len(codes) + 1}H", *codes, 0))
