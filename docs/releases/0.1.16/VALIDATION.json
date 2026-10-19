@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "manifest_sha256": "d4fe00980b4dc5c725b8b2607003265dc126467b134935ca3b83aa0bdfe15e54",
+  "patches": [
+    {
+      "patch": "LostHeroes-English-0.1.16.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "313783b8e216b183e60587f08af65b5e2fbea867c5789b3b29a8f1aa14f45b33"
+    },
+    {
+      "patch": "LostHeroes-English-0.1.12-to-0.1.16.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "313783b8e216b183e60587f08af65b5e2fbea867c5789b3b29a8f1aa14f45b33"
+    }
+  ]
+}

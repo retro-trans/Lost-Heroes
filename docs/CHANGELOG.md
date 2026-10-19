@@ -1,5 +1,8 @@
 # Changelog
 
+## Release 0.1.16 (2026-10-19)
+- Public release of build 0.1.16: `LostHeroes-English-0.1.16.xdelta` (from the original ISO) and `LostHeroes-English-0.1.12-to-0.1.16.xdelta` (from the published 0.1.12 image, checked against its SHA-256). Notes and canonical metadata in `docs/releases/`.
+
 ## 0.1.16 (local test build, 2026-10-19, not released)
 - **Battle banner text no longer cut off.** The banner that shows skill help and battle messages holds 63 characters counted after names and numbers are filled in (the Ride Machine's name made "...main cannon charge reset to" lose its end). 22 lines shortened (SkillHelpMessage, BattleMess, SkillMessage, Enemy/SkillMessage); new `tools/check_banner.py` checks every banner table with names at their longest (12 heroes / Ride Machine, 20 enemies) and numbers at 5 digits.
 - **Ride Dungeon "Armor" label**: this HUD uses the shared window page (sprite 72 at x=57), not the Ride battle page; the box started at x=54, cutting the A.
