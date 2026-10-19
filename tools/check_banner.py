@@ -35,9 +35,32 @@ def shown_length(en, W):
     return n + sum(TAGS.get(t, 0) for t in re.findall(r"\{[0-9A-F]{4}\}", en))
 
 
+TARGET_KEY = "Table/Battle/BattleMess.mbb#0.96"     # "Target:\n" + the target's name
+TARGET_LIMIT = 31                                   # 32-code heap buffer incl. NUL; Japanese max 11 + 12
+NAME_TABLES = ["Table/Common/CharacterName.mbb", "Table/Enemy/EnemyName.mbb", "Table/Enemy/PlayerName.mbb"]
+
+
+def check_target(rows):
+    """The target prompt is copied with the target's name into a 32-code buffer with no
+    length check; longer text overwrites the next heap block and crashes the battle later
+    (0.1.17: "Select a target." + "Verokron (Modified)", crash on a Crossover Skill)."""
+    prompt = rows.get(TARGET_KEY, "")
+    name = max((v for k, v in rows.items() if any(k.startswith(t + "#") for t in NAME_TABLES)), key=len, default="")
+    n = len(prompt) + len(name)
+    ok = n <= TARGET_LIMIT
+    print(f"target prompt: {len(prompt)} + longest name {len(name)} ({name}) = {n} {'<=' if ok else '>'} {TARGET_LIMIT}")
+    return 0 if ok else 1
+
+
 def main():
     W = check_en.widths()
     bad = 0
+    allrows = {}
+    for p in glob.glob(os.path.join(ROOT, "work/translation/en/*/*.en.json")):
+        for r in json.load(open(p, encoding="utf-8"))["rows"]:
+            if r.get("en"):
+                allrows[r["key"]] = r["en"]
+    bad += check_target(allrows)
     for p in sorted(glob.glob(os.path.join(ROOT, "work/translation/en/*/*.en.json"))):
         for r in json.load(open(p, encoding="utf-8"))["rows"]:
             en = r.get("en")

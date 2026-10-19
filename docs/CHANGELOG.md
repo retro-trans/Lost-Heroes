@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.1.18 (local test build, 2026-10-19, not released)
+- **Crash fix: battle crash after choosing a Crossover Skill partner** ("Bad Execution Address", PC 0x681d08da, RA 0x0889c9d8). The target prompt (BattleMess 0.96) is copied with the target's name into a 32-code heap buffer with no length check. "Select a target." + line break + "Verokron (Modified)" is 36 codes; the overflow overwrote the next heap block's header, so a later allocation returned an address outside RAM (0x0AC3D2CD) and the next virtual call jumped to garbage. Found by walking the game heap in a RAM dump from the player's save state. The prompt is now "Target:" (8 codes with the break), so the longest name (23, "Devil Gundam Final Form") still fits in 31; `check_banner.py` checks prompt + longest name.
+
 ## 0.1.17 (local test build, 2026-10-19, not released)
 - **Random Cube screen labels.** The header after "Random" is drawn from sprite 222 (the first 63 px of "Select Cube", sprite 208) plus 223 and 224 (the two kanji of the entrance label), so it read "Select Cul Entce"; the banner is 209 + 210 with a gap, so it read "Random C - :ube Challenge". Screen positions were matched from a PPSSPP screenshot (222 at +0, 223 at +69, 224 at +85; 209 at +0, 210 at +57). New composites: 222 (moved to free space, so "Select Cube" stays intact) holds "Cube Entry" with 223/224 blank, and the banner reads "Random" / "Cube Challenge".
 - **Random Cube name** ("Novice Emerald  Cube"): the third name tag {808D} is empty here, so its space doubled; the template is now "{808B} {808C}{808D} Cube" (review queue: what {808D} holds when it is not empty).
