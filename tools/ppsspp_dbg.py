@@ -109,6 +109,17 @@ class Dbg:
         user32.EnumWindows(enum, 0)
         if not hwnds:
             raise RuntimeError('PPSSPP window not found')
+
+        def exe_of(hwnd):            # prefer the isolated test copy when the player's PPSSPP is open too
+            pid = wintypes.DWORD()
+            user32.GetWindowThreadProcessId(hwnd, ctypes.byref(pid))
+            hp = ctypes.windll.kernel32.OpenProcess(0x1000, False, pid.value)
+            buf = ctypes.create_unicode_buffer(512)
+            size = wintypes.DWORD(512)
+            ctypes.windll.kernel32.QueryFullProcessImageNameW(hp, 0, buf, ctypes.byref(size))
+            ctypes.windll.kernel32.CloseHandle(hp)
+            return buf.value.lower()
+        hwnds.sort(key=lambda hw: 'ppsspp_test' not in exe_of(hw))
         h = hwnds[0]
         rc = wintypes.RECT()
         user32.GetClientRect(h, ctypes.byref(rc))
