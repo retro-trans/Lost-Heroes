@@ -892,12 +892,12 @@
    "size": 13
   },
   {
-   "x": 1,
+   "x": 0,
    "y": 156,
-   "w": 26,
-   "h": 13,
-   "text": "Reward:",
-   "size": 9
+   "w": 30,
+   "h": 12,
+   "text": "Prize:",
+   "size": 10
   },
   {
    "x": 65,
@@ -1070,9 +1070,9 @@
   {
    "x": 218,
    "y": 53,
-   "w": 22,
+   "w": 24,
    "h": 11,
-   "text": "Depot",
+   "text": "Box",
    "size": 10
   },
   {
@@ -1124,11 +1124,11 @@
    "size": 10
   },
   {
-   "x": 129,
+   "x": 130,
    "y": 101,
-   "w": 46,
+   "w": 47,
    "h": 11,
-   "text": "Idle Actions",
+   "text": "Idle Play",
    "size": 10
   },
   {
@@ -1949,10 +1949,10 @@
   {
    "x": 479,
    "y": 429,
-   "w": 29,
+   "w": 32,
    "h": 15,
-   "text": "Report",
-   "size": 11
+   "text": "Claim",
+   "size": 13
   },
   {
    "x": 368,
@@ -2120,6 +2120,125 @@
      "sprite": 210,
      "dx": 57,
      "dy": 1
+    }
+   ]
+  },
+  {
+   "note": "Briefing Room 'Chips Claim': 107 (36 px) + 108 (+37). 108 is also the last word of the Quest Room claim row ('Sub-Quest Claim'), so it holds the whole word. Positions matched from a PPSSPP screenshot",
+   "style": {
+    "size": 10,
+    "seamfit": true,
+    "baseline": 8
+   },
+   "line_h": 11,
+   "parts": [
+    [
+     "Chips",
+     1,
+     36
+    ],
+    [
+     "Claim",
+     37,
+     60
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 107,
+     "dx": 0
+    },
+    {
+     "sprite": 108,
+     "dx": 37
+    }
+   ]
+  },
+  {
+   "note": "Quest Room rows: 161 'Sub' (x=32) + 160 (+25; the first 47 px of 'Quest Room' sprite 20, so moved) + 162 (+73, 1 px higher). Row 2 draws 161 + 160 + 108 ('Claim')",
+   "style": {
+    "size": 10,
+    "seamfit": true,
+    "baseline": 9
+   },
+   "line_h": 11,
+   "parts": [
+    [
+     "Sub-Quest",
+     1,
+     72
+    ],
+    [
+     "Take",
+     74,
+     97
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 161,
+     "dx": 0,
+     "dy": 1
+    },
+    {
+     "sprite": 160,
+     "dx": 25,
+     "dy": 1,
+     "move": true
+    },
+    {
+     "sprite": 162,
+     "dx": 73
+    }
+   ]
+  },
+  {
+   "note": "Sub Quest accept header: 165 'Sub' + 168 (+34; 'Quest' + 'Accept' in one sprite, whose first 62 px are 166)",
+   "style": {
+    "size": 13
+   },
+   "line_h": 15,
+   "parts": [
+    [
+     "Sub",
+     0,
+     32
+    ],
+    [
+     "Quest Accept",
+     34,
+     128
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 165,
+     "dx": 0
+    },
+    {
+     "sprite": 168,
+     "dx": 34
+    }
+   ]
+  },
+  {
+   "note": "Sub Quest claim header middle piece 166 'Quest' (shares pixels with 168, so moved); 167 is the 'Claim' box",
+   "style": {
+    "size": 13
+   },
+   "line_h": 15,
+   "parts": [
+    [
+     "Quest",
+     0,
+     62
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 166,
+     "dx": 0,
+     "move": true
     }
    ]
   }

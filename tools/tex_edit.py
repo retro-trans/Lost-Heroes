@@ -216,7 +216,9 @@ def render_weighted(text, w, h, size, weight, color, condense=0.75):
     small = canvas.resize((out_w, out_h), Image.LANCZOS)
     bb = small.getbbox()          # trim side padding so split words (Data|base) join up
     out = small.crop((bb[0], 0, bb[2], small.height)) if bb else small
-    out.info.update(size=sz if not size else size, sx=sx, lead=(bb[0] if bb else 0))
+    # baseline: rows from the top of the canvas (composites can line words up on it)
+    out.info.update(size=sz if not size else size, sx=sx, lead=(bb[0] if bb else 0),
+                    baseline=(SS - t + font.getmetrics()[0]) / SS)
     return out
 
 
@@ -337,7 +339,9 @@ def layout_words(text, x0, x1, line_h, style, color, avoid, fixed=None):
         nat = x0 + round(font.getlength(prefix) / SS * sx)
         img = render_weighted(word, 4096, line_h, sz, weight, color, condense)
         if sx < 1.0:
+            base = img.info["baseline"]
             img = img.resize((max(1, round(img.width * sx)), img.height), Image.LANCZOS)
+            img.info["baseline"] = base
         ink = np.array(img)[:, :, 3].max(axis=0)
         def hits(sft):
             return sum(int(ink[c - nat - sft]) for c in avoid if 0 <= c - nat - sft < len(ink))
@@ -346,6 +350,27 @@ def layout_words(text, x0, x1, line_h, style, color, avoid, fixed=None):
             carry = min(range(lo, carry + 4), key=lambda sft: (hits(sft), abs(sft - carry), sft))
         out.append((img, nat + carry))
     return out
+
+
+def fit_seams(word, x0, avoid, max_shift=3):
+    """Composite style "seamfit": keep a phrase whole and open the gap between two
+    letters exactly on each seam column (a column no sprite draws), by inserting
+    up to max_shift blank columns at the faintest column just left of the seam."""
+    import numpy as np
+    base = word.info.get("baseline")
+    for c in sorted(avoid):
+        ink = np.array(word)[:, :, 3].max(axis=0)
+        rel = c - x0
+        if not 0 <= rel < len(ink) or ink[rel] <= 24:
+            continue
+        j = min(range(max(1, rel - max_shift), rel + 1), key=lambda k: (int(ink[k]) + 8 * (rel - k)))
+        n = rel - j + 1
+        out = Image.new("RGBA", (word.width + n, word.height), (0, 0, 0, 0))
+        out.paste(word.crop((0, 0, j, word.height)), (0, 0))
+        out.paste(word.crop((j, 0, word.width, word.height)), (j + n, 0))
+        word = out
+    word.info["baseline"] = base
+    return word
 
 
 def draw_composites(img, original, spec, rects):
@@ -381,10 +406,31 @@ def draw_composites(img, original, spec, rects):
             avoid.update(range(a["dx"] + rects[a["sprite"]][2], b["dx"]))
         for part in comp["parts"]:
             text, x0, x1 = part[:3]
-            for word, wx in layout_words(text, x0, x1, line_h, style, color, avoid,
-                                         part[3] if len(part) > 3 else None):
-                wy = line_h - word.height if style.get("valign") == "bottom" else (line_h - word.height + 1) // 2
-                canvas.alpha_composite(word, (wx, max(0, wy)))
+            if style.get("seamfit"):
+                whole = render_weighted(text, x1 - x0, line_h, style.get("size"), style.get("weight", WEIGHT),
+                                        color, style.get("condense", 0.75))
+                # try the phrase 1 px either side first: a natural letter gap on the seam
+                # beats an inserted one
+                import numpy as np
+                cands = []
+                for off in (0, 1, -1):
+                    fitted = fit_seams(whole, x0 + off, avoid)
+                    cands.append((fitted.width - whole.width, abs(off), off, fitted))
+                _, _, off, fitted = min(cands, key=lambda c: c[:3])
+                words = [(fitted, x0 + off)]
+            else:
+                words = layout_words(text, x0, x1, line_h, style, color, avoid,
+                                     part[3] if len(part) > 3 else None)
+            for word, wx in words:
+                if style.get("baseline") is not None:       # same baseline in every row
+                    wy = round(style["baseline"] - word.info["baseline"])
+                elif style.get("valign") == "bottom":
+                    wy = line_h - word.height
+                else:
+                    wy = (line_h - word.height + 1) // 2
+                if wy < 0:
+                    word, wy = word.crop((0, -wy, word.width, word.height)), 0
+                canvas.alpha_composite(word, (wx, wy))
         for p in pieces:
             x, y, w, h = rects[p["sprite"]]
             dx, dy = p["dx"], p.get("dy", 0)

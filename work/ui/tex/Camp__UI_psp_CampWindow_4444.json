@@ -650,11 +650,39 @@
  "gtx": "Graph/Camp/UI/Camp.gtx",
  "composites": [
   {
-   "note": "Camp row: sprite 44 + 45 (+35)",
+   "note": "Camp row (uniform: size 10, baseline 8 px below the sprite top, text from screen x=36; positions matched from a PPSSPP screenshot): Items, sprite 46 at x=35",
+   "style": {
+    "size": 10,
+    "baseline": 8,
+    "seamfit": true
+   },
+   "line_h": 10,
+   "parts": [
+    [
+     "Items",
+     1,
+     43
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 46,
+     "dx": 0
+    }
+   ]
+  },
+  {
+   "note": "Camp row (uniform: size 10, baseline 8 px below the sprite top, text from screen x=36; positions matched from a PPSSPP screenshot): Use Skill, 44 (moved) + 45 (+35)",
+   "style": {
+    "size": 10,
+    "baseline": 8,
+    "seamfit": true
+   },
+   "line_h": 10,
    "parts": [
     [
      "Use Skill",
-     0,
+     2,
      58
     ]
    ],
@@ -671,18 +699,67 @@
    ]
   },
   {
-   "note": "Camp row: 48 + 51 (+23, dy 2; the original dot, now blank) + 49 (+27, dy 1) + 50 (+39)",
+   "note": "Camp row (uniform: size 10, baseline 8 px below the sprite top, text from screen x=36; positions matched from a PPSSPP screenshot): Skill Tree, 43 at x=35",
+   "style": {
+    "size": 10,
+    "baseline": 8,
+    "seamfit": true
+   },
+   "line_h": 10,
+   "parts": [
+    [
+     "Skill Tree",
+     1,
+     68
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 43,
+     "dx": 0
+    }
+   ]
+  },
+  {
+   "note": "Camp row (uniform: size 10, baseline 8 px below the sprite top, text from screen x=36; positions matched from a PPSSPP screenshot): Status, 47 (9 px tall)",
+   "style": {
+    "size": 10,
+    "baseline": 8,
+    "seamfit": true
+   },
+   "line_h": 10,
+   "parts": [
+    [
+     "Status",
+     2,
+     56
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 47,
+     "dx": 0
+    }
+   ]
+  },
+  {
+   "note": "Camp row (uniform: size 10, baseline 8 px below the sprite top, text from screen x=36; positions matched from a PPSSPP screenshot): Equip Force, 48 + 51 (+23, dy 2; the old dot, left blank) + 49 (+27, dy 1) + 50 (+39). 'Equip' must fit before the 4 px gap, so it is condensed",
+   "style": {
+    "size": 10,
+    "baseline": 8,
+    "seamfit": false
+   },
+   "line_h": 10,
    "parts": [
     [
      "Equip",
-     0,
+     2,
      23
     ],
     [
      "Force",
      27,
-     70,
-     0
+     70
     ]
    ],
    "pieces": [
@@ -704,18 +781,42 @@
      "sprite": 50,
      "dx": 39
     }
-   ],
-   "line_h": 10,
-   "style": {
-    "size": 10
-   }
+   ]
   },
   {
-   "note": "Camp row: 58 + 59 (+45); 59 shares pixels with Chip Check (13/18)",
+   "note": "Camp row (uniform: size 10, baseline 8 px below the sprite top, text from screen x=36; positions matched from a PPSSPP screenshot): Database, 56",
+   "style": {
+    "size": 10,
+    "baseline": 8,
+    "seamfit": true
+   },
+   "line_h": 10,
+   "parts": [
+    [
+     "Database",
+     2,
+     67
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 56,
+     "dx": 0
+    }
+   ]
+  },
+  {
+   "note": "Camp row (uniform: size 10, baseline 8 px below the sprite top, text from screen x=36; positions matched from a PPSSPP screenshot): Check Quests, 58 (x=33) + 59 (+45; shares pixels with Chip Check, moved)",
+   "style": {
+    "size": 10,
+    "baseline": 8,
+    "seamfit": true
+   },
+   "line_h": 10,
    "parts": [
     [
      "Check Quests",
-     0,
+     3,
      65
     ]
    ],
@@ -728,6 +829,72 @@
      "sprite": 59,
      "dx": 45,
      "move": true
+    }
+   ]
+  },
+  {
+   "note": "Camp row (uniform: size 10, baseline 8 px below the sprite top, text from screen x=36; positions matched from a PPSSPP screenshot): Options, 57",
+   "style": {
+    "size": 10,
+    "baseline": 8,
+    "seamfit": true
+   },
+   "line_h": 10,
+   "parts": [
+    [
+     "Options",
+     2,
+     54
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 57,
+     "dx": 0
+    }
+   ]
+  },
+  {
+   "note": "Camp row (uniform: size 10, baseline 8 px below the sprite top, text from screen x=36; positions matched from a PPSSPP screenshot): Suspend, 62 (11 px tall)",
+   "style": {
+    "size": 10,
+    "baseline": 8,
+    "seamfit": true
+   },
+   "line_h": 10,
+   "parts": [
+    [
+     "Suspend",
+     2,
+     55
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 62,
+     "dx": 0
+    }
+   ]
+  },
+  {
+   "note": "Camp row (uniform: size 10, baseline 8 px below the sprite top, text from screen x=36; positions matched from a PPSSPP screenshot): Return, 63",
+   "style": {
+    "size": 10,
+    "baseline": 8,
+    "seamfit": true
+   },
+   "line_h": 10,
+   "parts": [
+    [
+     "Return",
+     2,
+     43
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 63,
+     "dx": 0
     }
    ]
   },

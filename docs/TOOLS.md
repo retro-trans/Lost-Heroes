@@ -52,6 +52,7 @@ see `docs/licenses/`).
 | `scope.py` | Decide which message tables need translating and pick a canonical copy. |
 | `script_refs.py` | List message tables referenced by event scripts (.bla, compiled Lua). |
 | `speakers.py` | Attach speakers to event dialogue rows by replaying the event scripts. |
+| `sprite_match.py` | Find where a texture page's sprites are drawn on a game screenshot (normalised correlation of each sprite's alpha mask; `--all` for every position, `--dark` for dark-on-light labels). Used to lay out composites without a sprite-draw log. |
 | `sprite_log.py` | Log sprite draws (texture object, sprite index, x, y) via a PPSSPP logging breakpoint on the sprite routine 0x13c42c. Module base 0x08804000 (PPSSPP). |
 | `strip_jp.py` | Remove Japanese script from committed translation files (AGENTS.md rule). |
 | `table_status.py` | Classify every message table: packed / script-referenced / scrambled. |

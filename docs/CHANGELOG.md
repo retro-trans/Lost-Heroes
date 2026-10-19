@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.19 (local test build, 2026-10-19, not released)
+- **Camp menu: one size, one baseline, one left edge.** Every row is now a composite at size 10 with its baseline 8 px below the sprite top and text starting at screen x=36 (rows without descenders had been drawn larger than rows with them). Whole phrases are kept together and the 1 px seams between sprites are fitted into letter gaps (new composite style `seamfit`), so "Use Skill" and "Check Quests" no longer have wide gaps. "Equip" must fit the 23 px sprite before a 4 px gap, so it alone is condensed.
+- **Base menus:** Item Lab "Depot" -> **Box** and Briefing Room "Idle Actions" -> **Idle Play** (the sprites are 24 and 47 px; the longer words were squeezed). Briefing Room "Chips Report" -> **Chips Claim**, Quest Room rows -> **Sub-Quest Take** / **Sub-Quest Claim** (the last sprite is shared by both screens; 'Quest Ro' came from a sprite that is the first 47 px of "Quest Room", now moved). Sub Quest header "Sub Quest Accept" without the gap (and "Claim" for the report screen). Quest reward label "Reward:" -> **Prize:** (30 px sprite).
+- `tex_edit`: composite styles `baseline` (line words up by baseline) and `seamfit`; `render_weighted` reports the baseline. New `tools/sprite_match.py` finds sprite positions on a screenshot; the layouts above come from it.
+
 ## 0.1.18 (local test build, 2026-10-19, not released)
 - **Crash fix: battle crash after choosing a Crossover Skill partner** ("Bad Execution Address", PC 0x681d08da, RA 0x0889c9d8). The target prompt (BattleMess 0.96) is copied with the target's name into a 32-code heap buffer with no length check. "Select a target." + line break + "Verokron (Modified)" is 36 codes; the overflow overwrote the next heap block's header, so a later allocation returned an address outside RAM (0x0AC3D2CD) and the next virtual call jumped to garbage. Found by walking the game heap in a RAM dump from the player's save state. The prompt is now "Target:" (8 codes with the break), so the longest name (23, "Devil Gundam Final Form") still fits in 31; `check_banner.py` checks prompt + longest name.
 
