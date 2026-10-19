@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.17 (local test build, 2026-10-19, not released)
+- **Random Cube screen labels.** The header after "Random" is drawn from sprite 222 (the first 63 px of "Select Cube", sprite 208) plus 223 and 224 (the two kanji of the entrance label), so it read "Select Cul Entce"; the banner is 209 + 210 with a gap, so it read "Random C - :ube Challenge". Screen positions were matched from a PPSSPP screenshot (222 at +0, 223 at +69, 224 at +85; 209 at +0, 210 at +57). New composites: 222 (moved to free space, so "Select Cube" stays intact) holds "Cube Entry" with 223/224 blank, and the banner reads "Random" / "Cube Challenge".
+- **Random Cube name** ("Novice Emerald  Cube"): the third name tag {808D} is empty here, so its space doubled; the template is now "{808B} {808C}{808D} Cube" (review queue: what {808D} holds when it is not empty).
+
 ## Release 0.1.16 (2026-10-19)
 - Public release of build 0.1.16: `LostHeroes-English-0.1.16.xdelta` (from the original ISO) and `LostHeroes-English-0.1.12-to-0.1.16.xdelta` (from the published 0.1.12 image, checked against its SHA-256). Notes and canonical metadata in `docs/releases/`.
 

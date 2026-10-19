@@ -2062,6 +2062,66 @@
      "move": true
     }
    ]
+  },
+  {
+   "note": "Random Cube screen header after sprite 221 'Random': 222 (63 px; the first part of 208 'Select Cube', so moved) holds 'Cube Entry'; 223 (+69, dy 1) and 224 (+85) are blanked. Positions matched from a PPSSPP screenshot",
+   "style": {
+    "size": 13
+   },
+   "line_h": 15,
+   "parts": [
+    [
+     "Cube Entry",
+     0,
+     63
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 222,
+     "dx": 0,
+     "move": true
+    },
+    {
+     "sprite": 223,
+     "dx": 69,
+     "dy": 1
+    },
+    {
+     "sprite": 224,
+     "dx": 85
+    }
+   ]
+  },
+  {
+   "note": "Random Cube banner: 209 (44 px) + 210 (+57, dy 1); the screen draws a dot sprite in the gap",
+   "style": {
+    "size": 10
+   },
+   "line_h": 11,
+   "parts": [
+    [
+     "Random",
+     8,
+     44
+    ],
+    [
+     "Cube Challenge",
+     57,
+     123
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 209,
+     "dx": 0
+    },
+    {
+     "sprite": 210,
+     "dx": 57,
+     "dy": 1
+    }
+   ]
   }
  ]
 }
