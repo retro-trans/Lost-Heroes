@@ -33,7 +33,7 @@
   },
   {
    "key": "Table/Battle/BattleMess.mbb#0.32",
-   "en": "Lay down a barrage with a set chance to make enemies flinch and cancel their actions."
+   "en": "Barrage that may make enemies flinch and cancel their actions."
   },
   {
    "key": "Table/Battle/BattleMess.mbb#0.33",
@@ -249,11 +249,11 @@
   },
   {
    "key": "Table/Battle/BattleMess.mbb#0.86",
-   "en": "{806D} tried to use equipment, but doesn't have enough EN!"
+   "en": "{806D} tried to use equipment, but lacks the EN!"
   },
   {
    "key": "Table/Battle/BattleMess.mbb#0.87",
-   "en": "{806D} pulled the main cannon's trigger, but the charge ran out and it can't fire!"
+   "en": "{806D} fired the main cannon, but it had no charge left!"
   },
   {
    "key": "Table/Battle/BattleMess.mbb#0.88",
@@ -261,7 +261,7 @@
   },
   {
    "key": "Table/Battle/BattleMess.mbb#0.89",
-   "en": "{806D} didn't know what was happening and made a normal attack!"
+   "en": "{806D} panicked and made a normal attack!"
   },
   {
    "key": "Table/Battle/BattleMess.mbb#0.90",

@@ -61,7 +61,7 @@
   },
   {
    "key": "Table/Enemy/SkillMessage.mbb#0.5",
-   "en": "An all-out blow lands!!<br><tag_chr> took <hit_damage> damage!"
+   "en": "All-out blow lands!!<br><tag_chr> took <hit_damage> damage!"
   },
   {
    "key": "Table/Enemy/SkillMessage.mbb#0.6",
@@ -153,7 +153,7 @@
   },
   {
    "key": "Table/Enemy/SkillMessage.mbb#0.28",
-   "en": "<act_ch> and allies unleashed<br><use_skill>!!"
+   "en": "<act_ch> and allies used<br><use_skill>!!"
   },
   {
    "key": "Table/Enemy/SkillMessage.mbb#0.29",
@@ -189,7 +189,7 @@
   },
   {
    "key": "Table/Enemy/SkillMessage.mbb#0.47",
-   "en": "<act_ch> laid down a barrage<br>with <use_skill>!"
+   "en": "<act_ch>'s barrage:<br><use_skill>!"
   },
   {
    "key": "Table/Enemy/SkillMessage.mbb#0.48",

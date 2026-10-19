@@ -1,7 +1,7 @@
 {
  "tpc": "Graph/Common/UI/common_ui_tex.tpc",
  "page": "UI_Common_window_4444.tga",
- "note": "Field/shop window labels. Ride gauge labels follow BattleMess (Armor Repair, Drill); Item Search follows the tutorial text. Original outlined style (white edge, dark fill) is drawn as plain white text.",
+ "note": "Field/shop window labels. Ride gauge labels follow BattleMess (Armor Repair, Drill); Item Search follows the tutorial text. Original outlined style (white edge, dark fill) is drawn as plain white text. Armor = sprite 72 (57,135,21x12) in the Ride Dungeon HUD; the box must not start left of x=57.",
  "defaults": {
   "size": 11,
   "bold": false,
@@ -15,17 +15,18 @@
  "clear": [],
  "boxes": [
   {
-   "x": 54,
-   "y": 134,
-   "w": 25,
-   "h": 13,
+   "x": 57,
+   "y": 135,
+   "w": 21,
+   "h": 12,
    "text": "Armor",
-   "size": 11,
+   "size": 9,
    "color": [
     187,
     255,
     34
-   ]
+   ],
+   "weight": 0.25
   },
   {
    "x": 79,

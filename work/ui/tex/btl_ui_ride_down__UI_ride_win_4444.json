@@ -1,7 +1,7 @@
 {
  "tpc": "Graph/Bat/UI/Ride/btl_ui_ride_down.tpc",
  "page": "UI_ride_win_4444.tga",
- "note": "Ride battle gauge labels (装甲 Armor, エネルギー Energy) and part-break labels (主砲, EN回復, シールド, 銃座, 補助).",
+ "note": "Ride battle gauge labels (装甲 Armor, エネルギー Energy) and part-break labels (主砲, EN回復, シールド, 銃座, 補助). The game samples the Armor label from about x=6 (the original kanji's left outline was clipped too), so the English starts at x=7.",
  "defaults": {
   "size": 8,
   "bold": false,
@@ -39,9 +39,9 @@
  ],
  "boxes": [
   {
-   "x": 3,
+   "x": 7,
    "y": 114,
-   "w": 21,
+   "w": 18,
    "h": 12,
    "text": "Armor",
    "color": [
@@ -49,7 +49,8 @@
     255,
     34
    ],
-   "size": 9
+   "size": 7,
+   "weight": 0.2
   },
   {
    "x": 3,

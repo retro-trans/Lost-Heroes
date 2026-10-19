@@ -65,7 +65,7 @@
   },
   {
    "key": "Table/Skill/SkillHelpMessage.mbb#0.126",
-   "en": "Temporarily raises stats, then lowers them for a few turns after."
+   "en": "Raises stats for a while, then lowers them for a few turns."
   },
   {
    "key": "Table/Skill/SkillHelpMessage.mbb#0.127",
@@ -225,7 +225,7 @@
   },
   {
    "key": "Table/Skill/SkillHelpMessage.mbb#0.166",
-   "en": "Lightning-element Ranged attack on all enemies with a chance to Stun."
+   "en": "Lightning Ranged attack on all enemies that may Stun."
   },
   {
    "key": "Table/Skill/SkillHelpMessage.mbb#0.167",
@@ -241,7 +241,7 @@
   },
   {
    "key": "Table/Skill/SkillHelpMessage.mbb#0.170",
-   "en": "Super-powerful self-destruct on all enemies. Your HP drops to 1."
+   "en": "Super-powerful self-destruct on all enemies. HP drops to 1."
   },
   {
    "key": "Table/Skill/SkillHelpMessage.mbb#0.171",
@@ -301,7 +301,7 @@
   },
   {
    "key": "Table/Skill/SkillHelpMessage.mbb#0.185",
-   "en": "Lightning-element Ranged attack on one enemy with a chance to Stun."
+   "en": "Lightning Ranged attack on one enemy that may Stun."
   },
   {
    "key": "Table/Skill/SkillHelpMessage.mbb#0.186",

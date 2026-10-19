@@ -261,7 +261,7 @@
   },
   {
    "key": "Table/Skill/SkillMessage.mbb#1.119",
-   "en": "{806E} took {806F} damage and had the main cannon charge reset to 0!"
+   "en": "{806E} took {806F} damage; main cannon charge reset to 0!"
   },
   {
    "key": "Table/Skill/SkillName.mbb#0.1",

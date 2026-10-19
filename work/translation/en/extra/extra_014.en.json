@@ -1,0 +1,76 @@
+{
+ "slice": "extra_014",
+ "rows_in_slice": 17,
+ "rows_examined": 17,
+ "notes": "translation memory (exact repeats); last entries of marker tables",
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST002_pk#0.24",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST004_pk#0.121",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST006_pk#0.61",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST009_pk#0.157",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "MainEventMess0501.mbb#0.15",
+   "en": "What is this place...? Looks like ruins."
+  },
+  {
+   "key": "MainEventMess0515.mbb#0.32",
+   "en": "What is this field...!! Th-this sensation... Is this fear!?"
+  },
+  {
+   "key": "MainEventMess0562.mbb#0.16",
+   "en": "Yeah, looks like they should be around here."
+  },
+  {
+   "key": "MainEventMess0646.mbb#0.34",
+   "en": "Nothing wrong here. Let's hurry on ahead."
+  },
+  {
+   "key": "Table/Common/CharacterName.mbb#0.16",
+   "en": "Ride Machine"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0928.mbb#0.10",
+   "en": "Kyaah!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0008.mbb#0.7",
+   "en": "Hahahahahaha!! Now I've got one more piece on the board!!"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess002.mbb#0.24",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess004.mbb#0.121",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess006.mbb#0.61",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess009.mbb#0.157",
+   "en": "You can report quests in the Quest Room at the base."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0262.mbb#0.102",
+   "en": "Well, I'll report it that way. Thanks!!"
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0263.mbb#0.58",
+   "en": "Yeah... But it doesn't sit well with me that the enemy has even Newtypes under its command."
+  }
+ ]
+}

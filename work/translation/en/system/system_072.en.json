@@ -101,7 +101,7 @@
   },
   {
    "key": "Table/Skill/SkillHelpMessage.mbb#0.55",
-   "en": "Deals a Light attack to one enemy, with a chance to inflict Panic."
+   "en": "A Light attack on one enemy that may inflict Panic."
   },
   {
    "key": "Table/Skill/SkillHelpMessage.mbb#0.56",
@@ -165,7 +165,7 @@
   },
   {
    "key": "Table/Skill/SkillHelpMessage.mbb#0.71",
-   "en": "Deals a Lightning attack to one enemy, with a chance to inflict Stun."
+   "en": "A Lightning attack on one enemy that may inflict Stun."
   },
   {
    "key": "Table/Skill/SkillHelpMessage.mbb#0.72",
@@ -201,7 +201,7 @@
   },
   {
    "key": "Table/Skill/SkillHelpMessage.mbb#0.80",
-   "en": "Reduces damage to yourself with a shield for a set number of turns."
+   "en": "A shield cuts the damage you take for a set number of turns."
   },
   {
    "key": "Table/Skill/SkillHelpMessage.mbb#0.81",
@@ -245,7 +245,7 @@
   },
   {
    "key": "Table/Skill/SkillHelpMessage.mbb#0.91",
-   "en": "Deals a Ranged attack to one enemy, with a chance to inflict Stun."
+   "en": "A Ranged attack on one enemy that may inflict Stun."
   },
   {
    "key": "Table/Skill/SkillHelpMessage.mbb#0.92",
@@ -257,7 +257,7 @@
   },
   {
    "key": "Table/Skill/SkillHelpMessage.mbb#0.94",
-   "en": "When a chosen ally attacks normally, you add a follow-up attack."
+   "en": "Adds a follow-up attack when a chosen ally attacks normally."
   },
   {
    "key": "Table/Skill/SkillHelpMessage.mbb#0.95",

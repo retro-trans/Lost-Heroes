@@ -137,7 +137,7 @@
   },
   {
    "key": "Table/Battle/BattleMess.mbb#0.141",
-   "en": "A barrier that reflects Physical attacks surrounds {806E}!"
+   "en": "A barrier reflecting Physical attacks covers {806E}!"
   },
   {
    "key": "Table/Battle/BattleMess.mbb#0.142",
@@ -317,7 +317,7 @@
   },
   {
    "key": "Table/Battle/BattleMess.mbb#0.201",
-   "en": "{806D} took the hit for {806E} and took {806F} damage!"
+   "en": "{806D} shielded {806E} and took {806F} damage!"
   },
   {
    "key": "Table/Battle/BattleMess.mbb#0.202",

@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.1.16 (local test build, 2026-10-19, not released)
+- **Battle banner text no longer cut off.** The banner that shows skill help and battle messages holds 63 characters counted after names and numbers are filled in (the Ride Machine's name made "...main cannon charge reset to" lose its end). 22 lines shortened (SkillHelpMessage, BattleMess, SkillMessage, Enemy/SkillMessage); new `tools/check_banner.py` checks every banner table with names at their longest (12 heroes / Ride Machine, 20 enemies) and numbers at 5 digits.
+- **Ride Dungeon "Armor" label**: this HUD uses the shared window page (sprite 72 at x=57), not the Ride battle page; the box started at x=54, cutting the A.
+
+## 0.1.15 (local test build, 2026-10-17, not released)
+- **"ライドマシン took 738 damage!" and 43 more last lines.** The 32 tables whose entry 0 is a marker never had their uncounted last entry read (the marker hid it), so the last line of several scenes, the Base info lines, two Ride Machine skill helps, CharacterName 16 (Ride Machine) and others stayed Japanese. 17 filled from translation memory (`extra_014`), 27 translated (`extra_015`).
+- **Ride battle "Armor" label**: the game samples it from about x=6 of the page, cutting the A; the label now sits at x=7-24 (smaller, lighter so it stays readable).
+- **Ride battle help banner** shows at most 63 characters (the longest Japanese line in Table/Battle/BattleMess.mbb): "...flinch and" was cut. Shortened BattleMess 0.32 (barrage help) and 0.87 (main cannon out of charge) to 62.
+
+## 0.1.14 (local test build, 2026-10-15, not released)
+- Save details: the level label is " Lv", so a name too long for dot leaders still reads "Nu Gundam Lv1". Verified 0.1.13's save screen in PPSSPP after re-saving: Lost Heroes / Save Data / Base: Briefing Room / Play Time / Zero....Lv1.
+
+## 0.1.13 (local test build, 2026-10-15, not released)
+- **Save-data details in English.** The game writes UTF-8 strings from the EBOOT into PARAM.SFO, which the PSP's own save/load screen shows: title "Lost Heroes", "Save Data" / "Suspend Data", "Play Time h:mm:ss", ": " after the area, "." leaders, "Lv" and half-width digits; the data-install title and description too (`eboot_patch.py` SFO_STRINGS, each checked against the original and its slot). Existing saves keep their old Japanese details until saved again.
+- **Title-screen copyright line in English** (`work/ui/tex/Title__copyright.json`): (c)Ishimori Pro, TV Asahi, ADK, Toei / (c)Ishimori Pro, Toei / (c)Sotsu, Sunrise / (c)Sotsu, Sunrise, MBS / (c)Tsuburaya Pro. The screen overlays sprite 14 from the Sotsu-Sunrise line onto the Sotsu-Sunrise-MBS line, so both lines share an identical prefix.
+
 ## Release 0.1.12 (2026-10-15)
 - Public release of build 0.1.12: `LostHeroes-English-0.1.12.xdelta` (from the original ISO) and `LostHeroes-English-0.1.9-to-0.1.12.xdelta` (from the published 0.1.9 image, recreated from its patch and checked against its SHA-256). Notes and canonical metadata in `docs/releases/`.
 

@@ -48,7 +48,38 @@ def patch(elf):
             struct.pack_into("<bb", out, TEXT_FILE_OFFSET + trims + (code - 1) * 2, 0, cell - adv)
             n += 1
         report[name] = n
+    report["sfo_strings"] = patch_strings(out)
     return bytes(out), report
+
+
+# UTF-8 strings the game writes into PARAM.SFO for its save data and data install
+# (shown by the PSP's own save/load screen). (address, original, English); the
+# English must fit in the original slot (up to the next string), NUL-padded.
+SFO_STRINGS = [
+    (0x196090, "ロストヒーローズ", "Lost Heroes"),
+    (0x1960AC, "インストールデータ", "Install Data"),
+    (0x1960C8, "ロストヒーローズの\nインストールデータです。", "Lost Heroes\ninstall data."),
+    (0x1A32E4, "ロストヒーローズ", "Lost Heroes"),
+    (0x1A3300, "中断データ", "Suspend Data"),
+    (0x1A3310, "セーブデータ", "Save Data"),
+    (0x1A332C, "：", ": "),
+    (0x1A3334, "プレイ時間 %d:%02d:%02d", "Play Time %d:%02d:%02d"),
+    (0x1A3358, "・", "."),
+    (0x1A335C, "ＬＶ", " Lv"),
+] + [(0x1A3364 + 4 * i, chr(0xFF10 + i), str(i)) for i in range(10)]
+
+
+def patch_strings(out):
+    for addr, old, new in SFO_STRINGS:
+        o = TEXT_FILE_OFFSET + addr
+        ob, nb = old.encode("utf-8"), new.encode("utf-8")
+        assert out[o:o + len(ob) + 1] == ob + bytes(1), (hex(addr), old)
+        end = o + len(ob)
+        while out[end] == 0:
+            end += 1
+        assert len(nb) < end - o, (hex(addr), new)
+        out[o:end] = nb + bytes(end - o - len(nb))
+    return len(SFO_STRINGS)
 
 
 def main():

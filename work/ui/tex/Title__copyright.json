@@ -1,0 +1,57 @@
+{
+ "tpc": "Graph/Title/Title.tpc",
+ "page": "Title_logo03_4444.tga",
+ "note": "Title-screen copyright line. Sprites 7-11 are drawn side by side at y260 (x 6/157/229/311/427); 12-15 are drawn on top at the same offsets as duplicates of pixels inside 7, 8, 9 and 11, and sprite 14 (cols 38-82 of line 9) is ALSO drawn over line 10 - so lines 9 and 10 must render an identical '(c)Sotsu, Sunrise' prefix (same size, no squeeze).",
+ "defaults": {
+  "color": [
+   255,
+   255,
+   255
+  ],
+  "weight": 0.25,
+  "align": "left"
+ },
+ "clear": [],
+ "boxes": [
+  {
+   "x": 96,
+   "y": 81,
+   "w": 151,
+   "h": 9,
+   "text": "©Ishimori Pro, TV Asahi, ADK, Toei",
+   "size": 8
+  },
+  {
+   "x": 95,
+   "y": 90,
+   "w": 72,
+   "h": 9,
+   "text": "©Ishimori Pro, Toei",
+   "size": 8
+  },
+  {
+   "x": 96,
+   "y": 99,
+   "w": 82,
+   "h": 9,
+   "text": "©Sotsu, Sunrise",
+   "size": 8
+  },
+  {
+   "x": 96,
+   "y": 108,
+   "w": 114,
+   "h": 9,
+   "text": "©Sotsu, Sunrise, MBS",
+   "size": 8
+  },
+  {
+   "x": 96,
+   "y": 117,
+   "w": 45,
+   "h": 9,
+   "text": "©Tsuburaya Pro",
+   "size": 8
+  }
+ ]
+}

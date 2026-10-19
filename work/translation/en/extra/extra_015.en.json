@@ -1,0 +1,154 @@
+{
+ "slice": "extra_015",
+ "rows_in_slice": 27,
+ "rows_examined": 27,
+ "notes": [
+  {
+   "key": "MainEventMess0701.mbb#0.36",
+   "note": "Speaker field says Seravee's Voice, but labels in this scene are swapped (lines tagged Ankh are Seravee's Veda lines); this is the party member thanking Seravee. Matches row 0.20's rendering."
+  },
+  {
+   "key": "MainEventMess0706.mbb#0.59",
+   "note": "Tagged Ankh, but it continues Seravee's Minus Energy warning (labels swapped in this scene); Seravee urging the party."
+  },
+  {
+   "key": "MainEventMess0707.mbb#0.20",
+   "note": "Tagged Ankh; it is Seravee answering 'Where's the Memory!?' via Veda."
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.106",
+   "note": "Completes Gadessa's line 0.105 ('But... as long as Veda exists...'); lowercase continuation."
+  },
+  {
+   "key": "MainEventMess0601.mbb#0.2",
+   "note": "??? speaker is an Innovator (continues 0.1)."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0012.mbb#0.5",
+   "note": "Same speaker as 0.4 (first-person washi, Master Asia-style)."
+  },
+  {
+   "key": "MainEventMess0717.mbb#0.16",
+   "note": "Follow-up after the leader-variant block; speaker not recovered, kept neutral-rough."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0993.mbb#0.1",
+   "note": "Base facility help notices 0993-0995; no established English found, wording follows BaseMess style (Warehouse)."
+  },
+  {
+   "key": "Table/Enemy/EnemyInfo.mbb#0.3",
+   "note": "Raw separator rendered as <br> like EnemyInfo 0.1/0.2."
+  }
+ ],
+ "rows": [
+  {
+   "key": "Event/Quest/DG_QUEST003_pk#0.57",
+   "en": "An Ultra Warrior must be in the party to progress this quest."
+  },
+  {
+   "key": "Event/Quest/DG_QUEST005_pk#0.35",
+   "en": "Then I've got no use for you! Quit loiterin' around in front of me!!"
+  },
+  {
+   "key": "MainEventMess0601.mbb#0.2",
+   "en": "But in the end, they're just Lost Heroes... They're no match for us Innovators."
+  },
+  {
+   "key": "MainEventMess0648.mbb#0.123",
+   "en": "\"Libra Cannon Control Room\" has been marked on the MAP."
+  },
+  {
+   "key": "MainEventMess0649.mbb#0.164",
+   "en": "There's no time! We're going to stop the Libra Cannon! Move it!!"
+  },
+  {
+   "key": "MainEventMess0661.mbb#0.106",
+   "en": "...it's impossible to defeat Reborns Gundam."
+  },
+  {
+   "key": "MainEventMess0663.mbb#0.19",
+   "en": "I'm controlling the Cube from Veda. Go the way I tell you."
+  },
+  {
+   "key": "MainEventMess0701.mbb#0.36",
+   "en": "I see. I'm counting on you, then."
+  },
+  {
+   "key": "MainEventMess0703.mbb#0.101",
+   "en": "I'll try. I'll let you know as soon as I find anything."
+  },
+  {
+   "key": "MainEventMess0705.mbb#0.21",
+   "en": "It appears the \"Memory Memory\" has moved behind that door."
+  },
+  {
+   "key": "MainEventMess0706.mbb#0.59",
+   "en": "You have to hurry!!"
+  },
+  {
+   "key": "MainEventMess0707.mbb#0.20",
+   "en": "...Wait, I'll run the prediction again. It's definitely in this area. Keep searching."
+  },
+  {
+   "key": "MainEventMess0708.mbb#0.67",
+   "en": "Yes. If we don't deal with it soon, it'll get completely out of hand."
+  },
+  {
+   "key": "MainEventMess0717.mbb#0.16",
+   "en": "Let's get a move on already."
+  },
+  {
+   "key": "MainEventMess0729.mbb#0.124",
+   "en": "Let's go!!"
+  },
+  {
+   "key": "Table/Enemy/EnemyInfo.mbb#0.3",
+   "en": "I'm a Gundam.<br>I've got a beam rifle.<br>There's a saber, too."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0929.mbb#0.36",
+   "en": "As soon as you're ready... sortie!!"
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0993.mbb#0.1",
+   "en": "Here you can save your game, among other things."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0994.mbb#0.1",
+   "en": "Here you can buy and sell items, store belongings in the Warehouse, and more."
+  },
+  {
+   "key": "Table/Event/Base/MainEventMess0995.mbb#0.1",
+   "en": "Here you can select a Cube and explore it."
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0012.mbb#0.5",
+   "en": "Wiping out the Lost Heroes... That is the will of the Devil Gundam!!"
+  },
+  {
+   "key": "Table/Event/Battle/MainEventMess0014.mbb#0.4",
+   "en": "I can do what you can't. Has that sunk in yet?"
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess003.mbb#0.57",
+   "en": "An Ultra Warrior must be in the party to progress this quest."
+  },
+  {
+   "key": "Table/Event/Quest/QuestEventMess005.mbb#0.35",
+   "en": "Then I've got no use for you! Quit loiterin' around in front of me!!"
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#4.48",
+   "en": "Raises the Ride Machine's ATK, but weakens it after it ends."
+  },
+  {
+   "key": "Table/Skill/SkillHelpMessage.mbb#5.48",
+   "en": "Raises the Ride Machine's ATK, but weakens it after it ends."
+  },
+  {
+   "key": "Table/Event/Dungeon/NC02/MainEventMess0261.mbb#0.34",
+   "en": "Then I've got no use for you! Quit loiterin' around in front of me!!"
+  }
+ ],
+ "report": "27/27. Quest notice reuses the established 'X must be in the party' pattern with 'An Ultra Warrior'. Speaker labels swapped in 0701/0706/0707 (Seravee vs Ankh); translated by content."
+}

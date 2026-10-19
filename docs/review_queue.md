@@ -68,3 +68,7 @@ Decisions translators could not settle from the source. Each entry gives the key
 - Cube select cards: the description block is tiny unreadable text.
 - extra_012 0633 map label "High-Energy Reading Site" is the translator's coinage; check against the map UI. 0306 decoded with a wrong kanji (read from context).
 - Other Shocker kaijin keep the "X Man" form (Bat Man, Mantis Man...); decide whether they follow Man Spider.
+
+## Added 2026-10-17 (0.1.15)
+- Display buffers: BattleMess (battle help banner) holds 63 characters. Other battle tables have English longer than their longest Japanese (Enemy/SystemMessage, Enemy/SkillName, Skill/SkillHelpMessage, AwardName...) and look fine so far; watch for lines cut short in battle.
+- extra_015: speaker labels in MainEventMess0701/0706/0707 tag Ankh where Seravee (via Veda) speaks; Base info lines 0993-0995 newly written; 0717#0.16 speaker unknown.
