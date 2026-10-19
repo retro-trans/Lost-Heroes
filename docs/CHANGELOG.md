@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.20 (local test build, 2026-10-19, not released)
+- **Gate Port menu.** Header: the game draws "Gate Port" (157) and then a copy of its last kana (158) cut from the same art, which showed as a stray "P"; 158 is moved and blank. Rows: "To Cube Select" -> **Cube** (152 + 153; 152 is also the end of row 3, so it holds "Cube" and 153 is blank), "Maint. B" -> **Maint.** (the 36 px sprite cut "Maint. Bay"), "Random - To Cube" -> **Random - Cube**. Sprite 112 ("To Cube", 59 px) shared pixels with 152 and is moved so it keeps its own label.
+- Verified in PPSSPP on 0.1.19: Briefing Room (Idle Play, Chips Claim), Item Lab (Box), Quest Room (Sub-Quest Take / Claim) and the Random Cube screen (Random Cube Entry, Random - Cube Challenge, "Novice Alliance Cube" with single spaces).
+
 ## 0.1.19 (local test build, 2026-10-19, not released)
 - **Camp menu: one size, one baseline, one left edge.** Every row is now a composite at size 10 with its baseline 8 px below the sprite top and text starting at screen x=36 (rows without descenders had been drawn larger than rows with them). Whole phrases are kept together and the 1 px seams between sprites are fitted into letter gaps (new composite style `seamfit`), so "Use Skill" and "Check Quests" no longer have wide gaps. "Equip" must fit the 23 px sprite before a 4 px gap, so it alone is condensed.
 - **Base menus:** Item Lab "Depot" -> **Box** and Briefing Room "Idle Actions" -> **Idle Play** (the sprites are 24 and 47 px; the longer words were squeezed). Briefing Room "Chips Report" -> **Chips Claim**, Quest Room rows -> **Sub-Quest Take** / **Sub-Quest Claim** (the last sprite is shared by both screens; 'Quest Ro' came from a sprite that is the first 47 px of "Quest Room", now moved). Sub Quest header "Sub Quest Accept" without the gap (and "Claim" for the report screen). Quest reward label "Reward:" -> **Prize:** (30 px sprite).

@@ -1220,11 +1220,11 @@
    "size": 10
   },
   {
-   "x": 129,
+   "x": 130,
    "y": 149,
-   "w": 46,
+   "w": 36,
    "h": 11,
-   "text": "Maint. Bay",
+   "text": "Maint.",
    "size": 10
   },
   {
@@ -2237,6 +2237,79 @@
    "pieces": [
     {
      "sprite": 166,
+     "dx": 0,
+     "move": true
+    }
+   ]
+  },
+  {
+   "note": "Gate Port header: 157 ('Gate Port', 78 px) + 158 (+80), a copy of the last kana cut from 157 (the stray 'P'); 158 is moved and left blank",
+   "style": {
+    "size": 13
+   },
+   "line_h": 15,
+   "parts": [
+    [
+     "Gate Port",
+     0,
+     78
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 157,
+     "dx": 0
+    },
+    {
+     "sprite": 158,
+     "dx": 80,
+     "move": true
+    }
+   ]
+  },
+  {
+   "note": "Gate Port row 1: 152 + 153 (+49, 1 px higher). 152 is also the second half of row 3 ('Random' + dot + 152), so it reads 'Cube' and 153 ('Select' in Japanese) is left blank: 'Cube' / 'Random - Cube'. Positions matched from PPSSPP screenshots",
+   "style": {
+    "size": 10,
+    "baseline": 9
+   },
+   "line_h": 11,
+   "parts": [
+    [
+     "Cube",
+     1,
+     48
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 152,
+     "dx": 0,
+     "dy": 1
+    },
+    {
+     "sprite": 153,
+     "dx": 49
+    }
+   ]
+  },
+  {
+   "note": "112 'To Cube' (59 px) shares pixels with 152, so it is moved and keeps its own label",
+   "style": {
+    "size": 10,
+    "baseline": 8
+   },
+   "line_h": 11,
+   "parts": [
+    [
+     "To Cube",
+     1,
+     59
+    ]
+   ],
+   "pieces": [
+    {
+     "sprite": 112,
      "dx": 0,
      "move": true
     }
