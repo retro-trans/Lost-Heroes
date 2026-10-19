@@ -1,5 +1,8 @@
 # Changelog
 
+## Release 0.1.20 (2026-10-19)
+- Public release of build 0.1.20: `LostHeroes-English-0.1.20.xdelta` (from the original ISO) and `LostHeroes-English-0.1.16-to-0.1.20.xdelta` (from the published 0.1.16 image, checked against its SHA-256). Notes and canonical metadata in `docs/releases/`.
+
 ## 0.1.20 (local test build, 2026-10-19, not released)
 - **Gate Port menu.** Header: the game draws "Gate Port" (157) and then a copy of its last kana (158) cut from the same art, which showed as a stray "P"; 158 is moved and blank. Rows: "To Cube Select" -> **Cube** (152 + 153; 152 is also the end of row 3, so it holds "Cube" and 153 is blank), "Maint. B" -> **Maint.** (the 36 px sprite cut "Maint. Bay"), "Random - To Cube" -> **Random - Cube**. Sprite 112 ("To Cube", 59 px) shared pixels with 152 and is moved so it keeps its own label.
 - Verified in PPSSPP on 0.1.19: Briefing Room (Idle Play, Chips Claim), Item Lab (Box), Quest Room (Sub-Quest Take / Claim) and the Random Cube screen (Random Cube Entry, Random - Cube Challenge, "Novice Alliance Cube" with single spaces).
